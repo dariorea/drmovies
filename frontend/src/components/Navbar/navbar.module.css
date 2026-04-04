@@ -1,0 +1,28 @@
+.navbar {
+    display: flex;
+    gap: 30px;
+    height: 80px;
+    justify-content: start;
+    align-items: center;
+}
+.logoContainer {
+    display: flex;
+    align-items: center;
+}
+.logo {
+    width: 150px;
+}
+.navLinks {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    list-style: none;
+    gap: 20px;
+}
+.navLinks a {
+    color: white;
+}
+a {
+    text-decoration: none;
+    height: auto;
+}

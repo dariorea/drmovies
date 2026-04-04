@@ -1,0 +1,90 @@
+@import "bootstrap-icons/font/bootstrap-icons.css";
+
+:root {
+  --text: #6b6375;
+  --text-h: #08060d;
+  --bg: rgb(0, 0, 0);
+  --border: #e5e4e7;
+  --code-bg: #000000;
+  --accent-bg: rgba(0, 0, 0, 0.1);
+  --social-bg: rgba(244, 243, 236, 0.5);
+  --shadow:rgba(0, 0, 0, 0.1) 0 10px 15px -3px, rgba(0, 0, 0, 0.05) 0 4px 6px -2px;
+
+  --sans: system-ui, 'Segoe UI', Roboto, sans-serif;
+  --heading: system-ui, 'Segoe UI', Roboto, sans-serif;
+  --mono: ui-monospace, Consolas, monospace;
+
+  font: 18px/145% var(--sans);
+  letter-spacing: 0.18px;
+  color: var(--text);
+  background-color: black;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+  @media (max-width: 1024px) {
+    font-size: 16px;
+  }
+}
+
+
+#root {
+  width: 100%;
+  margin: 0;
+  text-align: center;
+  min-height: 100svh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+  background-color: black;
+}
+body {
+  margin: 0;
+  background-color: black;
+  color: white;
+}
+
+h1,
+h2 {
+  font-family: var(--heading);
+  font-weight: 500;
+}
+
+h1 {
+  font-size: 36px;
+  padding: 10px;
+  margin: 0;
+  @media (max-width: 1024px) {
+    font-size: 36px;
+  }
+}
+h2 {
+  font-size: 20px;
+  @media (max-width: 1024px) {
+    font-size: 20px;
+  }
+}
+p {
+  margin: 0;
+}
+
+code,
+code {
+  font-size: 15px;
+  line-height: 135%;
+  padding: 4px 8px;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+}
+h3 {
+  padding: 0;
+  margin: 0;
+}
+em {
+  font-size: 16px;
+}

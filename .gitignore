@@ -1,0 +1,49 @@
+# 🔒 ENV
+.env
+.env.*
+!.env.example
+
+# 📦 dependencies
+node_modules/
+
+# 🏗 builds
+dist/
+build/
+
+# 🧪 logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# 💻 sistema
+.DS_Store
+Thumbs.db
+
+# 🧠 IDEs
+.vscode/
+.idea/
+
+# 🧾 coverage
+coverage/
+
+# 🧪 testing
+*.lcov
+
+# ⚙️ cache
+.cache/
+.eslintcache
+
+# 🚀 Vite
+vite.config.ts.timestamp-*
+
+# 🧱 TypeScript
+*.tsbuildinfo
+
+# 🐳 docker (si usás)
+docker-compose.override.yml
+
+# 🔐 claves privadas (por las dudas)
+*.pem

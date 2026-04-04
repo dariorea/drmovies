@@ -1,0 +1,16 @@
+.movieCard {
+    width: 200px;
+    display: flex;
+    border: solid 2px transparent;
+    flex-direction: column;
+    @media (width: 750px) {
+        width: 100px;
+    }
+}
+.imgMovieCard {
+    width: 100%;
+    height: 300px;
+}
+.movieCard:hover {
+    border: solid 2px white;
+}

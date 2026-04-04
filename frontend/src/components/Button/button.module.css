@@ -1,0 +1,11 @@
+.btnCustom {
+    border: none;
+    margin: 10px;
+    border-radius: 5px;
+    background-color: white;
+    padding: 15px 30px 15px 20px;
+}
+.btnCustom:hover {
+    background-color: rgb(236, 236, 236);
+    cursor: pointer;
+}

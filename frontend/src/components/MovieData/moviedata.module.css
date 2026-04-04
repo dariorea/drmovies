@@ -1,0 +1,27 @@
+.container {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    text-align: start;
+}
+.movieLogo {
+    width: 70%;
+}
+
+.section {
+    display: flex;
+}
+.movieVote {
+    padding: 5px;
+    display: flex;
+    gap: 3px;
+}
+.movieGenres {
+    padding: 5px;
+}
+.movieOverview {
+    max-width: 100%;
+    padding: 5px;
+    height: 100px;
+}

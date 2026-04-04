@@ -1,0 +1,14 @@
+.mainContainer {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.titleSection {
+    height: 50px;
+    display: flex;
+    align-items: center;
+}
+.container {
+    width: 90%;
+    min-height: 100vh;
+  }
