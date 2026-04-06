@@ -43,7 +43,8 @@
 .titleMovie {
     width: 100%;
     padding: 10px;
-    border: 1px solid blue;
-}.iframe {
+}
+.iframe {
     width: 100%;
+    min-height: 100vh;
 }

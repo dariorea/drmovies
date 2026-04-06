@@ -11,7 +11,7 @@ export const Navbar = () => {
         
         <ul className={styles.navLinks}>
             <li>
-                <NavLink to="/peliculas" className={({ isActive }) => isActive ? styles.active : ""}>
+                <NavLink to="/movies" className={({ isActive }) => isActive ? styles.active : ""}>
                     Películas
                 </NavLink>
             </li>

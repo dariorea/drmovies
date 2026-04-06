@@ -12,3 +12,9 @@
     width: 90%;
     min-height: 100vh;
   }
+
+  .cardContainer {
+    display: flex;
+    gap: 15px;
+    overflow-x: scroll;
+}

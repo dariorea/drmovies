@@ -11,31 +11,31 @@ export const Home = () => {
                     <div className={styles.titleSection}>
                         <h2>Peliculas</h2>
                     </div>
-                    <CardContainer url="/movies" types="movies"/>    
+                    <CardContainer className={styles.cardContainer} url="/movies" types="movies"/>    
                 </div>
                 <div className={styles.section}>
                     <div className={styles.titleSection}>
                         <h2>Series</h2>
                     </div>
-                    <CardContainer url="/series" types="series"/>
+                    <CardContainer className={styles.cardContainer} url="/series" types="series"/>
                 </div>
                 <div className={styles.section}>
                     <div className={styles.titleSection}>
                         <h2>Peliculas Populares</h2>
                     </div>
-                    <CardContainer url="/movies/popular" types="movies"/>    
+                    <CardContainer className={styles.cardContainer} url="/movies/popular" types="movies"/>    
                 </div>
                 <div className={styles.section}>
                     <div className={styles.titleSection}>
                         <h2>Series</h2>
                     </div>
-                    <CardContainer url="/series" types="series"/>
+                    <CardContainer className={styles.cardContainer} url="/series" types="series"/>
                 </div>
                 <div className={styles.section}>
                     <div className={styles.titleSection}>
                         <h2>Mejor Valoradas</h2>
                     </div>
-                    <CardContainer url="/movies/top_rated" types="movies"/>    
+                    <CardContainer  className={styles.cardContainer} url="/movies/top_rated" types="movies"/>    
                 </div>
             </div>
         </div>

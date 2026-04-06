@@ -6,8 +6,7 @@ export default defineConfig({
   plugins: [react()],
   server: {
     proxy: {
-      "/movies": "http://localhost:3000",
-      "/series": "http://localhost:3000",
+      "/api": "http://localhost:3000",
     }
   }
 })

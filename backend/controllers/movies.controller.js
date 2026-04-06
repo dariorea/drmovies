@@ -1,7 +1,8 @@
 import axios from "axios";
 
-export const getMovies = async (req, res)=> {
 
+//Trae 20 peliculas
+export const getMovies = async (req, res)=> {
     try {
         const url = `https://api.themoviedb.org/3/movie/now_playing?language=es-ES&page=1&region=AR&api_key=${process.env.TMDB_API_KEY}`;
         const result = await axios.get(url)
@@ -11,6 +12,7 @@ export const getMovies = async (req, res)=> {
         res.json({mensaje: "error", error: error})
     }
 }
+//Trae la pelicula por ID
 export const getMovieID = async (req, res) => {
     const { id } = req.params;
 
@@ -61,5 +63,18 @@ export const getMovieID = async (req, res) => {
         res.status(500).json({
             error: "Error al obtener la película",
         });
+    }
+};
+//Trae 20 peliculas y podemos pedir 20 mas las veces que queramos
+export const getAllMovies = async (req, res) => {
+    const { page = 1 } = req.query; // valor por defecto: 1
+
+    try {
+        const url = `https://api.themoviedb.org/3/movie/now_playing?language=es-ES&page=${page}&api_key=${process.env.TMDB_API_KEY}`;
+        const result = await axios.get(url);
+        const data = result.data
+        res.json(data);
+    } catch (error) {
+        res.status(500).json({ mensaje: "Error al pedir las series", error: error.message });
     }
 };

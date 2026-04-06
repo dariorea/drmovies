@@ -54,7 +54,6 @@ h2 {
 
 h1 {
   font-size: 36px;
-  padding: 10px;
   margin: 0;
   @media (max-width: 1024px) {
     font-size: 36px;
