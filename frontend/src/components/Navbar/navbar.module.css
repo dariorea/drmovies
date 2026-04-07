@@ -1,9 +1,13 @@
 .navbar {
+    width: 100%;
     display: flex;
     gap: 30px;
     height: 80px;
     justify-content: start;
     align-items: center;
+    @media (max-width: 750px) {
+        justify-content: space-between;
+    }
 }
 .logoContainer {
     display: flex;
@@ -18,6 +22,9 @@
     align-items: center;
     list-style: none;
     gap: 20px;
+    @media (max-width: 750px) {
+        display: none;
+    }
 }
 .navLinks a {
     color: white;

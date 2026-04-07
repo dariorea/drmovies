@@ -26,6 +26,7 @@ export const Navbar = () => {
                 </NavLink>
             </li>
         </ul>
+        <i className="bi bi-list"></i>
     </nav>
   )
 }

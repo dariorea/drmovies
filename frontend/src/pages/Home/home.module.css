@@ -9,11 +9,11 @@
     align-items: center;
 }
 .container {
-    width: 90%;
+    width: 92%;
     min-height: 100vh;
-  }
+}
 
-  .cardContainer {
+.cardContainer {
     display: flex;
     gap: 15px;
     overflow-x: scroll;

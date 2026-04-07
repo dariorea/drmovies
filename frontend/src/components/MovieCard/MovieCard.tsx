@@ -21,7 +21,7 @@ export const MovieCard = ({item, type}: Props) => {
     return (
         <div className={styles.movieCard}>
             <Link to={`/${type}/${item.id}`}>
-                <img className={styles.imgMovieCard} src={`${IMG_BASE}${item.poster_path}`} alt={item.title} />
+                <img className={styles.imgMovieCard} loading="lazy" src={`${IMG_BASE}${item.poster_path}`} alt={item.title} />
             </Link>
             <p className={styles.titleMovieCard}>{title}</p>
         </div>
