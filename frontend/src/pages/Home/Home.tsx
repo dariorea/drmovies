@@ -1,11 +1,15 @@
+
 import { CardContainer } from "../../components/CardContainer/CardContainer"
 import { Navbar } from "../../components/Navbar/Navbar"
 import styles from "./home.module.css"
 
+
+
 export const Home = () => {
+
     return (
         <div className={styles.container}>
-            <Navbar />
+            <Navbar/>
             <div className={styles.mainContainer}>
                 <div className={styles.section}>
                     <div className={styles.titleSection}>
