@@ -44,14 +44,20 @@ a {
     cursor: pointer;
 }
 .asideContainer {
-    width: 100%;
+    width: 60%;
+    z-index: 100;
     position: absolute;
-    background-color: black;
+    right: 0;
+    top: 0;
+
 }
 
 .desactive {
     display: none;
 }
 .isActive {
-    display: "";
+    display: flex;
+    height: 100vh;
+    background-color: red;
+    border: solid 1px rgb(39, 39, 39);
 }

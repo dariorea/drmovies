@@ -1,7 +1,7 @@
 import { Logo } from "../Logo/Logo"
 import { Link, NavLink } from "react-router-dom"
 import styles from "./navbar.module.css"
-import { useState } from "react"
+import { useState, useEffect } from "react"
 import { Aside } from "../Aside/Aside"
 
 export const Navbar = () => {
@@ -14,8 +14,19 @@ export const Navbar = () => {
             return
         }
         setIsActive(false)
-    
     }
+
+    useEffect(() => {
+        if (isActive) {
+          document.body.style.overflow = "hidden"
+        } else {
+          document.body.style.overflow = "auto"
+        }
+      
+        return () => {
+          document.body.style.overflow = "auto"
+        }
+      }, [isActive])
   return (
     <>
     <nav className={styles.navbar}>
@@ -45,7 +56,7 @@ export const Navbar = () => {
         </div>
     </nav>
     <div className={styles.asideContainer}>
-        <Aside className={isActive ? styles.isActive : styles.desactive}/> 
+        <Aside action={activar} className={isActive ? styles.isActive : styles.desactive}/> 
     </div>
     </>
   )
