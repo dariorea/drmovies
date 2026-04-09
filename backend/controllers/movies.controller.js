@@ -78,3 +78,16 @@ export const getAllMovies = async (req, res) => {
         res.status(500).json({ mensaje: "Error al pedir las series", error: error.message });
     }
 };
+
+
+export const searchItem = async (req, res) => {
+    const { query } = req.query
+    try {
+        const url = `https://api.themoviedb.org/3/search/movie?query=${encodeURIComponent(query)}&language=es-ES&api_key=${process.env.TMDB_API_KEY}`
+        const result = await axios.get(url)
+        const data = result.data
+        res.json(data)
+    } catch (error) {
+        res.json({mensaje: "No hay resultados", error: error})
+    }
+}

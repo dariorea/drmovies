@@ -6,25 +6,36 @@
     background-color: black;
 }
 .navLinks {
-    margin-top: 20px;
     width: 90%;
     display: flex;
     flex-direction: column;
     align-items: flex-start;
     list-style: none;
-    gap: 20px;
+    border-bottom: solid 1px var(--text);
     padding: 20px 0 20px 0;
 
 }
-.navLinks a {
+.links {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    height: 50px;
+    border-radius: 10px;
+    transition: all ease-in .3s;
+}
+.links:hover {
+    background-color: rgb(41, 41, 41);
+}
+.links a {
     color: white;
+    padding: 10px;
+    width: 100%;
 }
 a {
     text-decoration: none;
-    height: auto;
 }
 .menuContainer {
-
+    border-bottom: solid 1px var(--text);
     width: 90%;
     display: flex;
     justify-content: space-between;
@@ -33,4 +44,7 @@ a {
 }
 .menuContainer i {
     font-size: 26px;
+}
+.menuContainer i:hover {
+    cursor: pointer;
 }

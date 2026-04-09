@@ -2,6 +2,7 @@ import express from "express"
 import dotenv from "dotenv"
 import moviesRouter from "./routes/movies.routes.js"
 import seriesRouter from "./routes/series.routes.js"
+import searchRouter from "./routes/search.routes.js"
 import cors from "cors"
 
 dotenv.config()
@@ -17,6 +18,7 @@ app.use(express.json())
 
 app.use("/movies", moviesRouter)
 app.use("/series", seriesRouter)
+app.use("/search", searchRouter)
 
 
 const PORT = process.env.PORT || 3000
