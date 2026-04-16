@@ -1,5 +1,5 @@
 import { MovieCard } from "../MovieCard/MovieCard"
-import type { MoviesResponse } from "../../types/Movie"
+import type { ApiResponse, Media } from "../../types/Movie"
 import { useFetch } from "../../hooks/useFetch"
 
 interface Props {
@@ -9,7 +9,7 @@ interface Props {
 }
 
 export const CardContainer = ({className, url, types}: Props) => {
-    const { data, loading, error } = useFetch<MoviesResponse>(url)
+    const { data, loading, error } = useFetch<ApiResponse<Media>>(url)
 
     if (loading) return <p>Cargando...</p>
     if (error) return <p>Error: {error.message}</p>

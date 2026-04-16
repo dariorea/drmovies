@@ -1,8 +1,10 @@
+import type { Genre } from "./Movie"
+
 export interface Serie {
     adult: boolean
     backdrop_path: string | null
     first_air_date: string
-    genre_ids: number[]
+    genres: Genre[]
     id: number
     name: string
     origin_country: string[]
@@ -20,4 +22,4 @@ export interface SeriesResponse {
     results: Serie[]
     total_pages: number
     total_results: number
-  }
+}

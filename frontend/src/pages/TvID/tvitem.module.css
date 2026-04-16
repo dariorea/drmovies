@@ -1,0 +1,13 @@
+.container {
+    width: 92%;
+    min-height:100vh ;
+}
+.containerBackground {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    min-height: 100vh;
+    background-position: center;
+    background-size: cover;
+}

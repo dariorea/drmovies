@@ -4,6 +4,7 @@ import { MovieID } from "../pages/Movie/MovieID"
 import { Movies } from "../pages/Movies/Movies"
 import { Tv } from "../pages/Tv/Tv"
 import { Search } from "../pages/Search/Search"
+import { TvItem } from "../pages/TvID/TvItem"
 
 function AppRoutes() {
     return (
@@ -13,6 +14,7 @@ function AppRoutes() {
             <Route path="/series" element={<Tv />} />
             <Route path="/search" element={<Search />} />
             <Route path="/movies/:id" element={<MovieID />} />
+            <Route path="/series/:id" element={<TvItem />} />
         </Routes>
     )
 }

@@ -1,0 +1,53 @@
+.mainContainer {
+    width: 92%;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.titleContainer {
+    height: 90px;
+    display: flex;
+    align-items: center;
+}
+.seasonContainer {
+    display: flex;
+    gap: 20px;
+    overflow-x: auto;
+    border: solid 1px red;
+}
+.seasonCard {
+    width: 200px;
+    min-height: 100px;
+    display: flex;
+    flex-direction: column;
+}
+
+.episodeCard {
+    width: 200px;
+}
+.seasonCard img {
+    width: 100%;
+    height: 300px;
+}
+.isActive {
+    display: "";
+}
+.desactive {
+    display: none;
+}
+.episodesContainer {
+    border: solid 1px red;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+.episodesCard {
+    width: 400px;
+    display: flex;
+    gap: 10px;
+}
+.episodesCard img {
+    width: 300px;
+    height: 180px;
+    border-radius: 10px;
+}

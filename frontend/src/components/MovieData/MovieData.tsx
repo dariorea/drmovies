@@ -1,9 +1,9 @@
 import { useState } from "react"
-import type { Movie } from "../../types/Movie"
+import type { Media } from "../../types/Movie"
 import styles from "./moviedata.module.css"
 
 interface Props {
-    data: Movie
+    data: Media 
 }
 
 export const MovieData = ({data}: Props) => {
@@ -15,10 +15,16 @@ export const MovieData = ({data}: Props) => {
       
         return words.slice(0, maxWords).join(" ") + "..."
       }
-    const year = new Date(data.release_date).getFullYear()
+    
+      const date = data.release_date || data.first_air_date
+      const year = date ? new Date(date).getFullYear() : "N/A"
+
+      const logo = data.logo || data.logoFanart
+    
+    
     return (
         <div className={styles.container}>
-            <img className={styles.movieLogo} src={`${data.logo}`} alt={data.title} />
+            <img className={styles.movieLogo} src={`${logo}`} alt={data.title} />
 
             <div className={styles.section}>
                 <div className={styles.movieVote}>
