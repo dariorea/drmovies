@@ -51,7 +51,7 @@ export const Episodes = ({data}: Props) => {
             </div>
 
             <div>
-                {season && episode ? <iframe className={styles.iframe} src={`https://vimeus.com/e/serie?imdb=${id}&view_key=${VIMEUS_VIEW_KEY}&se=${season}&ep=${episode}`} width="100%" height="600" frameBorder="0" allowFullScreen referrerPolicy="origin"></iframe> : ""}
+                {season && episode ? <iframe className={styles.iframe} src={`https://vimeus.com/e/serie?tmdb=${id}&view_key=${VIMEUS_VIEW_KEY}&se=${season}&ep=${episode}`} width="100%" height="600" frameBorder="0" allowFullScreen referrerPolicy="origin"></iframe> : ""}
             </div>
             
         </div>

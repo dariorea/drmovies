@@ -38,7 +38,7 @@
 .episodesContainer {
     border: solid 1px red;
     display: flex;
-    flex-direction: column;
+    overflow-y: auto;
     gap: 30px;
 }
 .episodesCard {
