@@ -21,7 +21,11 @@ export const Episodes = ({data}: Props) => {
     const seasonSelector = (s: number) => {
         setSeason(s)  
     }
+
    
+    if(!data.seasons) {
+        return <h1>error</h1>
+    }
     return (
         <div className={styles.mainContainer}>
             <div className={styles.titleContainer}>
@@ -51,7 +55,7 @@ export const Episodes = ({data}: Props) => {
             </div>
 
             <div>
-                {season && episode ? <iframe className={styles.iframe} src={`https://vimeus.com/e/serie?tmdb=${id}&view_key=${VIMEUS_VIEW_KEY}&se=${season}&ep=${episode}`} width="100%" height="600" frameBorder="0" allowFullScreen referrerPolicy="origin"></iframe> : ""}
+                {season !== null && episode !== null ? <iframe className={styles.iframe} src={`https://vimeus.com/e/serie?tmdb=${id}&view_key=${VIMEUS_VIEW_KEY}&se=${season}&ep=${episode}`} width="100%" height="600" frameBorder="0" allowFullScreen referrerPolicy="origin"></iframe> : ""}
             </div>
             
         </div>
