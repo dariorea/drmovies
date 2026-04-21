@@ -53,6 +53,7 @@ export type MoviesResponse = {
     name: string
     id: number
     still_path: string
+    overview: string
   }
   export type Media = {
     id: number

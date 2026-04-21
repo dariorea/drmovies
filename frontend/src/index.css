@@ -90,3 +90,28 @@ p {
   padding: 0;
   color: var(--text);
 }
+
+em {
+  color: #cdcdcd;
+}
+
+/* ancho de la barra */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+/* fondo */
+::-webkit-scrollbar-track {
+  background: rgb(0, 0, 0);
+}
+
+/* barra */
+::-webkit-scrollbar-thumb {
+  background: #555;
+  border-radius: 10px;
+}
+
+/* hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #888;
+}
