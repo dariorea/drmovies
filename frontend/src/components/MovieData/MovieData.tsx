@@ -28,11 +28,13 @@ export const MovieData = ({data}: Props) => {
 
             <div className={styles.section}>
                 <div className={styles.movieVote}>
-                    <h3>{data.vote_average.toFixed(1)}</h3>
+                    <p>{data.vote_average.toFixed(1)}</p>
                     <i className="bi bi-star-fill"></i>
+                    <p> | </p>
                 </div>
-                <div className={styles.movieGenres}>
-                    <p>({year})</p>
+                <div className={styles.movieVote}>
+                    <p>{year}</p>
+                    <p> | </p>
                 </div>
                 <div className={styles.movieGenres}>
                     <p>{data.genres.map(g => g.name).join(", ")}</p>

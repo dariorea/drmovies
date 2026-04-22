@@ -4,6 +4,9 @@
     flex-direction: column;
     align-items: flex-start;
     text-align: start;
+    @media(max-width: 560px) {
+        align-items: center;
+    }
 }
 .movieLogo {
     width: 300px;
@@ -14,13 +17,11 @@
     display: flex;
 }
 .movieVote {
-    padding: 5px;
     display: flex;
     gap: 3px;
 }
 .movieGenres {
-
-    padding: 5px;
+    display: flex;
 }
 .movieOverview {
     max-width: 100%;

@@ -43,7 +43,7 @@ export const Episodes = ({data}: Props) => {
     return (
         <div className={styles.mainContainer}>
             <div className={styles.titleContainer}>
-                <h1>Temporadas</h1>             
+                <h2>Temporadas</h2>             
             </div>
             <div className={styles.seasonContainer}>
                 {data.seasons.map(e => (
@@ -59,9 +59,10 @@ export const Episodes = ({data}: Props) => {
             <div className={styles.episodesContainer}>
                 {selectedSeason?.episodes? 
                     <div className={styles.titleContainer}>
-                        <h1>Episodios</h1>             
+                        <h2>Episodios</h2>             
                     </div> 
-                    : ""}
+                    : ""
+                }
                 {selectedSeason?.episodes?.map(ep => (
                     <div key={ep.id} className={styles.episodesCard}>
                         <img
@@ -70,9 +71,8 @@ export const Episodes = ({data}: Props) => {
                             alt={ep.name}
                         />
                         <div className={styles.episodeData}>
-                            <p>Episodio {ep.episode_number}</p>
+                            <p>EP {ep.episode_number}</p>
                             <p>{ep.name}</p>
-                            <em>{ep.overview}</em>
                         </div>
             
                     </div>
@@ -80,7 +80,7 @@ export const Episodes = ({data}: Props) => {
             </div>
 
             <div ref={playerRef}>
-                {season !== null && episode !== null ? <iframe className={styles.iframe} src={`https://vimeus.com/e/serie?tmdb=${id}&view_key=${VIMEUS_VIEW_KEY}&se=${season}&ep=${episode}`} width="100%" height="600" frameBorder="0" allowFullScreen referrerPolicy="origin"></iframe> : ""}
+                {season !== null && episode !== null ? <iframe className={styles.iframe} src={`https://vimeus.com/e/serie?tmdb=${id}&view_key=${VIMEUS_VIEW_KEY}&se=${season}&ep=${episode}`} width="100%" height="400" frameBorder="0" allowFullScreen referrerPolicy="origin"></iframe> : ""}
             </div>
             
         </div>
