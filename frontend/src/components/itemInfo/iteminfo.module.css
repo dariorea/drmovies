@@ -19,6 +19,7 @@
     
     @media (max-width: 560px) {
         width: 100%;
+        display: none;
         justify-content: start;
     }
 }
@@ -42,6 +43,7 @@
         gap: 10px;
         h1 {
             font-size: 16px;
+            display: none;
         }
     }
 }

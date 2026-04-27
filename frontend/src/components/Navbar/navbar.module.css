@@ -14,7 +14,12 @@
     align-items: center;
 }
 .logo {
-    width: 150px;
+    width: 28px;
+    height: 18px;
+    padding: 10px;
+    border-radius:8px;
+    background-color: firebrick;
+    background: linear-gradient(rgb(255, 255, 255), rgb(84, 84, 84));
 }
 .navLinks {
     display: flex;
