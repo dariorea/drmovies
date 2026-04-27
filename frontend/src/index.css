@@ -116,3 +116,12 @@ em {
 ::-webkit-scrollbar-thumb:hover {
   background: #888;
 }
+
+iframe {
+  height: 550px;
+  border: solid 1px rgb(36, 36, 36);
+  border-radius: 10px;
+  @media (max-width:560px) {
+    height: 300px;
+  }
+}

@@ -1,0 +1,91 @@
+.container {
+    width: 100%;
+    padding: 30px 0 30px 0;
+    display: flex;
+    justify-content: space-between;
+    
+    @media (max-width: 560px) {
+        padding: 2px 0 2px 0;
+        flex-direction: column;
+        gap: 10px;
+    }
+
+}
+.img {
+    width: 30%;
+    display: flex;
+    justify-content: center;
+    height: auto;
+    
+    @media (max-width: 560px) {
+        width: 100%;
+        justify-content: start;
+    }
+}
+.img img {
+    border-radius: 10px;
+    width: 200px;
+    height: 300px;
+    @media (max-width: 560px) {
+        width: 160px;
+        height: 250px;
+    }
+}
+.itemData {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    width: 65%;
+
+    @media (max-width: 560px) {
+        width: 100%;
+        gap: 10px;
+        h1 {
+            font-size: 16px;
+        }
+    }
+}
+.section {
+    display: flex;
+    gap: 10px;
+    flex-shrink: 1;
+    @media (max-width: 560px) {
+        flex-direction: column;
+        gap: 5px;
+        font-size: 10px;
+    }
+}
+.sectionVy {
+    display: flex;
+    gap: 8px;
+}
+.movieVote {
+    display: flex;
+    align-items: center;
+    padding: 5px 10px 5px 10px;
+    gap: 5px;
+    border-radius: 10px;
+    border: solid 2px rgb(63, 63, 63);
+    @media (max-width: 560px) {
+        padding: 5px;
+    }
+}
+.movieGenres {
+    width: 100%;
+    display: flex;
+    gap: 10px;
+    flex-shrink: 1;
+    overflow-y: hidden;
+}
+.genre {
+    border-radius: 10px;
+    border: solid 2px rgb(63, 63, 63);
+    padding: 5px 10px 5px 10px;
+    @media (max-width: 560px) {
+        padding: 5px;
+    }
+}
+
+.overview {
+    width: 100%;
+}

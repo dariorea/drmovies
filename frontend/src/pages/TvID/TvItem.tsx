@@ -6,6 +6,7 @@ import { useFetch } from "../../hooks/useFetch"
 import { MovieData } from "../../components/MovieData/MovieData"
 import type { Media } from "../../types/Movie"
 import { Episodes } from "../../components/Episodes/Episodes"
+import { ItemInfo } from "../../components/itemInfo/itemInfo"
 
 export const TvItem = () => {
 
@@ -31,11 +32,19 @@ export const TvItem = () => {
                     url(${IMG_BASE}${data.backdrop_path})`
                 }}>
                 <div className={styles.container}>
-                    <Navbar />
-                    <MovieData data={data}/>
+                    <div className={styles.nav}>
+                        <Navbar />
+
+                    </div>
+                    <div className={styles.movieLogo}>
+                        <MovieData data={data}/>
+                    </div>
                 </div>
             </div>
-            
+            <div className={styles.containerInfo}>
+                <ItemInfo data={data} />
+            </div>
+      
             <Episodes data={data}/>
             
         </>

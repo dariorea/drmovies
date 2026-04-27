@@ -15,6 +15,7 @@ export const Episodes = ({data}: Props) => {
     const [season, setSeason] = useState<number | null>(null)
     const [episode, setEpisode] = useState<number | null>(null)
     const playerRef = useRef<HTMLDivElement | null>(null)
+    const episodeRef = useRef<HTMLDivElement | null>(null)
     
     const episodeSelector = (episode: number) => {
         setEpisode(episode)
@@ -29,6 +30,13 @@ export const Episodes = ({data}: Props) => {
     const seasonSelector = (s: number) => {
         setSeason(s)  
         setEpisode(null) // reset
+        setTimeout(() => {
+            episodeRef.current?.scrollIntoView({
+                behavior: "smooth",
+                block: "start"
+            })
+        }, 100)
+
     }
 
  
@@ -56,31 +64,39 @@ export const Episodes = ({data}: Props) => {
                     </div>
                 ))}
             </div>
-            <div className={styles.episodesContainer}>
-                {selectedSeason?.episodes? 
+            <div ref={playerRef}>
+                {season !== null && episode !== null 
+                ? 
+                <div className={styles.reproductor}>
+                    <h2>S{season} EP: {episode}</h2>
+                    <iframe className={styles.iframe} src={`https://vimeus.com/e/serie?tmdb=${id}&view_key=${VIMEUS_VIEW_KEY}&se=${season}&ep=${episode}&autoplay=1`} width="100%" height="300" frameBorder="0" allowFullScreen referrerPolicy="origin"></iframe> 
+                </div>
+               
+                : ""
+                }
+            </div>
+            <div ref={episodeRef}>
+            {selectedSeason?.episodes? 
                     <div className={styles.titleContainer}>
-                        <h2>Episodios</h2>             
+                        <h2>T{season} Episodios</h2>             
                     </div> 
                     : ""
                 }
+            </div>
+            <div className={styles.episodesContainer}>
                 {selectedSeason?.episodes?.map(ep => (
                     <div key={ep.id} className={styles.episodesCard}>
                         <img
-                            onClick={() => episodeSelector(ep.episode_number)}
                             src={ep.still_path ? `${IMG_BASE}${ep.still_path}` : ""}
                             alt={ep.name}
                         />
-                        <div className={styles.episodeData}>
+                        <div onClick={() => episodeSelector(ep.episode_number)} className={styles.episodeData}>
                             <p>EP {ep.episode_number}</p>
                             <p>{ep.name}</p>
                         </div>
             
                     </div>
                 ))}
-            </div>
-
-            <div ref={playerRef}>
-                {season !== null && episode !== null ? <iframe className={styles.iframe} src={`https://vimeus.com/e/serie?tmdb=${id}&view_key=${VIMEUS_VIEW_KEY}&se=${season}&ep=${episode}`} width="100%" height="400" frameBorder="0" allowFullScreen referrerPolicy="origin"></iframe> : ""}
             </div>
             
         </div>
