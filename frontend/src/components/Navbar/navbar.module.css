@@ -1,12 +1,14 @@
 .navbar {
     width: 100%;
+    height: auto;
     display: flex;
+    padding: 20px 0 20px 0;
     gap: 30px;
-    height: 80px;
     justify-content: start;
-    align-items: center;
+    align-items: flex-end;
     @media (max-width: 750px) {
         justify-content: space-between;
+        padding: 10px 0 10px 0;
     }
 }
 .logoContainer {
@@ -15,16 +17,14 @@
 }
 .logo {
     width: 28px;
-    height: 18px;
-    padding: 10px;
-    border-radius:8px;
-    background-color: firebrick;
-    background: linear-gradient(rgb(255, 255, 255), rgb(84, 84, 84));
+    padding: 8px;
+    border-radius: 8px;
+    background-color: black;
+    border: solid 2px white;
 }
 .navLinks {
     display: flex;
     justify-content: space-between;
-    align-items: center;
     list-style: none;
     gap: 20px;
     @media (max-width: 750px) {
@@ -36,11 +36,10 @@
 }
 a {
     text-decoration: none;
-    height: auto;
 }
 .asideIcon {
     display: none;
-    font-size: 26px;
+    font-size: 30px;
     @media (max-width: 751px) {
         display: block;
     }
@@ -54,7 +53,6 @@ a {
     position: absolute;
     right: 0;
     top: 0;
-
 }
 
 .desactive {

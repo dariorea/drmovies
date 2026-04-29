@@ -9,13 +9,13 @@ interface Props {
 
 export const MovieData = ({data}: Props) => {
 
-      const logo = data.logo || data.logoFanart
-    
+    const logo = data.logo || data.logoFanart
+    const title = data.title || data.name
     
     return (
         
         <div className={styles.container}>
-            <img className={styles.movieLogo} src={`${logo}`} alt={data.title} />
+            <img className={styles.movieLogo} src={`${logo}`} alt={title} />
         </div>
         
 

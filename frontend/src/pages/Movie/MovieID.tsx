@@ -5,6 +5,8 @@ import styles from "./moviepage.module.css"
 import { useFetch } from "../../hooks/useFetch"
 import { MovieData } from "../../components/MovieData/MovieData"
 import type { Movie } from "../../types/Movie"
+//import { Button } from "../../components/Button/Button"
+import { ItemInfo } from "../../components/itemInfo/itemInfo"
 import { Button } from "../../components/Button/Button"
 //import { Background } from "../../components/Background/Background"
 
@@ -41,25 +43,24 @@ export const MovieID = () => {
         <>
             <div className={styles.containerBackground} style={{
                         backgroundImage: `
-                            linear-gradient(
-                                to right,
-                                rgba(0,0,0,0.9) 10%,
-                                rgba(0,0,0,0.6) 40%,
-                                rgba(0,0,0,0.2) 70%,
-                                rgba(0,0,0,0) 100%
-                            ),
+                        linear-gradient(
+                            to top,
+                            black 10%,
+                            rgba(0,0,0,0) 100%
+                        ),
                             url(${IMG_BASE}${data.backdrop_path})`
                         }}>
                 <div className={styles.container}>
-                    <Navbar />
+                    <div className={styles.nav}>
+                        <Navbar />
+                    </div>
                     <div className={styles.mainContainer}>
                         <div className={styles.section}>
                             <MovieData data={data} />
-                            <Button action={change}>
-                                <i className="bi bi-play-fill"></i>Reproducir
-                            </Button>
+
                         </div>
                     </div>
+                    <ItemInfo data={data} />
                 </div>
             </div>
             <div ref={playerRef} className={styles.movieContainer}>

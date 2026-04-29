@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react"
 import { Navbar } from "../../components/Navbar/Navbar"
 import styles from "./search.module.css"
-import type { Movie } from "../../types/Movie"
+import type { Media } from "../../types/Movie"
 import { MovieCard } from "../../components/MovieCard/MovieCard"
 
 
@@ -9,7 +9,7 @@ import { MovieCard } from "../../components/MovieCard/MovieCard"
 export const Search = () => {
     const [query, setQuery] = useState("")
     const [search, setSearch] = useState("")
-    const [movies, setMovies] = useState<Movie[]>([])
+    const [item, setItem] = useState<Media[]>([])
     const [loading, setLoading] = useState(false)
     const API_URL = import.meta.env.VITE_API_URL
 
@@ -23,7 +23,7 @@ export const Search = () => {
                 const res = await fetch(`${API_URL}/search/movie?query=${search}`)
                 const data = await res.json()
     
-                setMovies(data.results)
+                setItem(data.results)
 
             } catch (error) {
                 console.error(error)
@@ -52,13 +52,15 @@ export const Search = () => {
                     onChange={(e) => setQuery(e.target.value)}
                 />
 
-                <button type="submit">Buscar</button>
+                <button type="submit">
+                    <i className="bi bi-search"></i>
+                </button>
             </form>
             {loading && <p>Buscando...</p>}
 
             <div className={styles.moviesGrid}>
-                {movies.map(movie => (
-                    <MovieCard item={movie} type="movies"/>
+                {item.map(movie => (
+                    <MovieCard item={movie} type={movie.first_air_date ? "series" : "movies"}/>
                 ))}
             </div>
         </div>

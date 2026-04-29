@@ -39,10 +39,8 @@ export const TvItem = () => {
                     <div className={styles.movieLogo}>
                         <MovieData data={data}/>
                     </div>
+                    <ItemInfo data={data} />
                 </div>
-            </div>
-            <div className={styles.containerInfo}>
-                <ItemInfo data={data} />
             </div>
       
             <Episodes data={data}/>

@@ -8,16 +8,12 @@ interface Props {
 
 
 export const ItemInfo = ({data}: Props) => {
-    const IMG_BASE = import.meta.env.VITE_TMDB_IMAGE_URL 
+    //const IMG_BASE = import.meta.env.VITE_TMDB_IMAGE_URL 
     const date = data.release_date || data.first_air_date
     const year = date ? new Date(date).getFullYear() : "N/A"
     return (
         <div className={styles.container}>
-            <div className={styles.img}>
-                <img src={`${IMG_BASE}${data.poster_path}`} alt={data.name} />
-            </div>
             <div className={styles.itemData}>
-                <h1>{data.name}</h1>
                 
                 <div className={styles.section}>
                     <div className={styles.sectionVy}>

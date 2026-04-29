@@ -1,5 +1,5 @@
 
-import  logo from "./img/logo.png"
+import  logo from "./img/dr.png"
 
 interface Props {
     className?: string
