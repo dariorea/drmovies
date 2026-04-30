@@ -3,7 +3,7 @@ import { useParams } from "react-router-dom"
 import { Navbar } from "../../components/Navbar/Navbar"
 import styles from "./moviepage.module.css"
 import { useFetch } from "../../hooks/useFetch"
-import { MovieData } from "../../components/MovieData/MovieData"
+import { ItemLogo } from "../../components/ItemLogo/ItemLogo"
 import type { Movie } from "../../types/Movie"
 //import { Button } from "../../components/Button/Button"
 import { ItemInfo } from "../../components/itemInfo/itemInfo"
@@ -55,12 +55,15 @@ export const MovieID = () => {
                         <Navbar />
                     </div>
                     <div className={styles.mainContainer}>
-                        <div className={styles.section}>
-                            <MovieData data={data} />
-
+                        <div className={styles.logoContainer}>
+                            <ItemLogo data={data} />
                         </div>
+                        <Button action={change}>
+                            Play <i className="bi bi-play-circle-fill"></i>
+                        </Button>
+                        <ItemInfo data={data} />
                     </div>
-                    <ItemInfo data={data} />
+                    
                 </div>
             </div>
             <div ref={playerRef} className={styles.movieContainer}>

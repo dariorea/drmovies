@@ -3,7 +3,7 @@ import { Navbar } from "../../components/Navbar/Navbar"
 import styles from "./tvitem.module.css"
 import { useFetch } from "../../hooks/useFetch"
 //import type { Serie } from "../../types/Serie"
-import { MovieData } from "../../components/MovieData/MovieData"
+import { ItemLogo } from "../../components/ItemLogo/ItemLogo"
 import type { Media } from "../../types/Movie"
 import { Episodes } from "../../components/Episodes/Episodes"
 import { ItemInfo } from "../../components/itemInfo/itemInfo"
@@ -37,7 +37,7 @@ export const TvItem = () => {
 
                     </div>
                     <div className={styles.movieLogo}>
-                        <MovieData data={data}/>
+                        <ItemLogo data={data}/>
                     </div>
                     <ItemInfo data={data} />
                 </div>
