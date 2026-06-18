@@ -17,10 +17,9 @@
 }
 .logo {
     width: 28px;
-    padding: 8px;
-    border-radius: 8px;
-    background-color: black;
-    border: solid 2px white;
+    padding: 10px;
+    border-radius: 5px;
+    background: linear-gradient(rgb(215, 2, 2), rgb(174, 0, 0));
 }
 .navLinks {
     display: flex;

@@ -27,7 +27,7 @@ export const TvItem = () => {
                     linear-gradient(
                         to top,
                         black 10%,
-                        rgba(0,0,0,0) 100%
+                        transparent 100%
                     ),
                     url(${IMG_BASE}${data.backdrop_path})`
                 }}>

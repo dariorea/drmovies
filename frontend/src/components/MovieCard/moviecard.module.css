@@ -1,18 +1,48 @@
 .movieCard {
     width: 180px;
+    height: 260px;
     display: flex;
-    flex-direction: column;
-    overflow: hidden;
     transition: transform .5s ease;
+    flex-direction: column;
+    position: relative;
+    border-radius: 6px;
+    overflow: hidden;
     @media (max-width: 750px) {
         width: 162px;
     }
 }
+.movieCardTitle {
+    width: 100%;
+    transition: transform .5s ease;
+    position: absolute;
+    height: 260px;
+    background: linear-gradient(transparent, black);
+}
+.movieCardTitle:hover {
+    z-index: 100;
+
+}
+.movieCardTitle p {
+    font-size: 15px;
+    line-height: 18px;
+    bottom: 4px;
+    position: absolute;
+}
+a {
+    z-index: 10;
+}
+a:hover {
+    z-index: 100;
+}
 .imgMovieCard {
     width: 100%;
-    border-radius: 4px;
+    z-index: 100;
+    transition: transform .5s ease;
     height: 260px;
     @media (max-width:750px) {
         height: 220px;
     }
+}
+.imgMovieCard:hover {
+    z-index: 10;
 }

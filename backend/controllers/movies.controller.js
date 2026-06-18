@@ -1,12 +1,26 @@
 import axios from "axios";
 
 
+
+
 //Trae 20 peliculas
 export const getMovies = async (req, res)=> {
+    const cache = new Map()
+    const cacheKey = "now_playing"
+
+    // Buscar en cache
+    if (cache.has(cacheKey)) {
+        return res.json(cache.get(cacheKey))
+    }
+
     try {
         const url = `https://api.themoviedb.org/3/movie/now_playing?language=es-ES&page=1&region=AR&api_key=${process.env.TMDB_API_KEY}`;
         const result = await axios.get(url)
         const data = result.data
+
+        // Guardar en cache
+        cache.set(cacheKey, data)
+
         res.json(data)
     } catch (error) {
         res.json({mensaje: "error", error: error})

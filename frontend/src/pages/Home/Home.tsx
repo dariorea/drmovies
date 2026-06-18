@@ -31,12 +31,6 @@ export const Home = () => {
                 </div>
                 <div className={styles.section}>
                     <div className={styles.titleSection}>
-                        <h2>Series</h2>
-                    </div>
-                    <CardContainer className={styles.cardContainer} url="/series" types="series"/>
-                </div>
-                <div className={styles.section}>
-                    <div className={styles.titleSection}>
                         <h2>Mejor Valoradas</h2>
                     </div>
                     <CardContainer  className={styles.cardContainer} url="/movies/top_rated" types="movies"/>    

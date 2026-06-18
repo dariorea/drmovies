@@ -59,7 +59,7 @@ export const MovieID = () => {
                             <ItemLogo data={data} />
                         </div>
                         <Button action={change}>
-                            Play <i className="bi bi-play-circle-fill"></i>
+                            <i className="bi bi-play-circle-fill"></i> Play
                         </Button>
                         <ItemInfo data={data} />
                     </div>
