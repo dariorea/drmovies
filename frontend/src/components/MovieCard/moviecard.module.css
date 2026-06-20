@@ -8,7 +8,8 @@
     border-radius: 6px;
     overflow: hidden;
     @media (max-width: 750px) {
-        width: 162px;
+        width: 132px;
+        height: 220px;
     }
 }
 .movieCardTitle {
@@ -17,6 +18,9 @@
     position: absolute;
     height: 260px;
     background: linear-gradient(transparent, black);
+    @media (max-width:750px) {
+        height: 210px;
+    }
 }
 .movieCardTitle:hover {
     z-index: 100;
@@ -40,7 +44,7 @@ a:hover {
     transition: transform .5s ease;
     height: 260px;
     @media (max-width:750px) {
-        height: 220px;
+        height: 210px;
     }
 }
 .imgMovieCard:hover {

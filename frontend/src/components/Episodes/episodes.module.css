@@ -64,7 +64,7 @@
     display: flex;
     margin-bottom: 5px;
     @media(max-width: 560px) {
-        width: 48%;
+        width: 100%;
     }
 }
 .episodesCard img {
@@ -72,7 +72,7 @@
     height: 200px;
     border-radius: 10px;
     @media (max-width: 560px) {
-        height: 120px;
+        height: 220px;
         border-radius: 5px
     }
 }
@@ -92,7 +92,7 @@
         transparent 100%
     );
     @media (max-width: 560px) {
-        height: 120px;
+        height: 220px;
 
     }
 

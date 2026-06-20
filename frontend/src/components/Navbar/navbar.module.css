@@ -18,8 +18,8 @@
 .logo {
     width: 28px;
     padding: 10px;
-    border-radius: 5px;
-    background: linear-gradient(rgb(215, 2, 2), rgb(174, 0, 0));
+    border-radius: 12px;
+    background: linear-gradient(rgb(203, 0, 0), rgb(174, 0, 0));
 }
 .navLinks {
     display: flex;
