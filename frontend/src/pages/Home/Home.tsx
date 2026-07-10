@@ -1,5 +1,6 @@
 
 import { CardContainer } from "../../components/CardContainer/CardContainer"
+import { Hero } from "../../components/Hero/Hero"
 import { Navbar } from "../../components/Navbar/Navbar"
 import styles from "./home.module.css"
 
@@ -7,9 +8,14 @@ import styles from "./home.module.css"
 
 export const Home = () => {
 
+    
     return (
         <div className={styles.container}>
-            <Navbar/>
+            <div className={styles.navbar}>
+                <Navbar/>
+            </div>
+            
+            <Hero className={styles.containerHero} url={`/movies/popular`} />
             <div className={styles.mainContainer}>
                 <div className={styles.section}>
                     <div className={styles.titleSection}>
@@ -22,12 +28,6 @@ export const Home = () => {
                         <h2>Series</h2>
                     </div>
                     <CardContainer className={styles.cardContainer} url="/series" types="series"/>
-                </div>
-                <div className={styles.section}>
-                    <div className={styles.titleSection}>
-                        <h2>Peliculas Populares</h2>
-                    </div>
-                    <CardContainer className={styles.cardContainer} url="/movies/popular" types="movies"/>    
                 </div>
                 <div className={styles.section}>
                     <div className={styles.titleSection}>

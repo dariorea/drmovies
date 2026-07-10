@@ -1,13 +1,13 @@
 .mainContainer {
     display: flex;
     flex-direction: column;
-    gap: 20px;
+
 }
 .titleSection {
     height: 50px;
     display: flex;
     align-items: center;
-}
+ }
 .container {
     width: 92%;
     min-height: 100vh;
@@ -15,6 +15,14 @@
 
 .cardContainer {
     display: flex;
-    gap: 15px;
+    gap: 8px;
     overflow-x: scroll;
+    background-color: black;
+}
+.containerHero {
+    width: 100%;
+    gap: 8px;
+    height: auto;
+    display: flex;
+    overflow-x: scroll ;
 }

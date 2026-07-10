@@ -1,0 +1,12 @@
+.portada {
+    width: 400px;
+    height: 200px;
+    border-radius:8px;
+    background-position: center;
+    background-size: cover;
+    @media (max-width: 750px) {
+        width: 170px;
+        height: 90px;
+    }
+
+}
