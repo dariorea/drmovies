@@ -8,14 +8,16 @@
     display: flex;
     align-items: center;
     height: auto; 
-    padding: 10px 0 10px 0;
+    padding: 20px 0 20px 0;
     width: 100%;
+    @media (max-width:560px) {
+        padding: 10px 0 10px 0;    }
 }
 .seasonContainer {
     width: 100%;
     display: flex;
     flex-wrap: nowrap;
-    gap: 20px;
+    gap: 10px;
     overflow-x: scroll;
     overflow-y: hidden;
     @media (max-width:560px) {
@@ -50,7 +52,6 @@
 .episodesContainer {
     display: flex;
     flex-direction: column;
-    gap: 30px;
     flex-wrap: wrap;
     width: 100%;
     @media (max-width:560px) {
@@ -59,16 +60,21 @@
 }
 .episodesCard {
     width: 100%;
-     display: flex;
+    display: flex;
     gap: 20px;
-    margin-bottom: 5px;
+    border-radius: 10px;
+    padding: 15px 0 15px 15px;
+    border: solid 1px rgb(2, 2, 2);
     @media(max-width: 560px) {
         width: 100%;
         gap:10px;
     }
 }
+.episodesCard:hover {
+    background-color: rgb(30, 30, 30);
+}
 .episodesCard img {
-    width: 30%;
+    width: 300px;
     height: 150px;
     border-radius: 10px;
     @media (max-width: 560px) {
@@ -80,7 +86,8 @@
 .episodeData {
     display: flex;
     flex-direction: column;
-    width: 100%;
+    width: auto;
+    cursor: pointer;
     z-index: 100;
     @media (max-width: 560px) {
         height: auto;
@@ -92,4 +99,5 @@
 .reproductor {
     display: flex;
     flex-direction: column;
+    margin-bottom: 30px;
 }

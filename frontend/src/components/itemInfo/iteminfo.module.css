@@ -9,27 +9,6 @@
     }
 
 }
-.img {
-    width: 30%;
-    display: flex;
-    justify-content: center;
-    height: auto;
-    
-    @media (max-width: 560px) {
-        width: 100%;
-        display: none;
-        justify-content: start;
-    }
-}
-.img img {
-    border-radius: 10px;
-    width: 200px;
-    height: 300px;
-    @media (max-width: 560px) {
-        width: 160px;
-        height: 250px;
-    }
-}
 .itemData {
     display: flex;
     flex-direction: column;
@@ -86,6 +65,9 @@
     }
 }
 
-.overview {
+.overview  {
     width: 100%;
+    @media (max-width: 560px) {
+        font-size: 10px;
+    }
 }

@@ -7,13 +7,15 @@ import { ItemLogo } from "../../components/ItemLogo/ItemLogo"
 import type { Media } from "../../types/Movie"
 import { Episodes } from "../../components/Episodes/Episodes"
 import { ItemInfo } from "../../components/itemInfo/itemInfo"
+import { Background } from "../../components/Background/Background"
+
+//STSK-094 Shoplifting Girl A
 
 export const TvItem = () => {
 
     const { id } = useParams()
     const { data, loading, error } = useFetch<Media>(`/series/${id}`)
 
-	const IMG_BASE = import.meta.env.VITE_TMDB_IMAGE_URL
 
     if (loading) return <p>Cargando...</p>
     if (error) return <p>Error: {error.message}</p>
@@ -22,27 +24,16 @@ export const TvItem = () => {
 
     return (
         <>
-            <div className={styles.containerBackground} style={{
-                backgroundImage: `
-                    linear-gradient(
-                        to top,
-                        black 10%,
-                        transparent 100%
-                    ),
-                    url(${IMG_BASE}${data.backdrop_path})`
-                }}>
-                <div className={styles.container}>
-                    <div className={styles.nav}>
-                        <Navbar />
-
-                    </div>
-                    <div className={styles.movieLogo}>
-                        <ItemLogo data={data}/>
-                    </div>
-                    <ItemInfo data={data} />
-                </div>
+            <div className={styles.nav}>
+                <Navbar />
             </div>
-      
+            <Background className={styles.containerBackground} data={data}/>
+            <div className={styles.movieLogo}>
+                <ItemLogo data={data}/>
+            </div>
+            <div className={styles.container}>
+                <ItemInfo data={data} />
+            </div>
             <Episodes data={data}/>
             
         </>

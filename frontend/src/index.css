@@ -86,6 +86,9 @@ h3 {
 }
 em {
   font-size: 16px;
+  @media (max-width: 560px) {
+    font-size: 12px;
+}
 }
 p {
   padding: 0;

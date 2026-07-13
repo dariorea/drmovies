@@ -68,8 +68,10 @@ export const Episodes = ({data}: Props) => {
                 {season !== null && episode !== null 
                 ? 
                 <div className={styles.reproductor}>
-                    <h2>S{season} EP: {episode}</h2>
                     <iframe className={styles.iframe} src={`https://vimeus.com/e/serie?tmdb=${id}&view_key=${VIMEUS_VIEW_KEY}&se=${season}&ep=${episode}&autoplay=1`} width="100%" height="300" frameBorder="0" allowFullScreen referrerPolicy="origin"></iframe> 
+                    <div className={styles.titleContainer}>
+                        <h2>T{season} EP: {episode}</h2>
+                    </div>
                 </div>
                
                 : ""
@@ -91,8 +93,8 @@ export const Episodes = ({data}: Props) => {
                             alt={ep.name}
                         />
                         <div onClick={() => episodeSelector(ep.episode_number)} className={styles.episodeData}>
-                            <p>EP {ep.episode_number}</p>
-                            <p>{ep.name}</p>
+                            <p>Episode {ep.episode_number} - {ep.name}</p>
+                            <em>{ep.overview}</em>
                         </div>
             
                     </div>
