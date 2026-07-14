@@ -44,7 +44,6 @@
     padding: 5px 10px 5px 10px;
     gap: 5px;
     border-radius: 5px;
-    background-color : rgb(63, 63, 63);
     @media (max-width: 560px) {
         padding: 4px;
     }
@@ -58,10 +57,10 @@
 }
 .genre {
     border-radius: 5px;
-    background-color: rgb(63, 63, 63);
+    border: solid  1px rgb(30, 30, 30);
     padding: 5px 10px 5px 10px;
     @media (max-width: 560px) {
-        padding: 4px;
+        padding: 1px 8px 1px 8px;
     }
 }
 
