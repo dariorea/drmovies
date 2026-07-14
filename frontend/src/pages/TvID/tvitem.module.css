@@ -16,9 +16,7 @@
     background-size: cover;
     background-repeat: no-repeat;
     @media (max-width: 560px) {
-        min-height: 25vh;
-        border-radius: 0;
-        width: 100%;
+        min-height: 35vh;
     }
 }
 .nav {
