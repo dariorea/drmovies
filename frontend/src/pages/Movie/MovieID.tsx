@@ -7,6 +7,8 @@ import { ItemLogo } from "../../components/ItemLogo/ItemLogo"
 import type { Movie } from "../../types/Movie"
 //import { Button } from "../../components/Button/Button"
 import { ItemInfo } from "../../components/itemInfo/itemInfo"
+//import { Button } from "../../components/Button/Button"
+import { Background } from "../../components/Background/Background"
 import { Button } from "../../components/Button/Button"
 //import { Background } from "../../components/Background/Background"
 
@@ -17,7 +19,7 @@ export const MovieID = () => {
     const { id } = useParams()
     const { data, loading, error } = useFetch<Movie>(`/movies/${id}`)
 
-	const IMG_BASE = import.meta.env.VITE_TMDB_IMAGE_URL
+	//const IMG_BASE = import.meta.env.VITE_TMDB_IMAGE_URL
     const VIMEUS_VIEW_KEY = import.meta.env.VITE_VIMEUS_KEY_VIEW
 
     if (loading) return <p>Cargando...</p>
@@ -41,31 +43,20 @@ export const MovieID = () => {
 
     return (
         <>
-            <div className={styles.containerBackground} style={{
-                        backgroundImage: `
-                        linear-gradient(
-                            to top,
-                            black 10%,
-                            rgba(0,0,0,0) 100%
-                        ),
-                            url(${IMG_BASE}${data.backdrop_path})`
-                        }}>
-                <div className={styles.container}>
-                    <div className={styles.nav}>
-                        <Navbar />
-                    </div>
-                    <div className={styles.mainContainer}>
-                        <div className={styles.logoContainer}>
-                            <ItemLogo data={data} />
-                        </div>
-                        <Button action={change}>
-                            <i className="bi bi-play-circle-fill"></i> Play
-                        </Button>
-                        <ItemInfo data={data} />
-                    </div>
-                    
-                </div>
+            <div className={styles.nav}>
+                <Navbar />
             </div>
+            <Background className={styles.containerBackground} data={data}/>
+            <div className={styles.movieLogo}>
+                <ItemLogo data={data}/>
+            </div>
+            <div className={styles.container}>
+                <Button action={change}>
+                    Play
+                </Button>
+                <ItemInfo data={data} />
+            </div>
+            
             <div ref={playerRef} className={styles.movieContainer}>
                 <div className={isActive ? styles.isActive : styles.desactive} >
                     <div className={styles.moviePlayer}>
