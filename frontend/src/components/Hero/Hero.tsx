@@ -1,6 +1,7 @@
 import styles from "./hero.module.css"
 import type { ApiResponse, Media } from "../../types/Movie"
 import { useFetch } from "../../hooks/useFetch"
+import { ItemLogo } from "../ItemLogo/ItemLogo"
  
 interface Props {
     url: string}
@@ -17,13 +18,14 @@ export const Hero = ({url}: Props) => {
         <div className={styles.containerHero}>
             {data?.results.map(movie => (
                 <div className={styles.slide}  key={movie.id}>
-                    <div className={styles.portada} style={{
-                        backgroundImage: `
-                            url(${IMG_BASE}${movie.backdrop_path})`
-                        }}>
+                    <div className={styles.portada} style={{backgroundImage: `url(${IMG_BASE}${movie.backdrop_path})`}}>
+                    <ItemLogo data={movie}/>
+
                     </div>
+
                 </div>
             ))}
+
  
             <div className={styles.linear} style={{
                 backgroundImage: `

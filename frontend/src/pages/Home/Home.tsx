@@ -14,7 +14,7 @@ export const Home = () => {
             <div className={styles.navbar}>
                 <Navbar/>
             </div>
-            
+
             <div className={styles.preHero}>
                 <Hero url={`/movies/popular`} />
             </div>

@@ -17,6 +17,7 @@ export const CardContainer = ({className, url, types}: Props) => {
 
     return (    
         <div className={className}>
+
             {data?.results.map(movie => (
             <div key={movie.id}>
                 <MovieCard item={movie} type={types}/>

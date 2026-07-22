@@ -1,0 +1,6 @@
+
+.info {
+    position: absolute;
+    z-index: 100;
+    background-color: red;
+}

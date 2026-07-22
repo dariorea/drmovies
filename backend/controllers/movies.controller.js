@@ -26,6 +26,9 @@ export const getMovies = async (req, res)=> {
         res.json({mensaje: "error", error: error})
     }
 }
+
+
+
 //Trae la pelicula por ID
 export const getMovieID = async (req, res) => {
     const { id } = req.params;

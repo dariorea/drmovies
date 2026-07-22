@@ -59,9 +59,10 @@
     }
 }
 .episodesCard {
-    width: 55%;
+    width: 45%;
     flex-shrink: 0;
     display: flex;
+    border: solid 1px rgb(54, 52, 52);
     gap: 20px;
     border-radius: 10px;
     @media(max-width: 560px) {

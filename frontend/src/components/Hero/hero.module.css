@@ -19,7 +19,7 @@
     background-repeat: no-repeat;
     @media (max-width: 750px) {
         width: 100vw;
-        height: 40vh;
+        height: 30vh;
     }
 
 }
@@ -30,6 +30,6 @@
     position: absolute;
     @media (max-width: 750px) {
         width: 100vw;
-        height: 40vh;
+        height: 30vh;
     }
 }

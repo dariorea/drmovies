@@ -6,6 +6,7 @@
     flex-direction: column;
     position: relative;
     border-radius: 6px;
+    z-index: 90;
     overflow: hidden;
     @media (max-width: 750px) {
         width: 100px;

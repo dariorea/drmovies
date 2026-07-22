@@ -9,6 +9,9 @@ interface Props {
 
 export const ItemLogo = ({data}: Props) => {
 
+    console.log("DATA ITEM LOGO:", data)
+
+
     const logo = data.logo || data.logoFanart
     const title = data.title || data.name
     
