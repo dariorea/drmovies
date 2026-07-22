@@ -2,14 +2,21 @@
     width: 100%;
     height: auto;
     display: flex;
-    overflow-x: scroll;
+    overflow-x: auto;
+}
+
+.slide {
+    width: 100%;
+    flex: 0 0 100%;
 }
 .portada {
     width: 100vw;
     height: 80vh;
+    overflow-x: scroll;
     flex-shrink: 0;
     background-position: center;
     background-size: cover;
+    background-repeat: no-repeat;
     @media (max-width: 750px) {
         width: 100vw;
         height: 40vh;
@@ -19,15 +26,10 @@
 .linear {
     width: 100%;
     height: 80vh;
-     z-index: 100;
+    z-index: 100;
     position: absolute;
     @media (max-width: 750px) {
         width: 100vw;
         height: 40vh;
     }
-}
-.preHero {
-    width: 100%;
-    background-color: red;
-    height: 80vh;
 }
