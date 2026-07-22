@@ -1,22 +1,20 @@
 import styles from "./hero.module.css"
 import type { ApiResponse, Media } from "../../types/Movie"
 import { useFetch } from "../../hooks/useFetch"
-
+ 
 interface Props {
-    url: string
-    className : string
-}
+    url: string}
 //HUNTC-583
 
-export const Hero = ({url, className}: Props) => {
+export const Hero = ({url}: Props) => {
     const IMG_BASE = import.meta.env.VITE_TMDB_IMAGE_URL
     const { data, loading, error } = useFetch<ApiResponse<Media>>(url)
 
-    if (loading) return <p>Cargando...</p>
+    if (loading) return <div></div>
     if (error) return <p>Error: {error.message}</p>
     
     return (
-        <div className={className}>
+        <div className={styles.containerHero}>
             {data?.results.map(movie => (
                 <div key={movie.id}>
                     <div className={styles.portada} style={{
@@ -25,8 +23,18 @@ export const Hero = ({url, className}: Props) => {
                         }}>
                     </div>
                 </div>
-                
+
             ))}
+ 
+            <div className={styles.linear} style={{
+                backgroundImage: `
+                    linear-gradient(
+                    to top,
+                    black 10%,
+                    transparent 100%
+                )`
+                }}>
+            </div>
         </div>
 
     )

@@ -1,12 +1,33 @@
+.containerHero {
+    width: 100%;
+    height: auto;
+    display: flex;
+    overflow-x: scroll;
+}
 .portada {
-    width: 400px;
-    height: 200px;
-    border-radius:8px;
+    width: 100vw;
+    height: 80vh;
+    flex-shrink: 0;
     background-position: center;
     background-size: cover;
     @media (max-width: 750px) {
-        width: 170px;
-        height: 90px;
+        width: 100vw;
+        height: 40vh;
     }
 
+}
+.linear {
+    width: 100%;
+    height: 80vh;
+     z-index: 100;
+    position: absolute;
+    @media (max-width: 750px) {
+        width: 100vw;
+        height: 40vh;
+    }
+}
+.preHero {
+    width: 100%;
+    background-color: red;
+    height: 80vh;
 }

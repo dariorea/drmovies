@@ -15,7 +15,12 @@ export const Home = () => {
                 <Navbar/>
             </div>
             
-            <Hero className={styles.containerHero} url={`/movies/popular`} />
+            <div className={styles.preHero}>
+                <Hero url={`/movies/popular`} />
+            </div>
+            
+            
+
             <div className={styles.mainContainer}>
                 <div className={styles.section}>
                     <div className={styles.titleSection}>
