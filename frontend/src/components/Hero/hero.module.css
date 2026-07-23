@@ -2,7 +2,7 @@
     width: 100%;
     height: auto;
     display: flex;
-    overflow-x: auto;
+    overflow-x: scroll;
 }
 
 .slide {
@@ -12,7 +12,6 @@
 .portada {
     width: 100vw;
     height: 80vh;
-    overflow-x: scroll;
     flex-shrink: 0;
     background-position: center;
     background-size: cover;
