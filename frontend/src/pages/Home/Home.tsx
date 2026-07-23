@@ -18,8 +18,8 @@ export const Home = () => {
             <div className={styles.preHero}>
                 <Hero url={`/movies/popular`} />
             </div>
-            
-            
+ 
+ 
 
             <div className={styles.mainContainer}>
                 <div className={styles.section}>
@@ -43,6 +43,5 @@ export const Home = () => {
             </div>
         </div>
         
-
     )
 }
