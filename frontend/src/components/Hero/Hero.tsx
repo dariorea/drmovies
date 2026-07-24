@@ -1,6 +1,7 @@
 import styles from "./hero.module.css"
 import type { ApiResponse, Media } from "../../types/Movie"
 import { useFetch } from "../../hooks/useFetch"
+import { Link } from "react-router-dom"
   
 interface Props {
     url: string}
@@ -16,28 +17,23 @@ export const Hero = ({url}: Props) => {
     return (
         <div className={styles.containerHero}>
             {data?.results.map(movie => (
-                <div className={styles.slide}  key={movie.id}>
+                <Link  to={`/movies/${movie.id}`} className={styles.slide}  key={movie.id}>
                     <div
-    className={styles.portada}
-    style={{
-        backgroundImage: `
-            linear-gradient(
-                to top,
-                black 1%,
-                transparent 50%,
-                transparent 100%
-            ),
-            url(${IMG_BASE}${movie.backdrop_path})
-        `
-    }}
->
-</div>
-                    
-                </div>
+                        className={styles.portada}
+                        style={{
+                            backgroundImage: `
+                                linear-gradient(
+                                    to top,
+                                    red 1%,
+                                    transparent 50%,
+                                    transparent 100%
+                                ),
+                                url(${IMG_BASE}${movie.backdrop_path})
+                            `
+                        }}>
+                    </div>
+                </Link>
             ))}
-
- 
-            
         </div>
 
     )

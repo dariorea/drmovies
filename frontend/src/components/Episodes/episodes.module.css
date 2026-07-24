@@ -15,17 +15,23 @@
 }
 .seasonContainer {
     width: 100%;
+    height: auto;
     display: flex;
     flex-wrap: nowrap;
+    padding: 0;
     gap: 10px;
     overflow-x: scroll;
-    overflow-y: hidden;
-    @media (max-width:560px) {
+     @media (max-width:560px) {
         gap: 12px;
     }
 }
+.seasonContainer::-webkit-scrollbar {
+    @media (max-width:560px) {
+        display: none;
+    }
+}
 .seasonCard {
-    width: 200px;
+    width: 180px;
     min-height: 100px;
     display: flex;
     flex-direction: column;
@@ -38,7 +44,7 @@
 .seasonCard img {
     width: 100%;
     border-radius: 10px;
-    height: 300px;
+    height: 280px;
     @media (max-width:560px) {
         height: 180px;
     }
@@ -53,21 +59,22 @@
     display: flex;
     overflow-x: scroll;;
     width: 100%;
+    gap: 10px;
     @media (max-width:560px) {
         gap:10px;
 
     }
 }
 .episodesCard {
-    width: 45%;
+    width: 300px;
     flex-shrink: 0;
     display: flex;
+    flex-direction: column;
     border: solid 1px rgb(54, 52, 52);
     gap: 20px;
     border-radius: 10px;
     @media(max-width: 560px) {
         gap:10px;
-        flex-direction: column;
         border-radius: 6px
     }
 }
@@ -101,5 +108,4 @@
 .reproductor {
     display: flex;
     flex-direction: column;
-    margin-bottom: 30px;
 }

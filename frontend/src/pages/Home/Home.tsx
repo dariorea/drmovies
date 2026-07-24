@@ -1,5 +1,6 @@
 
 import { CardContainer } from "../../components/CardContainer/CardContainer"
+import { Footer } from "../../components/Footer/Footer"
 import { Hero } from "../../components/Hero/Hero"
 import { Navbar } from "../../components/Navbar/Navbar"
 import styles from "./home.module.css"
@@ -41,7 +42,9 @@ export const Home = () => {
                     <CardContainer  className={styles.cardContainer} url="/movies/top_rated" types="movies"/>    
                 </div>
             </div>
+            <Footer></Footer>
         </div>
+
         
     )
 }

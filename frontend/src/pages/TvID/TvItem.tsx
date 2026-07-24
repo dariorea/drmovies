@@ -8,7 +8,7 @@ import type { Media } from "../../types/Movie"
 import { Episodes } from "../../components/Episodes/Episodes"
 import { ItemInfo } from "../../components/itemInfo/itemInfo"
 import { Background } from "../../components/Background/Background"
-
+import { Footer } from "../../components/Footer/Footer"
 //STSK-094 Shoplifting Girl A
 
 export const TvItem = () => {
@@ -35,7 +35,7 @@ export const TvItem = () => {
                 <ItemInfo data={data} />
             </div>
             <Episodes data={data}/>
-            
+            <Footer />
         </>
     )
 }

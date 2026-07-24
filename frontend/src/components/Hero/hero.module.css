@@ -3,13 +3,10 @@
     height: 80vh;
     display: flex;
     flex-wrap: nowrap;
-    overflow-x: auto;
+    overflow-x: scroll;
     margin: 0;
     padding: 0;
-}
-.containerHero::-webkit-scrollbar {
-    display: none;
-}
+} 
 
 .slide {
     width: 100%;
@@ -24,7 +21,6 @@
     height: 100%;
     margin: 0;
     padding: 0;
-
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
