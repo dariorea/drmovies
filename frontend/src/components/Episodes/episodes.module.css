@@ -55,23 +55,30 @@
 .desactive {
     display: none;
 }
+
+
+
 .episodesContainer {
     display: flex;
     overflow-x: scroll;;
     width: 100%;
-    gap: 10px;
+    gap: 8px;
     @media (max-width:560px) {
         gap:10px;
 
     }
 }
 .episodesCard {
-    width: 300px;
+    width: 280px;
     flex-shrink: 0;
     display: flex;
     flex-direction: column;
-    border: solid 1px rgb(54, 52, 52);
-    gap: 20px;
+    cursor: pointer;
+    border: solid 1px rgb(0, 0, 0);
+    gap: 16px;
+    padding: 8px;
+
+    transition: all ease-in .2s;
     border-radius: 10px;
     @media(max-width: 560px) {
         gap:10px;
@@ -80,6 +87,8 @@
 }
 .episodesCard:hover {
     background-color: rgb(30, 30, 30);
+    border: solid 1px rgb(30, 30, 30);
+
 }
 .episodesCard img {
     width: 100%;
@@ -93,13 +102,13 @@
 }
 .episodeData {
     display: flex;
+    height: auto;
     flex-direction: column;
     width: auto;
-    cursor: pointer;
     z-index: 100;
     gap: 8px;
     @media (max-width: 560px) {
-        height: auto;
+        
 
     }
   /* https://www.eporner.com/video-YamuqfKo6RH/hairy-japanese-grandmas-06-01/   https://es.eporner.com/video-I0SPwrMMTU2/friend-with-a-beautiful-ass-became-my-sex-practice-partner-for-me-a-virgin-who-had-just-gotten-my-first-girlfriend-part-1/*/

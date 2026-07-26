@@ -1,5 +1,10 @@
 .card {
-    width: 160px;
-    height: 200px;
-    background-color: burlywood;
+    width: 156px;
+    height: 240px;
+    border-radius: 6px;
+    background-color: rgb(52, 52, 52);
+    @media (max-width: 750px) {
+        width: 100px;
+        height: 150px;
+    }
 }

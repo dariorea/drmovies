@@ -28,6 +28,7 @@
     height: 100%;
     align-items: center;
     width: 92%;
+    background-color: blue;
 }
 .movieLogo img {
     @media (max-width: 560px) {
@@ -37,5 +38,5 @@
 
 .containerInfo {
     width: 92%;
-    background-color: blue;
+
 }
