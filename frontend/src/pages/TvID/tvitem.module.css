@@ -15,7 +15,7 @@
     background-size: cover;
     background-repeat: no-repeat;
     @media (max-width: 560px) {
-        min-height: 35vh;
+        min-height: 40vh;
     }
 }
 .nav {
@@ -28,7 +28,6 @@
     height: 100%;
     align-items: center;
     width: 92%;
-    background-color: blue;
 }
 .movieLogo img {
     @media (max-width: 560px) {

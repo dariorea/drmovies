@@ -13,7 +13,7 @@ export const Background = ({data, className}: Props) => {
             backgroundImage: `
                 linear-gradient(
                     to top,
-                    black 10%,
+                    black 1%,
                     transparent 100%
                 ),
                 url(${IMG_BASE}${data.backdrop_path})`
