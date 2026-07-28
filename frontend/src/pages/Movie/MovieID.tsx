@@ -10,6 +10,7 @@ import { ItemInfo } from "../../components/itemInfo/itemInfo"
 //import { Button } from "../../components/Button/Button"
 import { Background } from "../../components/Background/Background"
 import { Button } from "../../components/Button/Button"
+import { Preload } from "../../components/Preload/Preload"
 //import { Background } from "../../components/Background/Background"
 
 export const MovieID = () => {
@@ -22,10 +23,10 @@ export const MovieID = () => {
 	//const IMG_BASE = import.meta.env.VITE_TMDB_IMAGE_URL
     const VIMEUS_VIEW_KEY = import.meta.env.VITE_VIMEUS_KEY_VIEW
 
-    if (loading) return <p>Cargando...</p>
+    if (loading) return <Preload />
     if (error) return <p>Error: {error.message}</p>
-    if (!data) return <p><i className="bi bi-arrow-clockwise"></i></p>
-    console.log(data)
+    if (!data) return  <Preload />
+        console.log(data)
 
 
     const change = () => {

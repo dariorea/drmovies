@@ -19,7 +19,7 @@
 .navbar {
     width: 92%;
     position: absolute;
-    z-index: 100;
+    z-index: 99;
 }
 .cardContainer {
     display: flex;

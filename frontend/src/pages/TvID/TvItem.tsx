@@ -9,6 +9,7 @@ import { Episodes } from "../../components/Episodes/Episodes"
 import { ItemInfo } from "../../components/itemInfo/itemInfo"
 import { Background } from "../../components/Background/Background"
 import { Footer } from "../../components/Footer/Footer"
+import { Preload } from "../../components/Preload/Preload"
 //STSK-094 Shoplifting Girl A
 
 export const TvItem = () => {
@@ -19,7 +20,7 @@ export const TvItem = () => {
 
     if (loading) return <p>Cargando...</p>
     if (error) return <p>Error: {error.message}</p>
-    if (!data) return <p><i className="bi bi-arrow-clockwise"></i></p>
+    if (!data) return <Preload />
     console.log(data)
 
     return (

@@ -88,7 +88,7 @@ em {
   font-size: 16px;
   @media (max-width: 560px) {
     font-size: 12px;
-    line-height:16px;
+    line-height:18px;
   }
 }
 p {
@@ -98,11 +98,6 @@ p {
     font-size: 14px;
     line-height:18px;
   }
-}
-
-em {
-  color: #cdcdcd;
-  line-height: 24px;
 }
 
 /* ancho de la barra */
