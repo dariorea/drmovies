@@ -14,6 +14,7 @@ export const Background = ({data, className}: Props) => {
                 linear-gradient(
                     to top,
                     black 1%,
+                    transparent 30%,
                     transparent 100%
                 ),
                 url(${IMG_BASE}${data.backdrop_path})`

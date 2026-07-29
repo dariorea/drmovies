@@ -25,6 +25,7 @@ export const Hero = ({url}: Props) => {
                                 linear-gradient(
                                     to top,
                                     black 1%,
+                                    transparent 30%,
                                     transparent 50%,
                                     transparent 100%
                                 ),

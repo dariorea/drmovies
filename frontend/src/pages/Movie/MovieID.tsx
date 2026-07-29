@@ -11,6 +11,7 @@ import { ItemInfo } from "../../components/itemInfo/itemInfo"
 import { Background } from "../../components/Background/Background"
 import { Button } from "../../components/Button/Button"
 import { Preload } from "../../components/Preload/Preload"
+import { Footer } from "../../components/Footer/Footer"
 //import { Background } from "../../components/Background/Background"
 
 export const MovieID = () => {
@@ -53,6 +54,7 @@ export const MovieID = () => {
             </div>
             <div className={styles.container}>
                 <Button action={change}>
+                <i className="bi bi-play-fill"></i>
                     Play
                 </Button>
                 <ItemInfo data={data} />
@@ -64,10 +66,11 @@ export const MovieID = () => {
                         <div className={styles.titleMovie}>
                             <h2>Estas viendo "{data.title}"</h2>
                         </div>
-                        <iframe className={styles.iframe} src={`https://vimeus.com/e/movie?tmdb=${id}&view_key=${VIMEUS_VIEW_KEY}&autoplay=1`} width="100%" height="600" frameBorder="0" allowFullScreen referrerPolicy="origin"></iframe>
+                        <iframe src={`https://vimeus.com/e/movie?tmdb=${id}&view_key=${VIMEUS_VIEW_KEY}&autoplay=1`} width="100%" height="600" frameBorder="0" allowFullScreen referrerPolicy="origin"></iframe>
                     </div>
                 </div>
             </div>
+            <Footer />
         </>
     )
 }

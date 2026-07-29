@@ -5,7 +5,7 @@ import styles from "./preload.module.css"
 export const Preload = () => {
     return (
         <div  className={styles.preload}>
-            <Logo/>
+            <Logo className={styles.movieLogo}/>
         </div>
     )
 }
