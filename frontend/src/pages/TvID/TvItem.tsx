@@ -18,7 +18,7 @@ export const TvItem = () => {
     const { data, loading, error } = useFetch<Media>(`/series/${id}`)
 
 
-    if (loading) return <p>Cargando...</p>
+    if (loading) return <Preload /> 
     if (error) return <p>Error: {error.message}</p>
     if (!data) return <Preload />
     console.log(data)

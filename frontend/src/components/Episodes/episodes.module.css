@@ -81,7 +81,7 @@
     transition: all ease-in .2s;
     border-radius: 10px;
     @media(max-width: 560px) {
-        width: 200px;
+        width: 180px;
         gap:10px;
         border-radius: 6px
     }
