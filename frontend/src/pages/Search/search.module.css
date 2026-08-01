@@ -2,13 +2,18 @@
     width: 92%;
 }
 .inputContainer {
-    height: 40px;
+    height: 70vh;
     display: flex;
     gap: 10px;
     align-items: center;
+    justify-content: center;
+    background: url("../../assets/spider-man.jpg");
+    background-position: center;
+    background-size: cover;
+    border: solid 1px rgb(49, 49, 49);
 }
 .inputContainer input {
-    height: 100%;
+    height: 40px;
     font-size: 16px;
     border: none;
     border-radius: 8px;
@@ -26,7 +31,7 @@ button {
 
     font-size: 18px;
     width: 40px;
-    height: 100%;
+    height: 40px;
 }
 
 button:hover {

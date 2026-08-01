@@ -17,7 +17,7 @@ export const Hero = ({url}: Props) => {
     return (
         <div className={styles.containerHero}>
             {data?.results.map(movie => (
-                <Link  to={`/movies/${movie.id}`} className={styles.slide}  key={movie.id}>
+                <div className={styles.slide}  key={movie.id}>
                     <div
                         className={styles.portada}
                         style={{
@@ -25,15 +25,19 @@ export const Hero = ({url}: Props) => {
                                 linear-gradient(
                                     to top,
                                     black 1%,
-                                    transparent 30%,
-                                    transparent 50%,
+                                    transparent 60%,
                                     transparent 100%
                                 ),
                                 url(${IMG_BASE}${movie.backdrop_path})
                             `
                         }}>
+                        <div className={styles.nameHero}>
+                            <h2>{movie.title}</h2>
+                            <Link  to={`/movies/${movie.id}`}>Ver ahora</Link>
+                        </div>
+
                     </div>
-                </Link>
+                </div>
             ))}
         </div>
 

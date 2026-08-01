@@ -38,29 +38,34 @@ export const Search = () => {
     return (
         <div className={styles.container}>
             <Navbar />
-            <form
-                className={styles.inputContainer}
-                onSubmit={(e) => {
-                    e.preventDefault()
-                    setSearch(query)
-                }}
-                >
-                <input
-                    type="text"
-                    placeholder="Buscar películas..."
-                    value={query}
-                    onChange={(e) => setQuery(e.target.value)}
-                />
-
-                <button type="submit">
-                    <i className="bi bi-search"></i>
-                </button>
-            </form>
+            <div>
+                <form
+                    className={styles.inputContainer}
+                    onSubmit={(e) => {
+                        e.preventDefault()
+                        setSearch(query)
+                    }}
+                    >
+                    <input
+                        type="text"
+                        placeholder="Buscar películas..."
+                        value={query}
+                        onChange={(e) => setQuery(e.target.value)}
+                    />
+    
+                    <button type="submit">
+                        <i className="bi bi-search"></i>
+                    </button>
+                </form>
+            </div>
+            
             {loading && <p>Buscando...</p>}
 
             <div className={styles.moviesGrid}>
                 {item.map(movie => (
-                    <MovieCard item={movie} type={movie.first_air_date ? "series" : "movies"}/>
+                    <div key={movie.id}>
+                        <MovieCard item={movie} type={movie.first_air_date ? "series" : "movies"}/>
+                    </div>
                 ))}
             </div>
         </div>

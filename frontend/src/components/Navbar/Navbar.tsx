@@ -47,7 +47,7 @@ export const Navbar = () => {
             </li>
             <li>
                 <NavLink to="/search" className={({ isActive }) => isActive ? styles.active : ""}>
-                    Buscar
+                    <i className="bi bi-search-heart"></i> Buscar
                 </NavLink>
             </li>
         </ul>

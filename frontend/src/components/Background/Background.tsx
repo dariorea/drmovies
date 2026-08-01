@@ -15,6 +15,7 @@ export const Background = ({data, className}: Props) => {
                     to top,
                     black 1%,
                     transparent 30%,
+                    transparent 50%,                
                     transparent 100%
                 ),
                 url(${IMG_BASE}${data.backdrop_path})`

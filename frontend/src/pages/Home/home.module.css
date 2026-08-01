@@ -31,7 +31,7 @@
 .preHero {
     z-index: 90;
     width: 100%;
-    height: 80vh;
+    height: 85vh;
     @media (max-width: 750px) {
         width: 100vw;
         height: 40vh;
