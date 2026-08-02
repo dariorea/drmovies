@@ -30,11 +30,7 @@
     align-items: center;
     width: 92%;
 }
-.movieLogo img {
-    @media (max-width: 560px) {
-        width: 130px;
-    }
-}
+
 
 
 .mainContainer {

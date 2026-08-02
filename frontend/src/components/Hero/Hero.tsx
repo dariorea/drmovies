@@ -32,7 +32,7 @@ export const Hero = ({url}: Props) => {
                             `
                         }}>
                         <div className={styles.nameHero}>
-                            <h2>{movie.title}</h2>
+                            <h1>{movie.title}</h1>
                             <Link  to={`/movies/${movie.id}`}>Ver ahora</Link>
                         </div>
 
