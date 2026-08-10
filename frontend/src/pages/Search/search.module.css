@@ -27,7 +27,7 @@
     flex-wrap: wrap;
     justify-content: space-between;
 }
-button {
+.btnSearch {
     cursor: pointer;
     border: none;
     border-radius: 8px;
@@ -37,6 +37,6 @@ button {
     height: 40px;
 }
 
-button:hover {
+.btnSearch:hover {
     background-color: rgb(190, 190, 190);
 }

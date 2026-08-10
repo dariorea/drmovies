@@ -19,11 +19,9 @@ export const MovieCard = ({item, type}: Props) => {
     const title = item.title || item.name
 
     return (
-        <div className={styles.movieCard}>
+        <Link to={`/${type}/${item.id}`} className={styles.movieCard}>
             <img className={styles.imgMovieCard} loading="lazy" src={`${IMG_BASE}${item.poster_path}`} alt={item.title} />
-            <Link className={styles.movieCardTitle} to={`/${type}/${item.id}`}>
-                <p className={styles.titleMovieCard}>{title}</p>
-            </Link>
-        </div>
+            <p className={styles.titleMovieCard}>{title}</p>
+        </Link>
     )
 }

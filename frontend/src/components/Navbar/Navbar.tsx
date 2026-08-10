@@ -1,32 +1,11 @@
 import { Logo } from "../Logo/Logo"
 import { Link, NavLink } from "react-router-dom"
 import styles from "./navbar.module.css"
-import { useState, useEffect } from "react"
-import { Aside } from "../Aside/Aside"
+//import { useState, useEffect } from "react"
+//import { Aside } from "../Aside/Aside"
 
 export const Navbar = () => {
-    const [isActive, setIsActive] = useState(false)
 
-
-    const activar = () => {
-        if(!isActive){
-            setIsActive(true)
-            return
-        }
-        setIsActive(false)
-    }
-
-    useEffect(() => {
-        if (isActive) {
-          document.body.style.overflow = "hidden"
-        } else {
-          document.body.style.overflow = "auto"
-        }
-      
-        return () => {
-          document.body.style.overflow = "auto"
-        }
-      }, [isActive])
   return (
     <>
     <nav className={styles.navbar}>
@@ -51,13 +30,11 @@ export const Navbar = () => {
                 </NavLink>
             </li>
         </ul>
-        <div onClick={activar} className={styles.asideIcon}>
-            <i className="bi bi-list"></i>
-        </div>
+        
     </nav>
-    <div className={styles.asideContainer}>
-        <Aside action={activar} className={isActive ? styles.isActive : styles.desactive}/> 
-    </div>
     </>
   )
 }
+
+
+//SW-191 Dream play! My Father Secretly Erects In My Daughter's Body Around The Daughter Who Noticed The Hardened Ji ○ Port Secretly Inserted It Into My Mother

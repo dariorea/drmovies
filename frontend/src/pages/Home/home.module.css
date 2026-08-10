@@ -8,7 +8,11 @@
     height: 50px;
     display: flex;
     align-items: center;
- }
+    justify-content: space-between;
+}
+.titleSection a {
+    color: var(--red);
+}
 .container {
     width: 100%;
     display: flex;
@@ -18,12 +22,14 @@
 }
 .navbar {
     width: 92%;
+    display: flex;
+    align-items: center;
     position: absolute;
     z-index: 99;
 }
 .cardContainer {
     display: flex;
-    gap: 8px;
+    gap: 10px;
     overflow-x: scroll;
     background-color: black;
 }
@@ -36,4 +42,28 @@
         width: 100vw;
         height: 40vh;
     }
+}
+
+
+.asideIcon {
+    display: none;
+    font-size: 34px;
+    @media (max-width: 751px) {
+        display: block;
+    }
+}
+.asideIcon:hover {
+    cursor: pointer;
+}
+.asideContainer {
+    position: absolute;
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    z-index: 100;
+    pointer-events: none;
+}
+
+.asideContainer:has(.aside) {
+    pointer-events: auto;
 }

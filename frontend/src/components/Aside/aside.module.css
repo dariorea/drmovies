@@ -1,7 +1,7 @@
 .navContainer {
-    width: 100%;
+    width: 80%;
+    height: 100vh;
     display: flex;
-    z-index: 1000;
     flex-direction: column;
     align-items: center;
     background-color: black;
@@ -12,9 +12,8 @@
     flex-direction: column;
     align-items: flex-start;
     list-style: none;
-    border-bottom: solid 1px var(--text);
+    border-bottom: solid 1px var(--red);
     padding: 20px 0 20px 0;
-
 }
 .links {
     width: 100%;
@@ -36,7 +35,7 @@ a {
     text-decoration: none;
 }
 .menuContainer {
-    border-bottom: solid 1px var(--text);
+    border-bottom: solid 1px var(--red);
     width: 90%;
     display: flex;
     justify-content: space-between;
@@ -48,4 +47,15 @@ a {
 }
 .menuContainer i:hover {
     cursor: pointer;
+}
+
+.containerAside {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    height: 100vh;
+    backdrop-filter: blur(10px);
+    position: absolute;
+    z-index: 100;
 }

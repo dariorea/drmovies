@@ -2,7 +2,7 @@ import styles from "./hero.module.css"
 import type { ApiResponse, Media } from "../../types/Movie"
 import { useFetch } from "../../hooks/useFetch"
 import { Link } from "react-router-dom"
-  
+
 interface Props {
     url: string}
 //HUNTC-583
@@ -33,7 +33,10 @@ export const Hero = ({url}: Props) => {
                         }}>
                         <div className={styles.nameHero}>
                             <h1>{movie.title}</h1>
-                            <Link  to={`/movies/${movie.id}`}>Ver ahora</Link>
+                            <Link to={`/movies/${movie.id}`} className={styles.btnWatch}>
+                                <i className="bi bi-play-fill"></i>
+                                <span>Ver ahora</span>
+                            </Link>
                         </div>
 
                     </div>

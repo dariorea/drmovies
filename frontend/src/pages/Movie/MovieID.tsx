@@ -54,8 +54,8 @@ export const MovieID = () => {
             </div>
             <div className={styles.container}>
                 <Button action={change}>
-                <i className="bi bi-play-fill"></i>
-                    Play
+                    <i className="bi bi-play-fill"></i>
+                    <span>Reproducir</span>
                 </Button>
                 <ItemInfo data={data} />
             </div>

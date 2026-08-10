@@ -1,15 +1,14 @@
 .btnCustom {
-    color: black;
-    width: 100px;
-    border-radius: 10px;
-    padding: 10px;
-    background-color: white;
-    border: solid 1px rgb(22, 22, 22);
+    border: none;
+    width: auto;
     transition: all .2s ease-in;
-}
-.btnCustom:hover {
-    background-color: rgb(207, 201, 201);
+    background-color: var(--red);
+    align-items: center;
+    color: white;
+    display: inline-flex;
+    text-decoration: none;
+    padding: 12px 16px;
+    border-radius: 8px;
+    gap: 2px;
     cursor: pointer;
-    border: solid 1px rgb(255, 255, 255);
-
 }

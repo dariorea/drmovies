@@ -38,30 +38,3 @@
 a {
     text-decoration: none;
 }
-.asideIcon {
-    display: none;
-    font-size: 34px;
-    @media (max-width: 751px) {
-        display: block;
-    }
-}
-.asideIcon:hover {
-    cursor: pointer;
-}
-.asideContainer {
-    width: 80%;
-    z-index: 100;
-    background-color: blue;
-    position: absolute;
-    right: 0;
-    top: 0;
-}
-
-.desactive {
-    display: none;
-}
-.isActive {
-    display: flex;
-    height: 100vh;
-    background-color: rgb(194, 41, 41);
-}

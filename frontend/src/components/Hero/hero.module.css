@@ -22,6 +22,7 @@
     height: 100%;
     display: flex;
     align-items: flex-end;
+    justify-content: center;
     margin: 0;
     padding: 0;
     background-position: center;
@@ -36,28 +37,29 @@
 }
 
 .nameHero {
+    width: 92%;
     z-index: 100;
     color: white;
-    min-height: auto;
     display: flex;
     flex-direction: column;
-    padding: 0 0 40px 40px ;
-    gap: 26px;
+    align-items: flex-start;
+    gap: 20px;
+    min-height: auto;
     @media (max-width: 750px) {
         padding: 0 0 10px 10px ;
         gap: 14px;
     }
 }
-.nameHero a {
-    width: 90px;
-    text-align: center;
-    background-color: white;
-    padding: 10px;
-    border-radius: 16px;
-    color: black;
-    @media (max-width: 750px) {
-        padding: 10px 3px 10px 3px;
-        font-size: 14px;
-        width: 80px;
-    }
+.btnWatch {
+    display: inline-flex;
+    align-items: center;
+    text-decoration: none;
+    color: white;
+    padding: 12px 16px;
+    border-radius: 8px;
+    background: var(--red);
+}
+
+.btnWatch i {
+    font-size: 1.5rem;
 }
