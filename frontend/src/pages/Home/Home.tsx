@@ -38,13 +38,28 @@ export const Home = () => {
         }
     }, [isActive])
     
+    const [scrolled, setScrolled] = useState(false)
+
+useEffect(() => {
+    const handleScroll = () => {
+        setScrolled(window.scrollY > 20)
+    }
+
+    window.addEventListener("scroll", handleScroll)
+
+    return () => {
+        window.removeEventListener("scroll", handleScroll)
+    }
+}, [])
     
     return (
         <div className={styles.container}>
-            <div className={styles.navbar}>
-                <Navbar/>
-                <div onClick={activar} className={styles.asideIcon}>
-                    <i className="bi bi-list"></i>
+            <div className={`${styles.navbar} ${scrolled ? styles.scrolled : ""}`}>
+                <div className={styles.elements}>
+                    <Navbar/>
+                    <div onClick={activar} className={styles.asideIcon}>
+                        <i className="bi bi-list"></i>
+                    </div>
                 </div>
             </div>
             {isVisible && (

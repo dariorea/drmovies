@@ -32,7 +32,7 @@
 
 @media (max-width: 750px) {
     .containerHero {
-        height: 40vh;
+        height: 50vh;
     }
 }
 
@@ -55,11 +55,16 @@
     align-items: center;
     text-decoration: none;
     color: white;
-    padding: 12px 16px;
+    padding: 8px 10px;
     border-radius: 8px;
     background: var(--red);
 }
+.btnWatch span {
+    @media (max-width:750px) {
+        font-size: 12px;
+    }
+}
 
 .btnWatch i {
-    font-size: 1.5rem;
+    font-size: 1rem;
 }

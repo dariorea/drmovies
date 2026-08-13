@@ -21,11 +21,30 @@
     min-height: 100vh;
 }
 .navbar {
-    width: 92%;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 99;
     display: flex;
     align-items: center;
-    position: absolute;
-    z-index: 99;
+    background: transparent;
+    justify-content: center;
+    transition:
+        background-color 0.1s ease,
+        backdrop-filter 0.1s ease;
+}
+
+.scrolled {
+    background: rgba(0, 0, 0, 0.5);
+    backdrop-filter: blur(8px);
+    -webkit-backdrop-filter: blur(8px);
+}
+.elements {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 92%;
+
 }
 .cardContainer {
     display: flex;
@@ -40,7 +59,7 @@
     height: 85vh;
     @media (max-width: 750px) {
         width: 100vw;
-        height: 40vh;
+        height: 50vh;
     }
 }
 
@@ -50,8 +69,6 @@
     font-size: 34px;
     padding: 1px;
     border-radius: 4px;
-    border: solid 1px white;
-    backdrop-filter: blur(10px);
     @media (max-width: 751px) {
         display: block;
     }
