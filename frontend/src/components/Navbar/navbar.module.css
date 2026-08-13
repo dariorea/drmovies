@@ -1,15 +1,12 @@
 .navbar {
     width: 100%;
-    height: auto;
+    height: 60px;
     display: flex;
-    padding: 20px 0 20px 0;
     gap: 30px;
-
     justify-content: start;
-    align-items: flex-end;
+    align-items: center;
     @media (max-width: 750px) {
         justify-content: space-between;
-        padding: 10px 0 10px 0;
     }
 }
 .logoContainer {

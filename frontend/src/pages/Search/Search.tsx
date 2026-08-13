@@ -53,7 +53,7 @@ export const Search = () => {
                         onChange={(e) => setQuery(e.target.value)}
                     />
     
-                    <button type="submit">
+                    <button className={styles.btnSearch} type="submit">
                         <i className="bi bi-search"></i>
                     </button>
                 </form>

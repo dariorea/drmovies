@@ -24,7 +24,7 @@ export const Home = () => {
     
             setTimeout(() => {
                 setIsVisible(false)
-            }, 500)
+            }, 100)
         }
     }
     useEffect(() => {
@@ -48,16 +48,15 @@ export const Home = () => {
                 </div>
             </div>
             {isVisible && (
-    <div
-        className={`
-            ${styles.asideContainer}
-            animate__animated
-            ${isActive ? "animate__fadeInRightBig" : "animate__fadeOutRightBig"}
-        `}
-    >
-        <Aside action={activar} />
-    </div>
-)}
+            <div
+                className={`
+                    ${styles.asideContainer}
+                    animate__animated
+                    ${isActive ? "animate__fadeInRightBig" : "animate__fadeOutRightBig"}
+                `}>
+                <Aside action={activar} />
+            </div>
+            )}
             
             <div className={styles.preHero}>
                 <Hero url={`/movies/popular`} />

@@ -4,6 +4,7 @@
 		{ "path": "backend" }
 	],
 	"settings": {
-		"typescript.tsdk": "frontend/node_modules/typescript/lib"
+		"typescript.tsdk": "frontend/node_modules/typescript/lib",
+		"liveServer.settings.multiRootWorkspaceName": "backend"
 	}
 }

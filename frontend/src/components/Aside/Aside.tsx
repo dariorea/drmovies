@@ -8,7 +8,6 @@ interface Props {
 
 export const Aside = ({action}: Props) => {
     return (
-        <div className={styles.containerAside}>
             <div className={styles.navContainer}>
                 <div className={styles.menuContainer}>
                     <h2>MENÚ</h2>
@@ -37,6 +36,5 @@ export const Aside = ({action}: Props) => {
                     </li>
                 </ul>
             </div>
-        </div>
     )
 }

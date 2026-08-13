@@ -1,19 +1,21 @@
 .navContainer {
-    width: 80%;
+    width: 100%;
     height: 100vh;
     display: flex;
     flex-direction: column;
-    align-items: center;
-    background-color: black;
+    align-items: flex-end;
 }
 .navLinks {
-    width: 90%;
+    width: 80%;
+    height: 100%;
     display: flex;
     flex-direction: column;
     align-items: flex-start;
+    background-color: black;
     list-style: none;
     border-bottom: solid 1px var(--red);
-    padding: 20px 0 20px 0;
+    padding: 0 10px;
+
 }
 .links {
     width: 100%;
@@ -35,27 +37,18 @@ a {
     text-decoration: none;
 }
 .menuContainer {
-    border-bottom: solid 1px var(--red);
-    width: 90%;
+    border-bottom: solid 1px rgb(16, 16, 16);
+    width: 80%;
     display: flex;
     justify-content: space-between;
-    height: 80px;
+    height: 60px;
     align-items: center;
+    background-color: black;
+    padding: 0 10px;
 }
 .menuContainer i {
     font-size: 26px;
 }
 .menuContainer i:hover {
     cursor: pointer;
-}
-
-.containerAside {
-    width: 100%;
-    display: flex;
-    flex-direction: column;
-    align-items: flex-end;
-    height: 100vh;
-    backdrop-filter: blur(10px);
-    position: absolute;
-    z-index: 100;
 }
