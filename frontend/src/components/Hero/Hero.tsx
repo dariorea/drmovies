@@ -41,6 +41,28 @@ export const Hero = ({ url }: Props) => {
     }, [results.length])
 
     useEffect(() => {
+        const container = containerRef.current
+    
+        if (!container) return
+    
+        const handleScroll = () => {
+            const slideWidth = container.clientWidth
+    
+            const index = Math.round(
+                container.scrollLeft / slideWidth
+            )
+    
+            setCurrentSlide(index)
+        }
+    
+        container.addEventListener("scroll", handleScroll)
+    
+        return () => {
+            container.removeEventListener("scroll", handleScroll)
+        }
+    }, [])
+
+    useEffect(() => {
         if (!results.length) return
 
         const interval = setInterval(() => {
@@ -84,7 +106,7 @@ export const Hero = ({ url }: Props) => {
 
                 setCurrentSlide(1)
 
-            }, 500)
+            }, 1000)
 
         }
 

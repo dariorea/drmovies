@@ -1,4 +1,3 @@
-
 import { Link } from "react-router-dom"
 import { CardContainer } from "../../components/CardContainer/CardContainer"
 import { Footer } from "../../components/Footer/Footer"
@@ -7,7 +6,6 @@ import { Navbar } from "../../components/Navbar/Navbar"
 import styles from "./home.module.css"
 import { useState, useEffect } from "react"
 import { Aside } from "../../components/Aside/Aside"
-
 
 
 export const Home = () => {

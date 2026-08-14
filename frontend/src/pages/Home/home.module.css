@@ -78,11 +78,12 @@
 }
 .asideContainer {
     --animate-duration: 0.5s;
-    position: absolute;
-    height: 100vh;
+    position: fixed;
+    height: 100%;
     width: 100%;
     display: flex;
     z-index: 100;
+    inset: 0;
     pointer-events: all;
     backdrop-filter: blur(2px);
 
