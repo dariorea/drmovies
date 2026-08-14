@@ -55,16 +55,22 @@
     align-items: center;
     text-decoration: none;
     color: white;
-    padding: 8px 10px;
+    padding: 10px;
     border-radius: 8px;
     background: var(--red);
 }
 .btnWatch span {
     @media (max-width:750px) {
-        font-size: 12px;
+        font-size: 14px;
     }
 }
 
-.btnWatch i {
-    font-size: 1rem;
+.slider {
+    width: 100%;
+    height: 100%;
+
+    display: flex;
+    flex-wrap: nowrap;
+
+    overflow: hidden;
 }
