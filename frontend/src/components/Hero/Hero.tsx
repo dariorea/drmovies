@@ -9,6 +9,7 @@ interface Props {
 }
 
 export const Hero = ({ url }: Props) => {
+
     const IMG_BASE = import.meta.env.VITE_TMDB_IMAGE_URL
 
     const { data, loading, error } =
@@ -20,7 +21,7 @@ export const Hero = ({ url }: Props) => {
 
     const results = data?.results ?? []
 
-    // Creamos una lista con el último al principio
+    // Clonamos el último al principio
     // y el primero al final
     const slides = results.length > 0
         ? [
@@ -30,96 +31,126 @@ export const Hero = ({ url }: Props) => {
         ]
         : []
 
-    useEffect(() => {
-        if (!results.length) return
+  // Posición inicial
+useEffect(() => {
+    if (!results.length) return
 
-        // Empezamos en el primer slide real
-        if (containerRef.current) {
-            containerRef.current.scrollLeft =
-                containerRef.current.clientWidth
-        }
-    }, [results.length])
+    const container = containerRef.current
 
-    useEffect(() => {
+    if (!container) return
+
+    container.scrollLeft = container.clientWidth
+
+}, [results.length])
+
+
+// Detectar slide actual
+useEffect(() => {
+
+    const container = containerRef.current
+
+    if (!container) return
+
+    const handleScroll = () => {
+
+        const slideWidth = container.clientWidth
+
+        const index = Math.round(
+            container.scrollLeft / slideWidth
+        )
+
+        setCurrentSlide(index)
+    }
+
+    container.addEventListener("scroll", handleScroll)
+
+    return () => {
+        container.removeEventListener("scroll", handleScroll)
+    }
+
+}, [])
+
+
+// Autoplay
+useEffect(() => {
+
+    if (!results.length) return
+
+    const interval = setInterval(() => {
+
         const container = containerRef.current
-    
+
         if (!container) return
-    
-        const handleScroll = () => {
-            const slideWidth = container.clientWidth
-    
-            const index = Math.round(
-                container.scrollLeft / slideWidth
-            )
-    
-            setCurrentSlide(index)
-        }
-    
-        container.addEventListener("scroll", handleScroll)
-    
-        return () => {
-            container.removeEventListener("scroll", handleScroll)
-        }
-    }, [])
 
-    useEffect(() => {
-        if (!results.length) return
+        const nextSlide = currentSlide + 1
 
-        const interval = setInterval(() => {
+        container.scrollTo({
+            left: nextSlide * container.clientWidth,
+            behavior: "smooth"
+        })
 
-            setCurrentSlide(prev => {
+    }, 5000)
 
-                const next = prev + 1
+    return () => clearInterval(interval)
 
-                if (containerRef.current) {
-                    containerRef.current.scrollTo({
-                        left: next * containerRef.current.clientWidth,
-                        behavior: "smooth"
-                    })
-                }
+}, [currentSlide, results.length])
 
-                return next
-            })
 
-        }, 5000)
+// Loop infinito
+useEffect(() => {
 
-        return () => clearInterval(interval)
+    const container = containerRef.current
 
-    }, [results.length])
+    if (!container) return
 
-    // Cuando llegamos a los clones,
-    // reposicionamos el slider sin animación
-    useEffect(() => {
+    const handleScrollEnd = () => {
 
-        if (!containerRef.current) return
-
+        // Clon del primer slide
         if (currentSlide === results.length + 1) {
 
-            setTimeout(() => {
+            container.scrollTo({
+                left: container.clientWidth,
+                behavior: "auto"
+            })
 
-                if (!containerRef.current) return
-
-                containerRef.current.scrollTo({
-                    left: containerRef.current.clientWidth,
-                    behavior: "auto"
-                })
-
-                setCurrentSlide(1)
-
-            }, 1000)
-
+            setCurrentSlide(1)
         }
 
-    }, [currentSlide, results.length])
 
+        // Clon del último slide
+        if (currentSlide === 0) {
 
+            container.scrollTo({
+                left: results.length * container.clientWidth,
+                behavior: "auto"
+            })
+
+            setCurrentSlide(results.length)
+        }
+    }
+
+    container.addEventListener(
+        "scrollend",
+        handleScrollEnd
+    )
+
+    return () => {
+        container.removeEventListener(
+            "scrollend",
+            handleScrollEnd
+        )
+    }
+
+}, [currentSlide, results.length])
     if (loading) return <div />
 
     if (error) {
         return <p>Error: {error.message}</p>
     }
 
+
     return (
+
         <div className={styles.containerHero}>
 
             <div
@@ -159,11 +190,13 @@ export const Hero = ({ url }: Props) => {
                                     to={`/movies/${movie.id}`}
                                     className={styles.btnWatch}
                                 >
+
                                     <i className="bi bi-play-fill"></i>
 
                                     <span>
                                         Ver ahora
                                     </span>
+
                                 </Link>
 
                             </div>

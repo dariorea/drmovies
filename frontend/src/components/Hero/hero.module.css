@@ -2,13 +2,20 @@
     width: 100%;
     height: 85vh;
     display: flex;
-    flex-wrap: nowrap;
-    overflow-x: scroll;
-    overflow-y: hidden;
     margin: 0;
     padding: 0;
+
+    overflow-x: auto;
+    overflow-y: hidden;
+
     scroll-snap-type: x mandatory;
-} 
+
+    scrollbar-width: none;
+}
+
+.containerHero::-webkit-scrollbar {
+    display: none;
+}
 
 .slider {
     width: 100%;
@@ -17,27 +24,33 @@
     display: flex;
     flex-wrap: nowrap;
 
-    overflow: hidden;
+    /* IMPORTANTE */
+    overflow: visible;
 }
-
 
 .slide {
     width: 100%;
     height: 100%;
+
     flex: 0 0 100%;
+
     margin: 0;
     padding: 0;
+
     scroll-snap-align: start;
 }
 
 .portada {
     width: 100%;
     height: 100%;
+
     display: flex;
     align-items: flex-end;
     justify-content: center;
+
     margin: 0;
     padding: 0;
+
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -51,29 +64,40 @@
 
 .nameHero {
     width: 92%;
+
     z-index: 100;
+
     color: white;
+
     display: flex;
     flex-direction: column;
     align-items: flex-start;
+
     gap: 20px;
-    min-height: auto;
-    @media (max-width: 750px) {
-        padding: 0 0 10px 10px ;
+}
+
+@media (max-width: 750px) {
+    .nameHero {
+        padding: 0 0 10px 10px;
         gap: 14px;
     }
 }
+
 .btnWatch {
     display: inline-flex;
     align-items: center;
+
     text-decoration: none;
     color: white;
+
     padding: 10px;
     border-radius: 8px;
+
     background: var(--red);
 }
-.btnWatch span {
-    @media (max-width:750px) {
+
+@media (max-width: 750px) {
+    .btnWatch span {
         font-size: 14px;
     }
 }
