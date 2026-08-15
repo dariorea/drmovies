@@ -2,7 +2,7 @@ import styles from "./hero.module.css"
 import type { ApiResponse, Media } from "../../types/Movie"
 import { useFetch } from "../../hooks/useFetch"
 import { Link } from "react-router-dom"
-import { useEffect, useRef, useState } from "react"
+import { useEffect, useRef } from "react"
 
 interface Props {
     url: string
@@ -17,12 +17,8 @@ export const Hero = ({ url }: Props) => {
 
     const containerRef = useRef<HTMLDivElement>(null)
 
-    const [currentSlide, setCurrentSlide] = useState(1)
-
     const results = data?.results ?? []
 
-    // Clonamos el último al principio
-    // y el primero al final
     const slides = results.length > 0
         ? [
             results[results.length - 1],
@@ -31,118 +27,133 @@ export const Hero = ({ url }: Props) => {
         ]
         : []
 
-  // Posición inicial
-useEffect(() => {
-    if (!results.length) return
 
-    const container = containerRef.current
+    // --------------------------------
+    // POSICIÓN INICIAL
+    // --------------------------------
 
-    if (!container) return
+    useEffect(() => {
 
-    container.scrollLeft = container.clientWidth
-
-}, [results.length])
-
-
-// Detectar slide actual
-useEffect(() => {
-
-    const container = containerRef.current
-
-    if (!container) return
-
-    const handleScroll = () => {
-
-        const slideWidth = container.clientWidth
-
-        const index = Math.round(
-            container.scrollLeft / slideWidth
-        )
-
-        setCurrentSlide(index)
-    }
-
-    container.addEventListener("scroll", handleScroll)
-
-    return () => {
-        container.removeEventListener("scroll", handleScroll)
-    }
-
-}, [])
-
-
-// Autoplay
-useEffect(() => {
-
-    if (!results.length) return
-
-    const interval = setInterval(() => {
+        if (!results.length) return
 
         const container = containerRef.current
 
         if (!container) return
 
-        const nextSlide = currentSlide + 1
+        container.scrollLeft = container.clientWidth
 
-        container.scrollTo({
-            left: nextSlide * container.clientWidth,
-            behavior: "smooth"
-        })
-
-    }, 5000)
-
-    return () => clearInterval(interval)
-
-}, [currentSlide, results.length])
+    }, [results.length])
 
 
-// Loop infinito
-useEffect(() => {
+    // --------------------------------
+    // AUTOPLAY
+    // --------------------------------
 
-    const container = containerRef.current
+    useEffect(() => {
 
-    if (!container) return
+        if (!results.length) return
 
-    const handleScrollEnd = () => {
+        const interval = setInterval(() => {
 
-        // Clon del primer slide
-        if (currentSlide === results.length + 1) {
+            const container = containerRef.current
 
-            container.scrollTo({
-                left: container.clientWidth,
-                behavior: "auto"
-            })
+            if (!container) return
 
-            setCurrentSlide(1)
-        }
+            const slideWidth = container.clientWidth
 
+            const currentIndex = Math.round(
+                container.scrollLeft / slideWidth
+            )
 
-        // Clon del último slide
-        if (currentSlide === 0) {
+            const nextIndex = currentIndex + 1
 
             container.scrollTo({
-                left: results.length * container.clientWidth,
-                behavior: "auto"
+                left: nextIndex * slideWidth,
+                behavior: "smooth"
             })
 
-            setCurrentSlide(results.length)
+        }, 5000)
+
+        return () => clearInterval(interval)
+
+    }, [results.length])
+
+
+    // --------------------------------
+    // LOOP INFINITO
+    // --------------------------------
+
+    useEffect(() => {
+
+        const container = containerRef.current
+
+        if (!container) return
+
+        let timeout: ReturnType<typeof setTimeout>
+
+        const handleScroll = () => {
+
+            clearTimeout(timeout)
+
+            timeout = setTimeout(() => {
+
+                const slideWidth = container.clientWidth
+
+                if (!slideWidth) return
+
+                const currentIndex = Math.round(
+                    container.scrollLeft / slideWidth
+                )
+
+
+                // Llegamos al clon del primero
+                if (currentIndex === results.length + 1) {
+
+                    container.scrollTo({
+                        left: slideWidth,
+                        behavior: "auto"
+                    })
+
+                }
+
+
+                // Llegamos al clon del último
+                else if (currentIndex === 0) {
+
+                    container.scrollTo({
+                        left: results.length * slideWidth,
+                        behavior: "auto"
+                    })
+
+                }
+
+            }, 150)
+
         }
-    }
 
-    container.addEventListener(
-        "scrollend",
-        handleScrollEnd
-    )
-
-    return () => {
-        container.removeEventListener(
-            "scrollend",
-            handleScrollEnd
+        container.addEventListener(
+            "scroll",
+            handleScroll,
+            { passive: true }
         )
-    }
 
-}, [currentSlide, results.length])
-    if (loading) return <div />
+        return () => {
+
+            clearTimeout(timeout)
+
+            container.removeEventListener(
+                "scroll",
+                handleScroll
+            )
+
+        }
+
+    }, [results.length])
+
+
+    if (loading) {
+        return <div />
+    }
 
     if (error) {
         return <p>Error: {error.message}</p>
