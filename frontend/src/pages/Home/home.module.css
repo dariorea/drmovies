@@ -4,15 +4,6 @@
     flex-direction: column;
 
 }
-.titleSection {
-    height: 50px;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-}
-.titleSection a {
-    color: var(--red);
-}
 .container {
     width: 100%;
     display: flex;
@@ -24,7 +15,7 @@
     position: fixed;
     top: 0;
     width: 100%;
-    z-index: 99;
+    z-index:100;
     display: flex;
     align-items: center;
     background: transparent;
@@ -38,6 +29,7 @@
     background: rgba(0, 0, 0, 0.5);
     backdrop-filter: blur(8px);
     -webkit-backdrop-filter: blur(8px);
+    display: flex;
 }
 .elements {
     display: flex;
@@ -52,7 +44,6 @@
     overflow-x: scroll;
     background-color: black;
 }
- 
 .preHero {
     z-index: 90;
     width: 100%;
@@ -63,32 +54,3 @@
     }
 }
 
-
-.asideIcon {
-    display: none;
-    font-size: 34px;
-    padding: 1px;
-    border-radius: 4px;
-    @media (max-width: 751px) {
-        display: block;
-    }
-}
-.asideIcon:hover {
-    cursor: pointer;
-}
-.asideContainer {
-    --animate-duration: 0.5s;
-    position: fixed;
-    height: 100%;
-    width: 100%;
-    display: flex;
-    z-index: 100;
-    inset: 0;
-    pointer-events: all;
-    backdrop-filter: blur(2px);
-
-}
-
-.asideContainer:has(.aside) {
-    pointer-events: auto;
-}

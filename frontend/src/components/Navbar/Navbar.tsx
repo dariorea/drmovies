@@ -1,6 +1,8 @@
 import { Logo } from "../Logo/Logo"
 import { Link, NavLink } from "react-router-dom"
 import styles from "./navbar.module.css"
+import { AsideIcon } from "../AsideIcon/AsideIcon"
+
 
 
 export const Navbar = () => {
@@ -29,7 +31,7 @@ export const Navbar = () => {
                 </NavLink>
             </li>
         </ul>
-        
+        <AsideIcon />
     </nav>
     </>
   )
