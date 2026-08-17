@@ -26,11 +26,15 @@ export const Home = () => {
     
     return (
         <div className={styles.container}>
-            <div className={`${styles.navbar} ${scrolled ? styles.scrolled : ""}`}>
-                <div className={styles.elements}>
-                    <Navbar/>
-                </div>
-            </div>
+<div className={`${styles.navbar} ${scrolled ? styles.scrolled : ""}`}>
+    
+    <div className={styles.navbarBackground}></div>
+
+    <div className={styles.elements}>
+        <Navbar/>
+    </div>
+
+</div>
             
             <div className={styles.preHero}>
                 <Hero url={`/movies/popular`} />

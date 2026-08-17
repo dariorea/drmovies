@@ -32,7 +32,7 @@ export const AsideIcon = ()=> {
     
             setTimeout(() => {
                 setIsVisible(false)
-            }, 100)
+            }, 500)
         }
     }
     return (
@@ -40,18 +40,39 @@ export const AsideIcon = ()=> {
             <div onClick={activar} className={styles.asideIcon}>
                 <i className="bi bi-list"></i>
             </div>
+    
             {isVisible && (
-            <div
-                className={`
-                    ${styles.asideContainer}
-                    animate__animated
-                    ${isActive ? "animate__fadeInRightBig" : "animate__fadeOutRightBig"}
-                `}>
-                <div className={styles.overlay} onClick={activar}></div> 
-                <Aside action={activar} />
-            </div>
+                <div className={styles.asideContainer}>
+    
+                    {/* Fondo */}
+                    <div
+                        className={`
+                            ${styles.overlay}
+                            animate__animated
+                            ${isActive
+                                ? "animate__fadeIn"
+                                : "animate__fadeOut"
+                            }
+                        `}
+                        onClick={activar}
+                    />
+    
+                    {/* Menú */}
+                    <div
+                        className={`
+                            ${styles.asideWrapper}
+                            animate__animated
+                            ${isActive
+                                ? "animate__fadeInRightBig"
+                                : "animate__fadeOutRightBig"
+                            }
+                        `}
+                    >
+                        <Aside action={activar} />
+                    </div>
+    
+                </div>
             )}
-
         </>
     )
 }

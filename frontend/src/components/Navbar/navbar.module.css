@@ -18,6 +18,7 @@
     padding: 8px;
     border-radius: 4px;
     background: rgb(46, 45, 45);
+    border: solid 1px rgb(174, 174, 174);
 }
 .navLinks {
     display: flex;
