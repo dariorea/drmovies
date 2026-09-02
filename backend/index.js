@@ -12,10 +12,6 @@ const app = express()
 app.use(cors())
 app.use(express.json())
 
-//app.get("/api", (req, res) => {
-//  res.send({mensaje: "hilq"})
-//})
-
 app.use("/movies", moviesRouter)
 app.use("/series", seriesRouter)
 app.use("/search", searchRouter)

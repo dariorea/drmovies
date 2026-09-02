@@ -1,9 +1,42 @@
 .footer {
     width: 100%;
-    height: 5vh;
-    background: linear-gradient( to top,
-    rgb(11, 11, 11) 1%,
-    transparent 50%,
-    transparent 100%);
+    min-height: 400px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    
+    background: linear-gradient(to top,  rgb(31, 31, 31) 5%, black 50%, black 100%);
+    gap: 16px;
 
+}
+
+.containerLogo {
+    width: 100px;
+    height: auto;
+    display: flex;
+    justify-content: center;
+}
+.logoDrMovies {
+    width: 40px;
+    padding: 10px;
+}
+.containerSection {
+    display: flex;
+    gap: 18px;
+    flex-direction: column;
+    align-items: center;
+}
+.linksSection {
+    width: auto;
+    display: flex;
+    gap: 10px;
+}
+.linksSection a {
+    font-style: normal;
+    color: rgb(175, 175, 175);
+    font-size: 14px;
+}
+.linksSection a:hover {
+    color: white;
 }

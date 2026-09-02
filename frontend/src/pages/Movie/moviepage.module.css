@@ -69,3 +69,13 @@
     width: 100%;
     padding: 20px 0 20px 0;
 }
+.recommendationsSection {
+    width: 92%;
+    display: flex;
+    flex-wrap: wrap;
+    overflow: auto;
+}
+.recommendationsTitle {
+    width: 100%;
+    padding: 10px 0px;
+}

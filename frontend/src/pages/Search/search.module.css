@@ -5,14 +5,13 @@
     height: 70vh;
     display: flex;
     gap: 10px;
-    align-items: flex-end;
+    align-items: center;
     justify-content: center;
-    background: url("../../assets/spider-man.jpg");
-    background-position: center;
-    background-size: cover;
-    border: solid 1px rgb(49, 49, 49);
+    background-color: rgb(9, 9, 9);
+    border-radius: 10px;
+    border: solid 1px rgb(153, 153, 153);
     @media (max-width: 750px) {
-        height: 20vh
+        height: 10vh
     }
 }
 .inputContainer input {

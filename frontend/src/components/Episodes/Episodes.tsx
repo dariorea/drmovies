@@ -94,7 +94,6 @@ export const Episodes = ({data}: Props) => {
                         />
                         <div onClick={() => episodeSelector(ep.episode_number)} className={styles.episodeData}>
                             <p>EP{ep.episode_number} - {ep.name}</p>
-                            <em>{ep.overview}</em>
                         </div>
             
                     </div>

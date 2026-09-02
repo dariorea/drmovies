@@ -27,8 +27,10 @@ export const ItemInfo = ({data}: Props) => {
                     </div>
         
                     <div className={styles.movieGenres}>
-                        {data.genres.map(g => 
-                            <p className={styles.genre}>{g.name}</p>
+                        {data.genres.map(g =>
+                            <div key={g.id}>
+                                <p className={styles.genre}>{g.name}</p>
+                            </div>
                         )}
                     </div>
                 </div>

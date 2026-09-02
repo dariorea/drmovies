@@ -31,8 +31,7 @@
 
     background: transparent;
 
-    transition: background-color 0.2s ease,
-                backdrop-filter 0.2s ease;
+    transition: background-color 0.2s ease, backdrop-filter 0.2s ease;
 }
 
 .scrolled .navbarBackground {
@@ -51,12 +50,6 @@
     align-items: center;
 
     width: 92%;
-}
-.cardContainer {
-    display: flex;
-    gap: 10px;
-    overflow-x: scroll;
-    background-color: black;
 }
 .preHero {
     z-index: 90;

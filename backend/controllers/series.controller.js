@@ -88,7 +88,19 @@ const getFanartLogo = async (tvdbId) => {
     return null
   }
 }
+export const getRecommendationsSeries = async (req, res) => {
+  const { id } = req.params;
 
+  try {
+      const tmdbRes = await axios.get(`https://api.themoviedb.org/3/tv/${id}/recommendations?language=es-ES&api_key=${process.env.TMDB_API_KEY}`)
+      const data = await tmdbRes.data
+
+      res.json(data)
+
+  } catch (error) {
+      res.status(500).json({ mensaje: "Error al pedir las peliculas", error: error.message });
+  }
+}
 export const getSerieID = async (req, res) => {
   const { id } = req.params
   const API_KEY = process.env.TMDB_API_KEY

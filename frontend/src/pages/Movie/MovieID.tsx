@@ -5,14 +5,12 @@ import styles from "./moviepage.module.css"
 import { useFetch } from "../../hooks/useFetch"
 import { ItemLogo } from "../../components/ItemLogo/ItemLogo"
 import type { Movie } from "../../types/Movie"
-//import { Button } from "../../components/Button/Button"
 import { ItemInfo } from "../../components/itemInfo/itemInfo"
-//import { Button } from "../../components/Button/Button"
 import { Background } from "../../components/Background/Background"
 import { Button } from "../../components/Button/Button"
 import { Preload } from "../../components/Preload/Preload"
 import { Footer } from "../../components/Footer/Footer"
-//import { Background } from "../../components/Background/Background"
+import { ContentSection } from "../../components/ContentSection/ContentSection"
 
 export const MovieID = () => {
     const [isActive, setIsActive] = useState(false)
@@ -69,6 +67,9 @@ export const MovieID = () => {
                         <iframe src={`https://vimeus.com/e/movie?tmdb=${id}&view_key=${VIMEUS_VIEW_KEY}&autoplay=1`} width="100%" height="600" frameBorder="0" allowFullScreen referrerPolicy="origin"></iframe>
                     </div>
                 </div>
+            </div>
+            <div className={styles.recommendationsSection}>
+                <ContentSection title={"Peliculas similares"} url={`/movies/recommendations/${id}`} types={"movies"}/>
             </div>
             <Footer />
         </>

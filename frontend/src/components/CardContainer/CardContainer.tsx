@@ -6,7 +6,7 @@ import styles from "./cardcontainer.module.css"
 interface Props {
     url: string
     types: "series" | "movies"
-    className: string
+    className?: string
 }
 
 export const CardContainer = ({className, url, types}: Props) => {
@@ -15,14 +15,16 @@ export const CardContainer = ({className, url, types}: Props) => {
     if (loading) return <div className={styles.card}></div>
     if (error) return <p>Error: {error.message}</p>
 
-    return (    
+    return (
         <div className={className}>
-
-            {data?.results.map(movie => (
-            <div key={movie.id}>
-                <MovieCard item={movie} type={types}/>
+            <div className={styles.containerCards}>
+                {data?.results.map(movie => (
+                    <div key={movie.id}>
+                        <MovieCard item={movie} type={types}/>
+                    </div>
+                ))}
             </div>
-            ))}
         </div>
+        
     )
 }
