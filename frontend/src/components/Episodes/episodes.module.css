@@ -1,121 +1,321 @@
 .mainContainer {
-    width: 92%;
+    width: 100%;
     display: flex;
     flex-direction: column;
-
+    gap: 8px;
 }
+
+
+/* =========================
+   TITULOS
+========================= */
+
 .titleContainer {
     display: flex;
     align-items: center;
-    height: auto; 
-    padding: 20px 0 20px 0;
     width: 100%;
-    @media (max-width:560px) {
-        padding: 10px 0 10px 0;    }
+    padding: 24px 0 16px;
 }
+
+.titleContainer h2 {
+    margin: 0;
+    color: var(--text-h);
+    font-size: 1.5rem;
+    font-weight: 600;
+}
+
+
+/* =========================
+   TEMPORADAS
+========================= */
+
 .seasonContainer {
     width: 100%;
-    height: auto;
     display: flex;
-    flex-wrap: nowrap;
-    padding: 0;
-    gap: 10px;
-    overflow-x: scroll;
-     @media (max-width:560px) {
-        gap: 12px;
-    }
+    gap: 14px;
+    overflow-x: auto;
+    padding: 4px 2px 12px;
+    scroll-behavior: smooth;
+    scrollbar-width: thin;
+    scrollbar-color: rgba(255, 255, 255, 0.2) transparent;
 }
+
 .seasonContainer::-webkit-scrollbar {
-    @media (max-width:560px) {
-        display: none;
-    }
+    height: 6px;
 }
+
+.seasonContainer::-webkit-scrollbar-track {
+    background: transparent;
+}
+
+.seasonContainer::-webkit-scrollbar-thumb {
+    background: rgba(255, 255, 255, 0.2);
+    border-radius: 10px;
+}
+
 .seasonCard {
     width: 180px;
-    min-height: 100px;
-    display: flex;
-    flex-direction: column;
-    cursor: pointer;
     flex-shrink: 0;
-    @media (max-width:560px) {
-        width: 120px;
-    }
+    cursor: pointer;
+    transition: transform 0.2s ease;
 }
-.seasonCard img {
+
+.seasonCard:hover {
+    transform: translateY(-4px);
+}
+
+.seasonCard button {
+    display: block;
     width: 100%;
+    padding: 0;
+    border: none;
+    background: none;
+    cursor: pointer;
+}
+
+.seasonCard img {
+    display: block;
+    width: 100%;
+    aspect-ratio: 2 / 3;
+    object-fit: cover;
     border-radius: 10px;
-    height: 280px;
-    @media (max-width:560px) {
-        height: 180px;
-    }
+    transition:
+        transform 0.2s ease,
+        filter 0.2s ease;
 }
-.isActive {
-    display: "";
-}
-.desactive {
-    display: none;
+
+.seasonCard:hover img {
+    filter: brightness(1.08);
 }
 
 
+/* =========================
+   EPISODIOS
+========================= */
 
 .episodesContainer {
     display: flex;
-    overflow-x: scroll;;
     width: 100%;
-    gap: 8px;
-    @media (max-width:560px) {
-        gap:10px;
+    gap: 12px;
+    overflow-x: auto;
+    padding: 4px 2px 14px;
+    scroll-behavior: smooth;
 
-    }
+    scrollbar-width: thin;
+    scrollbar-color: rgba(255, 255, 255, 0.2) transparent;
 }
+
+.episodesContainer::-webkit-scrollbar {
+    height: 6px;
+}
+
+.episodesContainer::-webkit-scrollbar-track {
+    background: transparent;
+}
+
+.episodesContainer::-webkit-scrollbar-thumb {
+    background: rgba(255, 255, 255, 0.2);
+    border-radius: 10px;
+}
+
+
+/* =========================
+   EPISODE CARD
+========================= */
+
 .episodesCard {
+    position: relative;
+
     width: 280px;
     flex-shrink: 0;
+
     display: flex;
     flex-direction: column;
-    cursor: pointer;
-    border: solid 1px rgb(41, 40, 40);
-    gap: 16px;
+
     padding: 8px;
 
-    transition: all ease-in .2s;
+    border: 1px solid rgba(255, 255, 255, 0.1);
     border-radius: 10px;
-    @media(max-width: 560px) {
-        width: 180px;
-        gap:10px;
-        border-radius: 6px
-    }
-}
-.episodesCard:hover {
-    background-color: rgb(30, 30, 30);
-    border: solid 1px rgb(30, 30, 30);
 
+    background: rgba(255, 255, 255, 0.03);
+
+    color: var(--text);
+
+    text-align: left;
+
+    cursor: pointer;
+
+    transition:
+        transform 0.2s ease,
+        background-color 0.2s ease,
+        border-color 0.2s ease,
+        box-shadow 0.2s ease;
 }
+
+.episodesCard:hover {
+    transform: translateY(-3px);
+
+    background-color: rgba(255, 255, 255, 0.07);
+
+    border-color: rgba(255, 255, 255, 0.2);
+
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.25);
+}
+
+.episodesCard:active {
+    transform: scale(0.98);
+}
+
+.episodesCard:focus-visible {
+    outline: 2px solid var(--text-h);
+    outline-offset: 3px;
+}
+
+
+/* =========================
+   IMAGEN DEL EPISODIO
+========================= */
+
 .episodesCard img {
+    display: block;
+
     width: 100%;
-    height: 150px;
-    border-radius: 10px;
-    @media (max-width: 560px) {
-        height: 100px;
-        border-radius: 5px;
-    
-    }
+    aspect-ratio: 16 / 9;
+
+    object-fit: cover;
+
+    border-radius: 7px;
+
+    background-color: rgba(255, 255, 255, 0.05);
 }
+
+
+/* =========================
+   INFORMACION DEL EPISODIO
+========================= */
+
 .episodeData {
     display: flex;
-    height: auto;
     flex-direction: column;
-    width: auto;
-    z-index: 100;
-    gap: 8px;
-    @media (max-width: 560px) {
-        
 
-    }
-  /* https://www.eporner.com/video-YamuqfKo6RH/hairy-japanese-grandmas-06-01/   https://es.eporner.com/video-I0SPwrMMTU2/friend-with-a-beautiful-ass-became-my-sex-practice-partner-for-me-a-virgin-who-had-just-gotten-my-first-girlfriend-part-1/*/
+    width: 100%;
+
+    padding: 8px 4px 4px;
+
+    color: var(--text);
+
+    background: none;
+    border: none;
+
+    text-align: left;
+
+    cursor: pointer;
 }
 
+.episodeData p {
+    margin: 0;
+
+    font-size: 0.95rem;
+    line-height: 1.4;
+
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+
+    overflow: hidden;
+}
+
+
+/* =========================
+   REPRODUCTOR
+========================= */
+
 .reproductor {
+    width: 100%;
     display: flex;
     flex-direction: column;
+}
+
+.iframe {
+    display: block;
+
+    width: 100%;
+    min-height: 500px;
+
+    border: none;
+    border-radius: 10px;
+
+    background-color: #000;
+}
+
+
+/* =========================
+   RESPONSIVE
+========================= */
+
+@media (max-width: 560px) {
+
+    .titleContainer {
+        padding: 16px 0 12px;
+    }
+
+    .titleContainer h2 {
+        font-size: 1.25rem;
+    }
+
+    .seasonContainer {
+        gap: 10px;
+        padding-bottom: 8px;
+
+        scrollbar-width: none;
+    }
+
+    .seasonContainer::-webkit-scrollbar {
+        display: none;
+    }
+
+    .seasonCard {
+        width: 120px;
+    }
+
+    .seasonCard img {
+        border-radius: 7px;
+    }
+
+
+    .episodesContainer {
+        gap: 10px;
+        padding-bottom: 8px;
+
+        scrollbar-width: none;
+    }
+
+    .episodesContainer::-webkit-scrollbar {
+        display: none;
+    }
+
+    .episodesCard {
+        width: 180px;
+
+        padding: 6px;
+
+        border-radius: 7px;
+    }
+
+    .episodesCard img {
+        border-radius: 5px;
+    }
+
+    .episodeData {
+        padding: 7px 3px 3px;
+    }
+
+    .episodeData p {
+        font-size: 0.85rem;
+    }
+
+    .iframe {
+        min-height: 250px;
+        border-radius: 6px;
+    }
 }

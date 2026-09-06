@@ -7,7 +7,7 @@ export const Tv = () => {
             <Navbar />
             <div className={styles.titleContainer}>
                 <h1>Series</h1>
-                <p>Explora y descubre las mejores Peliculas en nuestro catalogo</p>
+                <p>Explora y descubre las mejores Series en nuestro catalogo</p>
             </div>
             <h2>Tendencias</h2>
             <CardContainer className={styles.cardContainer} url="/series" types="series" /> 

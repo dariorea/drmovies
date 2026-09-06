@@ -1,6 +1,10 @@
+.container {
+    overflow: auto;
+}
 .containerCards {
+    width: 100%;
     display: flex;
     gap: 10px;
-    overflow-x: scroll;
+    overflow: auto;
     background-color: black;
 }

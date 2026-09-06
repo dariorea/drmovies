@@ -1,5 +1,9 @@
 import express from "express";
-import { getSerieID, getSeries, getRecommendationsSeries } from "../controllers/series.controller.js";
+import { 
+    getSerieID, 
+    getSeries, 
+    getRecommendationsSeries 
+} from "../controllers/series.controller.js";
 
 const router = express.Router()
 

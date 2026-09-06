@@ -14,31 +14,16 @@ export const ItemInfo = ({data}: Props) => {
     return (
         <div className={styles.container}>
             <div className={styles.itemData}>
-                
-                <div className={styles.section}>
-                    <div className={styles.sectionVy}>
-                        <div className={styles.movieVote}>
-                            <i className="bi bi-star-fill"></i>
-                            <p>{data.vote_average.toFixed(1)}</p>
-                        </div>
-                        <div className={styles.movieVote}>
-                            <p>{year}</p>
-                        </div>
-                    </div>
-        
-                    <div className={styles.movieGenres}>
-                        {data.genres.map(g =>
-                            <div key={g.id}>
-                                <p className={styles.genre}>{g.name}</p>
-                            </div>
-                        )}
-                    </div>
+                <div className={styles.movieVote}>
+                    <h3>{year}</h3>
                 </div>
-                <div className={styles.overview}>
-                    <em>"{data.overview}"</em>
+                <span>⚫</span>
+                <h3>{data.genres[0]?.name}</h3>
+                <span>⚫</span>                    
+                <div className={styles.movieVote}>
+                    <i className="bi bi-star-fill"></i>
+                    <h3>{data.vote_average.toFixed(1)}</h3>
                 </div>
-                
-                
             </div>
         </div>
     )

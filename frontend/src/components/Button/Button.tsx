@@ -4,10 +4,11 @@ import styles from "./button.module.css"
 interface Props {
     action?: () => void
     children: React.ReactNode
+    color: string
 }
 
-export const Button = ({action, children}: Props) => {
+export const Button = ({action, children, color}: Props) => {
     return (
-        <button className={styles.btnCustom} onClick={action}>{children}</button>
+        <button style={{ backgroundColor: `var(${color})`  }} className={styles.btnCustom} onClick={action}>{children}</button>
     )
 }

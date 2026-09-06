@@ -48,7 +48,7 @@ export type MoviesResponse = {
   }
 
 
-  type Episode = {
+  export type Episode = {
     episode_number: number
     name: string
     id: number

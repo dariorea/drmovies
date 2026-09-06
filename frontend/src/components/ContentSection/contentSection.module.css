@@ -1,3 +1,8 @@
+.section {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
 .titleSection {
     height: 50px;
     display: flex;
@@ -6,4 +11,8 @@
 }
 .titleSection a {
     color: var(--red);
+}
+.containerCard {
+    width: 100%;
+    height: auto;
 }

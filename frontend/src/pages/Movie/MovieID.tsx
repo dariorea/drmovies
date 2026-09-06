@@ -47,15 +47,18 @@ export const MovieID = () => {
                 <Navbar />
             </div>
             <Background className={styles.containerBackground} data={data}/>
-            <div className={styles.movieLogo}>
-                <ItemLogo data={data}/>
-            </div>
             <div className={styles.container}>
-                <Button action={change}>
-                    <i className="bi bi-play-fill"></i>
-                    <span>Reproducir</span>
-                </Button>
+                <ItemLogo data={data}/>            
                 <ItemInfo data={data} />
+                <div className={styles.containerBtn}>
+                    <Button color="--red" action={change}>
+                        <i className="bi bi-play-fill"></i>
+                        <h2>Reproducir</h2>
+                    </Button>
+                    <Button color="--gray" action={change}>
+                        <i className="bi bi-bookmark-plus"></i>
+                    </Button>
+                </div>                
             </div>
             
             <div ref={playerRef} className={styles.movieContainer}>

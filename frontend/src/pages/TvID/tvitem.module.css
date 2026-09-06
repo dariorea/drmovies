@@ -43,14 +43,5 @@
     width: 92%;
     display: flex;
     flex-wrap: wrap;
-}
-.recommendationsTitle {
-    width: 100%;
-    padding: 10px 0px;
-}
-.recommendationsContainerCard {
-    display: flex;
-    width: 100%;
     overflow: auto;
-    gap: 10px;
 }

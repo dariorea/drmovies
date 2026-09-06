@@ -22,10 +22,16 @@ export const ContentSection = ({
 
             <div className={styles.titleSection}>
                 <h3>{title}</h3>
-                <Link to={!link ? "" : link}>ver mas<i className="bi bi-chevron-right"></i></Link>
+                <div>
+                {!link 
+                ? "" 
+                :  <Link to={link}>ver mas<i className="bi bi-chevron-right"></i></Link>
+                }
+                </div>
             </div>
-
-            <CardContainer url={url} types={types}/>
+            <div className={styles.containerCard}>
+                <CardContainer url={url} types={types}/>
+            </div>
 
         </section>
     )

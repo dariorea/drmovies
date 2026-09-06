@@ -9,7 +9,7 @@ import { ItemInfo } from "../../components/itemInfo/itemInfo"
 import { Background } from "../../components/Background/Background"
 import { Footer } from "../../components/Footer/Footer"
 import { Preload } from "../../components/Preload/Preload"
-import { CardContainer } from "../../components/CardContainer/CardContainer"
+import { ContentSection } from "../../components/ContentSection/ContentSection"
 //STSK-094 Shoplifting Girl A
 
 export const TvItem = () => {
@@ -29,20 +29,12 @@ export const TvItem = () => {
                 <Navbar />
             </div>
             <Background className={styles.containerBackground} data={data}/>
-            <div className={styles.movieLogo}>
-                <ItemLogo data={data}/>
-            </div>
             <div className={styles.container}>
+                <ItemLogo data={data}/>
                 <ItemInfo data={data} />
+                <Episodes data={data}/>
+                <ContentSection title="Series similares" url={`/series/recommendations/${id}`} types={"series"} />
             </div>
-            <Episodes data={data}/>
-            <div className={styles.recommendationsSection}>
-                <div className={styles.recommendationsTitle}>
-                    <h3>Series similares</h3>
-                </div>
-                <CardContainer className={styles.recommendationsContainerCard} url={`/series/recommendations/${id}`} types={"series"}/>
-            </div>
-
             <Footer />
         </>
     )
