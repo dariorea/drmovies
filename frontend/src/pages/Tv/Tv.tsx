@@ -10,7 +10,7 @@ export const Tv = () => {
                 <p>Explora y descubre las mejores Series en nuestro catalogo</p>
             </div>
             <h2>Tendencias</h2>
-            <CardContainer className={styles.cardContainer} url="/series" types="series" /> 
+            <CardContainer url="/series" types="series" /> 
         </div>
     )
 }
