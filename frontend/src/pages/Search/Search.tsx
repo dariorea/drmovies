@@ -38,29 +38,33 @@ export const Search = () => {
     return (
         <div className={styles.container}>
             <Navbar />
-            <div>
+            <div className={styles.mainContainer}>
+                <div className={styles.titleContainer}>
+                    <h1>¿Que queres ver hoy?</h1>
+                </div>
                 <form
                     className={styles.inputContainer}
                     onSubmit={(e) => {
                         e.preventDefault()
                         setSearch(query)
                     }}
-                    >
+                >
                     <input
                         type="text"
                         placeholder="Buscar películas..."
                         value={query}
                         onChange={(e) => setQuery(e.target.value)}
                     />
-    
                     <button className={styles.btnSearch} type="submit">
                         <i className="bi bi-search"></i>
                     </button>
                 </form>
+                
             </div>
             
+            
             {loading && <p>Buscando...</p>}
-
+            
             <div className={styles.moviesGrid}>
                 {item.map(movie => (
                     <div key={movie.id}>

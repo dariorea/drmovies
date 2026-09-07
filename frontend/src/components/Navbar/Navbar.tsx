@@ -12,8 +12,7 @@ export const Navbar = () => {
     <nav className={styles.navbar}>
         <Link className={styles.logoContainer} to="/">
             <Logo className={styles.logo} />
-        </Link>
-        
+        </Link>        
         <ul className={styles.navLinks}>
             <li>
                 <NavLink to="/movies" className={({ isActive }) => isActive ? styles.active : ""}>
@@ -27,7 +26,7 @@ export const Navbar = () => {
             </li>
             <li>
                 <NavLink to="/search" className={({ isActive }) => isActive ? styles.active : ""}>
-                    <i className="bi bi-search-heart"></i> Buscar
+                    Buscar
                 </NavLink>
             </li>
         </ul>

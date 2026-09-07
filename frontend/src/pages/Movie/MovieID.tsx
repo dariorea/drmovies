@@ -71,7 +71,7 @@ export const MovieID = () => {
                     </div>
                 </div>
             </div>
-            <div className={styles.recommendationsSection}>
+            <div className={styles.container}>
                 <ContentSection title={"Peliculas similares"} url={`/movies/recommendations/${id}`} types={"movies"}/>
             </div>
             <Footer />

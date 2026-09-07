@@ -22,26 +22,4 @@
     width: 92%;
     position: absolute;
     z-index: 100;
-}
-.movieLogo {
-    display: flex;
-    height: 100%;
-    align-items: center;
-    width: 92%;
-}
-.movieLogo img {
-    @media (max-width: 560px) {
-        width: 130px;
-    }
-}
-
-.containerInfo {
-    width: 92%;
-
-}
-.recommendationsSection {
-    width: 92%;
-    display: flex;
-    flex-wrap: wrap;
-    overflow: auto;
-}
+} 
