@@ -12,13 +12,13 @@
     display: flex;
     gap: 10px;
     width: 100%;
+    align-items: center;
     flex-wrap: wrap;
     height: auto;
     @media (max-width: 560px) {
         width: 100%;
         gap: 10px;
         justify-content:center;
-        align-items: center;
         padding: 0;
         border: none;
     }
@@ -35,11 +35,19 @@
 }
 .movieVote i {
     font-size: 20px;
-    color: yellow;
+    color: rgb(219, 216, 3);
 }
 .genre {
     border-radius: 10px;
     flex-shrink: 1;
     @media (max-width: 560px) {
     }
+}
+.separator {
+    width: 4px;
+    height: 4px;
+    background-color: currentColor;
+    border-radius: 50%;
+    display: inline-block;
+    flex-shrink: 0;
 }

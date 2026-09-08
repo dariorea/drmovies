@@ -17,9 +17,9 @@ export const ItemInfo = ({data}: Props) => {
                 <div className={styles.movieVote}>
                     <h3>{year}</h3>
                 </div>
-                <span>⚫</span>
+                <span className={styles.separator}></span>
                 <h3>{data.genres[0]?.name}</h3>
-                <span>⚫</span>                    
+                <span className={styles.separator}></span>
                 <div className={styles.movieVote}>
                     <i className="bi bi-star-fill"></i>
                     <h3>{data.vote_average.toFixed(1)}</h3>

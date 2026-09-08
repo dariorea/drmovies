@@ -17,11 +17,10 @@ export const Footer = () => {
                     <Link to={"/search"}>Buscar</Link>            
                 </div>
                 <div className={styles.linksSection}>
-                    <Link to={"#"}><i className="bi bi-github"></i> (Reposotorio del Proyecto)</Link>
-                    <Link to={"#"}><i className="bi bi-envelope-at"></i> sobre Drmovies</Link>            
-                    <Link to={""}><i className="bi bi-briefcase-fill"></i> Portafolio</Link>
-                    <Link to={"#"}><i className="bi bi-github"></i> (Perfil)</Link>
-                    <Link to={"#"}><i className="bi bi-envelope-fill"></i> Contacto</Link>            
+                    <Link to={"#"}>Reposotorio del Proyecto</Link>
+                    <Link to={""}>Portafolio</Link>
+                    <Link to={"#"}>Perfil</Link>
+                    <Link to={"#"}> Contacto</Link>            
                 </div>
             </div>
             

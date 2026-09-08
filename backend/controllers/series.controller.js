@@ -12,43 +12,6 @@ export const getSeries = async (req, res) => {
         res.json({mensaje: "error al pedir las series", error: error})
     }
 }
-//export const getSerieID = async (req, res) => {
-//    const { id } = req.params
-//    const API_KEY = process.env.TMDB_API_KEY
-//  
-//    try {
-//      // 🔹 1. Pedimos datos base de TMDB
-//      const { data } = await axios.get(
-//        `https://api.themoviedb.org/3/tv/${id}`,
-//        {
-//          params: {
-//            api_key: API_KEY,
-//            language: "es-ES",
-//            region: "AR"
-//          }
-//        }
-//      )
-//  
-//      // 🔹 2. Obtener TVDB ID
-//      const tvdbId = await getTVDBId(id)
-//  
-//      // 🔹 3. Obtener logo (solo si existe TVDB ID)
-//      const logoFanart = tvdbId ? await getFanartLogo(tvdbId) : null
-//  
-//      // 🔹 4. Respuesta final
-//      res.json({
-//        ...data,
-//        logoFanart
-//      })
-//  
-//    } catch (error) {
-//      res.status(500).json({
-//        message: "Error al pedir la serie"
-//      })
-//    }
-//  }
-
-
 
   const getTVDBId = async (tmdbId) => {
     try {
