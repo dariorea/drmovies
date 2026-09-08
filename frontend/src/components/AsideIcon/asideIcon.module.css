@@ -3,19 +3,39 @@
     flex-direction: column;
 }
 
-.asideIcon {
-    display: none;
-    font-size: 34px;
-    padding: 1px;
-    border-radius: 4px;
 
+
+.asideIcon {
+    width: 40px;
+    height: 40px;
+
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    border: none;
+    background: transparent;
+
+    color: #fff;
+
+    font-size: 22px;
+
+    border-radius: 8px;
+
+    cursor: pointer;
+
+    transition: background-color 0.2s ease;
     @media (max-width: 751px) {
-        display: block;
+        display: "";
+        
     }
 }
 
 .asideIcon:hover {
     cursor: pointer;
+    background-color: #1c1c1c;
+
 }
 
 .asideContainer {
