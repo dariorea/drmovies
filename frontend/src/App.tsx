@@ -1,8 +1,12 @@
+import { PageTitle } from "./components/PageTitle/PageTitle";
 import AppRoutes from "./routes/AppRoutes"
 import "animate.css";
 
 export const App = () => {
     return (
-        <AppRoutes></AppRoutes>
+        <>
+            <PageTitle />
+            <AppRoutes></AppRoutes>
+        </>
     )
 }

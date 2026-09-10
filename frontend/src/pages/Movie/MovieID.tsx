@@ -43,6 +43,7 @@ export const MovieID = () => {
 
     return (
         <>
+
             <div className={styles.nav}>
                 <Navbar />
             </div>
