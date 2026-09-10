@@ -4,20 +4,20 @@
 }
 
 
-
 .asideIcon {
     width: 40px;
     height: 40px;
 
 
-    display: flex;
+    display: none;
     align-items: center;
     justify-content: center;
 
-    border: none;
-    background: transparent;
+    border: solid 1px var(--gray);
+    background: #1c1c1c;
 
     color: #fff;
+    user-select: none;
 
     font-size: 22px;
 
@@ -27,7 +27,7 @@
 
     transition: background-color 0.2s ease;
     @media (max-width: 751px) {
-        display: "";
+        display: flex;
         
     }
 }
