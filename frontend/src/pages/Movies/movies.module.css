@@ -19,3 +19,18 @@
     gap: 10px;
     height: 150px;
 }
+
+.cardlContainer {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(150px, 180px));
+    justify-content: center;
+    gap: 28px 18px;
+    padding: 25px;
+}
+.movieCard {
+    width: 100%;
+    min-width: 0;
+}
+.ImgMovieCard {
+    width: 100%;
+}

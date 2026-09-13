@@ -66,7 +66,24 @@ export type MoviesResponse = {
     first_air_date?: string
     vote_average: number
     genres: Genre[]
-    logo?: string
+    logo?: string | null;
     logoFanart?: string
     seasons?: Season[]
   }
+
+
+  export type TMDBImage = {
+    aspect_ratio: number;
+    file_path: string;
+    height: number;
+    width: number;
+    iso_639_1: string | null;
+    vote_average: number;
+    vote_count: number;
+}
+
+export type TMDBImages = {
+    backdrops: TMDBImage[];
+    logos: TMDBImage[];
+    posters: TMDBImage[];
+}

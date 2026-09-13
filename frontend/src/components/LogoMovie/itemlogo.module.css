@@ -1,0 +1,24 @@
+.container {
+    width: 100%;
+    min-height: 100px;
+    display: flex;
+    align-items: center;
+    padding: 20px 0;
+    @media(max-width: 560px) {
+        align-items: center;
+    }
+}
+.logo {
+    width: 400px;
+    @media(max-width: 560px) {
+        width: 250px;
+    }
+}
+
+.section {
+    display: flex;
+    gap: 10px;
+}
+
+
+

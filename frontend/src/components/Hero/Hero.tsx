@@ -10,7 +10,7 @@ interface Props {
 
 export const Hero = ({ url }: Props) => {
 
-    const IMG_BASE = import.meta.env.VITE_TMDB_IMAGE_URL
+    const IMG_BASE = import.meta.env.VITE_TMDB_BACKGROUND_IMAGE_URL
 
     const { data, loading, error } =
         useFetch<ApiResponse<Media>>(url)

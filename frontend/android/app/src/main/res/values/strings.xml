@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">DrMovies</string>
+    <string name="title_activity_main">DrMovies</string>
+    <string name="package_name">com.dariorea.drmovies</string>
+    <string name="custom_url_scheme">com.dariorea.drmovies</string>
+</resources>

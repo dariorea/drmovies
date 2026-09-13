@@ -3,7 +3,6 @@ import { useParams } from "react-router-dom"
 import { Navbar } from "../../components/Navbar/Navbar"
 import styles from "./moviepage.module.css"
 import { useFetch } from "../../hooks/useFetch"
-import { ItemLogo } from "../../components/ItemLogo/ItemLogo"
 import type { Movie } from "../../types/Movie"
 import { ItemInfo } from "../../components/itemInfo/itemInfo"
 import { Background } from "../../components/Background/Background"
@@ -11,6 +10,7 @@ import { Button } from "../../components/Button/Button"
 import { Preload } from "../../components/Preload/Preload"
 import { Footer } from "../../components/Footer/Footer"
 import { ContentSection } from "../../components/ContentSection/ContentSection"
+import { LogoMovie } from "../../components/LogoMovie/LogoMovie"
 
 export const MovieID = () => {
     const [isActive, setIsActive] = useState(false)
@@ -18,6 +18,7 @@ export const MovieID = () => {
 
     const { id } = useParams()
     const { data, loading, error } = useFetch<Movie>(`/movies/${id}`)
+
 
 	//const IMG_BASE = import.meta.env.VITE_TMDB_IMAGE_URL
     const VIMEUS_VIEW_KEY = import.meta.env.VITE_VIMEUS_KEY_VIEW
@@ -49,7 +50,7 @@ export const MovieID = () => {
             </div>
             <Background className={styles.containerBackground} data={data}/>
             <div className={styles.container}>
-                <ItemLogo data={data}/>            
+                <LogoMovie data={data}/>
                 <ItemInfo data={data} />
                 <div className={styles.containerBtn}>
                     <Button color="--red" action={change}>
@@ -59,7 +60,7 @@ export const MovieID = () => {
                     <Button color="--gray" action={change}>
                         <i className="bi bi-bookmark-plus"></i>
                     </Button>
-                </div>                
+                </div>
             </div>
             
             <div ref={playerRef} className={styles.movieContainer}>

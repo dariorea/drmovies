@@ -4,7 +4,6 @@ import styles from "./itemlogo.module.css"
 
 interface Props {
     data: Media 
-
 }
 
 export const ItemLogo = ({data}: Props) => {

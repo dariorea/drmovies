@@ -10,29 +10,29 @@ export const PageTitle = ({ title }: Props) => {
 
     useEffect(() => {
         if (title) {
-            document.title = `DRMovies | ${title}`;
+            document.title = `Dr.Movies | ${title}`;
             return;
         }
 
         switch (location.pathname) {
             case "/":
-                document.title = "DRMovies | Inicio";
+                document.title = "Dr.Movies | Inicio";
                 break;
 
             case "/movies":
-                document.title = "DRMovies | Películas";
+                document.title = "Dr.Movies | Películas";
                 break;
 
             case "/series":
-                document.title = "DRMovies | Series";
+                document.title = "Dr.Movies | Series";
                 break;
 
             case "/search":
-                document.title = "DRMovies | Buscar";
+                document.title = "Dr.Movies | Buscar";
                 break;
 
             default:
-                document.title = "DRMovies";
+                document.title = "Dr.Movies";
         }
     }, [location.pathname, title]);
 
