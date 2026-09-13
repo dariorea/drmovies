@@ -1,5 +1,6 @@
 import { CardContainer } from "../../components/CardContainer/CardContainer"
 import { ContentSection } from "../../components/ContentSection/ContentSection";
+import { Footer } from "../../components/Footer/Footer";
 import { Navbar } from "../../components/Navbar/Navbar"
 import styles from "./tv.module.css"
 export const Tv = () => {
@@ -23,16 +24,16 @@ export const Tv = () => {
             <h2>Tendencias</h2>
             <CardContainer url="/series" types="series" />
             {genres.map((g) => {
-    return (
-        <ContentSection
-            key={g.id}
-            title={g.name}
-            url={`/series/genre/${g.id}`}
-            types="series"
-        />
-    );
-})}
-            
+                return (
+                    <ContentSection
+                    key={g.id}
+                    title={g.name}
+                    url={`/series/genre/${g.id}`}
+                    types="series"
+                    />
+                );
+            })}
+            <Footer />
         </div>
     )
 }

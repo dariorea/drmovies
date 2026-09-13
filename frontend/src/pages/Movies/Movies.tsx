@@ -1,4 +1,5 @@
 import { ContentSection } from "../../components/ContentSection/ContentSection"
+import { Footer } from "../../components/Footer/Footer"
 import { Navbar } from "../../components/Navbar/Navbar"
 import styles from "./movies.module.css"
 
@@ -57,7 +58,7 @@ export const Movies = () => {
                 url="/movies/genre/53"
                 types="movies"
             />
-
+            <Footer />
         </div>
     )
 }

@@ -11,7 +11,7 @@ interface Props {
 export const CardContainer = ({url, types}: Props) => {
     const { data, loading, error } = useFetch<ApiResponse<Media>>(url)
 
-    if (loading) return <div className={styles.card}></div>
+    if (loading) return <div className={styles.cardone}> <p>cargando...</p></div>
     if (error) return <p>Error: {error.message}</p>
 
     return (

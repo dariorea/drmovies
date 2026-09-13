@@ -51,7 +51,7 @@ export const getSerieID = async (req, res) => {
                     params: {
                         api_key: API_KEY,
                         language: "es-ES",
-                        include_image_language: "es,null",
+                        include_image_language: "es,en,null",
                     },
                 }
             );
@@ -62,12 +62,13 @@ export const getSerieID = async (req, res) => {
             const logoEs = logos.find(
                 (logo) => logo.iso_639_1 === "es"
             );
+            const logoEn = logos.find( (logo) => logo.iso_639_1 === "en" );
 
             const logoNull = logos.find(
                 (logo) => logo.iso_639_1 === null
             );
 
-            const selectedLogo = logoEs || logoNull;
+            const selectedLogo = logoEs || logoEn || logoNull;
 
             if (selectedLogo) {
                 logo = `https://image.tmdb.org/t/p/w500${selectedLogo.file_path}`;

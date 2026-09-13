@@ -15,10 +15,9 @@
 }
 .logo {
     width: 28px;
-    padding: 8px;
-    border-radius: 4px;
-    background: rgb(46, 45, 45);
-    border: solid 1px rgb(174, 174, 174);
+    padding: 10px;
+    border-radius: 10px;
+    background: linear-gradient(var(--red), rgb(183, 12, 12));
 }
 .navLinks {
     display: flex;

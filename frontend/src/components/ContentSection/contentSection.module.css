@@ -9,10 +9,16 @@
     align-items: center;
     justify-content: space-between;
 }
+.verMas {
+    display: flex;
+}
 .titleSection a {
     color: var(--red);
 }
 .containerCard {
     width: 100%;
-    height: auto;
+    min-height: 240px;
+    @media (max-width: 750px) {
+        min-height: 150px;
+    }
 }

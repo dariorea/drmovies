@@ -9,11 +9,12 @@
 .movieLogo {
     animation: pulse .3s ease-in-out infinite;
     width: 140px;
-    background-color: rgb(41, 41, 41);
-    padding: 10px 14px 10px 14px;
-    border-radius: 4px;
+    background: linear-gradient(var(--red), rgb(183, 12, 12));
+    padding: 20px;
+    border-radius: 10px;
     @media (max-width: 750px) {
         width: 50px;
+        padding: 14px;
     }
 }
 

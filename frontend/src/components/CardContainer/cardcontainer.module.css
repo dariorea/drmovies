@@ -8,3 +8,9 @@
     overflow: auto;
     background-color: black;
 }
+.cardone {
+    width: 156px;
+    height: 240px;
+    background-color: var(--red);
+    border-radius: 8px;
+}

@@ -13,13 +13,12 @@
     align-items: center;
     justify-content: center;
 
-    border: solid 1px var(--gray);
     background: #1c1c1c;
 
     color: #fff;
     user-select: none;
 
-    font-size: 22px;
+    font-size: 23px;
 
     border-radius: 8px;
 
