@@ -10,7 +10,7 @@
 }
 .logo {
     width: 400px;
-    filter: drop-shadow(0 4px 8px rgba(131, 126, 126, 0.7));
+    filter: drop-shadow(0 4px 8px rgba(49, 49, 49, 0.7));
 
     @media(max-width: 560px) {
         width: 250px;

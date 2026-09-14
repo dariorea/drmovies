@@ -1,4 +1,5 @@
 import { useParams } from "react-router-dom"
+import { useState, useEffect } from "react"
 import { Navbar } from "../../components/Navbar/Navbar"
 import styles from "./tvitem.module.css"
 import { useFetch } from "../../hooks/useFetch"
@@ -17,16 +18,34 @@ export const TvItem = () => {
     const { id } = useParams()
     const { data, loading, error } = useFetch<Media>(`/series/${id}`)
 
+    const [scrolled, setScrolled] = useState(false)
+
+    useEffect(() => {
+        const handleScroll = () => {
+            setScrolled(window.scrollY > 20)
+        }
+        window.addEventListener("scroll", handleScroll)
+
+        return () => {
+            window.removeEventListener("scroll", handleScroll)
+        }
+    }, [])
+
 
     if (loading) return <Preload /> 
     if (error) return <p>Error: {error.message}</p>
     if (!data) return <Preload />
     console.log(data)
 
+    
+
     return (
         <>
-            <div className={styles.nav}>
-                <Navbar />
+            <div className={`${styles.navbar} ${scrolled ? styles.scrolled : ""}`}>
+                <div className={styles.navbarBackground}></div>
+                <div className={styles.elements}>
+                    <Navbar/>
+                </div>
             </div>
             <Background className={styles.containerBackground} data={data}/>
             <div className={styles.container}>

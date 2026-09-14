@@ -1,9 +1,9 @@
-import { useState, useRef } from "react"
+import { useState, useRef, useEffect } from "react"
 import { useParams } from "react-router-dom"
-import { Navbar } from "../../components/Navbar/Navbar"
-import styles from "./moviepage.module.css"
-import { useFetch } from "../../hooks/useFetch"
+import styles from "./movieid.module.css"
 import type { Movie } from "../../types/Movie"
+import { useFetch } from "../../hooks/useFetch"
+import { Navbar } from "../../components/Navbar/Navbar"
 import { ItemInfo } from "../../components/itemInfo/itemInfo"
 import { Background } from "../../components/Background/Background"
 import { Button } from "../../components/Button/Button"
@@ -18,6 +18,19 @@ export const MovieID = () => {
 
     const { id } = useParams()
     const { data, loading, error } = useFetch<Movie>(`/movies/${id}`)
+
+    const [scrolled, setScrolled] = useState(false)
+
+    useEffect(() => {
+        const handleScroll = () => {
+            setScrolled(window.scrollY > 20)
+        }
+        window.addEventListener("scroll", handleScroll)
+
+        return () => {
+            window.removeEventListener("scroll", handleScroll)
+        }
+    }, [])
 
 
 	//const IMG_BASE = import.meta.env.VITE_TMDB_IMAGE_URL
@@ -44,9 +57,11 @@ export const MovieID = () => {
 
     return (
         <>
-
-            <div className={styles.nav}>
-                <Navbar />
+            <div className={`${styles.navbar} ${scrolled ? styles.scrolled : ""}`}>
+                <div className={styles.navbarBackground}></div>
+                <div className={styles.elements}>
+                    <Navbar/>
+                </div>
             </div>
             <Background className={styles.containerBackground} data={data}/>
             <div className={styles.container}>

@@ -1,3 +1,4 @@
+import { useState, useEffect } from "react"
 import { ContentSection } from "../../components/ContentSection/ContentSection"
 import { Footer } from "../../components/Footer/Footer"
 import { Navbar } from "../../components/Navbar/Navbar"
@@ -5,10 +6,27 @@ import styles from "./movies.module.css"
 
 
 export const Movies = () => {
+    const [scrolled, setScrolled] = useState(false)
+
+    useEffect(() => {
+        const handleScroll = () => {
+            setScrolled(window.scrollY > 20)
+        }
+        window.addEventListener("scroll", handleScroll)
+
+        return () => {
+            window.removeEventListener("scroll", handleScroll)
+        }
+    }, [])
 
     return (
         <div className={styles.container}>
-            <Navbar />
+           <div className={`${styles.navbar} ${scrolled ? styles.scrolled : ""}`}>
+                <div className={styles.navbarBackground}></div>
+                <div className={styles.elements}>
+                    <Navbar/>
+                </div>
+            </div>
             <div className={styles.titleContainer}>
                 <h1>Peliculas</h1>
                 <p>Explora y descubre las mejores Peliculas en nuestro catalogo</p>

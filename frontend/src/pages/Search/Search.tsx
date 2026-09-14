@@ -13,6 +13,19 @@ export const Search = () => {
     const [loading, setLoading] = useState(false)
     const API_URL = import.meta.env.VITE_API_URL
 
+    const [scrolled, setScrolled] = useState(false)
+
+    useEffect(() => {
+        const handleScroll = () => {
+            setScrolled(window.scrollY > 20)
+        }
+        window.addEventListener("scroll", handleScroll)
+
+        return () => {
+            window.removeEventListener("scroll", handleScroll)
+        }
+    }, [])
+
     useEffect(()=> {
         if(!search) return
 
@@ -37,10 +50,15 @@ export const Search = () => {
     }, [search])
     return (
         <div className={styles.container}>
-            <Navbar />
+            <div className={`${styles.navbar} ${scrolled ? styles.scrolled : ""}`}>
+                <div className={styles.navbarBackground}></div>
+                <div className={styles.elements}>
+                    <Navbar/>
+                </div>
+            </div>
             <div className={styles.mainContainer}>
                 <div className={styles.titleContainer}>
-                    <h1>¿Que queres ver hoy?</h1>
+                    <h1>¿Que querés ver hoy?</h1>
                 </div>
                 <form
                     className={styles.inputContainer}
