@@ -13,4 +13,7 @@
     height: 240px;
     background-color: var(--red);
     border-radius: 8px;
+    @media (max-width: 750px) {
+        min-height: 150px;
+    }
 }

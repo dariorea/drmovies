@@ -5,9 +5,11 @@
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    
-    background: linear-gradient(to top,  rgb(10, 10, 10) 5%, black 50%, black 100%);
     gap: 16px;
+
+    @media (max-width: 750px) {
+        min-height: 220px;
+    }
 
 }
 
