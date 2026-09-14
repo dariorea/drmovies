@@ -123,6 +123,5 @@ i {
     gap: 10px;
     align-items: center;
     @media (max-width: 560px) {
-        justify-content:center;
     }
 }

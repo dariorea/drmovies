@@ -1,22 +1,90 @@
 import axios from "axios";
 
+const cache = new Map()
 
-export const getMovies = async (req, res)=> {
-    const cache = new Map()
+export const getMovies = async (req, res) => {
     const cacheKey = "now_playing"
+
     // Buscar en cache
     if (cache.has(cacheKey)) {
         return res.json(cache.get(cacheKey))
     }
+
     try {
-        const url = `https://api.themoviedb.org/3/movie/now_playing?language=es-ES&page=1&region=AR&api_key=${process.env.TMDB_API_KEY}`;
+        const url = `https://api.themoviedb.org/3/movie/now_playing?language=es-ES&page=1&region=AR&api_key=${process.env.TMDB_API_KEY}`
+
         const result = await axios.get(url)
         const data = result.data
+
+        // Obtener logos de todas las películas
+        const moviesWithLogos = await Promise.all(
+            data.results.map(async (movie) => {
+
+                try {
+                    const imagesRes = await axios.get(
+                        `https://api.themoviedb.org/3/movie/${movie.id}/images`,
+                        {
+                            params: {
+                                api_key: process.env.TMDB_API_KEY,
+                                language: "es-ES",
+                                include_image_language: "es, en, null",
+                            },
+                        }
+                    );
+        
+                    const logos = imagesRes.data?.logos;
+        
+                   // Prioridad: español → sin idioma
+                   const logoEs = logos.find(
+                    (logo) => logo.iso_639_1 === "es"
+                );
+                const logoEn = logos.find( (logo) => logo.iso_639_1 === "en" );
+        
+                const logoNull = logos.find(
+                    (logo) => logo.iso_639_1 === null
+                );
+        
+                const selectedLogo = logoEs || logoEn || logoNull;
+
+                    return {
+                        ...movie,
+                        logo: selectedLogo
+                            ? `https://image.tmdb.org/t/p/w500${selectedLogo.file_path}`
+                            : null
+                    }
+
+                } catch (error) {
+
+                    console.log(
+                        `No se pudo obtener el logo de ${movie.id}`
+                    )
+
+                    return {
+                        ...movie,
+                        logo: null
+                    }
+                }
+            })
+        )
+
+        const response = {
+            ...data,
+            results: moviesWithLogos
+        }
+
         // Guardar en cache
-        cache.set(cacheKey, data)
-        res.json(data)
+        cache.set(cacheKey, response)
+
+        res.json(response)
+
     } catch (error) {
-        res.json({mensaje: "error", error: error})
+
+        console.error(error)
+
+        res.status(500).json({
+            mensaje: "Error al obtener películas",
+            error: error.message
+        })
     }
 }
 

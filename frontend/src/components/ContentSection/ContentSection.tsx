@@ -25,7 +25,10 @@ export const ContentSection = ({
                 <div>
                     {!link 
                     ? "" 
-                    :  <Link to={link}>ver mas<i className="bi bi-chevron-right"></i></Link>
+                    :<Link className={styles.verMas} to={link}>
+                        <p>ver más </p>
+                        <i className="bi bi-chevron-right"></i>
+                    </Link>
                     }
                 </div>
             </div>

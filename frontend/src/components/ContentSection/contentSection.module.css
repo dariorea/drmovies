@@ -11,8 +11,13 @@
 }
 .verMas {
     display: flex;
+    align-items: center;
+    color: var(--red);
 }
-.titleSection a {
+.verMas i {
+    font-size: 18px;
+}
+.titleSection p {
     color: var(--red);
 }
 .containerCard {

@@ -3,6 +3,7 @@ import type { ApiResponse, Media } from "../../types/Movie"
 import { useFetch } from "../../hooks/useFetch"
 import { Link } from "react-router-dom"
 import { useEffect, useRef } from "react"
+import { LogoMovie } from "../LogoMovie/LogoMovie"
 
 interface Props {
     url: string
@@ -180,12 +181,12 @@ export const Hero = ({ url }: Props) => {
                             className={styles.portada}
                             style={{
                                 backgroundImage: `
-                                    linear-gradient(
-                                        to top,
-                                        black 0%,
-                                        transparent 60%,
-                                        transparent 100%
-                                    ),
+                                linear-gradient(
+                                    270deg,
+                                    transparent 0%, 
+                                    transparent 0%, 
+                                    rgba(0, 0, 0, 1) 100%)
+                                ,
                                     url(${IMG_BASE}${movie.backdrop_path})
                                 `
                             }}
@@ -193,9 +194,7 @@ export const Hero = ({ url }: Props) => {
 
                             <div className={styles.nameHero}>
 
-                                <h1>
-                                    {movie.title || movie.name}
-                                </h1>
+                                <LogoMovie data={movie} />
 
                                 <Link
                                     to={`/movies/${movie.id}`}

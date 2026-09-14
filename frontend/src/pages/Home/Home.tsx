@@ -31,7 +31,7 @@ export const Home = () => {
                 </div>
             </div>
             <div className={styles.preHero}>
-                <Hero url={`/movies/popular`} />
+                <Hero url={`/movies`} />
             </div>
             <div className={styles.mainContainer}>
                 <ContentSection
