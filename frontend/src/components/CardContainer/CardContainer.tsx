@@ -2,6 +2,7 @@ import { MovieCard } from "../MovieCard/MovieCard"
 import type { ApiResponse, Media } from "../../types/Movie"
 import { useFetch } from "../../hooks/useFetch"
 import styles from "./cardcontainer.module.css"
+import { LoadingCards } from "../LoadingCards/LoadingCards"
 
 interface Props {
     url: string
@@ -11,7 +12,7 @@ interface Props {
 export const CardContainer = ({url, types}: Props) => {
     const { data, loading, error } = useFetch<ApiResponse<Media>>(url)
 
-    if (loading) return <div className={styles.cardone}> <p>cargando...</p></div>
+    if (loading) return <LoadingCards />
     if (error) return <p>Error: {error.message}</p>
 
     return (

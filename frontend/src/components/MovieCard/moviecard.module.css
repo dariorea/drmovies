@@ -1,11 +1,7 @@
 .movieCard {
     width: 156px;
     height: auto;
-    gap: 6px;
     display: flex;
-    transition: transform .5s ease;
-    flex-direction: column;
-    overflow: hidden;
     @media (max-width: 750px) {
         width: 100px;
         height: 150px;
@@ -13,7 +9,7 @@
 }
 .imgMovieCard {
     width: 100%;
-    border-radius: 6px;
+    border-radius: 8px;
     height: 240px;
     @media (max-width:750px) {
         height: 150px;
