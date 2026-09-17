@@ -20,6 +20,7 @@ export type Movie = {
     vote_average: number
     vote_count: number
     adult: boolean
+    origin_country: string[]
     genre_ids: number[]
     original_language: string
     original_title: string
