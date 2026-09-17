@@ -58,6 +58,7 @@ export const Episodes = ({ data }: Props) => {
     if (!data.seasons?.length) {
         return <p>No hay temporadas disponibles.</p>;
     }
+    const typeUrl = data.origin_country[0] === "JP" && data.genres.find(g => g.name === "Animación")? "anime" : "serie"
 
     return (
         <div className={styles.mainContainer}>
@@ -92,6 +93,7 @@ export const Episodes = ({ data }: Props) => {
                         id={id}
                         season={season}
                         episode={episode}
+                        typeUrl={typeUrl}
                     />
                 )}
             </div>

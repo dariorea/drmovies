@@ -69,6 +69,7 @@ export type MoviesResponse = {
     logo?: string | null;
     logoFanart?: string
     seasons?: Season[]
+    origin_country: string[]
   }
 
 

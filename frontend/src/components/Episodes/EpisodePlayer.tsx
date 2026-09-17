@@ -4,6 +4,7 @@ interface Props {
     id: string | undefined;
     season: number;
     episode: number;
+    typeUrl: string;
 }
 
 const VIMEUS_VIEW_KEY = import.meta.env.VITE_VIMEUS_KEY_VIEW;
@@ -12,9 +13,10 @@ export const EpisodePlayer = ({
     id,
     season,
     episode,
+    typeUrl
 }: Props) => {
     const videoUrl =
-        `https://vimeus.com/e/serie` +
+        `https://vimeus.com/e/${typeUrl}` +
         `?tmdb=${id}` +
         `&view_key=${VIMEUS_VIEW_KEY}` +
         `&se=${season}` +
