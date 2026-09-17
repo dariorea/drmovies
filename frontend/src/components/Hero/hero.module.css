@@ -4,7 +4,7 @@
 
     margin: 0;
     padding: 0;
-    border-bottom: 1px solid rgb(34, 33, 33);
+
     overflow: hidden;
 }
 
@@ -59,6 +59,7 @@
 @media (max-width: 750px) {
     .containerHero {
         height: 50vh;
+
     }
 }
 
@@ -82,18 +83,6 @@
     }
 }
 
-.btnWatch {
-    display: inline-flex;
-    align-items: center;
-
-    text-decoration: none;
-    color: white;
-
-    padding: 10px;
-    border-radius: 8px;
-
-    background: var(--red);
-}
 
 @media (max-width: 750px) {
     .btnWatch span {

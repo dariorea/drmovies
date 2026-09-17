@@ -25,9 +25,8 @@ export const EpisodeCard = ({ episode, onSelect }: Props) => {
             />
 
             <div className={styles.episodeData}>
-                <p>
-                    EP{episode.episode_number} - {episode.name}
-                </p>
+                <p>EP{episode.episode_number}</p>
+                <p>{episode.name}</p>
             </div>
         </button>
     );

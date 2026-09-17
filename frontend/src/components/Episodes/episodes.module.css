@@ -2,7 +2,6 @@
     width: 100%;
     display: flex;
     flex-direction: column;
-    gap: 8px;
 }
 
 
@@ -14,14 +13,12 @@
     display: flex;
     align-items: center;
     width: 100%;
-    padding: 24px 0 16px;
+    padding: 14px 0;
 }
 
 .titleContainer h2 {
     margin: 0;
     color: var(--text-h);
-    font-size: 1.5rem;
-    font-weight: 600;
 }
 
 
@@ -34,24 +31,10 @@
     display: flex;
     gap: 14px;
     overflow-x: auto;
-    padding: 4px 2px 12px;
-    scroll-behavior: smooth;
-    scrollbar-width: thin;
-    scrollbar-color: rgba(255, 255, 255, 0.2) transparent;
+    padding: 4px 0px 0px 0px;
+
 }
 
-.seasonContainer::-webkit-scrollbar {
-    height: 6px;
-}
-
-.seasonContainer::-webkit-scrollbar-track {
-    background: transparent;
-}
-
-.seasonContainer::-webkit-scrollbar-thumb {
-    background: rgba(255, 255, 255, 0.2);
-    border-radius: 10px;
-}
 
 .seasonCard {
     width: 180px;
@@ -100,22 +83,6 @@
     overflow-x: auto;
     padding: 4px 2px 14px;
     scroll-behavior: smooth;
-
-    scrollbar-width: thin;
-    scrollbar-color: rgba(255, 255, 255, 0.2) transparent;
-}
-
-.episodesContainer::-webkit-scrollbar {
-    height: 6px;
-}
-
-.episodesContainer::-webkit-scrollbar-track {
-    background: transparent;
-}
-
-.episodesContainer::-webkit-scrollbar-thumb {
-    background: rgba(255, 255, 255, 0.2);
-    border-radius: 10px;
 }
 
 
@@ -130,8 +97,8 @@
     flex-shrink: 0;
 
     display: flex;
-    flex-direction: column;
 
+    flex-wrap: wrap;
     padding: 8px;
 
     border: 1px solid rgba(255, 255, 255, 0.1);
@@ -204,10 +171,7 @@
 
     color: var(--text);
 
-    background: none;
     border: none;
-
-    text-align: left;
 
     cursor: pointer;
 }
@@ -256,7 +220,7 @@
 @media (max-width: 560px) {
 
     .titleContainer {
-        padding: 16px 0 12px;
+        padding: 10px 0;
     }
 
     .titleContainer h2 {
@@ -287,6 +251,7 @@
         gap: 10px;
         padding-bottom: 8px;
 
+        flex-direction: column;
         scrollbar-width: none;
     }
 
@@ -295,14 +260,15 @@
     }
 
     .episodesCard {
-        width: 180px;
-
+        width: 100%;
         padding: 6px;
-
+        flex-wrap: nowrap;
+        gap: 10px;
         border-radius: 7px;
     }
 
     .episodesCard img {
+        width: 150px;
         border-radius: 5px;
     }
 

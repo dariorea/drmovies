@@ -4,6 +4,7 @@ import { useFetch } from "../../hooks/useFetch"
 import { Link } from "react-router-dom"
 import { useEffect, useRef } from "react"
 import { LogoMovie } from "../LogoMovie/LogoMovie"
+import { Button } from "../Button/Button"
 
 interface Props {
     url: string
@@ -182,7 +183,7 @@ export const Hero = ({ url }: Props) => {
                             style={{
                                 backgroundImage: `
                                 linear-gradient(
-                                    270deg,
+                                    180deg,
                                     transparent 0%, 
                                     transparent 0%, 
                                     rgba(0, 0, 0, 1) 100%)
@@ -196,17 +197,11 @@ export const Hero = ({ url }: Props) => {
 
                                 <LogoMovie data={movie} />
 
-                                <Link
-                                    to={`/movies/${movie.id}`}
-                                    className={styles.btnWatch}
-                                >
-
-                                    <i className="bi bi-play-fill"></i>
-
-                                    <span>
-                                        Ver ahora
-                                    </span>
-
+                                <Link to={`/movies/${movie.id}`}>
+                                    <Button color="--red">
+                                        <i className="bi bi-play-fill"></i>
+                                        <h3>Ver ahora</h3>
+                                    </Button>
                                 </Link>
 
                             </div>

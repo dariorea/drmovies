@@ -2,8 +2,9 @@
     width: 100%;
     display: flex;
     justify-content: center;
+    padding: 10px 0;
     @media (max-width: 560px) {
-        padding: 2px 0 2px 0;
+        padding: 5px 0;
         gap: 10px;
     }
 
