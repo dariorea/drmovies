@@ -2,7 +2,8 @@ import { useEffect, useState } from "react"
 import { Navbar } from "../../components/Navbar/Navbar"
 import styles from "./search.module.css"
 import type { Media } from "../../types/Movie"
-import { MovieCard } from "../../components/MovieCard/MovieCard"
+import { ItemCard } from "../../components/ItemCard/ItemCard"
+import { TvRegion } from "../../components/TvRegion/TvRegion"
 
 
 
@@ -56,7 +57,7 @@ export const Search = () => {
                     <Navbar/>
                 </div>
             </div>
-            <div className={styles.mainContainer}>
+            <TvRegion id="form" type="row" focusClassName="tv-focused-card" className={styles.mainContainer}>
                 <div className={styles.titleContainer}>
                     <h1>¿Que querés ver hoy?</h1>
                 </div>
@@ -68,28 +69,29 @@ export const Search = () => {
                     }}
                 >
                     <input
+                        data-tv-focusable    
                         type="text"
                         placeholder="Buscar películas..."
                         value={query}
                         onChange={(e) => setQuery(e.target.value)}
                     />
-                    <button className={styles.btnSearch} type="submit">
+                    <button data-tv-focusable className={styles.btnSearch} type="submit">
                         <i className="bi bi-search"></i>
                     </button>
                 </form>
                 
-            </div>
+            </TvRegion>
             
             
             {loading && <p>Buscando...</p>}
             
-            <div className={styles.moviesGrid}>
+            <TvRegion id="grid" focusClassName="tv-focused-card"  className={styles.moviesGrid}>
                 {item.map(movie => (
                     <div key={movie.id}>
-                        <MovieCard item={movie} type={movie.first_air_date ? "series" : "movies"}/>
+                        <ItemCard item={movie} type={movie.first_air_date ? "series" : "movies"}/>
                     </div>
                 ))}
-            </div>
+            </TvRegion>
         </div>
     )
 }

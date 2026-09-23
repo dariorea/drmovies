@@ -1,8 +1,10 @@
 import styles from "./hero.module.css"
-import type { ApiResponse, Media } from "../../types/Movie"
-import { useFetch } from "../../hooks/useFetch"
-import { Link } from "react-router-dom"
+import { Link, useNavigate } from "react-router-dom"
 import { useEffect, useRef } from "react"
+import { useSpatialNavigation, useNavSnapshot } from "@tv-spatial-navigation/react"
+import type { ApiResponse, Media } from "../../types/Movie"
+import { TvRegion } from "../TvRegion/TvRegion"
+import { useFetch } from "../../hooks/useFetch"
 import { LogoMovie } from "../LogoMovie/LogoMovie"
 import { Button } from "../Button/Button"
 
@@ -12,7 +14,12 @@ interface Props {
 
 export const Hero = ({ url }: Props) => {
 
-    const IMG_BASE = import.meta.env.VITE_TMDB_BACKGROUND_IMAGE_URL
+    const navigate = useNavigate()
+    const navigation = useSpatialNavigation()
+    const snapshot = useNavSnapshot()
+
+    const IMG_BASE =
+        import.meta.env.VITE_TMDB_BACKGROUND_IMAGE_URL
 
     const { data, loading, error } =
         useFetch<ApiResponse<Media>>(url)
@@ -63,6 +70,8 @@ export const Hero = ({ url }: Props) => {
 
             const slideWidth = container.clientWidth
 
+            if (!slideWidth) return
+
             const currentIndex = Math.round(
                 container.scrollLeft / slideWidth
             )
@@ -74,7 +83,7 @@ export const Hero = ({ url }: Props) => {
                 behavior: "smooth"
             })
 
-        }, 5000)
+        }, 9000)
 
         return () => clearInterval(interval)
 
@@ -101,35 +110,44 @@ export const Hero = ({ url }: Props) => {
 
                 const slideWidth = container.clientWidth
 
-                if (!slideWidth) return
+                if (!slideWidth || !results.length) return
 
                 const currentIndex = Math.round(
                     container.scrollLeft / slideWidth
                 )
 
 
-                // Llegamos al clon del primero
-                if (currentIndex === results.length + 1) {
+                // Clon del primer slide
+                if (
+                    currentIndex === results.length + 1
+                ) {
 
-                    container.scrollTo({
-                        left: slideWidth,
-                        behavior: "auto"
+                    container.style.scrollBehavior = "auto"
+
+                    container.scrollLeft = slideWidth
+
+                    requestAnimationFrame(() => {
+                        container.style.scrollBehavior = ""
                     })
 
                 }
 
 
-                // Llegamos al clon del último
+                // Clon del último slide
                 else if (currentIndex === 0) {
 
-                    container.scrollTo({
-                        left: results.length * slideWidth,
-                        behavior: "auto"
+                    container.style.scrollBehavior = "auto"
+
+                    container.scrollLeft =
+                        results.length * slideWidth
+
+                    requestAnimationFrame(() => {
+                        container.style.scrollBehavior = ""
                     })
 
                 }
 
-            }, 150)
+            }, 200)
 
         }
 
@@ -153,6 +171,218 @@ export const Hero = ({ url }: Props) => {
     }, [results.length])
 
 
+    // --------------------------------
+    // CAMBIAR SLIDE
+    // --------------------------------
+
+    const moveSlide = (
+        direction: "next" | "prev"
+    ) => {
+
+        const container = containerRef.current
+
+        if (!container) return
+
+        const slideWidth = container.clientWidth
+
+        if (!slideWidth) return
+
+        const currentIndex = Math.round(
+            container.scrollLeft / slideWidth
+        )
+
+        const nextIndex =
+            direction === "next"
+                ? currentIndex + 1
+                : currentIndex - 1
+
+        container.scrollTo({
+            left: nextIndex * slideWidth,
+            behavior: "smooth"
+        })
+
+    }
+
+
+    // --------------------------------
+    // ← →
+    // --------------------------------
+
+    useEffect(() => {
+
+        const handleKeyDown = (
+            event: KeyboardEvent
+        ) => {
+
+            const snapshot =
+                navigation.getSnapshot()
+
+            if (
+                snapshot.focusKey !== "hero:0"
+            ) {
+                return
+            }
+
+            if (
+                event.key !== "ArrowRight" &&
+                event.key !== "ArrowLeft"
+            ) {
+                return
+            }
+
+            event.preventDefault()
+            event.stopPropagation()
+
+            moveSlide(
+                event.key === "ArrowRight"
+                    ? "next"
+                    : "prev"
+            )
+
+        }
+
+        window.addEventListener(
+            "keydown",
+            handleKeyDown,
+            true
+        )
+
+        return () => {
+
+            window.removeEventListener(
+                "keydown",
+                handleKeyDown,
+                true
+            )
+
+        }
+
+    }, [navigation])
+
+
+    // --------------------------------
+    // ENTER
+    // --------------------------------
+
+    useEffect(() => {
+
+        const handleKeyDown = (
+            event: KeyboardEvent
+        ) => {
+
+            const snapshot =
+                navigation.getSnapshot()
+
+            if (
+                snapshot.focusKey !== "hero:0"
+            ) {
+                return
+            }
+
+            if (event.key !== "Enter") return
+
+            const container =
+                containerRef.current
+
+            if (
+                !container ||
+                !results.length
+            ) {
+                return
+            }
+
+            const slideWidth =
+                container.clientWidth
+
+            if (!slideWidth) return
+
+            const currentIndex = Math.round(
+                container.scrollLeft / slideWidth
+            )
+
+            let movieIndex: number
+
+
+            // Clon del último
+            if (currentIndex === 0) {
+
+                movieIndex =
+                    results.length - 1
+
+            }
+
+
+            // Clon del primero
+            else if (
+                currentIndex === results.length + 1
+            ) {
+
+                movieIndex = 0
+
+            }
+
+
+            // Slide real
+            else {
+
+                movieIndex =
+                    currentIndex - 1
+
+            }
+
+            const movie =
+                results[movieIndex]
+
+            if (!movie) return
+
+            event.preventDefault()
+            event.stopPropagation()
+
+            navigate(
+                `/movies/${movie.id}`
+            )
+
+        }
+
+        window.addEventListener(
+            "keydown",
+            handleKeyDown,
+            true
+        )
+
+        return () => {
+
+            window.removeEventListener(
+                "keydown",
+                handleKeyDown,
+                true
+            )
+
+        }
+
+    }, [
+        navigation,
+        navigate,
+        results
+    ])
+
+    useEffect(() => {
+
+        if (snapshot.focusKey !== "hero:0") {
+            return
+        }
+    
+        window.scrollTo({
+            top: 0,
+            behavior: "auto"
+        })
+    
+    }, [snapshot.focusKey])
+
+    // --------------------------------
+    // ESTADOS
+    // --------------------------------
+
     if (loading) {
         return <div />
     }
@@ -162,9 +392,25 @@ export const Hero = ({ url }: Props) => {
     }
 
 
+    // --------------------------------
+    // RENDER
+    // --------------------------------
+
     return (
 
-        <div className={styles.containerHero}>
+        <TvRegion
+            id="hero"
+            type="row"
+            className={styles.containerHero}
+            focusClassName="tv-focused-card"
+        >
+
+            {/* Elemento utilizado solamente para el foco TV */}
+            <div
+                data-tv-focusable
+                className={styles.heroFocus}
+                aria-hidden="true"
+            />
 
             <div
                 ref={containerRef}
@@ -182,25 +428,41 @@ export const Hero = ({ url }: Props) => {
                             className={styles.portada}
                             style={{
                                 backgroundImage: `
-                                linear-gradient(
-                                    180deg,
-                                    transparent 0%, 
-                                    transparent 0%, 
-                                    rgba(0, 0, 0, 1) 100%)
-                                ,
+                                    linear-gradient(
+                                        180deg,
+                                        transparent 0%,
+                                        rgba(0, 0, 0, 1) 95%,
+                                        rgba(0, 0, 0, 1) 100%
+                                    ),
                                     url(${IMG_BASE}${movie.backdrop_path})
                                 `
                             }}
                         >
 
-                            <div className={styles.nameHero}>
+                            <div
+                                className={styles.nameHero}
+                            >
 
-                                <LogoMovie data={movie} />
+                                <LogoMovie
+                                    data={movie}
+                                />
 
-                                <Link to={`/movies/${movie.id}`}>
+                                <Link
+                                    to={`/movies/${movie.id}`}
+                                    className={`${styles.verAhora} ${
+                                        snapshot.focusKey === "hero:0"
+                                            ? "tv-focused-hero"
+                                            : ""
+                                    }`}
+                                >
                                     <Button color="--red">
+
                                         <i className="bi bi-play-fill"></i>
-                                        <h3>Ver ahora</h3>
+
+                                        <h3>
+                                            Ver ahora
+                                        </h3>
+
                                     </Button>
                                 </Link>
 
@@ -213,7 +475,8 @@ export const Hero = ({ url }: Props) => {
                 ))}
 
             </div>
+            <div className={styles.black}></div>
 
-        </div>
+        </TvRegion>
     )
 }

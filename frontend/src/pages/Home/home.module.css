@@ -51,7 +51,7 @@
 
     width: 92%;
 }
-.preHero {
+.containerHero {
     z-index: 90;
     width: 100%;
     height: 85vh;
@@ -61,3 +61,10 @@
     }
 }
 
+.black {
+    width: 100%;
+    height: 2px;
+    background-color: rgb(0, 0, 0);
+    margin-top: -2px;
+    z-index: 90;
+}

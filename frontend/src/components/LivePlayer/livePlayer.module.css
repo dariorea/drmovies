@@ -1,0 +1,163 @@
+.container {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.title {
+    margin-bottom: 20px;
+}
+
+.title h2 {
+    margin: 0;
+    font-size: 1.5rem;
+}
+
+.player {
+    position: relative;
+    width: 100%;
+    aspect-ratio: 16 / 9;
+    background: #000;
+    overflow: hidden;
+}
+
+.video {
+    width: 100%;
+    height: 100%;
+    display: block;
+    object-fit: contain;
+    background: #000;
+}
+
+.loading,
+.error {
+    position: absolute;
+    inset: 0;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+    gap: 10px;
+
+    background: rgba(0, 0, 0, 0.8);
+
+    font-size: 1rem;
+}
+
+.loading i {
+    font-size: 2rem;
+    animation: spin 1s linear infinite;
+}
+
+.error {
+    color: #fff;
+}
+
+.error i {
+    font-size: 2rem;
+}
+
+.controls {
+    position: absolute;
+
+    left: 0;
+    right: 0;
+    bottom: 0;
+
+    min-height: 70px;
+
+    display: flex;
+    align-items: center;
+
+    gap: 15px;
+
+    padding: 15px 20px;
+
+    background: linear-gradient(
+        to top,
+        rgba(0, 0, 0, 0.9),
+        transparent
+    );
+}
+
+.control {
+    width: 45px;
+    height: 45px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    border: none;
+    border-radius: 50%;
+
+    background: rgba(255, 255, 255, 0.12);
+
+    color: white;
+
+    cursor: pointer;
+
+    transition:
+        background 0.2s ease,
+        transform 0.2s ease;
+}
+
+.control i {
+    font-size: 1.4rem;
+}
+
+.control:hover,
+.control:focus {
+    background: rgba(255, 255, 255, 0.25);
+    transform: scale(1.05);
+    outline: none;
+}
+
+.live {
+    display: flex;
+    align-items: center;
+
+    gap: 7px;
+
+    margin-right: auto;
+
+    font-size: 0.8rem;
+    font-weight: 700;
+}
+
+.live span {
+    width: 8px;
+    height: 8px;
+
+    border-radius: 50%;
+
+    background: red;
+}
+
+@keyframes spin {
+    from {
+        transform: rotate(0deg);
+    }
+
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+@media (max-width: 600px) {
+    .title h2 {
+        font-size: 1.2rem;
+    }
+
+    .controls {
+        min-height: 60px;
+        padding: 10px 15px;
+    }
+
+    .control {
+        width: 40px;
+        height: 40px;
+    }
+}

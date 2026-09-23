@@ -132,4 +132,53 @@ iframe {
   @media (max-width:560px) {
     height: 200px;
   }
+}/*
+.tv-focused {
+  position: relative;
+  z-index: 10;
+
+  transform: scale(1.06);
+
+  border: 2px solid white;
+  border-radius: 8px;
+
+  box-shadow:
+      0 0 0 2px rgba(255, 255, 255, 0.2),
+      0 0 18px rgba(255, 255, 255, 0.35),
+      0 12px 30px rgba(0, 0, 0, 0.8);
+
+  transition:
+      transform 0.2s ease,
+      box-shadow 0.2s ease;
+}*/
+
+.tv-focused-nav {
+  position: relative;
+  z-index: 10;
+  
+  transform: scale(1.06);
+  border-radius: 8px;
+  background-color: rgb(71, 71, 71);
+
+  box-shadow:
+    0 0 0 0 rgb(70, 70, 70),
+    0 0 18px  rgb(70, 70, 70),
+    0 12px 30px rgba(0, 0, 0, 0.8);
+  transition:
+    transform 0.2s ease,
+    box-shadow 0.2s ease;
+}
+.tv-focused-card {
+  transform: scale(1.06);
+  border-radius: 8px;
+  box-shadow:
+    0 0 0 2px white,
+    0 0 1px white;
+}
+.tv-focused-hero {
+  transform: scale(1.05);
+  border-radius: 14px;
+  box-shadow:
+  0 0 0 2px white,
+  0 0 1px white;
 }

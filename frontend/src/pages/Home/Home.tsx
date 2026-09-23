@@ -30,9 +30,10 @@ export const Home = () => {
                     <Navbar/>
                 </div>
             </div>
-            <div className={styles.preHero}>
+            <div className={styles.containerHero}>
                 <Hero url={`/movies`} />
             </div>
+            <div className={styles.black}></div>
             <div className={styles.mainContainer}>
                 <ContentSection
                     title="Peliculas"

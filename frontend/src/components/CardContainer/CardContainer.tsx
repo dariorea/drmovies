@@ -1,4 +1,4 @@
-import { MovieCard } from "../MovieCard/MovieCard"
+import { ItemCard } from "../ItemCard/ItemCard"
 import type { ApiResponse, Media } from "../../types/Movie"
 import { useFetch } from "../../hooks/useFetch"
 import styles from "./cardcontainer.module.css"
@@ -9,7 +9,7 @@ interface Props {
     types: "series" | "movies"
 }
 
-export const CardContainer = ({url, types}: Props) => {
+export const CardContainer = ({ url, types }: Props) => {
     const { data, loading, error } = useFetch<ApiResponse<Media>>(url)
 
     if (loading) return <LoadingCards />
@@ -18,9 +18,11 @@ export const CardContainer = ({url, types}: Props) => {
     return (
         <div className={styles.containerCards}>
             {data?.results.map(movie => (
-                <div key={movie.id}>
-                    <MovieCard item={movie} type={types}/>
-                </div>
+                <ItemCard
+                    key={movie.id}
+                    item={movie}
+                    type={types}
+                />
             ))}
         </div>
     )

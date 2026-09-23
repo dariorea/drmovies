@@ -9,6 +9,6 @@ interface Props {
 
 export const Button = ({action, children, color}: Props) => {
     return (
-        <button style={{ backgroundColor: `var(${color})`  }} className={styles.btnCustom} onClick={action}>{children}</button>
+        <button data-tv-focusable style={{ backgroundColor: `var(${color})`  }} className={styles.btnCustom} onClick={action}>{children}</button>
     )
 }

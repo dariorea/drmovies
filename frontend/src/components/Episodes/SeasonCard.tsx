@@ -12,6 +12,7 @@ export const SeasonCard = ({ season, onSelect }: Props) => {
     return (
         <div className={styles.seasonCard}>
             <button
+                data-tv-focusable
                 type="button"
                 onClick={() => onSelect(season.season_number)}
             >

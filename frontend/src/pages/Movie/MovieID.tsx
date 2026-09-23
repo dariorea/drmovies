@@ -4,13 +4,13 @@ import styles from "./movieid.module.css"
 import type { Movie } from "../../types/Movie"
 import { useFetch } from "../../hooks/useFetch"
 import { Navbar } from "../../components/Navbar/Navbar"
-import { ItemInfo } from "../../components/itemInfo/itemInfo"
 import { Background } from "../../components/Background/Background"
-import { Button } from "../../components/Button/Button"
 import { Preload } from "../../components/Preload/Preload"
 import { Footer } from "../../components/Footer/Footer"
 import { ContentSection } from "../../components/ContentSection/ContentSection"
-import { LogoMovie } from "../../components/LogoMovie/LogoMovie"
+import { TvRegion } from "../../components/TvRegion/TvRegion"
+import { MoviePlayer } from "../../components/MoviePlayer/MoviePlayer"
+//import { Button } from "../../components/Button/Button"
 
 export const MovieID = () => {
     const [isActive, setIsActive] = useState(false)
@@ -34,7 +34,7 @@ export const MovieID = () => {
 
 
 	//const IMG_BASE = import.meta.env.VITE_TMDB_IMAGE_URL
-    const VIMEUS_VIEW_KEY = import.meta.env.VITE_VIMEUS_KEY_VIEW
+    //const VIMEUS_VIEW_KEY = import.meta.env.VITE_VIMEUS_KEY_VIEW
 
     if (loading) return <Preload />
     if (error) return <p>Error: {error.message}</p>
@@ -63,29 +63,16 @@ export const MovieID = () => {
                     <Navbar/>
                 </div>
             </div>
-            <Background className={styles.containerBackground} data={data}/>
-            <div className={styles.container}>
-                <LogoMovie data={data}/>
-                <ItemInfo data={data} />
-                <div className={styles.containerBtn}>
-                    <Button color="--red" action={change}>
-                        <i className="bi bi-play-fill"></i>
-                        <h2>Reproducir</h2>
-                    </Button>
-                    <Button color="--gray" action={change}>
-                        <i className="bi bi-bookmark-plus"></i>
-                    </Button>
-                </div>
-            </div>
+            <Background className={styles.containerBackground} data={data} action={change}/>
             
             <div ref={playerRef} className={styles.movieContainer}>
                 <div className={isActive ? styles.isActive : styles.desactive} >
-                    <div className={styles.moviePlayer}>
-                        <div className={styles.titleMovie}>
-                            <h2>Estas viendo "{data.title}"</h2>
-                        </div>
-                        <iframe src={`https://vimeus.com/e/movie?tmdb=${id}&view_key=${VIMEUS_VIEW_KEY}&autoplay=1`} width="100%" height="600" frameBorder="0" allowFullScreen referrerPolicy="origin"></iframe>
-                    </div>
+                <TvRegion id="player" className={styles.moviePlayer} focusClassName="tv-focused-hero">
+                    <MoviePlayer
+                        tmdbId={id!}
+                        title={data.title}
+                    />
+                </TvRegion>
                 </div>
             </div>
             <div className={styles.container}>

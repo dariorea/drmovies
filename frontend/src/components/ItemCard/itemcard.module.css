@@ -1,0 +1,30 @@
+.movieCard {
+    height: 240px;
+
+    display: block;
+    outline: none;
+    flex-shrink: 0;
+    border: 2px solid transparent;
+    transition:
+        transform 0.2s ease,
+        border 0.2s ease;
+}
+
+.imgMovieCard {
+    width: 100%;
+    height: 240px;
+
+    object-fit: cover;
+    border-radius: 8px;
+
+    @media (max-width: 750px) {
+        height: 150px;
+    }
+}
+
+@media (max-width: 750px) {
+    .movieCard {
+        width: 100px;
+        height: 150px;
+    }
+}

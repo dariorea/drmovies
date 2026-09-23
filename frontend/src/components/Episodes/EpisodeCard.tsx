@@ -11,6 +11,7 @@ const IMG_BASE = import.meta.env.VITE_TMDB_IMAGE_URL;
 export const EpisodeCard = ({ episode, onSelect }: Props) => {
     return (
         <button
+            data-tv-focusable
             type="button"
             className={styles.episodesCard}
             onClick={() => onSelect(episode.episode_number)}

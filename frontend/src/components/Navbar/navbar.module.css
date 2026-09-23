@@ -1,37 +1,67 @@
+.tvRegion {
+    width: 100%;
+}
+
 .navbar {
+
     width: 100%;
     height: 60px;
+
     display: flex;
+
     gap: 30px;
+
     justify-content: start;
     align-items: center;
-    @media (max-width: 750px) {
-        justify-content: space-between;
-    }
+
 }
+
 .logoContainer {
+
     display: flex;
+
     align-items: center;
+
+    outline: none;
+
 }
+
 .logo {
+
     width: 28px;
+
     padding: 10px;
+
     border-radius: 10px;
-    background: linear-gradient(var(--red), rgb(183, 12, 12));
+
+    background: linear-gradient(
+        var(--red),
+        rgb(183, 12, 12)
+    );
+
 }
+
 .navLinks {
+
     display: flex;
+
     justify-content: space-between;
+
     list-style: none;
+
     gap: 20px;
+
+
     z-index: 100;
-    @media (max-width: 750px) {
-        display: none;
-    }
+
 }
+
 .navLinks a {
+
     color: white;
-}
-a {
+
     text-decoration: none;
+    padding: 10px;
+    outline: none;
+
 }

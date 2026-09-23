@@ -20,7 +20,7 @@
 .inputContainer {
     width: 100%;
     display: flex;
-    gap: 10px;
+    gap: 20px;
     align-items: center;
     @media (max-width: 750px) {
     }
@@ -37,7 +37,7 @@
     display: flex;
     flex-wrap: wrap;
     gap: 20px;
-    justify-content: space-between;
+    justify-content: flex-start;
 }
 .btnSearch {
     cursor: pointer;

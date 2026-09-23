@@ -6,6 +6,7 @@ import styles from "./episodes.module.css";
 import { SeasonCard } from "./SeasonCard";
 import { EpisodeCard } from "./EpisodeCard";
 import { EpisodePlayer } from "./EpisodePlayer";
+import { TvRegion } from "../TvRegion/TvRegion";
 
 interface Props {
     data: Media;
@@ -72,7 +73,7 @@ export const Episodes = ({ data }: Props) => {
                     <h2>Temporadas</h2>
                 </div>
 
-                <div className={styles.seasonContainer}>
+                <TvRegion id="season" className={styles.seasonContainer} focusClassName="tv-focused-card">
                     {data.seasons.map((seasonItem) => (
                         <SeasonCard
                             key={seasonItem.id}
@@ -80,7 +81,7 @@ export const Episodes = ({ data }: Props) => {
                             onSelect={handleSeasonChange}
                         />
                     ))}
-                </div>
+                </TvRegion>
             </section>
 
             {/* ==================== */}
@@ -110,7 +111,7 @@ export const Episodes = ({ data }: Props) => {
                 ) : null}
             </div>
 
-            <div className={styles.episodesContainer}>
+            <TvRegion id="episode" type="row" className={styles.episodesContainer} focusClassName="tv-focused-card">
                 {selectedSeason?.episodes?.map((episodeItem) => (
                     <EpisodeCard
                         key={episodeItem.id}
@@ -118,7 +119,7 @@ export const Episodes = ({ data }: Props) => {
                         onSelect={handleEpisodeChange}
                     />
                 ))}
-            </div>
+            </TvRegion>
 
         </div>
     );
