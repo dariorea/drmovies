@@ -111,10 +111,16 @@ export const TvRegion = ({
         if (!snapshot.focusKey) return
 
 
-        const [focusedRegion, focusedIndex] =
-            snapshot.focusKey.split(":")
+        const [focusedRegion, focusedIndex] = snapshot.focusKey.split(":")
 
-
+        console.log(
+            "FOCUS:",
+            snapshot.focusKey,
+            "REGION:",
+            id,
+            "INDEX:",
+            focusedIndex
+        )
         if (focusedRegion !== id) return
 
 
