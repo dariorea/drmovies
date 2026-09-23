@@ -37,10 +37,6 @@ export async function getMovieStream(tmdbId) {
         .replace(/\{user\}|%7Buser%7D/gi, user)
         .replace(/\{password\}|%7Bpassword%7D/gi, password);
     
-        console.log("🎥 Stream original:", movie.streamUrl);
-        console.log("👤 IPTV_USER:", user);
-        console.log("🔑 IPTV_PASSWORD:", password ? "***" : "NO");
-        console.log("🎥 Stream final:", streamUrl);
 
     return {
         ...movie,

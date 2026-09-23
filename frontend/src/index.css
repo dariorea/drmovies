@@ -169,13 +169,13 @@ iframe {
     box-shadow 0.2s ease;
 }
 .tv-focused-card {
+
+  border: solid 2px white !important;
+  border-radius: 10px;
   transform: scale(1.06);
-  border-radius: 8px;
-  box-shadow:
-    0 0 0 2px white,
-    0 0 1px white;
 }
 .tv-focused-hero {
+  background-color: white;
   transform: scale(1.05);
   border-radius: 14px;
   box-shadow:

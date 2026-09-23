@@ -1,53 +1,10 @@
 import express from "express";
 import axios from "axios";
 
-import fs from "fs/promises";
-import path from "path";
-import { fileURLToPath } from "url";
-
+import { getMovieStream } from "../services/stream.service.js";
 const router = express.Router();
 
-const __filename = fileURLToPath(import.meta.url);
-const __dirname = path.dirname(__filename);
 
-const STREAMS_FILE = path.join(
-    __dirname,
-    "../data/movie-streams.json"
-);
-
-async function getStreamUrl(tmdbId) {
-    const content = await fs.readFile(
-        STREAMS_FILE,
-        "utf8"
-    );
-
-    const streams = JSON.parse(content);
-
-    const movie = streams[String(tmdbId)];
-
-    if (!movie) {
-        return null;
-    }
-
-    const user = process.env.IPTV_USER;
-    const password = process.env.IPTV_PASSWORD;
-
-    if (!user || !password) {
-        throw new Error(
-            "Faltan IPTV_USER o IPTV_PASSWORD en .env"
-        );
-    }
-
-    return movie.streamUrl
-        .replace("{user}", user)
-        .replace("{password}", password);
-}
-
-router.get("/test", (req, res) => {
-    res.json({
-        message: "Stream routes funcionando"
-    });
-});
 
 router.get(
     "/streams/:tmdbId",
@@ -55,15 +12,17 @@ router.get(
         try {
             const { tmdbId } = req.params;
 
-            const streamUrl =
-                await getStreamUrl(tmdbId);
+            const movie =
+                await getMovieStream(tmdbId);
 
-            if (!streamUrl) {
+            if (!movie) {
                 return res.status(404).json({
                     message:
                         "No se encontró un stream para esta película"
                 });
             }
+
+            const streamUrl = movie.streamUrl;
 
             console.log(
                 `🎬 Stream encontrado para TMDB ${tmdbId}`
@@ -109,9 +68,7 @@ router.get(
             }
 
             const contentLength =
-                response.headers[
-                    "content-length"
-                ];
+                response.headers["content-length"];
 
             if (contentLength) {
                 res.setHeader(
@@ -121,9 +78,7 @@ router.get(
             }
 
             const contentRange =
-                response.headers[
-                    "content-range"
-                ];
+                response.headers["content-range"];
 
             if (contentRange) {
                 res.setHeader(

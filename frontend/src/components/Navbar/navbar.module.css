@@ -65,3 +65,6 @@
     outline: none;
 
 }
+.navLinks a:global(.tv-focused-hero) {
+    color: black;
+}

@@ -10,8 +10,8 @@ const IMG_BASE = import.meta.env.VITE_TMDB_IMAGE_URL;
 
 export const SeasonCard = ({ season, onSelect }: Props) => {
     return (
-        <div className={styles.seasonCard}>
             <button
+                className={styles.seasonCard}
                 data-tv-focusable
                 type="button"
                 onClick={() => onSelect(season.season_number)}
@@ -21,6 +21,6 @@ export const SeasonCard = ({ season, onSelect }: Props) => {
                     alt={season.name}
                 />
             </button>
-        </div>
+        
     );
 }; 

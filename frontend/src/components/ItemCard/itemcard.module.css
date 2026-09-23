@@ -1,7 +1,9 @@
 .movieCard {
     height: 240px;
 
+    overflow: hidden;
     display: block;
+    border-radius: 10px;
     outline: none;
     flex-shrink: 0;
     border: 2px solid transparent;
@@ -15,7 +17,6 @@
     height: 240px;
 
     object-fit: cover;
-    border-radius: 8px;
 
     @media (max-width: 750px) {
         height: 150px;

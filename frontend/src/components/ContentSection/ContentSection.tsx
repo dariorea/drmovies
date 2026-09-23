@@ -42,12 +42,7 @@ export const ContentSection = ({
                 type="row"
                 focusClassName="tv-focused-card"
             >
-                <div className={styles.containerCard}>
-                    <CardContainer
-                        url={url}
-                        types={types}
-                    />
-                </div>
+                <CardContainer url={url} types={types}/>
             </TvRegion>
 
         </section>
