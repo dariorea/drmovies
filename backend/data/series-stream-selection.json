@@ -1,0 +1,92 @@
+{
+  "95350:1:3": {
+    "source": "lista-2",
+    "url": "http://planettvweb.com:8091/series/CarlosOso9642/carlos9642/160638.mkv",
+    "score": 130,
+    "video": {
+      "codec": "h264",
+      "profile": "High",
+      "width": 1280,
+      "height": 640,
+      "pix_fmt": "yuv420p"
+    },
+    "audio": {
+      "codec": "aac"
+    }
+  },
+  "95350:1:4": {
+    "source": "lista-2",
+    "url": "http://planettvweb.com:8091/series/CarlosOso9642/carlos9642/160888.mkv",
+    "score": 130,
+    "video": {
+      "codec": "h264",
+      "profile": "High",
+      "width": 1280,
+      "height": 640,
+      "pix_fmt": "yuv420p"
+    },
+    "audio": {
+      "codec": "aac"
+    }
+  },
+  "95350:1:2": {
+    "source": "lista-2",
+    "url": "http://planettvweb.com:8091/series/CarlosOso9642/carlos9642/160572.mkv",
+    "score": 130,
+    "video": {
+      "codec": "h264",
+      "profile": "High",
+      "width": 1280,
+      "height": 640,
+      "pix_fmt": "yuv420p"
+    },
+    "audio": {
+      "codec": "aac"
+    }
+  },
+  "95350:1:1": {
+    "source": "lista-2",
+    "url": "http://planettvweb.com:8091/series/CarlosOso9642/carlos9642/160571.mkv",
+    "score": 130,
+    "video": {
+      "codec": "h264",
+      "profile": "High",
+      "width": 1280,
+      "height": 640,
+      "pix_fmt": "yuv420p"
+    },
+    "audio": {
+      "codec": "aac"
+    }
+  },
+  "108978:3:2": {
+    "source": "lista-1",
+    "url": "http://23.153.217.158:8080/series/933431696tv/wnmh0e5/269994.mp4",
+    "score": 85,
+    "video": {
+      "codec": "h264",
+      "profile": "High",
+      "width": 1920,
+      "height": 960,
+      "pix_fmt": "yuv420p"
+    },
+    "audio": {
+      "codec": "eac3"
+    }
+  },
+  "95350:1:5": {
+    "source": "lista-2",
+    "url": "http://planettvweb.com:8091/series/CarlosOso9642/carlos9642/160889.mkv",
+    "score": 130,
+    "video": {
+      "codec": "h264",
+      "profile": "High",
+      "width": 1280,
+      "height": 640,
+      "pix_fmt": "yuv420p"
+    },
+    "audio": {
+      "codec": "aac"
+    }
+  }
+}

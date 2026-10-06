@@ -9,19 +9,20 @@ import styles from "./background.module.css"
 interface Props {
     data: Media
     className?: string
-    action?: () => void
+    optionOne: () => void
+    optionTwo?: () => void
 }
 
-export const Background = ({data, action}: Props) => {
+export const Background = ({data, optionOne, optionTwo}: Props) => {
     const IMG_BASE = import.meta.env.VITE_TMDB_BACKGROUND_IMAGE_URL
 
     return (
         <div  className={styles.background} style={{
             backgroundImage: `
                 linear-gradient(
-                    180deg,
-                    transparent 0%,
-                    rgba(0, 0, 0, 1) 95%,
+                    360deg,
+                    rgba(0, 0, 0, 1) 0%,
+                    transparent 50%,
                     rgba(0, 0, 0, 1) 100%
                 ),
                 url(${IMG_BASE}${data.backdrop_path})`
@@ -34,13 +35,15 @@ export const Background = ({data, action}: Props) => {
                         type="row" 
                         className={styles.containerBtn} 
                         focusClassName="tv-focused-hero"
-                    >
-                            <Button color="--red" action={action}>
+                        autoScroll={false}
+                        >
+                            <Button action={optionOne}>
                                 <i className="bi bi-play-fill"></i>
-                                <h2>Reproducir</h2>
+                                <h3>Opción 1</h3>
                             </Button>
-                            <Button color="--gray" action={action}>
-                                <i className="bi bi-bookmark-plus"></i>
+                            <Button action={optionTwo}>
+                                <i className="bi bi-play-fill"></i>
+                                <h3>Opción 2</h3>                            
                             </Button>
                     </TvRegion>
                 </div>

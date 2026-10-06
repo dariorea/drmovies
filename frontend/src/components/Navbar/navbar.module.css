@@ -11,7 +11,7 @@
 
     gap: 30px;
 
-    justify-content: start;
+    justify-content: space-between;
     align-items: center;
 
 }
@@ -27,18 +27,7 @@
 }
 
 .logo {
-
     width: 28px;
-
-    padding: 10px;
-
-    border-radius: 10px;
-
-    background: linear-gradient(
-        var(--red),
-        rgb(183, 12, 12)
-    );
-
 }
 
 .navLinks {
@@ -64,7 +53,4 @@
     padding: 10px;
     outline: none;
 
-}
-.navLinks a:global(.tv-focused-hero) {
-    color: black;
 }

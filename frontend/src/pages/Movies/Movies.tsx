@@ -1,4 +1,3 @@
-import { useState, useEffect } from "react"
 import { ContentSection } from "../../components/ContentSection/ContentSection"
 import { Footer } from "../../components/Footer/Footer"
 import { Navbar } from "../../components/Navbar/Navbar"
@@ -6,39 +5,18 @@ import styles from "./movies.module.css"
 
 
 export const Movies = () => {
-    const [scrolled, setScrolled] = useState(false)
-
-    useEffect(() => {
-        const handleScroll = () => {
-            setScrolled(window.scrollY > 20)
-        }
-        window.addEventListener("scroll", handleScroll)
-
-        return () => {
-            window.removeEventListener("scroll", handleScroll)
-        }
-    }, [])
 
     return (
         <div className={styles.container}>
-           <div className={`${styles.navbar} ${scrolled ? styles.scrolled : ""}`}>
-                <div className={styles.navbarBackground}></div>
-                <div className={styles.elements}>
-                    <Navbar/>
-                </div>
-            </div>
-            <div className={styles.titleContainer}>
-                <h1>Peliculas</h1>
-                <p>Explora y descubre las mejores Peliculas en nuestro catalogo</p>
-            </div>
+           <Navbar /> 
             <ContentSection
                 title="Tendencias"
                 url="/movies"
                 types="movies"
             />
             <ContentSection
-                title="Acción"
-                url="/movies/genre/28"
+                title="Películas 2026"
+                url="/movies/discover?year=2026"
                 types="movies"
             />
             <ContentSection
@@ -46,6 +24,12 @@ export const Movies = () => {
                 url="/movies/genre/35"
                 types="movies"
             />
+            <ContentSection
+                title="Películas de Corea del Sur"
+                url="/movies/discover?country=KR"
+                types="movies"
+            />
+
             <ContentSection
                 title="Crimen"
                 url="/movies/genre/80"

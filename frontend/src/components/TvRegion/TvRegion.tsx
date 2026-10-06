@@ -15,6 +15,10 @@ interface Props {
     children: ReactNode
     className?: string
     focusClassName?: string
+    onClick?: () => void
+
+    autoScroll?: boolean
+    scrollOffset?: number
 }
 
 export const TvRegion = ({
@@ -22,7 +26,9 @@ export const TvRegion = ({
     type = "row",
     children,
     className,
-    focusClassName
+    focusClassName,
+    autoScroll = true,
+    scrollOffset = 100
 }: Props) => {
 
     const containerRef = useRef<HTMLDivElement>(null)
@@ -47,9 +53,20 @@ export const TvRegion = ({
                 container.querySelectorAll<HTMLElement>(
                     "[data-tv-focusable]"
                 )
-            )
+            ).filter(item => {
+
+                // Buscar la región más cercana al elemento
+                const parentRegion =
+                    item.closest("[data-tv-region]")
+
+                // El elemento pertenece solamente
+                // a esta región
+                return parentRegion === container
+            })
+
 
             if (!items.length) return
+
 
             navigation.registerRegion({
                 id,
@@ -91,11 +108,18 @@ export const TvRegion = ({
 
         if (!container) return
 
+
         const items = Array.from(
             container.querySelectorAll<HTMLElement>(
                 "[data-tv-focusable]"
             )
-        )
+        ).filter(item => {
+
+            const parentRegion =
+                item.closest("[data-tv-region]")
+
+            return parentRegion === container
+        })
 
 
         // Quitar foco anterior
@@ -111,7 +135,8 @@ export const TvRegion = ({
         if (!snapshot.focusKey) return
 
 
-        const [focusedRegion, focusedIndex] = snapshot.focusKey.split(":")
+        const [focusedRegion, focusedIndex] =
+            snapshot.focusKey.split(":")
 
 
         if (focusedRegion !== id) return
@@ -138,10 +163,66 @@ export const TvRegion = ({
     ])
 
 
+    // Scroll automático
+    useEffect(() => {
+
+        if (!autoScroll) return
+
+        if (!snapshot.focusKey) return
+
+
+        const [region, index] =
+            snapshot.focusKey.split(":")
+
+
+        if (region !== id) return
+
+
+        const items = Array.from(
+            containerRef.current?.querySelectorAll<HTMLElement>(
+                "[data-tv-focusable]"
+            ) ?? []
+        ).filter(item => {
+
+            const parentRegion =
+                item.closest("[data-tv-region]")
+
+            return parentRegion === containerRef.current
+        })
+
+
+        const item = items[Number(index)]
+
+        if (!item) return
+
+
+        const rect = item.getBoundingClientRect()
+
+
+        const targetY =
+            rect.top +
+            window.scrollY -
+            scrollOffset
+
+
+        window.scrollTo({
+            top: targetY,
+            behavior: "smooth"
+        })
+
+    }, [
+        snapshot.focusKey,
+        id,
+        scrollOffset,
+        autoScroll
+    ])
+
+
     return (
         <div
             ref={containerRef}
             className={className}
+            data-tv-region={id}
         >
             {children}
         </div>

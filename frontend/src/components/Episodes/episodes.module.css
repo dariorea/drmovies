@@ -28,37 +28,23 @@
 
 .seasonContainer {
     width: 100%;
+    box-sizing: border-box;
+    height: 236px;
+    align-items: center;
     display: flex;
-    gap: 14px;
     overflow-x: auto;
-    overflow-y: hidden;
-    padding: 10px;
 }
 
 
 .seasonCard {
-    width: 180px;
+    width: 130px;
+    height: 180px;
     flex-shrink: 0;
-    overflow: hidden;
-    border-radius: 10px;
-    cursor: pointer;
-    transition: transform 0.2s ease;
-    display: block;
-    padding: 0;
-    border: solid 2px black;
 }
 
 .seasonCard img {
-    display: block;
     width: 100%;
-    aspect-ratio: 2 / 3;
-    transition:
-        transform 0.2s ease,
-        filter 0.2s ease;
-}
-
-.seasonCard:hover img {
-    filter: brightness(1.08);
+    height: 100%;
 }
 
 
@@ -69,9 +55,7 @@ EPISODIOS
 .episodesContainer {
     display: flex;
     width: 100%;
-    gap: 12px;
     overflow-x: auto;
-    padding: 10px;
     scroll-behavior: smooth;
 }
 
@@ -83,7 +67,7 @@ EPISODIOS
 .episodesCard {
     position: relative;
 
-    width: 280px;
+    width: 180px;
     flex-shrink: 0;
 
     display: flex;
@@ -92,7 +76,6 @@ EPISODIOS
     padding: 8px;
     
     border: solid 2px transparent;
-    border-radius: 10px;
 
     background: rgba(255, 255, 255, 0.03);
 
@@ -168,7 +151,7 @@ EPISODIOS
 .episodeData p {
     margin: 0;
 
-    font-size: 0.95rem;
+    font-size: 0.55rem;
     line-height: 1.4;
 
     display: -webkit-box;
@@ -271,6 +254,29 @@ EPISODIOS
 
     .iframe {
         min-height: 250px;
+        width: 100%;
         border-radius: 6px;
     }
+}
+.playerWrapper {
+    position: relative;
+}
+
+.activateButton {
+    position: absolute;
+
+    top: 50%;
+    left: 50%;
+
+    transform: translate(-50%, -50%);
+
+    z-index: 10;
+
+    padding: 16px 30px;
+
+    border: none;
+    border-radius: 8px;
+
+    font-size: 20px;
+    cursor: pointer;
 }

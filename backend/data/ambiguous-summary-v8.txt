@@ -1,0 +1,108 @@
+AMBIGUAS: 107
+FC Bayern - Detrás de la leyenda | candidatos: 1 | 134601:50
+Gran Hermano Chile | candidatos: 1 | 225553:20
+La Montaña De La Muerte: El Incidente del Paso Dyatlov | candidatos: 1 | 111088:50
+Manhunt: Unabomber | candidatos: 1 | 72597:45
+Puertas Adentro | candidatos: 1 | 98121:10
+Invasion Extraterrestre | candidatos: 4 | 21494:50 | 13388:50 | 14141:0 | 75893:0
+Teresa | candidatos: 16 | 12926:80 | 213389:70 | 196686:10 | 43922:10 | 319424:10 | 47853:10 | 99242:10 | 156646:10 | 255131:10 | 200771:10 | 255130:10 | 321737:10 | 231990:10 | 220485:0 | 218797:0 | 75961:0
+BLUELOCK | candidatos: 1 | 131041:50
+D.Gray-man | candidatos: 2 | 34141:50 | 67145:10
+CSI: Miami | candidatos: 2 | 1620:50 | 257631:0
+El Jefe de Kingstown | candidatos: 1 | 97951:30
+El Chavo del Ocho | candidatos: 1 | 47:50
+Doraemon | candidatos: 5 | 65733:80 | 57911:70 | 57912:60 | 282057:20 | 299627:0
+YARGI / Secretos de Familia | candidatos: 14 | 335526:60 | 258017:60 | 229546:60 | 207642:60 | 58940:60 | 70606:60 | 133490:50 | 308341:10 | 253990:10 | 247031:10 | 207836:10 | 133359:10 | 226751:0 | 37332:0
+Star Wars: El libro de Boba Fett | candidatos: 2 | 115036:50 | 198109:10
+Madre | candidatos: 29 | 68569:60 | 239684:30 | 5170:30 | 49608:30 | 107084:30 | 95885:30 | 74801:30 | 295112:30 | 197264:20 | 196686:10 | 72533:10 | 227322:10 | 214999:10 | 252376:10 | 62244:10 | 76092:10 | 271820:10 | 128231:10 | 63602:10 | 201581:10 | 99233:10 | 230959:10 | 291320:10 | 309658:10 | 115857:0 | 1100:0 | 295693:0 | 32957:0 | 5562:0
+Medcezir | candidatos: 1 | 61867:50
+La Casa de Papel | candidatos: 6 | 71446:50 | 123732:50 | 112836:0 | 132719:0 | 146176:0 | 308014:0
+Altered Carbon | candidatos: 1 | 68421:50
+Naruto | candidatos: 9 | 46260:50 | 31910:0 | 70881:0 | 43168:0 | 317342:0 | 285667:0 | 328746:0 | 245545:0 | 86790:0
+Spartacus | candidatos: 5 | 46296:50 | 49258:50 | 240459:0 | 202223:0 | 132846:0
+Educar a un superhéroe | candidatos: 1 | 93392:50
+Icerde | candidatos: 1 | 68388:60
+La costa de los mosquitos | candidatos: 1 | 93716:60
+Pajaro Soñador | candidatos: 1 | 80411:60
+Agentes de S.H.I.E.L.D. | candidatos: 2 | 1403:50 | 69088:0
+El día menos pensado | candidatos: 2 | 99312:50 | 101262:50
+Mea culpa | candidatos: 6 | 96438:60 | 99308:50 | 281291:50 | 288370:10 | 228197:10 | 38652:0
+Infieles | candidatos: 7 | 109184:60 | 137320:60 | 98430:50 | 256658:50 | 43856:50 | 289458:10 | 10615:0
+El Super Agente 86 | candidatos: 1 | 15830:0
+Salvados por la campana | candidatos: 2 | 4345:50 | 2014:0
+Gigantes de la industria | candidatos: 1 | 56304:60
+Súper Amigos | candidatos: 11 | 936:60 | 10159:0 | 286741:0 | 10157:0 | 10610:0 | 10156:0 | 10158:0 | 66287:0 | 127635:0 | 274388:0 | 208313:0
+Bungou Stray Dogs | candidatos: 2 | 65931:50 | 110837:0
+Secretos del matrimonio: Nada es para siempre | candidatos: 1 | 134155:60
+Columbo | candidatos: 3 | 873:50 | 229437:10 | 1007:0
+Isla Esperanza / Ada Masalı | candidatos: 1 | 126255:60
+Comisario Rex | candidatos: 1 | 95926:20
+Amores de mercado | candidatos: 3 | 45156:80 | 13202:80 | 278189:30
+Rurouni Kenshin | candidatos: 4 | 210879:80 | 28136:70 | 313336:10 | 317885:10
+Street Sharks | candidatos: 1 | 12544:60
+Paso a paso | candidatos: 4 | 2617:50 | 83622:10 | 41571:0 | 206517:0
+Fuerza-G | candidatos: 12 | 13549:45 | 14917:20 | 4695:20 | 139142:10 | 96061:10 | 284753:10 | 65766:10 | 4929:10 | 70779:10 | 260566:10 | 6040:0 | 3428:0
+CatDog | candidatos: 13 | 1567:50 | 5360:10 | 130167:10 | 15954:10 | 273704:10 | 76057:10 | 110835:10 | 110154:10 | 108954:10 | 86764:0 | 134924:0 | 41373:0 | 101313:0
+Doctor Milagro | candidatos: 1 | 92967:10
+Yalı Çapkını (Seyran y Ferit) | candidatos: 1 | 210865:0
+Jujutsu Kaisen | candidatos: 1 | 95479:50
+Victorious | candidatos: 3 | 31251:50 | 115494:0 | 76661:0
+Los amos del aire | candidatos: 1 | 46518:60
+Solo Leveling | candidatos: 4 | 127532:50 | 295389:50 | 247376:0 | 330833:0
+Donde esta Elisa | candidatos: 2 | 21667:80 | 31997:80
+Suleimán, el gran sultán | candidatos: 1 | 34899:60
+Escandalosos | candidatos: 1 | 63401:50
+El Oro | candidatos: 20 | 211020:50 | 212553:50 | 317918:30 | 204416:30 | 87944:30 | 14051:30 | 133093:30 | 93846:30 | 236086:20 | 139566:20 | 210865:20 | 79460:20 | 246:20 | 195916:20 | 153657:20 | 228355:10 | 128489:10 | 59671:10 | 39245:10 | 89344:10
+Highlanders | candidatos: 1 | 43204:50
+Nacion Z | candidatos: 1 | 106359:0
+Dawson Creek | candidatos: 1 | 2327:45
+La reina Charlotte: Una historia de Los Bridgerton | candidatos: 1 | 196454:50
+Cazadores de Fantasmas | candidatos: 1 | 12396:30
+Pesadillas y Ensoñaciones | candidatos: 1 | 228958:50
+Daybreak | candidatos: 17 | 83478:100 | 220014:100 | 4618:80 | 110690:80 | 43149:60 | 33133:50 | 118682:30 | 80417:30 | 21997:30 | 303295:30 | 202253:30 | 139184:30 | 254286:10 | 15448:0 | 139:0 | 58820:0 | 5407:0
+Conexiones | candidatos: 3 | 128066:100 | 106525:100 | 7905:0
+Doctor Who | candidatos: 20 | 121:70 | 57243:70 | 239770:60 | 317641:50 | 203946:45 | 331798:45 | 61643:30 | 53071:30 | 99472:30 | 1056:20 | 454:20 | 217156:20 | 129387:10 | 71638:10 | 240310:10 | 34599:10 | 241693:10 | 241690:10 | 105596:10 | 293780:0
+Proyecto Lazarus | candidatos: 1 | 287473:20
+Corazon Salvaje | candidatos: 6 | 12777:80 | 12770:80 | 31214:80 | 316271:60 | 12684:60 | 231503:0
+Catalina La Grande | candidatos: 3 | 76692:50 | 64507:50 | 44340:50
+El señor de La Querencia | candidatos: 3 | 259367:80 | 18854:70 | 60418:50
+Traicionada | candidatos: 1 | 110562:50
+Jake y los piratas del Pais de Nunca Jamas | candidatos: 1 | 34891:20
+Prision de Mentiras | candidatos: 1 | 153515:0
+Negocios Turbios | candidatos: 1 | 130853:45
+El Show de Tom y Jerry | candidatos: 2 | 7842:80 | 47480:70
+Selena & Yolanda: Los Secretos entre Ellas | candidatos: 1 | 245525:50
+KAOS | candidatos: 20 | 102621:100 | 260232:100 | 314330:60 | 133702:50 | 274848:50 | 313528:50 | 250846:45 | 311281:30 | 335559:30 | 300926:30 | 293413:20 | 69557:20 | 282962:10 | 235601:10 | 99499:10 | 320248:10 | 54674:0 | 49883:0 | 50023:0 | 245208:0
+El futuro segun Bill Gates | candidatos: 1 | 261646:50
+Fiebre del oro | candidatos: 7 | 34634:45 | 128493:20 | 71322:10 | 76506:10 | 196841:10 | 115465:0 | 88273:0
+Mi Extraña Adiccion | candidatos: 1 | 231019:30
+Terapia | candidatos: 21 | 65189:80 | 14069:70 | 65459:70 | 315653:60 | 207713:50 | 117656:50 | 103575:30 | 41405:30 | 299689:30 | 314297:30 | 42878:20 | 136311:20 | 56430:20 | 91820:20 | 57553:20 | 127942:20 | 95428:20 | 35348:20 | 18053:20 | 61541:20 | 259137:10
+Hangyakusei Million Arthur | candidatos: 1 | 83451:50
+Los Padrinos Magicos | candidatos: 3 | 4630:50 | 247246:30 | 129565:10
+Kampung Puasa | candidatos: 1 | 249144:60
+Wolf | candidatos: 24 | 222117:100 | 75365:100 | 13018:80 | 88823:80 | 114080:80 | 61697:45 | 66090:45 | 219760:30 | 34801:30 | 134865:30 | 12505:30 | 229676:30 | 25278:30 | 119042:30 | 228880:30 | 230925:30 | 253826:30 | 6732:30 | 34524:20 | 26707:20 | 61785:20 | 231727:20 | 3471:20 | 39996:10
+Aile:Lazos de Pasion | candidatos: 1 | 219446:20
+Sepahtu Reunion Live | candidatos: 3 | 70179:50 | 212364:10 | 300269:0
+Grotesquerie | candidatos: 1 | 247518:60
+Tale of the Nine Tailed: An Unfinished Story | candidatos: 1 | 137195:50
+The Forest | candidatos: 30 | 278597:60 | 71967:60 | 287704:30 | 313428:30 | 275846:30 | 80612:30 | 157122:30 | 37597:30 | 285050:30 | 135185:30 | 29153:30 | 12029:20 | 32222:20 | 78109:10 | 225746:10 | 312432:10 | 135514:10 | 224708:10 | 296524:10 | 130008:10 | 277825:10 | 259290:10 | 92586:10 | 200863:10 | 102846:10 | 281616:10 | 138762:0 | 203705:0 | 18705:0 | 78471:0
+La Leyenda de Korra | candidatos: 1 | 33880:50
+Gran Hotel | candidatos: 6 | 47990:60 | 108389:50 | 82092:50 | 153229:10 | 107047:0 | 250803:0
+American Sports Story | candidatos: 1 | 131141:50
+Vuelven los Hechiceros de Waverly Place | candidatos: 1 | 245026:20
+kilos mortales | candidatos: 6 | 98410:15 | 255590:0 | 296704:0 | 291934:0 | 66014:0 | 103742:0
+Solo una Mirada | candidatos: 2 | 283484:100 | 72013:100
+La Voz | candidatos: 26 | 60216:50 | 46884:50 | 86236:50 | 294528:20 | 70329:20 | 39845:10 | 39614:10 | 67152:10 | 109368:10 | 93530:0 | 260877:0 | 80443:0 | 83243:0 | 328927:0 | 241620:0 | 68945:0 | 84155:0 | 218437:0 | 236319:0 | 42700:0 | 37678:0 | 54477:0 | 95852:0 | 290251:0 | 80398:0 | 114946:0
+De Rockstar a Asesino | candidatos: 1 | 287131:50
+Marimar | candidatos: 3 | 12782:80 | 4181:80 | 221105:80
+La Suerte. Una serie de casualidades | candidatos: 1 | 242907:50
+NCIS: Europe | candidatos: 1 | 247732:50
+Crimen de una Dinastia | candidatos: 1 | 270734:30
+Toda la Verdad | candidatos: 7 | 32788:80 | 72743:70 | 292558:10 | 256298:10 | 292047:10 | 28046:10 | 236054:0
+Algo terrible esta a punto de suceder | candidatos: 1 | 259265:60
+La Captura | candidatos: 2 | 93166:30 | 221181:0
+911 Rehenes | candidatos: 1 | 236436:50
+Jet Marte | candidatos: 1 | 45448:50
+M.I.A. | candidatos: 22 | 262388:60 | 331121:50 | 12431:30 | 18810:30 | 113283:30 | 219684:30 | 114142:30 | 226411:30 | 207674:30 | 31102:30 | 61913:20 | 275715:20 | 120552:20 | 27097:20 | 307969:20 | 18650:20 | 223603:20 | 30901:20 | 11766:10 | 75728:0 | 1324:0 | 21670:0
+La Casa del Mal | candidatos: 1 | 236054:10
+Caso cerrado | candidatos: 3 | 4860:50 | 3957:50 | 2171:50

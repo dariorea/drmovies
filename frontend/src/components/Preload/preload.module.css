@@ -2,22 +2,24 @@
     width: 100%;
     height: 100vh;
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
+    gap: 10px;
+    background: linear-gradient(black, rgb(31, 21, 21)) ;
 }
 
 .movieLogo {
-    animation: pulse .3s ease-in-out infinite;
-    width: 140px;
+    width: 50px;
     background: linear-gradient(var(--red), rgb(183, 12, 12));
-    padding: 20px;
+    padding: 14px;
     border-radius: 10px;
     @media (max-width: 750px) {
         width: 50px;
         padding: 14px;
     }
 }
-
+/*
 @keyframes pulse {
     0% {
         transform: scale(1);
@@ -29,5 +31,27 @@
 
     100% {
         transform: scale(1);
+    }
+}*/
+.spinner {
+
+    width: 30px;
+    height: 30px;
+
+    border: 4px solid rgba(203, 247, 237, 0.15);
+    border-top-color: var(--red);
+    border-radius: 50%;
+
+    animation: spin 1s linear infinite;
+}
+
+
+@keyframes spin {
+    from {
+        transform: rotate(0deg);
+    }
+
+    to {
+        transform: rotate(360deg);
     }
 }

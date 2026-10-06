@@ -2,28 +2,16 @@
     width: 100%;
     display: flex;
     flex-direction: column;
+    
 }
 .titleSection {
-    height: 50px;
     display: flex;
+
+    gap: 4px;
     align-items: center;
-    justify-content: space-between;
+    padding: 16px 0 0 0;
 }
-.verMas {
-    display: flex;
-    align-items: center;
-    color: var(--red);
+.titleSection i {
+    font-size: 22px;
 }
-.verMas i {
-    font-size: 18px;
-}
-.titleSection p {
-    color: var(--red);
-}
-.containerCard {
-    width: 100%;
-    min-height: 240px;
-    @media (max-width: 750px) {
-        min-height: 150px;
-    }
-}
+

@@ -10,7 +10,7 @@ type Media = {
 
 interface Props {
     item: Media
-    type: "movies" | "series"
+    type: "movies" | "series" | "anime"
 }
 
 export const ItemCard = ({ item, type }: Props) => {

@@ -5,11 +5,12 @@ import { TvRegion } from "../TvRegion/TvRegion"
 interface MoviePlayerProps {
     tmdbId: string
     title: string
+    active: boolean
 }
 
 export const MoviePlayer = ({
     tmdbId,
-    title
+    active,
 }: MoviePlayerProps) => {
 
     const videoRef = useRef<HTMLVideoElement | null>(null)
@@ -30,6 +31,7 @@ export const MoviePlayer = ({
 
     useEffect(() => {
         const video = videoRef.current
+
 
         if (!video) return
 
@@ -177,15 +179,19 @@ export const MoviePlayer = ({
         }
     }, [isPlaying])
 
-    const togglePlay = () => {
+    const togglePlay = async () => {
         const video = videoRef.current
-
+    
         if (!video) return
-
-        if (video.paused) {
-            video.play()
-        } else {
-            video.pause()
+    
+        try {
+            if (video.paused) {
+                await video.play()
+            } else {
+                video.pause()
+            }
+        } catch (error) {
+            console.error("No se pudo reproducir:", error)
         }
     }
 
@@ -271,13 +277,6 @@ export const MoviePlayer = ({
 
     return (
         <div className={styles.container}>
-
-            <div className={styles.title}>
-                <h2>
-                    Estás viendo "{title}"
-                </h2>
-            </div>
-
             <div
     className={styles.player}
     onMouseMove={resetControlsTimer}
@@ -286,13 +285,12 @@ export const MoviePlayer = ({
     onClick={resetControlsTimer}
 >
 
-                <video
-                    ref={videoRef}
-                    className={styles.video}
-                    src={streamUrl}
-                    autoPlay
-                    playsInline
-                />
+            <video
+                ref={videoRef}
+                className={styles.video}
+                src={active ? streamUrl : undefined}
+                playsInline
+            />
 
                 {isLoading && !error && (
                     <div className={styles.loading}>
@@ -311,11 +309,15 @@ export const MoviePlayer = ({
                 )}
 
                 {!error && (
-                    <TvRegion id="controls" className={`${styles.controls} ${
+                    <TvRegion 
+                    autoScroll={false}
+                    id="controls" 
+                    className={`${styles.controls} ${
                         showControls
                             ? styles.controlsVisible
                             : styles.controlsHidden
-                    }`}>
+                    }`} focusClassName="tv-focused-hero"
+                    >
 
                         <button
                             className={styles.control}

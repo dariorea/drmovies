@@ -1,0 +1,879 @@
+[
+  {
+    "input": {
+      "name": "En el corazón de la bestia  V2 Telesync",
+      "streamUrl": "http://planettvweb.com:8091/movie/%7Buser%7D/%7Bpassword%7D/161600.mkv",
+      "source": "lista-3"
+    },
+    "result": {
+      "match": {
+        "tmdbId": 1263337,
+        "title": "En el corazón de la bestia",
+        "originalTitle": "Heart of the Beast",
+        "year": 2026,
+        "posterPath": "/h9Ql2vsltCOuf44c28nInxjzL2m.jpg",
+        "confidence": 100,
+        "matchType": "title"
+      },
+      "reason": "exact-title",
+      "providerTitle": "En el corazón de la bestia  V2 Telesync",
+      "cleanedName": "En el corazón de la bestia",
+      "searchVariants": [
+        "En el corazón de la bestia"
+      ]
+    }
+  },
+  {
+    "input": {
+      "name": "Entrega al límite  Full HD",
+      "streamUrl": "http://planettvweb.com:8091/movie/%7Buser%7D/%7Bpassword%7D/161563.mkv",
+      "source": "lista-3"
+    },
+    "result": {
+      "match": null,
+      "reason": "no-results",
+      "providerTitle": "Entrega al límite  Full HD",
+      "cleanedName": "Entrega al límite Full",
+      "searchVariants": [
+        "Entrega al límite Full"
+      ]
+    }
+  },
+  {
+    "input": {
+      "name": "En el corazón de la bestia  HDTS Latino",
+      "streamUrl": "http://planettvweb.com:8091/movie/%7Buser%7D/%7Bpassword%7D/161517.mkv",
+      "source": "lista-3"
+    },
+    "result": {
+      "match": null,
+      "reason": "no-results",
+      "providerTitle": "En el corazón de la bestia  HDTS Latino",
+      "cleanedName": "En el corazón de la bestia HDTS",
+      "searchVariants": [
+        "En el corazón de la bestia HDTS"
+      ]
+    }
+  },
+  {
+    "input": {
+      "name": "La isla olvidada  HDTS Latino",
+      "streamUrl": "http://planettvweb.com:8091/movie/%7Buser%7D/%7Bpassword%7D/161508.mkv",
+      "source": "lista-3"
+    },
+    "result": {
+      "match": null,
+      "reason": "no-results",
+      "providerTitle": "La isla olvidada  HDTS Latino",
+      "cleanedName": "La isla olvidada HDTS",
+      "searchVariants": [
+        "La isla olvidada HDTS"
+      ]
+    }
+  },
+  {
+    "input": {
+      "name": "Soy leyenda  1080 HD",
+      "streamUrl": "http://planettvweb.com:8091/movie/%7Buser%7D/%7Bpassword%7D/161367.mp4",
+      "source": "lista-3"
+    },
+    "result": {
+      "match": {
+        "tmdbId": 6479,
+        "title": "Soy leyenda",
+        "originalTitle": "I Am Legend",
+        "year": 2007,
+        "posterPath": "/pO1SrJgf5BumqcIRkYviSGIFdmX.jpg",
+        "confidence": 100,
+        "matchType": "title"
+      },
+      "reason": "exact-title",
+      "providerTitle": "Soy leyenda  1080 HD",
+      "cleanedName": "Soy leyenda",
+      "searchVariants": [
+        "Soy leyenda"
+      ]
+    }
+  },
+  {
+    "input": {
+      "name": "Resident Evil  HDTS Latino 5.1",
+      "streamUrl": "http://planettvweb.com:8091/movie/%7Buser%7D/%7Bpassword%7D/160970.mkv",
+      "source": "lista-3"
+    },
+    "result": {
+      "match": null,
+      "reason": "no-results",
+      "providerTitle": "Resident Evil  HDTS Latino 5.1",
+      "cleanedName": "Resident Evil HDTS",
+      "searchVariants": [
+        "Resident Evil HDTS"
+      ]
+    }
+  },
+  {
+    "input": {
+      "name": "Las Horas mas Osuras",
+      "streamUrl": "http://planettvweb.com:8091/movie/%7Buser%7D/%7Bpassword%7D/160932.mkv",
+      "source": "lista-3"
+    },
+    "result": {
+      "match": null,
+      "reason": "no-results",
+      "providerTitle": "Las Horas mas Osuras",
+      "cleanedName": "Las Horas mas Osuras",
+      "searchVariants": [
+        "Las Horas mas Osuras"
+      ]
+    }
+  },
+  {
+    "input": {
+      "name": "Entrega al límite  Telesync Latino",
+      "streamUrl": "http://planettvweb.com:8091/movie/%7Buser%7D/%7Bpassword%7D/160903.mkv",
+      "source": "lista-3"
+    },
+    "result": {
+      "match": {
+        "tmdbId": 1377237,
+        "title": "Entrega al límite",
+        "originalTitle": "Runner",
+        "year": 2026,
+        "posterPath": "/pmjSjZtFOYDWhAs4B2AbBE8hTQf.jpg",
+        "confidence": 100,
+        "matchType": "title"
+      },
+      "reason": "exact-title",
+      "providerTitle": "Entrega al límite  Telesync Latino",
+      "cleanedName": "Entrega al límite",
+      "searchVariants": [
+        "Entrega al límite"
+      ]
+    }
+  },
+  {
+    "input": {
+      "name": "Hechizo de amor : La Magia Continua   Telesync Latino",
+      "streamUrl": "http://planettvweb.com:8091/movie/%7Buser%7D/%7Bpassword%7D/160905.mkv",
+      "source": "lista-3"
+    },
+    "result": {
+      "match": null,
+      "reason": "no-confident-match",
+      "providerTitle": "Hechizo de amor : La Magia Continua   Telesync Latino",
+      "cleanedName": "Hechizo de amor : La Magia Continua",
+      "searchVariants": [
+        "Hechizo de amor : La Magia Continua",
+        "Hechizo de amor",
+        "La Magia Continua"
+      ],
+      "candidates": [
+        {
+          "tmdbId": 366017,
+          "title": "Un hechizo de amor",
+          "originalTitle": "You Cast A Spell On Me",
+          "year": 2015,
+          "popularity": 3.3542,
+          "score": 36,
+          "titleScore": 90,
+          "yearScore": 0,
+          "alternativeScore": 0,
+          "alternativeType": null,
+          "alternativeTitle": null
+        },
+        {
+          "tmdbId": 862701,
+          "title": "Historias de Amor",
+          "originalTitle": "अनकही कहानियाँ",
+          "year": 2021,
+          "popularity": 1.0975,
+          "score": 27,
+          "titleScore": 67,
+          "yearScore": 0,
+          "alternativeScore": 0,
+          "alternativeType": null,
+          "alternativeTitle": null
+        },
+        {
+          "tmdbId": 893702,
+          "title": "La magia continúa con Mariah Carey",
+          "originalTitle": "Mariah's Christmas: The Magic Continues",
+          "year": 2021,
+          "popularity": 3.5566,
+          "score": 26,
+          "titleScore": 65,
+          "yearScore": 0,
+          "alternativeScore": 0,
+          "alternativeType": null,
+          "alternativeTitle": null
+        },
+        {
+          "tmdbId": 412511,
+          "title": "El hechizo de un café",
+          "originalTitle": "Cup of Love",
+          "year": 2016,
+          "popularity": 1.3983,
+          "score": 16,
+          "titleScore": 40,
+          "yearScore": 0,
+          "alternativeScore": 0,
+          "alternativeType": null,
+          "alternativeTitle": null
+        },
+        {
+          "tmdbId": 1302904,
+          "title": "Prácticamente magia 2",
+          "originalTitle": "Practical Magic 2",
+          "year": 2026,
+          "popularity": 47.7228,
+          "score": 13,
+          "titleScore": 33,
+          "yearScore": 0,
+          "alternativeScore": 0,
+          "alternativeType": null,
+          "alternativeTitle": null
+        }
+      ]
+    }
+  },
+  {
+    "input": {
+      "name": "El final de Oak Street  FULL HD",
+      "streamUrl": "http://planettvweb.com:8091/movie/%7Buser%7D/%7Bpassword%7D/160890.mkv",
+      "source": "lista-3"
+    },
+    "result": {
+      "match": null,
+      "reason": "no-results",
+      "providerTitle": "El final de Oak Street  FULL HD",
+      "cleanedName": "El final de Oak Street FULL",
+      "searchVariants": [
+        "El final de Oak Street FULL"
+      ]
+    }
+  },
+  {
+    "input": {
+      "name": "En mar abierto  Full HD",
+      "streamUrl": "http://planettvweb.com:8091/movie/%7Buser%7D/%7Bpassword%7D/160870.mkv",
+      "source": "lista-3"
+    },
+    "result": {
+      "match": null,
+      "reason": "no-results",
+      "providerTitle": "En mar abierto  Full HD",
+      "cleanedName": "En mar abierto Full",
+      "searchVariants": [
+        "En mar abierto Full"
+      ]
+    }
+  },
+  {
+    "input": {
+      "name": "The Mongoose  V2 Subtitulos Pegados",
+      "streamUrl": "http://planettvweb.com:8091/movie/%7Buser%7D/%7Bpassword%7D/160755.mp4",
+      "source": "lista-3"
+    },
+    "result": {
+      "match": null,
+      "reason": "no-results",
+      "providerTitle": "The Mongoose  V2 Subtitulos Pegados",
+      "cleanedName": "The Mongoose Subtitulos Pegados",
+      "searchVariants": [
+        "The Mongoose Subtitulos Pegados"
+      ]
+    }
+  },
+  {
+    "input": {
+      "name": "Fall 2: Punto muerto  Telesync Latino",
+      "streamUrl": "http://planettvweb.com:8091/movie/%7Buser%7D/%7Bpassword%7D/160727.mkv",
+      "source": "lista-3"
+    },
+    "result": {
+      "match": null,
+      "reason": "no-confident-match",
+      "providerTitle": "Fall 2: Punto muerto  Telesync Latino",
+      "cleanedName": "Fall 2: Punto muerto",
+      "searchVariants": [
+        "Fall 2: Punto muerto",
+        "Fall 2",
+        "Punto muerto"
+      ],
+      "candidates": [
+        {
+          "tmdbId": 1101412,
+          "title": "Vertigo 2: Punto muerto",
+          "originalTitle": "Fall 2: Deadpoint",
+          "year": 2026,
+          "popularity": 64.9347,
+          "score": 50,
+          "titleScore": 82,
+          "yearScore": 0,
+          "alternativeScore": 70,
+          "alternativeType": "partial",
+          "alternativeTitle": "Vertigo 2: Punto Muerto"
+        },
+        {
+          "tmdbId": 259613,
+          "title": "Fall 2",
+          "originalTitle": "Fall 2",
+          "year": 1970,
+          "popularity": 1.2786,
+          "score": 40,
+          "titleScore": 100,
+          "yearScore": 0,
+          "alternativeScore": 0,
+          "alternativeType": null,
+          "alternativeTitle": null
+        },
+        {
+          "tmdbId": 566206,
+          "title": "Punto muerto",
+          "originalTitle": "Punto muerto",
+          "year": 2019,
+          "popularity": 1.4638,
+          "score": 40,
+          "titleScore": 100,
+          "yearScore": 0,
+          "alternativeScore": 0,
+          "alternativeType": null,
+          "alternativeTitle": null
+        },
+        {
+          "tmdbId": 1673053,
+          "title": "Punto muerto",
+          "originalTitle": "Punto muerto",
+          "year": 1998,
+          "popularity": 1.5991,
+          "score": 40,
+          "titleScore": 100,
+          "yearScore": 0,
+          "alternativeScore": 0,
+          "alternativeType": null,
+          "alternativeTitle": null
+        },
+        {
+          "tmdbId": 1512244,
+          "title": "Punto Muerto",
+          "originalTitle": "Punto Muerto",
+          "year": null,
+          "popularity": 0.4091,
+          "score": 40,
+          "titleScore": 100,
+          "yearScore": 0,
+          "alternativeScore": 0,
+          "alternativeType": null,
+          "alternativeTitle": null
+        }
+      ]
+    }
+  },
+  {
+    "input": {
+      "name": "Coyote vs. Acme  HD Latino",
+      "streamUrl": "http://planettvweb.com:8091/movie/%7Buser%7D/%7Bpassword%7D/160635.mkv",
+      "source": "lista-3"
+    },
+    "result": {
+      "match": {
+        "tmdbId": 1204680,
+        "title": "Coyote vs. Acme",
+        "originalTitle": "Coyote vs. Acme",
+        "year": 2026,
+        "posterPath": "/vWFz9spZFBkJvForuYrKK2ntOLB.jpg",
+        "confidence": 100,
+        "matchType": "title"
+      },
+      "reason": "exact-title",
+      "providerTitle": "Coyote vs. Acme  HD Latino",
+      "cleanedName": "Coyote vs. Acme",
+      "searchVariants": [
+        "Coyote vs. Acme"
+      ]
+    }
+  },
+  {
+    "input": {
+      "name": "Coyote vs. Acme  Telesync Latino",
+      "streamUrl": "http://planettvweb.com:8091/movie/%7Buser%7D/%7Bpassword%7D/160633.mkv",
+      "source": "lista-3"
+    },
+    "result": {
+      "match": {
+        "tmdbId": 1204680,
+        "title": "Coyote vs. Acme",
+        "originalTitle": "Coyote vs. Acme",
+        "year": 2026,
+        "posterPath": "/vWFz9spZFBkJvForuYrKK2ntOLB.jpg",
+        "confidence": 100,
+        "matchType": "title"
+      },
+      "reason": "exact-title",
+      "providerTitle": "Coyote vs. Acme  Telesync Latino",
+      "cleanedName": "Coyote vs. Acme",
+      "searchVariants": [
+        "Coyote vs. Acme"
+      ]
+    }
+  },
+  {
+    "input": {
+      "name": "Insidious: Fuera del más allá  Telesync Latino",
+      "streamUrl": "http://planettvweb.com:8091/movie/%7Buser%7D/%7Bpassword%7D/160567.mkv",
+      "source": "lista-3"
+    },
+    "result": {
+      "match": {
+        "tmdbId": 1291595,
+        "title": "Insidious: Fuera del más allá",
+        "originalTitle": "Insidious: Out of the Further",
+        "year": 2026,
+        "posterPath": "/uEqCJh1fA9Ao9jaCL2xoROPJeUB.jpg",
+        "confidence": 100,
+        "matchType": "alternative-title",
+        "alternativeTitle": "Insidious: Fuera del Más Allá"
+      },
+      "reason": "exact-alternative-title",
+      "providerTitle": "Insidious: Fuera del más allá  Telesync Latino",
+      "cleanedName": "Insidious: Fuera del más allá",
+      "searchVariants": [
+        "Insidious: Fuera del más allá",
+        "Insidious",
+        "Fuera del más allá"
+      ]
+    }
+  },
+  {
+    "input": {
+      "name": "X-Men: Fénix Oscura  1080 HD",
+      "streamUrl": "http://planettvweb.com:8091/movie/%7Buser%7D/%7Bpassword%7D/159698.mp4",
+      "source": "lista-3"
+    },
+    "result": {
+      "match": {
+        "tmdbId": 320288,
+        "title": "X-Men: Fénix Oscura",
+        "originalTitle": "Dark Phoenix",
+        "year": 2019,
+        "posterPath": "/rdByKDkfyVuVSrkllzxKYXiZmTd.jpg",
+        "confidence": 100,
+        "matchType": "title"
+      },
+      "reason": "exact-title",
+      "providerTitle": "X-Men: Fénix Oscura  1080 HD",
+      "cleanedName": "X-Men: Fénix Oscura",
+      "searchVariants": [
+        "X-Men: Fénix Oscura",
+        "X-Men",
+        "Fénix Oscura"
+      ]
+    }
+  },
+  {
+    "input": {
+      "name": "Spider-Man  1080 HD",
+      "streamUrl": "http://planettvweb.com:8091/movie/%7Buser%7D/%7Bpassword%7D/159794.mkv",
+      "source": "lista-3"
+    },
+    "result": {
+      "match": {
+        "tmdbId": 557,
+        "title": "Spider-Man",
+        "originalTitle": "Spider-Man",
+        "year": 2002,
+        "posterPath": "/bCDaKZLRkrVVtPNyHxUfKvepW1N.jpg",
+        "confidence": 100,
+        "matchType": "title"
+      },
+      "reason": "exact-title",
+      "providerTitle": "Spider-Man  1080 HD",
+      "cleanedName": "Spider-Man",
+      "searchVariants": [
+        "Spider-Man"
+      ]
+    }
+  },
+  {
+    "input": {
+      "name": "Spider-Man 2  1080 HD",
+      "streamUrl": "http://planettvweb.com:8091/movie/%7Buser%7D/%7Bpassword%7D/159795.mkv",
+      "source": "lista-3"
+    },
+    "result": {
+      "match": {
+        "tmdbId": 558,
+        "title": "Spider-Man 2",
+        "originalTitle": "Spider-Man 2",
+        "year": 2004,
+        "posterPath": "/tGYrkVuskQKyRZ9WRS6wPTPBJpm.jpg",
+        "confidence": 100,
+        "matchType": "title"
+      },
+      "reason": "exact-title",
+      "providerTitle": "Spider-Man 2  1080 HD",
+      "cleanedName": "Spider-Man 2",
+      "searchVariants": [
+        "Spider-Man 2"
+      ]
+    }
+  },
+  {
+    "input": {
+      "name": "Spider-Man 3  1080 HD",
+      "streamUrl": "http://planettvweb.com:8091/movie/%7Buser%7D/%7Bpassword%7D/159796.mkv",
+      "source": "lista-3"
+    },
+    "result": {
+      "match": {
+        "tmdbId": 559,
+        "title": "Spider-Man 3",
+        "originalTitle": "Spider-Man 3",
+        "year": 2007,
+        "posterPath": "/lkuQzlShE2uzJcsZYU4zBI4VQZP.jpg",
+        "confidence": 100,
+        "matchType": "title"
+      },
+      "reason": "exact-title",
+      "providerTitle": "Spider-Man 3  1080 HD",
+      "cleanedName": "Spider-Man 3",
+      "searchVariants": [
+        "Spider-Man 3"
+      ]
+    }
+  },
+  {
+    "input": {
+      "name": "Posesión infernal: El despertar  1080 HD",
+      "streamUrl": "http://planettvweb.com:8091/movie/%7Buser%7D/%7Bpassword%7D/159693.mkv",
+      "source": "lista-3"
+    },
+    "result": {
+      "match": null,
+      "reason": "no-confident-match",
+      "providerTitle": "Posesión infernal: El despertar  1080 HD",
+      "cleanedName": "Posesión infernal: El despertar",
+      "searchVariants": [
+        "Posesión infernal: El despertar",
+        "Posesión infernal",
+        "El despertar"
+      ],
+      "candidates": [
+        {
+          "tmdbId": 713704,
+          "title": "Posesión infernal: El despertar",
+          "originalTitle": "Evil Dead Rise",
+          "year": 2023,
+          "popularity": 25.4927,
+          "score": 40,
+          "titleScore": 100,
+          "yearScore": 0,
+          "alternativeScore": 0,
+          "alternativeType": null,
+          "alternativeTitle": null
+        },
+        {
+          "tmdbId": 764,
+          "title": "Posesión infernal",
+          "originalTitle": "The Evil Dead",
+          "year": 1983,
+          "popularity": 16.2361,
+          "score": 40,
+          "titleScore": 100,
+          "yearScore": 0,
+          "alternativeScore": 0,
+          "alternativeType": null,
+          "alternativeTitle": null
+        },
+        {
+          "tmdbId": 1515648,
+          "title": "El despertar",
+          "originalTitle": "El despertar",
+          "year": 2020,
+          "popularity": 1.0254,
+          "score": 40,
+          "titleScore": 100,
+          "yearScore": 0,
+          "alternativeScore": 0,
+          "alternativeType": null,
+          "alternativeTitle": null
+        },
+        {
+          "tmdbId": 421613,
+          "title": "El despertar",
+          "originalTitle": "El despertar",
+          "year": 2007,
+          "popularity": 1.4342,
+          "score": 40,
+          "titleScore": 100,
+          "yearScore": 0,
+          "alternativeScore": 0,
+          "alternativeType": null,
+          "alternativeTitle": null
+        },
+        {
+          "tmdbId": 1205716,
+          "title": "El Despertar",
+          "originalTitle": "El Despertar",
+          "year": 2023,
+          "popularity": 2.2821,
+          "score": 40,
+          "titleScore": 100,
+          "yearScore": 0,
+          "alternativeScore": 0,
+          "alternativeType": null,
+          "alternativeTitle": null
+        }
+      ]
+    }
+  },
+  {
+    "input": {
+      "name": "Spider-Man: Un Nuevo dia  1080 Version Final HD 5.1",
+      "streamUrl": "http://planettvweb.com:8091/movie/%7Buser%7D/%7Bpassword%7D/159670.mkv",
+      "source": "lista-3"
+    },
+    "result": {
+      "match": {
+        "tmdbId": 557,
+        "title": "Spider-Man",
+        "originalTitle": "Spider-Man",
+        "year": 2002,
+        "posterPath": "/bCDaKZLRkrVVtPNyHxUfKvepW1N.jpg",
+        "confidence": 100,
+        "matchType": "title"
+      },
+      "reason": "exact-title",
+      "providerTitle": "Spider-Man: Un Nuevo dia  1080 Version Final HD 5.1",
+      "cleanedName": "Spider-Man: Un Nuevo dia",
+      "searchVariants": [
+        "Spider-Man: Un Nuevo dia",
+        "Spider-Man",
+        "Un Nuevo dia"
+      ]
+    }
+  },
+  {
+    "input": {
+      "name": "Spider-Man: Lejos de casa  1080 HD",
+      "streamUrl": "http://planettvweb.com:8091/movie/%7Buser%7D/%7Bpassword%7D/159558.mkv",
+      "source": "lista-3"
+    },
+    "result": {
+      "match": null,
+      "reason": "no-confident-match",
+      "providerTitle": "Spider-Man: Lejos de casa  1080 HD",
+      "cleanedName": "Spider-Man: Lejos de casa",
+      "searchVariants": [
+        "Spider-Man: Lejos de casa",
+        "Spider-Man",
+        "Lejos de casa"
+      ],
+      "candidates": [
+        {
+          "tmdbId": 429617,
+          "title": "Spider-Man: Lejos de casa",
+          "originalTitle": "Spider-Man: Far From Home",
+          "year": 2019,
+          "popularity": 32.0934,
+          "score": 65,
+          "titleScore": 100,
+          "yearScore": 0,
+          "alternativeScore": 100,
+          "alternativeType": "exact",
+          "alternativeTitle": "Spider-Man: Lejos de casa"
+        },
+        {
+          "tmdbId": 557,
+          "title": "Spider-Man",
+          "originalTitle": "Spider-Man",
+          "year": 2002,
+          "popularity": 41.2542,
+          "score": 65,
+          "titleScore": 100,
+          "yearScore": 0,
+          "alternativeScore": 100,
+          "alternativeType": "exact",
+          "alternativeTitle": "Spider Man"
+        },
+        {
+          "tmdbId": 225914,
+          "title": "Spider-Man. El hombre araña",
+          "originalTitle": "Spider-Man",
+          "year": 1977,
+          "popularity": 3.2097,
+          "score": 65,
+          "titleScore": 100,
+          "yearScore": 0,
+          "alternativeScore": 100,
+          "alternativeType": "exact",
+          "alternativeTitle": "Spider-Man"
+        },
+        {
+          "tmdbId": 27985,
+          "title": "Lejos de casa",
+          "originalTitle": "Far from Home: The Adventures of Yellow Dog",
+          "year": 1995,
+          "popularity": 2.7671,
+          "score": 65,
+          "titleScore": 100,
+          "yearScore": 0,
+          "alternativeScore": 100,
+          "alternativeType": "exact",
+          "alternativeTitle": "Lejos de casa"
+        },
+        {
+          "tmdbId": 1686424,
+          "title": "Spider-Man",
+          "originalTitle": "Spider-Man",
+          "year": 1969,
+          "popularity": 2.1318,
+          "score": 40,
+          "titleScore": 100,
+          "yearScore": 0,
+          "alternativeScore": 0,
+          "alternativeType": null,
+          "alternativeTitle": null
+        }
+      ]
+    }
+  },
+  {
+    "input": {
+      "name": "Spider-Man: Sin camino a casa  1080 HD",
+      "streamUrl": "http://planettvweb.com:8091/movie/%7Buser%7D/%7Bpassword%7D/159560.mkv",
+      "source": "lista-3"
+    },
+    "result": {
+      "match": {
+        "tmdbId": 557,
+        "title": "Spider-Man",
+        "originalTitle": "Spider-Man",
+        "year": 2002,
+        "posterPath": "/bCDaKZLRkrVVtPNyHxUfKvepW1N.jpg",
+        "confidence": 100,
+        "matchType": "title"
+      },
+      "reason": "exact-title",
+      "providerTitle": "Spider-Man: Sin camino a casa  1080 HD",
+      "cleanedName": "Spider-Man: Sin camino a casa",
+      "searchVariants": [
+        "Spider-Man: Sin camino a casa",
+        "Spider-Man",
+        "Sin camino a casa"
+      ]
+    }
+  },
+  {
+    "input": {
+      "name": "Supergirl  Full HD",
+      "streamUrl": "http://planettvweb.com:8091/movie/%7Buser%7D/%7Bpassword%7D/159535.mkv",
+      "source": "lista-3"
+    },
+    "result": {
+      "match": null,
+      "reason": "no-results",
+      "providerTitle": "Supergirl  Full HD",
+      "cleanedName": "Supergirl Full",
+      "searchVariants": [
+        "Supergirl Full"
+      ]
+    }
+  },
+  {
+    "input": {
+      "name": "La odisea  Telesync 1080 Laino V2",
+      "streamUrl": "http://planettvweb.com:8091/movie/%7Buser%7D/%7Bpassword%7D/159432.mkv",
+      "source": "lista-3"
+    },
+    "result": {
+      "match": null,
+      "reason": "no-results",
+      "providerTitle": "La odisea  Telesync 1080 Laino V2",
+      "cleanedName": "La odisea Laino",
+      "searchVariants": [
+        "La odisea Laino"
+      ]
+    }
+  },
+  {
+    "input": {
+      "name": "Helena De Troya",
+      "streamUrl": "http://planettvweb.com:8091/movie/%7Buser%7D/%7Bpassword%7D/159433.mkv",
+      "source": "lista-3"
+    },
+    "result": {
+      "match": {
+        "tmdbId": 42658,
+        "title": "Helena de Troya",
+        "originalTitle": "Helen of Troy",
+        "year": 1956,
+        "posterPath": "/7tOwYt92EyjExLfhqPXWzwKSEpU.jpg",
+        "confidence": 100,
+        "matchType": "title"
+      },
+      "reason": "exact-title",
+      "providerTitle": "Helena De Troya",
+      "cleanedName": "Helena De Troya",
+      "searchVariants": [
+        "Helena De Troya"
+      ]
+    }
+  },
+  {
+    "input": {
+      "name": "Deadpool vs Wolverine",
+      "streamUrl": "http://planettvweb.com:8091/movie/%7Buser%7D/%7Bpassword%7D/159341.mkv",
+      "source": "lista-3"
+    },
+    "result": {
+      "match": null,
+      "reason": "no-results",
+      "providerTitle": "Deadpool vs Wolverine",
+      "cleanedName": "Deadpool vs Wolverine",
+      "searchVariants": [
+        "Deadpool vs Wolverine"
+      ]
+    }
+  },
+  {
+    "input": {
+      "name": "La odisea  Telesync Latino",
+      "streamUrl": "http://planettvweb.com:8091/movie/%7Buser%7D/%7Bpassword%7D/159416.mkv",
+      "source": "lista-3"
+    },
+    "result": {
+      "match": {
+        "tmdbId": 1368337,
+        "title": "La Odisea",
+        "originalTitle": "The Odyssey",
+        "year": 2026,
+        "posterPath": "/9aeb5U0saB7Tuu0QITaoENZBxFF.jpg",
+        "confidence": 100,
+        "matchType": "title"
+      },
+      "reason": "exact-title",
+      "providerTitle": "La odisea  Telesync Latino",
+      "cleanedName": "La odisea",
+      "searchVariants": [
+        "La odisea"
+      ]
+    }
+  },
+  {
+    "input": {
+      "name": "Minions y monstruos  HDTS Audio 5.1",
+      "streamUrl": "http://planettvweb.com:8091/movie/%7Buser%7D/%7Bpassword%7D/159342.mkv",
+      "source": "lista-3"
+    },
+    "result": {
+      "match": null,
+      "reason": "no-results",
+      "providerTitle": "Minions y monstruos  HDTS Audio 5.1",
+      "cleanedName": "Minions y monstruos HDTS Audio",
+      "searchVariants": [
+        "Minions y monstruos HDTS Audio"
+      ]
+    }
+  }
+]

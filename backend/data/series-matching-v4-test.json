@@ -1,0 +1,399 @@
+[
+  {
+    "name": "Hijack",
+    "decision": "MATCH FUERTE",
+    "best": {
+      "id": 198102,
+      "name": "Hijack",
+      "originalName": "Hijack",
+      "firstAirDate": "2023-06-28",
+      "posterPath": "/2C51clnxQdiqPDeqQlXcUx70hse.jpg",
+      "title": {
+        "exact": true,
+        "matches": [
+          "Hijack",
+          "'하이재킹' - Hijack",
+          "歷劫驚途 Hijack"
+        ]
+      },
+      "structure": {
+        "exact": true,
+        "sameSeasonSet": true,
+        "matchingSeasons": 2,
+        "totalM3USeasons": 2,
+        "tmdbSeasons": 2,
+        "seasonRatio": 1,
+        "matchingEpisodes": 15,
+        "totalM3UEpisodes": 15,
+        "totalTMDBEpisodes": 15,
+        "episodeRatio": 1
+      },
+      "score": 100,
+      "reasons": [
+        "title_exact",
+        "structure_exact"
+      ]
+    },
+    "candidates": [
+      {
+        "id": 198102,
+        "name": "Hijack",
+        "originalName": "Hijack",
+        "firstAirDate": "2023-06-28",
+        "posterPath": "/2C51clnxQdiqPDeqQlXcUx70hse.jpg",
+        "title": {
+          "exact": true,
+          "matches": [
+            "Hijack",
+            "'하이재킹' - Hijack",
+            "歷劫驚途 Hijack"
+          ]
+        },
+        "structure": {
+          "exact": true,
+          "sameSeasonSet": true,
+          "matchingSeasons": 2,
+          "totalM3USeasons": 2,
+          "tmdbSeasons": 2,
+          "seasonRatio": 1,
+          "matchingEpisodes": 15,
+          "totalM3UEpisodes": 15,
+          "totalTMDBEpisodes": 15,
+          "episodeRatio": 1
+        },
+        "score": 100,
+        "reasons": [
+          "title_exact",
+          "structure_exact"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "The Boys",
+    "decision": "MATCH FUERTE",
+    "best": {
+      "id": 76479,
+      "name": "The Boys",
+      "originalName": "The Boys",
+      "firstAirDate": "2019-07-25",
+      "posterPath": "/in1R2dDc421JxsoRWaIIAqVI2KE.jpg",
+      "title": {
+        "exact": true,
+        "matches": [
+          "The Boys"
+        ]
+      },
+      "structure": {
+        "exact": true,
+        "sameSeasonSet": true,
+        "matchingSeasons": 5,
+        "totalM3USeasons": 5,
+        "tmdbSeasons": 5,
+        "seasonRatio": 1,
+        "matchingEpisodes": 40,
+        "totalM3UEpisodes": 40,
+        "totalTMDBEpisodes": 40,
+        "episodeRatio": 1
+      },
+      "score": 100,
+      "reasons": [
+        "title_exact",
+        "structure_exact"
+      ]
+    },
+    "candidates": [
+      {
+        "id": 76479,
+        "name": "The Boys",
+        "originalName": "The Boys",
+        "firstAirDate": "2019-07-25",
+        "posterPath": "/in1R2dDc421JxsoRWaIIAqVI2KE.jpg",
+        "title": {
+          "exact": true,
+          "matches": [
+            "The Boys"
+          ]
+        },
+        "structure": {
+          "exact": true,
+          "sameSeasonSet": true,
+          "matchingSeasons": 5,
+          "totalM3USeasons": 5,
+          "tmdbSeasons": 5,
+          "seasonRatio": 1,
+          "matchingEpisodes": 40,
+          "totalM3UEpisodes": 40,
+          "totalTMDBEpisodes": 40,
+          "episodeRatio": 1
+        },
+        "score": 100,
+        "reasons": [
+          "title_exact",
+          "structure_exact"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Breaking Bad",
+    "decision": "MATCH FUERTE",
+    "best": {
+      "id": 1396,
+      "name": "Breaking Bad",
+      "originalName": "Breaking Bad",
+      "firstAirDate": "2008-01-20",
+      "posterPath": "/anFx9aTOOYqgS3v7x3R84Kz67ly.jpg",
+      "title": {
+        "exact": true,
+        "matches": [
+          "Breaking Bad"
+        ]
+      },
+      "structure": {
+        "exact": true,
+        "sameSeasonSet": true,
+        "matchingSeasons": 5,
+        "totalM3USeasons": 5,
+        "tmdbSeasons": 5,
+        "seasonRatio": 1,
+        "matchingEpisodes": 62,
+        "totalM3UEpisodes": 62,
+        "totalTMDBEpisodes": 62,
+        "episodeRatio": 1
+      },
+      "score": 100,
+      "reasons": [
+        "title_exact",
+        "structure_exact"
+      ]
+    },
+    "candidates": [
+      {
+        "id": 1396,
+        "name": "Breaking Bad",
+        "originalName": "Breaking Bad",
+        "firstAirDate": "2008-01-20",
+        "posterPath": "/anFx9aTOOYqgS3v7x3R84Kz67ly.jpg",
+        "title": {
+          "exact": true,
+          "matches": [
+            "Breaking Bad"
+          ]
+        },
+        "structure": {
+          "exact": true,
+          "sameSeasonSet": true,
+          "matchingSeasons": 5,
+          "totalM3USeasons": 5,
+          "tmdbSeasons": 5,
+          "seasonRatio": 1,
+          "matchingEpisodes": 62,
+          "totalM3UEpisodes": 62,
+          "totalTMDBEpisodes": 62,
+          "episodeRatio": 1
+        },
+        "score": 100,
+        "reasons": [
+          "title_exact",
+          "structure_exact"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Sandokan",
+    "decision": "MATCH FUERTE",
+    "best": {
+      "id": 271855,
+      "name": "Sandokan",
+      "originalName": "Sandokan",
+      "firstAirDate": "2025-12-01",
+      "posterPath": "/knEfDIVlJpoYAFQYlbOr78uDIqq.jpg",
+      "title": {
+        "exact": true,
+        "matches": [
+          "Sandokan"
+        ]
+      },
+      "structure": {
+        "exact": true,
+        "sameSeasonSet": true,
+        "matchingSeasons": 1,
+        "totalM3USeasons": 1,
+        "tmdbSeasons": 1,
+        "seasonRatio": 1,
+        "matchingEpisodes": 8,
+        "totalM3UEpisodes": 8,
+        "totalTMDBEpisodes": 8,
+        "episodeRatio": 1
+      },
+      "score": 100,
+      "reasons": [
+        "title_exact",
+        "structure_exact"
+      ]
+    },
+    "candidates": [
+      {
+        "id": 271855,
+        "name": "Sandokan",
+        "originalName": "Sandokan",
+        "firstAirDate": "2025-12-01",
+        "posterPath": "/knEfDIVlJpoYAFQYlbOr78uDIqq.jpg",
+        "title": {
+          "exact": true,
+          "matches": [
+            "Sandokan"
+          ]
+        },
+        "structure": {
+          "exact": true,
+          "sameSeasonSet": true,
+          "matchingSeasons": 1,
+          "totalM3USeasons": 1,
+          "tmdbSeasons": 1,
+          "seasonRatio": 1,
+          "matchingEpisodes": 8,
+          "totalM3UEpisodes": 8,
+          "totalTMDBEpisodes": 8,
+          "episodeRatio": 1
+        },
+        "score": 100,
+        "reasons": [
+          "title_exact",
+          "structure_exact"
+        ]
+      },
+      {
+        "id": 81085,
+        "name": "Sandokan",
+        "originalName": "Sandokan",
+        "firstAirDate": "1992-10-04",
+        "posterPath": "/odSLA7ACW6GiotVyr8mZb166bFd.jpg",
+        "title": {
+          "exact": true,
+          "matches": [
+            "Sandokan",
+            "Sandokán"
+          ]
+        },
+        "structure": {
+          "exact": false,
+          "sameSeasonSet": true,
+          "matchingSeasons": 0,
+          "totalM3USeasons": 1,
+          "tmdbSeasons": 1,
+          "seasonRatio": 0,
+          "matchingEpisodes": 8,
+          "totalM3UEpisodes": 8,
+          "totalTMDBEpisodes": 26,
+          "episodeRatio": 1
+        },
+        "score": 90,
+        "reasons": [
+          "title_exact",
+          "season_set_exact",
+          "episodes_95_percent"
+        ]
+      },
+      {
+        "id": 43966,
+        "name": "Sandokan",
+        "originalName": "Sandokan",
+        "firstAirDate": "1976-01-06",
+        "posterPath": "/opwgDUOaUHxWPUqeW1mw93tMxyS.jpg",
+        "title": {
+          "exact": true,
+          "matches": [
+            "Sandokan"
+          ]
+        },
+        "structure": {
+          "exact": false,
+          "sameSeasonSet": true,
+          "matchingSeasons": 0,
+          "totalM3USeasons": 1,
+          "tmdbSeasons": 1,
+          "seasonRatio": 0,
+          "matchingEpisodes": 6,
+          "totalM3UEpisodes": 8,
+          "totalTMDBEpisodes": 6,
+          "episodeRatio": 0.75
+        },
+        "score": 70,
+        "reasons": [
+          "title_exact",
+          "season_set_exact",
+          "episodes_50_percent"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "El Caballero de los Siete Reinos",
+    "decision": "MATCH FUERTE",
+    "best": {
+      "id": 224372,
+      "name": "A Knight of the Seven Kingdoms",
+      "originalName": "A Knight of the Seven Kingdoms",
+      "firstAirDate": "2026-01-18",
+      "posterPath": "/k8yARbD9iYn2nRX2HvsopfKDN2r.jpg",
+      "title": {
+        "exact": true,
+        "matches": [
+          "El caballero de los Siete Reinos"
+        ]
+      },
+      "structure": {
+        "exact": true,
+        "sameSeasonSet": true,
+        "matchingSeasons": 1,
+        "totalM3USeasons": 1,
+        "tmdbSeasons": 1,
+        "seasonRatio": 1,
+        "matchingEpisodes": 6,
+        "totalM3UEpisodes": 6,
+        "totalTMDBEpisodes": 6,
+        "episodeRatio": 1
+      },
+      "score": 100,
+      "reasons": [
+        "title_exact",
+        "structure_exact"
+      ]
+    },
+    "candidates": [
+      {
+        "id": 224372,
+        "name": "A Knight of the Seven Kingdoms",
+        "originalName": "A Knight of the Seven Kingdoms",
+        "firstAirDate": "2026-01-18",
+        "posterPath": "/k8yARbD9iYn2nRX2HvsopfKDN2r.jpg",
+        "title": {
+          "exact": true,
+          "matches": [
+            "El caballero de los Siete Reinos"
+          ]
+        },
+        "structure": {
+          "exact": true,
+          "sameSeasonSet": true,
+          "matchingSeasons": 1,
+          "totalM3USeasons": 1,
+          "tmdbSeasons": 1,
+          "seasonRatio": 1,
+          "matchingEpisodes": 6,
+          "totalM3UEpisodes": 6,
+          "totalTMDBEpisodes": 6,
+          "episodeRatio": 1
+        },
+        "score": 100,
+        "reasons": [
+          "title_exact",
+          "structure_exact"
+        ]
+      }
+    ]
+  }
+]

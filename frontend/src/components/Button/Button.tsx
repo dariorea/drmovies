@@ -4,7 +4,7 @@ import styles from "./button.module.css"
 interface Props {
     action?: () => void
     children: React.ReactNode
-    color: string
+    color?: string
 }
 
 export const Button = ({action, children, color}: Props) => {

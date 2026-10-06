@@ -11,7 +11,7 @@ export const Navbar = () => {
             id="navbar"
             type="row"
             className={styles.tvRegion}
-            focusClassName="tv-focused-hero"
+            focusClassName="tv-focused-nav"
             >
             <nav className={styles.navbar}>
 

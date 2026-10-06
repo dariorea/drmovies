@@ -1,5 +1,5 @@
 import styles from "./hero.module.css"
-import { Link, useNavigate } from "react-router-dom"
+import { NavLink, useNavigate } from "react-router-dom"
 import { useEffect, useRef } from "react"
 import { useSpatialNavigation, useNavSnapshot } from "@tv-spatial-navigation/react"
 import type { ApiResponse, Media } from "../../types/Movie"
@@ -11,7 +11,6 @@ import { Button } from "../Button/Button"
 interface Props {
     url: string
 }
-
 export const Hero = ({ url }: Props) => {
 
     const navigate = useNavigate()
@@ -402,7 +401,7 @@ export const Hero = ({ url }: Props) => {
             id="hero"
             type="row"
             className={styles.containerHero}
-            focusClassName="tv-focused-card"
+            focusClassName="tv-focused-hero"
         >
 
             {/* Elemento utilizado solamente para el foco TV */}
@@ -428,12 +427,12 @@ export const Hero = ({ url }: Props) => {
                             className={styles.portada}
                             style={{
                                 backgroundImage: `
-                                    linear-gradient(
-                                        180deg,
-                                        transparent 0%,
-                                        rgba(0, 0, 0, 1) 95%,
-                                        rgba(0, 0, 0, 1) 100%
-                                    ),
+                                linear-gradient(
+                                    360deg,
+                                    rgba(0, 0, 0, 1) 0%,
+                                    transparent 50%,
+                                    rgba(0, 0, 0, 1) 100%
+                                ),
                                     url(${IMG_BASE}${movie.backdrop_path})
                                 `
                             }}
@@ -447,7 +446,7 @@ export const Hero = ({ url }: Props) => {
                                     data={movie}
                                 />
 
-                                <Link
+                                <NavLink
                                     to={`/movies/${movie.id}`}
                                     className={`${styles.verAhora} ${
                                         snapshot.focusKey === "hero:0"
@@ -455,16 +454,11 @@ export const Hero = ({ url }: Props) => {
                                             : ""
                                     }`}
                                 >
-                                    <Button color="--red">
-
+                                    <Button >
                                         <i className="bi bi-play-fill"></i>
-
-                                        <h3>
-                                            Ver ahora
-                                        </h3>
-
+                                        <h3>ver ahora</h3>
                                     </Button>
-                                </Link>
+                                </NavLink>
 
                             </div>
 

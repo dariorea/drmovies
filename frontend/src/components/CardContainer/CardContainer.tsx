@@ -6,7 +6,7 @@ import { LoadingCards } from "../LoadingCards/LoadingCards"
 
 interface Props {
     url: string
-    types: "series" | "movies"
+    types: "series" | "movies" | "anime"
 }
 
 export const CardContainer = ({ url, types }: Props) => {

@@ -77,7 +77,9 @@ code {
   line-height: 135%;
   padding: 4px 8px;
 }
-
+h4 {
+  padding: 0;
+}
 ul {
   margin: 0;
   padding: 0;
@@ -155,30 +157,41 @@ iframe {
 .tv-focused-nav {
   position: relative;
   z-index: 10;
+  color: white !important;
   
-  transform: scale(1.06);
-  border-radius: 8px;
-  background-color: rgb(71, 71, 71);
+  border-radius: 18px;
 
+  background: linear-gradient(
+    var(--red),
+    var(--red)
+  );
   box-shadow:
-    0 0 0 0 rgb(70, 70, 70),
-    0 0 18px  rgb(70, 70, 70),
-    0 12px 30px rgba(0, 0, 0, 0.8);
+  0 0 0 0 white,
+  0 0 14px rgb(117, 117, 117) !important;
+  
   transition:
-    transform 0.2s ease,
-    box-shadow 0.2s ease;
+  transform 0.2s ease,
+  box-shadow 0.2s ease;
 }
-.tv-focused-card {
 
-  border: solid 2px white !important;
-  border-radius: 10px;
-  transform: scale(1.06);
+.tv-focused-card {
+  border: 2px solid white !important;
+  width: 145px !important;
+  height: 220px !important;
+  transform: none;
 }
 .tv-focused-hero {
-  background-color: white;
-  transform: scale(1.05);
+  background-color: var(--red) !important;
   border-radius: 14px;
   box-shadow:
-  0 0 0 2px white,
-  0 0 1px white;
+  0 0 0 0 white,
+  0 0 10px rgb(102, 102, 102);
+}
+
+
+.tv-focused-ep {
+  border: solid 2px white !important;
+}
+.tv-focused-input {
+  border: solid 3px red !important;
 }

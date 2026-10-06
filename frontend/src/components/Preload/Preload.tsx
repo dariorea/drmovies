@@ -6,6 +6,7 @@ export const Preload = () => {
     return (
         <div  className={styles.preload}>
             <Logo className={styles.movieLogo}/>
+            <div className={styles.spinner}></div>
         </div>
     )
 }

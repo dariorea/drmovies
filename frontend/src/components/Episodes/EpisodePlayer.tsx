@@ -1,7 +1,7 @@
 import styles from "./episodes.module.css";
 
 interface Props {
-    id: string | undefined;
+    id: number;
     season: number;
     episode: number;
     typeUrl: string;

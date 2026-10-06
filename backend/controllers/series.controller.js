@@ -134,3 +134,72 @@ export const getSeriesByGenre = async (req, res) => {
            return res.status(500).json({ message: "Error al obtener películas por género" });
         } 
    };
+
+   export const getDiscover = async (req, res) => {
+    try {
+        const {
+            page = 1,
+            year,
+            country,
+            genre,
+            sort = "popularity.desc",
+        } = req.query;
+
+
+        // Validar página
+        const pageNumber = Number(page);
+
+        if (!Number.isInteger(pageNumber) || pageNumber < 1) {
+            return res.status(400).json({
+                message: "La página debe ser un número mayor o igual a 1",
+            });
+        }
+
+        // Endpoint de TMDB
+        const endpoint = `https://api.themoviedb.org/3/discover/tv`;
+
+        // Parámetros base
+        const params = {
+            api_key: process.env.TMDB_API_KEY,
+            language: "es-ES",
+            page: pageNumber,
+            sort_by: sort,
+        };
+
+        // Año
+        if (year) {
+            if (type === "movie") {
+                params.primary_release_year = year;
+            } else {
+                params.first_air_date_year = year;
+            }
+        }
+
+        // País
+        if (country) {
+            params.with_origin_country = country;
+        }
+
+        // Género
+        if (genre) {
+            params.with_genres = genre;
+        }
+
+        const response = await axios.get(endpoint, {
+            params,
+        });
+
+        return res.status(200).json(response.data);
+
+    } catch (error) {
+        console.error(
+            "Error al obtener contenido de Discover:",
+            error.response?.data || error.message
+        );
+
+        return res.status(500).json({
+            message: "Error al obtener contenido de TMDB",
+            error: error.response?.data || error.message,
+        });
+    }
+};

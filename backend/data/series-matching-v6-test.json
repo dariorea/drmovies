@@ -1,0 +1,1058 @@
+{
+  "El Mentalista": {
+    "seriesName": "El Mentalista",
+    "variants": [
+      "El Mentalista"
+    ],
+    "m3uStructure": {
+      "1": 23,
+      "2": 23,
+      "3": 24,
+      "4": 24,
+      "5": 21,
+      "6": 22,
+      "7": 13
+    },
+    "decision": "MATCH_PROBABLE",
+    "results": [
+      {
+        "tmdbId": 5920,
+        "name": "El mentalista",
+        "originalName": "The Mentalist",
+        "firstAirDate": "2008-09-23",
+        "searchedWith": [
+          "El Mentalista"
+        ],
+        "titleMatch": true,
+        "titleMatches": [
+          {
+            "m3uTitle": "El Mentalista",
+            "tmdbTitle": "El mentalista"
+          },
+          {
+            "m3uTitle": "El Mentalista",
+            "tmdbTitle": "El Mentalista"
+          }
+        ],
+        "tmdbTitles": [
+          "El mentalista",
+          "The Mentalist",
+          "Mentalista",
+          "A mentalista",
+          "O Mentalista",
+          "המנטליסט",
+          "Mentalist",
+          "超感警探",
+          "În mintea criminalului",
+          " The Mentalist",
+          "Менталист",
+          "Mentalistas",
+          "Менталіст",
+          "Le Mentaliste",
+          "El Mentalista",
+          "멘탈리스트",
+          "超感應神探",
+          "Менталистът: Крадецът на мисли",
+          "THE MENTALIST メンタリストの捜査ファイル",
+          "روانکاو",
+          "الوسيط الروحي",
+          "เดอะ เมนทัลลิสต์ เจาะจิตผ่าปริศนา",
+          "მენტალისტი",
+          "Thám Tử Đại Tài",
+          "心計",
+          "Mentālists",
+          "Менталиста"
+        ],
+        "m3uStructure": {
+          "1": 23,
+          "2": 23,
+          "3": 24,
+          "4": 24,
+          "5": 21,
+          "6": 22,
+          "7": 13
+        },
+        "tmdbStructure": {
+          "1": 23,
+          "2": 23,
+          "3": 24,
+          "4": 24,
+          "5": 22,
+          "6": 22,
+          "7": 13
+        },
+        "sameSeasonSet": true,
+        "exactStructure": false,
+        "expectedEpisodes": 150,
+        "matchingEpisodes": 150,
+        "episodeRatio": 1,
+        "score": 65
+      }
+    ]
+  },
+  "El juego del calamar": {
+    "seriesName": "El juego del calamar",
+    "variants": [
+      "El juego del calamar"
+    ],
+    "m3uStructure": {
+      "1": 9,
+      "2": 7,
+      "3": 6
+    },
+    "decision": "MATCH_FUERTE",
+    "results": [
+      {
+        "tmdbId": 93405,
+        "name": "El juego del calamar",
+        "originalName": "오징어 게임",
+        "firstAirDate": "2021-09-17",
+        "searchedWith": [
+          "El juego del calamar"
+        ],
+        "titleMatch": true,
+        "titleMatches": [
+          {
+            "m3uTitle": "El juego del calamar",
+            "tmdbTitle": "El juego del calamar"
+          }
+        ],
+        "tmdbTitles": [
+          "El juego del calamar",
+          "오징어 게임",
+          "Игра в кальмара",
+          "Squid Game",
+          "魷魚遊戲",
+          "Round 6",
+          "Hra na oliheň",
+          "鱿鱼游戏",
+          "Trò chơi con mực",
+          "Nyerd meg az életed",
+          "Гра в кальмара",
+          "משחק הדיונון",
+          "สควิดเกม เล่นลุ้นตาย",
+          "კალმარის თამაში",
+          "Jocul calamarului",
+          "Игра лигње",
+          "Igra lignje",
+          "لعبة الحبّار",
+          "イカゲーム",
+          "Το Παιχνίδι του Καλαμαριού",
+          "Kalmaro žaidimas",
+          "بازی مرکب",
+          "Игра на калмари",
+          "Le Jeu du calmar",
+          "Ciyaarta Sanaaniga",
+          "Kalmaari mängud",
+          "स्क्विड गेम",
+          "Кальмар ойыны",
+          "El joc del calamar",
+          "Kalmar o‘yini",
+          "سکویڈ گیم"
+        ],
+        "m3uStructure": {
+          "1": 9,
+          "2": 7,
+          "3": 6
+        },
+        "tmdbStructure": {
+          "1": 9,
+          "2": 7,
+          "3": 6
+        },
+        "sameSeasonSet": true,
+        "exactStructure": true,
+        "expectedEpisodes": 22,
+        "matchingEpisodes": 22,
+        "episodeRatio": 1,
+        "score": 100
+      },
+      {
+        "tmdbId": 204082,
+        "name": "El juego del calamar: El desafío",
+        "originalName": "Squid Game: The Challenge",
+        "firstAirDate": "2023-11-22",
+        "searchedWith": [
+          "El juego del calamar"
+        ],
+        "titleMatch": false,
+        "titleMatches": [],
+        "tmdbTitles": [
+          "El juego del calamar: El desafío",
+          "Squid Game: The Challenge",
+          "오징어 게임: 더 챌린지",
+          "Игра в кальмара: вызов",
+          "Round 6: O Desafio",
+          "Thử thách Trò chơi con mực",
+          "魷魚遊戲：真人挑戰賽",
+          "Squid Game : Le défi",
+          "Squid Game: Wyzwanie",
+          "لعبة الحبّار: التحدي",
+          "Гра в кальмара: Випробування",
+          "Squid Game: La sfida",
+          "鱿鱼游戏：真人挑战赛",
+          "イカゲーム: ザ・チャレンジ",
+          "สควิดเกม เดอะ ชาเลนจ์",
+          "Hra na oliheň: Výzva",
+          "Το Παιχνίδι του Καλαμαριού: Η Δοκιμασία",
+          "Squid Game -haaste",
+          "Le Jeu du calmar : Le défi",
+          "אתגר הדיונון",
+          "स्क्विड गेम: द चैलेंज",
+          "Igra lignje: Izazov",
+          "Nyerd meg az életed: A kihívás",
+          "Squid Game: O Desafio",
+          "Jocul calamarului: Provocarea",
+          "بازی مرکب : چالش"
+        ],
+        "m3uStructure": {
+          "1": 9,
+          "2": 7,
+          "3": 6
+        },
+        "tmdbStructure": {
+          "1": 10,
+          "2": 9
+        },
+        "sameSeasonSet": false,
+        "exactStructure": false,
+        "expectedEpisodes": 22,
+        "matchingEpisodes": 16,
+        "episodeRatio": 0.7272727272727273,
+        "score": 0
+      }
+    ]
+  },
+  "Los Simpson": {
+    "seriesName": "Los Simpson",
+    "variants": [
+      "Los Simpson"
+    ],
+    "m3uStructure": {
+      "1": 13,
+      "2": 22,
+      "3": 24,
+      "4": 22,
+      "5": 22,
+      "6": 25,
+      "7": 25,
+      "8": 25,
+      "9": 25,
+      "10": 23,
+      "11": 22,
+      "12": 21,
+      "13": 22,
+      "14": 22,
+      "15": 22,
+      "16": 21,
+      "17": 22,
+      "18": 22,
+      "19": 20,
+      "20": 20,
+      "21": 23,
+      "22": 21,
+      "23": 21,
+      "24": 21,
+      "25": 22,
+      "26": 22,
+      "27": 22,
+      "28": 21,
+      "29": 21,
+      "30": 23,
+      "31": 22,
+      "32": 22,
+      "33": 22,
+      "34": 22,
+      "35": 8
+    },
+    "decision": "MATCH_PROBABLE",
+    "results": [
+      {
+        "tmdbId": 456,
+        "name": "Los Simpson",
+        "originalName": "The Simpsons",
+        "firstAirDate": "1989-12-17",
+        "searchedWith": [
+          "Los Simpson"
+        ],
+        "titleMatch": true,
+        "titleMatches": [
+          {
+            "m3uTitle": "Los Simpson",
+            "tmdbTitle": "Los Simpson"
+          }
+        ],
+        "tmdbTitles": [
+          "Los Simpson",
+          "The Simpsons",
+          "Die Simpsons",
+          "Simpsonovci",
+          "Симпсоны",
+          "Os Simpsons",
+          "I Simpson",
+          "Les Simpson",
+          "Simpsonovi",
+          "Семейство Симпсън",
+          "심슨 가족",
+          "Simpsonit",
+          "A Simpson család",
+          "משפחת סימפסון",
+          "Simpsons",
+          "ザ・シンプソンズ",
+          "辛普森一家",
+          "Simpsonlar",
+          "Simpsoni",
+          "Familia Simpson",
+          "Simpsonowie",
+          "Simpsonai",
+          "Simpsonid",
+          "سیمپسون‌ها",
+          "Сімпсони",
+          "D'Simpsons",
+          "Симпсонови",
+          "辛普森家庭",
+          "เดอะ ซิมป์สันส์",
+          "آل سيمبسون",
+          "தி சிம்ப்சன்ஸ்",
+          "阿森一族",
+          "Gia Đình Simpson",
+          "სიმფსონები",
+          "Els Simpson"
+        ],
+        "m3uStructure": {
+          "1": 13,
+          "2": 22,
+          "3": 24,
+          "4": 22,
+          "5": 22,
+          "6": 25,
+          "7": 25,
+          "8": 25,
+          "9": 25,
+          "10": 23,
+          "11": 22,
+          "12": 21,
+          "13": 22,
+          "14": 22,
+          "15": 22,
+          "16": 21,
+          "17": 22,
+          "18": 22,
+          "19": 20,
+          "20": 20,
+          "21": 23,
+          "22": 21,
+          "23": 21,
+          "24": 21,
+          "25": 22,
+          "26": 22,
+          "27": 22,
+          "28": 21,
+          "29": 21,
+          "30": 23,
+          "31": 22,
+          "32": 22,
+          "33": 22,
+          "34": 22,
+          "35": 8
+        },
+        "tmdbStructure": {
+          "1": 13,
+          "2": 22,
+          "3": 24,
+          "4": 22,
+          "5": 22,
+          "6": 25,
+          "7": 25,
+          "8": 25,
+          "9": 25,
+          "10": 23,
+          "11": 22,
+          "12": 21,
+          "13": 22,
+          "14": 22,
+          "15": 22,
+          "16": 21,
+          "17": 22,
+          "18": 22,
+          "19": 20,
+          "20": 21,
+          "21": 23,
+          "22": 22,
+          "23": 22,
+          "24": 22,
+          "25": 22,
+          "26": 22,
+          "27": 22,
+          "28": 22,
+          "29": 21,
+          "30": 23,
+          "31": 22,
+          "32": 22,
+          "33": 22,
+          "34": 22,
+          "35": 18,
+          "36": 18,
+          "37": 15,
+          "38": 2
+        },
+        "sameSeasonSet": false,
+        "exactStructure": false,
+        "expectedEpisodes": 753,
+        "matchingEpisodes": 753,
+        "episodeRatio": 1,
+        "score": 75
+      },
+      {
+        "tmdbId": 304530,
+        "name": "Fortnite x Los Simpson",
+        "originalName": "Fortnite x The Simpsons",
+        "firstAirDate": "2025-11-01",
+        "searchedWith": [
+          "Los Simpson"
+        ],
+        "titleMatch": false,
+        "titleMatches": [],
+        "tmdbTitles": [
+          "Fortnite x Los Simpson",
+          "Fortnite x The Simpsons",
+          "Fortnite x Les Simpson",
+          "Fortnite x Simpsons",
+          "Fortnite x Симпсоны",
+          "フォートナイト | シンプソンズ",
+          "פורטנייט והסימפסונים",
+          "Fortnite x I Simpson",
+          "Fortnite ir Simpsonai"
+        ],
+        "m3uStructure": {
+          "1": 13,
+          "2": 22,
+          "3": 24,
+          "4": 22,
+          "5": 22,
+          "6": 25,
+          "7": 25,
+          "8": 25,
+          "9": 25,
+          "10": 23,
+          "11": 22,
+          "12": 21,
+          "13": 22,
+          "14": 22,
+          "15": 22,
+          "16": 21,
+          "17": 22,
+          "18": 22,
+          "19": 20,
+          "20": 20,
+          "21": 23,
+          "22": 21,
+          "23": 21,
+          "24": 21,
+          "25": 22,
+          "26": 22,
+          "27": 22,
+          "28": 21,
+          "29": 21,
+          "30": 23,
+          "31": 22,
+          "32": 22,
+          "33": 22,
+          "34": 22,
+          "35": 8
+        },
+        "tmdbStructure": {
+          "1": 4
+        },
+        "sameSeasonSet": false,
+        "exactStructure": false,
+        "expectedEpisodes": 753,
+        "matchingEpisodes": 4,
+        "episodeRatio": 0.005312084993359893,
+        "score": 0
+      }
+    ]
+  },
+  "Fundacion": {
+    "seriesName": "Fundacion",
+    "variants": [
+      "Fundacion"
+    ],
+    "m3uStructure": {
+      "1": 10,
+      "2": 8,
+      "3": 10
+    },
+    "decision": "MATCH_PROBABLE",
+    "results": [
+      {
+        "tmdbId": 93740,
+        "name": "Fundación",
+        "originalName": "Foundation",
+        "firstAirDate": "2021-09-23",
+        "searchedWith": [
+          "Fundacion"
+        ],
+        "titleMatch": true,
+        "titleMatches": [
+          {
+            "m3uTitle": "Fundacion",
+            "tmdbTitle": "Fundación"
+          }
+        ],
+        "tmdbTitles": [
+          "Fundación",
+          "Foundation",
+          "Fundação",
+          "Основание",
+          "Фундація",
+          "Alapítvány",
+          "Nadácia",
+          "基地",
+          "Fundacja",
+          "Fondation",
+          "Vakıf",
+          "Θεμέλιο",
+          "Fondazione",
+          "Nadace",
+          "Фондацията",
+          "'파운데이션' - Foundation",
+          "Fundația",
+          "Lực Lượng Nền Móng",
+          "Задужбина",
+          "Fondas",
+          "ファウンデーション",
+          "بنیاد",
+          "Stiftelsen",
+          "დაარსება",
+          "फ़ाउंडेशन",
+          "Zaklada",
+          "Fundació",
+          "Asum",
+          "فاؤنڈیشن"
+        ],
+        "m3uStructure": {
+          "1": 10,
+          "2": 8,
+          "3": 10
+        },
+        "tmdbStructure": {
+          "1": 10,
+          "2": 10,
+          "3": 10
+        },
+        "sameSeasonSet": true,
+        "exactStructure": false,
+        "expectedEpisodes": 28,
+        "matchingEpisodes": 28,
+        "episodeRatio": 1,
+        "score": 65
+      },
+      {
+        "tmdbId": 263269,
+        "name": "Fundación Huésped",
+        "originalName": "Fundación Huésped",
+        "firstAirDate": "2006-12-01",
+        "searchedWith": [
+          "Fundacion"
+        ],
+        "titleMatch": false,
+        "titleMatches": [],
+        "tmdbTitles": [
+          "Fundación Huésped"
+        ],
+        "m3uStructure": {
+          "1": 10,
+          "2": 8,
+          "3": 10
+        },
+        "tmdbStructure": {
+          "1": 14
+        },
+        "sameSeasonSet": false,
+        "exactStructure": false,
+        "expectedEpisodes": 28,
+        "matchingEpisodes": 10,
+        "episodeRatio": 0.35714285714285715,
+        "score": 0
+      }
+    ]
+  },
+  "My Hero Academia / Boku no Hero Academia": {
+    "seriesName": "My Hero Academia / Boku no Hero Academia",
+    "variants": [
+      "My Hero Academia",
+      "Boku no Hero Academia"
+    ],
+    "m3uStructure": {
+      "1": 13,
+      "2": 25,
+      "3": 25,
+      "4": 25,
+      "5": 25,
+      "6": 27,
+      "7": 25
+    },
+    "decision": "MATCH_PROBABLE",
+    "results": [
+      {
+        "tmdbId": 65930,
+        "name": "My Hero Academia",
+        "originalName": "僕のヒーローアカデミア",
+        "firstAirDate": "2016-04-03",
+        "searchedWith": [
+          "My Hero Academia",
+          "Boku no Hero Academia"
+        ],
+        "titleMatch": true,
+        "titleMatches": [
+          {
+            "m3uTitle": "My Hero Academia",
+            "tmdbTitle": "My Hero Academia"
+          }
+        ],
+        "tmdbTitles": [
+          "My Hero Academia",
+          "僕のヒーローアカデミア",
+          "أكاديمية بطلي",
+          "Моя академія героїв",
+          "Моя геройская академия",
+          "나의 히어로 아카데미아",
+          "我的英雄学院",
+          "Hősakadémia",
+          "Моята академия за герои",
+          "אקדמיית הגיבורים שלי",
+          "我的英雄學院",
+          "Academia eroilor",
+          "Học Viện Siêu Anh Hùng",
+          "Η Δική Μου Ακαδημία Ηρώων",
+          "Akademia bohaterów",
+          "มายฮีโร่ อคาเดเมีย",
+          "Kahramanlık Akademim",
+          "Mit helteakademi",
+          "Moje hrdinská akademie",
+          "ჩემი საგმირო აკადემია",
+          "माई हीरो एकेडेमिया"
+        ],
+        "m3uStructure": {
+          "1": 13,
+          "2": 25,
+          "3": 25,
+          "4": 25,
+          "5": 25,
+          "6": 27,
+          "7": 25
+        },
+        "tmdbStructure": {
+          "1": 13,
+          "2": 25,
+          "3": 25,
+          "4": 25,
+          "5": 25,
+          "6": 25,
+          "7": 21,
+          "8": 11
+        },
+        "sameSeasonSet": false,
+        "exactStructure": false,
+        "expectedEpisodes": 165,
+        "matchingEpisodes": 159,
+        "episodeRatio": 0.9636363636363636,
+        "score": 75
+      },
+      {
+        "tmdbId": 280110,
+        "name": "My Hero Academia: Vigilantes",
+        "originalName": "ヴィジランテ -僕のヒーローアカデミア ILLEGALS-",
+        "firstAirDate": "2025-04-07",
+        "searchedWith": [
+          "My Hero Academia",
+          "Boku no Hero Academia"
+        ],
+        "titleMatch": false,
+        "titleMatches": [],
+        "tmdbTitles": [
+          "My Hero Academia: Vigilantes",
+          "ヴィジランテ -僕のヒーローアカデミア ILLEGALS-",
+          "My Hero Academia : Vigilantes",
+          "Моя академія героїв: Вігіланти",
+          "正義使者 - 我的英雄學院之非法英雄",
+          "Học Viện Anh Hùng: Vigilantes",
+          "正义使者-我的英雄学院之非法英雄",
+          "มายฮีโร่ อคาเดเมีย: วิจิลันเต",
+          "Моя геройская академия: Вне закона",
+          "비질랜티 -나의 히어로 아카데미아 ILLEGALS-",
+          "مدرسه قهرمانان من: نگهبانان",
+          "אקדמיית הגיבורים שלי: פורעי חוק",
+          "माई हीरो एकेडेमिया: विजिलेंटेस"
+        ],
+        "m3uStructure": {
+          "1": 13,
+          "2": 25,
+          "3": 25,
+          "4": 25,
+          "5": 25,
+          "6": 27,
+          "7": 25
+        },
+        "tmdbStructure": {
+          "1": 26
+        },
+        "sameSeasonSet": false,
+        "exactStructure": false,
+        "expectedEpisodes": 165,
+        "matchingEpisodes": 13,
+        "episodeRatio": 0.07878787878787878,
+        "score": 0
+      }
+    ]
+  },
+  "Juego de tronos / Game of Thrones": {
+    "seriesName": "Juego de tronos / Game of Thrones",
+    "variants": [
+      "Juego de tronos",
+      "Game of Thrones"
+    ],
+    "m3uStructure": {
+      "1": 10,
+      "2": 10,
+      "3": 10,
+      "4": 10,
+      "5": 10,
+      "6": 10,
+      "7": 7,
+      "8": 6
+    },
+    "decision": "MATCH_FUERTE",
+    "results": [
+      {
+        "tmdbId": 1399,
+        "name": "Juego de tronos",
+        "originalName": "Game of Thrones",
+        "firstAirDate": "2011-04-17",
+        "searchedWith": [
+          "Juego de tronos",
+          "Game of Thrones"
+        ],
+        "titleMatch": true,
+        "titleMatches": [
+          {
+            "m3uTitle": "Juego de tronos",
+            "tmdbTitle": "Juego de tronos"
+          },
+          {
+            "m3uTitle": "Game of Thrones",
+            "tmdbTitle": "Game of Thrones"
+          }
+        ],
+        "tmdbTitles": [
+          "Juego de tronos",
+          "Game of Thrones",
+          "Il Trono di Spade",
+          "Игра Престолов",
+          "Trónok harca",
+          "权力的游戏",
+          "Hra o trůny",
+          "A Guerra dos Tronos",
+          "بازی تاج‌وتخت",
+          "Игра на тронове",
+          "Hra o tróny",
+          "משחקי הכס",
+          "Gra o tron",
+          "Urzeala tronurilor",
+          "มหาศึกชิงบัลลังก์",
+          "왕좌의 게임",
+          "Гра престолів",
+          "Krúnuleikar",
+          "Sostų karai",
+          "Igra prijestolja",
+          "صراع العروش",
+          "Spill vun Instanzen",
+          "Trò Chơi Vương Quyền",
+          "Le trône de fer",
+          "冰與火之歌：權力遊戲",
+          "Игра престола",
+          "Ludo de Tronoj",
+          "Troņu spēle",
+          "Гульня тронаў",
+          "ゲーム・オブ・スローンズ",
+          "სამეფო კარის თამაშები",
+          "Taxtlar oʻyini",
+          "ഗെയിം ഓഫ് ത്രോൺസ്",
+          "權力遊戲",
+          "அரியணை விளையாட்டு",
+          "Troonide mäng",
+          "Ciyaarta Boqorrada",
+          "Igra prestolov",
+          "Joc de trons",
+          "گیم آف تھرونز"
+        ],
+        "m3uStructure": {
+          "1": 10,
+          "2": 10,
+          "3": 10,
+          "4": 10,
+          "5": 10,
+          "6": 10,
+          "7": 7,
+          "8": 6
+        },
+        "tmdbStructure": {
+          "1": 10,
+          "2": 10,
+          "3": 10,
+          "4": 10,
+          "5": 10,
+          "6": 10,
+          "7": 7,
+          "8": 6
+        },
+        "sameSeasonSet": true,
+        "exactStructure": true,
+        "expectedEpisodes": 73,
+        "matchingEpisodes": 73,
+        "episodeRatio": 1,
+        "score": 100
+      },
+      {
+        "tmdbId": 326761,
+        "name": "The Official Game of Thrones Podcast: House of the Dragon",
+        "originalName": "The Official Game of Thrones Podcast: House of the Dragon",
+        "firstAirDate": "2026-06-21",
+        "searchedWith": [
+          "Game of Thrones"
+        ],
+        "titleMatch": false,
+        "titleMatches": [],
+        "tmdbTitles": [
+          "The Official Game of Thrones Podcast: House of the Dragon"
+        ],
+        "m3uStructure": {
+          "1": 10,
+          "2": 10,
+          "3": 10,
+          "4": 10,
+          "5": 10,
+          "6": 10,
+          "7": 7,
+          "8": 6
+        },
+        "tmdbStructure": {
+          "1": 8
+        },
+        "sameSeasonSet": false,
+        "exactStructure": false,
+        "expectedEpisodes": 73,
+        "matchingEpisodes": 8,
+        "episodeRatio": 0.1095890410958904,
+        "score": 0
+      },
+      {
+        "tmdbId": 318472,
+        "name": "The Official Game of Thrones Podcast: A Knight of the Seven Kingdoms",
+        "originalName": "The Official Game of Thrones Podcast: A Knight of the Seven Kingdoms",
+        "firstAirDate": "2026-01-12",
+        "searchedWith": [
+          "Game of Thrones"
+        ],
+        "titleMatch": false,
+        "titleMatches": [],
+        "tmdbTitles": [
+          "The Official Game of Thrones Podcast: A Knight of the Seven Kingdoms",
+          "O Cavaleiro dos Sete Reinos: O Podcast"
+        ],
+        "m3uStructure": {
+          "1": 10,
+          "2": 10,
+          "3": 10,
+          "4": 10,
+          "5": 10,
+          "6": 10,
+          "7": 7,
+          "8": 6
+        },
+        "tmdbStructure": {
+          "1": 7
+        },
+        "sameSeasonSet": false,
+        "exactStructure": false,
+        "expectedEpisodes": 73,
+        "matchingEpisodes": 7,
+        "episodeRatio": 0.0958904109589041,
+        "score": 0
+      },
+      {
+        "tmdbId": 206584,
+        "name": "The Game of Thrones Reunion Hosted by Conan O'Brien",
+        "originalName": "The Game of Thrones Reunion Hosted by Conan O'Brien",
+        "firstAirDate": "2021-04-05",
+        "searchedWith": [
+          "Game of Thrones"
+        ],
+        "titleMatch": false,
+        "titleMatches": [],
+        "tmdbTitles": [
+          "The Game of Thrones Reunion Hosted by Conan O'Brien",
+          "Reuniunea „Urzeala tronurilor”, prezentată de Conan O’Brien"
+        ],
+        "m3uStructure": {
+          "1": 10,
+          "2": 10,
+          "3": 10,
+          "4": 10,
+          "5": 10,
+          "6": 10,
+          "7": 7,
+          "8": 6
+        },
+        "tmdbStructure": {
+          "1": 2
+        },
+        "sameSeasonSet": false,
+        "exactStructure": false,
+        "expectedEpisodes": 73,
+        "matchingEpisodes": 2,
+        "episodeRatio": 0.0273972602739726,
+        "score": 0
+      },
+      {
+        "tmdbId": 94997,
+        "name": "La casa del dragón",
+        "originalName": "House of the Dragon",
+        "firstAirDate": "2022-08-21",
+        "searchedWith": [
+          "Game of Thrones"
+        ],
+        "titleMatch": false,
+        "titleMatches": [],
+        "tmdbTitles": [
+          "La casa del dragón",
+          "House of the Dragon",
+          "하우스 오브 드래곤",
+          "Дом Дракона",
+          "დრაკონის სახლი",
+          "Домът на дракона",
+          "Sárkányok háza",
+          "Rod draka",
+          "La casa del drac",
+          "آل التنين",
+          "Ród Smoka",
+          "权力的游戏前传：龙族",
+          "A Casa do Dragão",
+          "בית הדרקון",
+          "ハウス・オブ・ザ・ドラゴン",
+          "Gia Tộc Rồng",
+          "Pūķa nams",
+          "Дім дракона",
+          "Zmajeva kuća",
+          "Rod Draka",
+          "龍族前傳",
+          "ตระกูลแห่งมังกร",
+          "Casa Dragonului",
+          "Drakono namai",
+          "خاندان اژدها",
+          "龍之家族",
+          "Zmajeva hiša",
+          "La maison du dragon",
+          "Кућа змаја",
+          "Guriga Dragonka",
+          "Lohede koda",
+          "Дом Цмока",
+          "হাউজ অব দ্য ড্রাগন",
+          "بنەماڵەی ئەژدیھا",
+          "Վիշապի տունը",
+          "Айдаһар үйі",
+          "ផ្ទះរបស់នាគ",
+          "Куќата на змејот",
+          "हाउस अफ द ड्रयागन",
+          "හවුස් ඔෆ් ද ඩ්‍රැගන්",
+          "Ajdaho uyi",
+          "हाउस ऑफ़ द ड्रैगन",
+          "龙族前传",
+          "ہاؤس آف دی ڈریگن"
+        ],
+        "m3uStructure": {
+          "1": 10,
+          "2": 10,
+          "3": 10,
+          "4": 10,
+          "5": 10,
+          "6": 10,
+          "7": 7,
+          "8": 6
+        },
+        "tmdbStructure": {
+          "1": 10,
+          "2": 8,
+          "3": 8
+        },
+        "sameSeasonSet": false,
+        "exactStructure": false,
+        "expectedEpisodes": 73,
+        "matchingEpisodes": 26,
+        "episodeRatio": 0.3561643835616438,
+        "score": 0
+      },
+      {
+        "tmdbId": 224372,
+        "name": "El caballero de los Siete Reinos",
+        "originalName": "A Knight of the Seven Kingdoms",
+        "firstAirDate": "2026-01-18",
+        "searchedWith": [
+          "Game of Thrones"
+        ],
+        "titleMatch": false,
+        "titleMatches": [],
+        "tmdbTitles": [
+          "El caballero de los Siete Reinos",
+          "A Knight of the Seven Kingdoms",
+          "Рыцарь Семи Королевств",
+          "세븐킹덤의 기사",
+          "O Cavaleiro dos Sete Reinos",
+          "七王国的骑士",
+          "Рицарят на Седемте кралства",
+          "A hét királyság lovagja",
+          "فارس من الممالك السبع",
+          "Vitez sedam kraljevstava",
+          "七王國的騎士",
+          "ナイト・オブ・ザ・セブン・キングダムズ",
+          "Лицар Сімох Королівств",
+          "El cavaller dels set regnes",
+          "Rycerz Siedmiu Królestw",
+          "شوالیه هفت پادشاهی",
+          "האביר משבע הממלכות",
+          "อัศวินแห่งเจ็ดราชอาณาจักร",
+          "Hiệp Sĩ Của Bảy Vương Quốc",
+          "Rytíř Sedmi království",
+          "Vitez iz sedmih kraljestev",
+          "Витезот од Седумте кралства",
+          "Cavalerul celor Șapte Regate",
+          "Rytier siedmich kráľovstiev",
+          "Витез седам краљевства",
+          "Chroniques du chevalier errant",
+          "შვიდი სამეფოს რაინდი",
+          "Рыцар Сямі Каралеўстваў"
+        ],
+        "m3uStructure": {
+          "1": 10,
+          "2": 10,
+          "3": 10,
+          "4": 10,
+          "5": 10,
+          "6": 10,
+          "7": 7,
+          "8": 6
+        },
+        "tmdbStructure": {
+          "1": 6
+        },
+        "sameSeasonSet": false,
+        "exactStructure": false,
+        "expectedEpisodes": 73,
+        "matchingEpisodes": 6,
+        "episodeRatio": 0.0821917808219178,
+        "score": 0
+      }
+    ]
+  }
+}

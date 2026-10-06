@@ -1,10 +1,12 @@
 .container {
     width: 100%;
+    display: flex;
+    justify-content: center;
 }
 
 .title {
     margin-bottom: 15px;
-    padding: 10px 0;
+    padding: 18px 0 0 0;
 }
 
 .title h2 {
@@ -13,7 +15,8 @@
 
 .player {
     position: relative;
-    width: 100%;
+    width: 60%;
+    height:auto;
     background: #000;
     overflow: hidden;
 }
@@ -62,6 +65,7 @@
 .control {
     width: 42px;
     height: 42px;
+    
 
     display: flex;
     align-items: center;
@@ -86,6 +90,7 @@
 
 .control i {
     font-size: 20px;
+
 }
 
 .progress {

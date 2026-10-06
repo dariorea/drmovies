@@ -1,51 +1,67 @@
-import "dotenv/config";
-
+import dotenv from "dotenv";
 import fs from "fs/promises";
 import path from "path";
 import { fileURLToPath } from "url";
 
 import { matchMovie } from "../services/movieMatcher.service.js";
-import {
-    sanitizeStreamUrl
-} from "../services/m3u.service.js";
+import { sanitizeStreamUrl } from "../services/m3u.service.js";
 
+dotenv.config()
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 const DATA_DIR = path.join(__dirname, "../data");
 
-const STREAMS_FILE = path.join(
+const SOURCE = process.argv[2];
+
+if (!SOURCE) {
+    console.error("Uso: node scripts/retryUnmatched.js lista-3");
+    process.exit(1);
+}
+
+const CATALOG_FILE = path.join(
     DATA_DIR,
-    "movie-streams.json"
+    "movie-streams-all.json"
 );
 
 const UNMATCHED_FILE = path.join(
     DATA_DIR,
-    "unmatched-movies.json"
+    `unmatched-movies-${SOURCE}.json`
+);
+
+const CATALOG_BACKUP = path.join(
+    DATA_DIR,
+    `movie-streams-all.before-retry-${SOURCE}.json`
+);
+
+const PROGRESS_FILE = path.join(
+    DATA_DIR,
+    `unmatched-movies-${SOURCE}.retry-progress.json`
+);
+
+const TEMP_CATALOG_FILE = path.join(
+    DATA_DIR,
+    `movie-streams-all.retry-${SOURCE}.tmp.json`
+);
+
+const TEMP_UNMATCHED_FILE = path.join(
+    DATA_DIR,
+    `unmatched-movies-${SOURCE}.retry.tmp.json`
 );
 
 const DELAY_MS = 250;
 
-function sleep(ms) {
-    return new Promise(resolve =>
-        setTimeout(resolve, ms)
-    );
-}
-
-async function readJson(file, defaultValue) {
+async function readJson(file, fallback = null) {
     try {
-        const content = await fs.readFile(
-            file,
-            "utf8"
+        return JSON.parse(
+            await fs.readFile(file, "utf8")
         );
-
-        return JSON.parse(content);
     } catch {
-        return defaultValue;
+        return fallback;
     }
 }
 
-async function writeJson(file, data) {
+async function saveJson(file, data) {
     await fs.writeFile(
         file,
         JSON.stringify(data, null, 4),
@@ -53,180 +69,308 @@ async function writeJson(file, data) {
     );
 }
 
+function sleep(ms) {
+    return new Promise(resolve => setTimeout(resolve, ms));
+}
+
 async function main() {
-    console.log(
-        "🔄 Reintentando películas sin coincidencia...\n"
-    );
+    console.log("========================================");
+    console.log(" RETRY UNMATCHED");
+    console.log("========================================");
+    console.log(`Fuente: ${SOURCE}`);
+    console.log();
 
-    const streams = await readJson(
-        STREAMS_FILE,
-        {}
-    );
+    const catalog = await readJson(CATALOG_FILE, null);
+    const unmatched = await readJson(UNMATCHED_FILE, null);
 
-    const unmatched = await readJson(
-        UNMATCHED_FILE,
-        []
-    );
-
-    console.log(
-        `⚠️ Películas sin match: ${unmatched.length}\n`
-    );
-
-    if (!unmatched.length) {
-        console.log(
-            "✅ No hay películas para reprocesar."
+    if (!catalog) {
+        throw new Error(
+            `No se pudo leer ${CATALOG_FILE}`
         );
-
-        return;
     }
 
-    const newUnmatched = [];
+    if (!unmatched) {
+        throw new Error(
+            `No se pudo leer ${UNMATCHED_FILE}`
+        );
+    }
 
-    let matchedCount = 0;
-    let stillUnmatchedCount = 0;
+    console.log(
+        `Películas en catálogo: ${Object.keys(catalog).length}`
+    );
 
+    console.log(
+        `Películas pendientes: ${unmatched.length}`
+    );
+
+    /*
+     * Si no existe progreso, creamos un backup del catálogo.
+     */
+    let progress = await readJson(PROGRESS_FILE, null);
+
+    if (!progress) {
+        console.log();
+        console.log("Creando backup del catálogo...");
+
+        await fs.copyFile(
+            CATALOG_FILE,
+            CATALOG_BACKUP
+        );
+
+        progress = {
+            nextIndex: 0,
+            matchedCount: 0,
+            ambiguousCount: 0,
+            noMatchCount: 0,
+            errorCount: 0,
+            unmatched: []
+        };
+
+        await saveJson(
+            PROGRESS_FILE,
+            progress
+        );
+
+        console.log(
+            `Backup: ${CATALOG_BACKUP}`
+        );
+    } else {
+        console.log();
+        console.log(
+            `Retomando desde ${progress.nextIndex + 1}/${unmatched.length}`
+        );
+    }
+
+    const startIndex = progress.nextIndex;
+
+    let matchedCount = progress.matchedCount;
+    let ambiguousCount = progress.ambiguousCount;
+    let noMatchCount = progress.noMatchCount;
+    let errorCount = progress.errorCount;
+    let newUnmatched = progress.unmatched;
+
+    /*
+     * Trabajamos sobre una copia del catálogo en memoria.
+     * El archivo original no se modifica durante el proceso.
+     */
     for (
-        let i = 0;
+        let i = startIndex;
         i < unmatched.length;
         i++
     ) {
         const movie = unmatched[i];
 
         console.log(
-            `[${i + 1}/${unmatched.length}] ${movie.name}`
+            `\n[${i + 1}/${unmatched.length}] ${movie.name}`
         );
 
         try {
-            const match = await matchMovie(movie);
+            const result = await matchMovie(movie.name);
 
-            if (match.matched) {
-                streams[match.tmdbId] = {
-                    tmdbId: match.tmdbId,
-                    title: match.title,
-                    originalTitle:
-                        match.originalTitle,
-                    year: match.year,
-                    posterPath:
-                        match.posterPath,
-                    streamUrl: sanitizeStreamUrl(
+            if (result?.match) {
+                const match = result.match;
+
+                const tmdbId = String(
+                    match.tmdbId
+                );
+
+                if (!catalog[tmdbId]) {
+                    catalog[tmdbId] = {
+                        tmdbId: match.tmdbId,
+                        title: match.title,
+                        originalTitle:
+                            match.originalTitle,
+                        year: match.year,
+                        posterPath:
+                            match.posterPath,
+                        streams: []
+                    };
+                }
+
+                if (!catalog[tmdbId].streams) {
+                    catalog[tmdbId].streams = [];
+                }
+
+                const streamUrl =
+                    sanitizeStreamUrl(
                         movie.streamUrl
-                    ),
-                    matchMethod:
-                        match.matchMethod,
-                    confidence:
-                        match.confidence
+                    );
+
+                const alreadyExists =
+                    catalog[tmdbId].streams.some(
+                        stream =>
+                            stream.source === SOURCE &&
+                            sanitizeStreamUrl(
+                                stream.streamUrl
+                            ) === streamUrl
+                    );
+
+                if (!alreadyExists) {
+                    catalog[tmdbId].streams.push({
+                        streamUrl,
+                        source: SOURCE,
+                        confidence:
+                            match.confidence
+                    });
+
+                    matchedCount++;
+
+                    console.log(
+                        `  ✅ ${match.title} (${match.tmdbId})`
+                    );
+                    console.log(
+                        `     Confianza: ${match.confidence}`
+                    );
+                } else {
+                    console.log(
+                        "  ↪️ Stream ya existente"
+                    );
+                }
+
+            } else {
+                const item = {
+                    name: movie.name,
+                    streamUrl: movie.streamUrl,
+                    source: movie.source,
+                    reason:
+                        result?.reason ??
+                        "no-match"
                 };
 
-                matchedCount++;
+                if (result?.candidates) {
+                    item.candidates =
+                        result.candidates;
+                }
 
-                console.log(
-                    `  ✅ TMDB ${match.tmdbId}`
-                );
+                newUnmatched.push(item);
 
-                console.log(
-                    `  Método: ${match.matchMethod}`
-                );
+                if (
+                    result?.reason?.includes(
+                        "ambiguous"
+                    )
+                ) {
+                    ambiguousCount++;
 
-                console.log(
-                    `  Confianza: ${match.confidence}`
-                );
-            } else {
-                newUnmatched.push({
-                    ...movie,
-                    reason: match.reason,
-                    candidates:
-                        match.candidates ?? []
-                });
+                    console.log(
+                        "  ⚠️ Coincidencia ambigua"
+                    );
+                } else {
+                    noMatchCount++;
 
-                stillUnmatchedCount++;
-
-                console.log(
-                    "  ⚠️ Sigue sin coincidencia"
-                );
+                    console.log(
+                        "  ❌ Sin coincidencia"
+                    );
+                }
             }
 
-            await sleep(DELAY_MS);
-
         } catch (error) {
-            console.error(
-                "  ❌ Error:",
-                error.response?.data ??
-                    error.message
-            );
-
-            // Si ocurre un error, conservamos
-            // la película para no perderla.
-            newUnmatched.push(movie);
-
-            stillUnmatchedCount++;
-        }
-
-        // Guardar progreso cada 25 películas
-        if ((i + 1) % 25 === 0) {
-            await writeJson(
-                STREAMS_FILE,
-                streams
-            );
-
-            await writeJson(
-                UNMATCHED_FILE,
-                newUnmatched
-            );
+            errorCount++;
 
             console.log(
-                "  💾 Progreso guardado"
+                `  💥 Error: ${error.message}`
             );
+
+            /*
+             * Un error de red no se considera una película
+             * definitivamente no encontrada.
+             * La dejamos pendiente para poder reintentarlo.
+             */
+            newUnmatched.push({
+                name: movie.name,
+                streamUrl: movie.streamUrl,
+                source: movie.source,
+                reason: "retry-error",
+                error: error.message
+            });
+        }
+
+        /*
+         * Guardamos TODO el estado en archivos temporales.
+         */
+        await saveJson(
+            TEMP_CATALOG_FILE,
+            catalog
+        );
+
+        await saveJson(
+            TEMP_UNMATCHED_FILE,
+            newUnmatched
+        );
+
+        await saveJson(
+            PROGRESS_FILE,
+            {
+                nextIndex: i + 1,
+                matchedCount,
+                ambiguousCount,
+                noMatchCount,
+                errorCount,
+                unmatched: newUnmatched
+            }
+        );
+
+        if (i < unmatched.length - 1) {
+            await sleep(DELAY_MS);
         }
     }
 
-    // Guardado final
-    await writeJson(
-        STREAMS_FILE,
-        streams
+    console.log();
+    console.log("========================================");
+    console.log(" PROCESAMIENTO TERMINADO");
+    console.log("========================================");
+    console.log(`Encontradas:        ${matchedCount}`);
+    console.log(`Ambiguas:           ${ambiguousCount}`);
+    console.log(`Sin coincidencia:   ${noMatchCount}`);
+    console.log(`Errores:            ${errorCount}`);
+    console.log(`Pendientes finales: ${newUnmatched.length}`);
+    console.log();
+
+    /*
+     * Solo ahora reemplazamos los archivos originales.
+     */
+    console.log("Actualizando catálogo...");
+
+    await fs.copyFile(
+        TEMP_CATALOG_FILE,
+        CATALOG_FILE
     );
 
-    await writeJson(
-        UNMATCHED_FILE,
-        newUnmatched
+    await fs.copyFile(
+        TEMP_UNMATCHED_FILE,
+        UNMATCHED_FILE
     );
 
-    console.log("\n=================================");
+    /*
+     * El progreso ya no es necesario.
+     */
+    await fs.rm(
+        PROGRESS_FILE,
+        { force: true }
+    );
+
+    await fs.rm(
+        TEMP_CATALOG_FILE,
+        { force: true }
+    );
+
+    await fs.rm(
+        TEMP_UNMATCHED_FILE,
+        { force: true }
+    );
+
+    console.log();
+    console.log("========================================");
+    console.log(" ✅ RETRY FINALIZADO");
+    console.log("========================================");
     console.log(
-        "🎉 REINTENTO TERMINADO"
+        `Backup disponible en:`
     );
-    console.log("=================================");
-
-    console.log(
-        "Procesadas:",
-        unmatched.length
-    );
-
-    console.log(
-        "Nuevos matches:",
-        matchedCount
-    );
-
-    console.log(
-        "Siguen sin match:",
-        stillUnmatchedCount
-    );
-
-    console.log("\nArchivos actualizados:");
-
-    console.log(
-        "→ data/movie-streams.json"
-    );
-
-    console.log(
-        "→ data/unmatched-movies.json"
-    );
+    console.log(CATALOG_BACKUP);
 }
 
 main().catch(error => {
-    console.error(
-        "\n❌ Error fatal:",
-        error
-    );
-
+    console.error();
+    console.error("❌ Error fatal:");
+    console.error(error);
     process.exit(1);
 });

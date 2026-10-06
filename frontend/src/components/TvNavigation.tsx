@@ -19,6 +19,16 @@ export const TvNavigation = () => {
 
             if (!keys.includes(event.key)) return
 
+            const activeElement = document.activeElement
+
+            if (
+                event.key === "Enter" &&
+                activeElement instanceof HTMLIFrameElement
+            ) {
+                console.log("🎬 ENTER → VIMEUS")
+                return
+            }
+
             navigation.handleKeyDown(event)
         }
 

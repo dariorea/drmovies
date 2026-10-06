@@ -3,9 +3,12 @@
 }
 .containerCards {
     width: 100%;
-    padding: 10px;
+    box-sizing: border-box;
+    height: 236px;
+    align-items: center;
     display: flex;
-    gap: 14px;
     overflow-x: auto;
-    overflow-y: hidden;
+}
+.containerCards::-webkit-scrollbar {
+    display: none;
 }
