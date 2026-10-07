@@ -1,0 +1,247 @@
+[
+    {
+        "name": "El Camino de Regreso",
+        "year": 2020,
+        "streamUrl": "http://planettvweb.com:8091/movie/%7Buser%7D/%7Bpassword%7D/161645.mp4",
+        "source": "lista-2",
+        "reason": "no-confident-match"
+    },
+    {
+        "name": "Dos locas en Fuga",
+        "year": 2015,
+        "streamUrl": "http://planettvweb.com:8091/movie/%7Buser%7D/%7Bpassword%7D/161604.mp4",
+        "source": "lista-2",
+        "reason": "no-confident-match"
+    },
+    {
+        "name": "En el corazón de la bestia  V2 Telesync",
+        "year": 2026,
+        "streamUrl": "http://planettvweb.com:8091/movie/%7Buser%7D/%7Bpassword%7D/161600.mkv",
+        "source": "lista-2",
+        "reason": "rejected-quality"
+    },
+    {
+        "name": "Virtual Assistant",
+        "year": 2025,
+        "streamUrl": "http://planettvweb.com:8091/movie/%7Buser%7D/%7Bpassword%7D/161565.mkv",
+        "source": "lista-2",
+        "reason": "no-confident-match"
+    },
+    {
+        "name": "En el corazón de la bestia  HDTS Latino",
+        "year": 2026,
+        "streamUrl": "http://planettvweb.com:8091/movie/%7Buser%7D/%7Bpassword%7D/161517.mkv",
+        "source": "lista-2",
+        "reason": "rejected-quality"
+    },
+    {
+        "name": "La isla olvidada  HDTS Latino",
+        "year": 2026,
+        "streamUrl": "http://planettvweb.com:8091/movie/%7Buser%7D/%7Bpassword%7D/161508.mkv",
+        "source": "lista-2",
+        "reason": "rejected-quality"
+    },
+    {
+        "name": "One Last Shot",
+        "year": 2026,
+        "streamUrl": "http://planettvweb.com:8091/movie/%7Buser%7D/%7Bpassword%7D/161300.mkv",
+        "source": "lista-2",
+        "reason": "ambiguous-direct-title"
+    },
+    {
+        "name": "La Casa de los Sustos",
+        "year": 2006,
+        "streamUrl": "http://planettvweb.com:8091/movie/%7Buser%7D/%7Bpassword%7D/161337.mkv",
+        "source": "lista-2",
+        "reason": "no-confident-match"
+    },
+    {
+        "name": "Resident Evil  HDTS Latino 5.1",
+        "year": 2026,
+        "streamUrl": "http://planettvweb.com:8091/movie/%7Buser%7D/%7Bpassword%7D/160970.mkv",
+        "source": "lista-2",
+        "reason": "rejected-quality"
+    },
+    {
+        "name": "Entrega al límite  Telesync Latino",
+        "year": 2026,
+        "streamUrl": "http://planettvweb.com:8091/movie/%7Buser%7D/%7Bpassword%7D/160903.mkv",
+        "source": "lista-2",
+        "reason": "rejected-quality"
+    },
+    {
+        "name": "Hechizo de amor : La Magia Continua   Telesync Latino",
+        "year": 2026,
+        "streamUrl": "http://planettvweb.com:8091/movie/%7Buser%7D/%7Bpassword%7D/160905.mkv",
+        "source": "lista-2",
+        "reason": "rejected-quality"
+    },
+    {
+        "name": "Hechizo de Amor",
+        "year": 1998,
+        "streamUrl": "http://planettvweb.com:8091/movie/%7Buser%7D/%7Bpassword%7D/160904.mp4",
+        "source": "lista-2",
+        "reason": "no-confident-match"
+    },
+    {
+        "name": "Volcán Fuego bajo tierra",
+        "year": 2025,
+        "streamUrl": "http://planettvweb.com:8091/movie/%7Buser%7D/%7Bpassword%7D/160814.mkv",
+        "source": "lista-2",
+        "reason": "no-confident-match"
+    },
+    {
+        "name": "Kraken",
+        "year": 2026,
+        "streamUrl": "http://planettvweb.com:8091/movie/%7Buser%7D/%7Bpassword%7D/160721.mkv",
+        "source": "lista-2",
+        "reason": "ambiguous-direct-title"
+    },
+    {
+        "name": "Fall 2: Punto muerto  Telesync Latino",
+        "year": 2026,
+        "streamUrl": "http://planettvweb.com:8091/movie/%7Buser%7D/%7Bpassword%7D/160727.mkv",
+        "source": "lista-2",
+        "reason": "rejected-quality"
+    },
+    {
+        "name": "Código Venganza",
+        "year": 2026,
+        "streamUrl": "http://planettvweb.com:8091/movie/%7Buser%7D/%7Bpassword%7D/160699.mkv",
+        "source": "lista-2",
+        "reason": "no-confident-match"
+    },
+    {
+        "name": "Coyote vs. Acme  Telesync Latino",
+        "year": 2026,
+        "streamUrl": "http://planettvweb.com:8091/movie/%7Buser%7D/%7Bpassword%7D/160633.mkv",
+        "source": "lista-2",
+        "reason": "rejected-quality"
+    },
+    {
+        "name": "La asistente de la morgue",
+        "year": 2026,
+        "streamUrl": "http://planettvweb.com:8091/movie/%7Buser%7D/%7Bpassword%7D/160581.mkv",
+        "source": "lista-2",
+        "reason": "no-confident-match"
+    },
+    {
+        "name": "No Entrar",
+        "year": 2026,
+        "streamUrl": "http://planettvweb.com:8091/movie/%7Buser%7D/%7Bpassword%7D/160403.mkv",
+        "source": "lista-2",
+        "reason": "no-confident-match"
+    },
+    {
+        "name": "Las Espadas De Los Guardianes: El viento se levanta en el desierto",
+        "year": 2026,
+        "streamUrl": "http://planettvweb.com:8091/movie/%7Buser%7D/%7Bpassword%7D/160397.mkv",
+        "source": "lista-2",
+        "reason": "no-confident-match"
+    },
+    {
+        "name": "Leviticus",
+        "year": 2026,
+        "streamUrl": "http://planettvweb.com:8091/movie/%7Buser%7D/%7Bpassword%7D/160365.mkv",
+        "source": "lista-2",
+        "reason": "ambiguous-direct-title"
+    },
+    {
+        "name": "Spider-Man De Regreso A Casa",
+        "year": 2017,
+        "streamUrl": "http://planettvweb.com:8091/movie/%7Buser%7D/%7Bpassword%7D/159559.mkv",
+        "source": "lista-2",
+        "reason": "no-confident-match"
+    },
+    {
+        "name": "Talentos Ocultos",
+        "year": 2016,
+        "streamUrl": "http://planettvweb.com:8091/movie/%7Buser%7D/%7Bpassword%7D/159430.mkv",
+        "source": "lista-2",
+        "reason": "no-confident-match"
+    },
+    {
+        "name": "La odisea  Telesync 1080 Laino V2",
+        "year": 2026,
+        "streamUrl": "http://planettvweb.com:8091/movie/%7Buser%7D/%7Bpassword%7D/159432.mkv",
+        "source": "lista-2",
+        "reason": "rejected-quality"
+    },
+    {
+        "name": "Rescate en el golfo",
+        "year": 2025,
+        "streamUrl": "http://planettvweb.com:8091/movie/%7Buser%7D/%7Bpassword%7D/159452.mkv",
+        "source": "lista-2",
+        "reason": "no-confident-match"
+    },
+    {
+        "name": "La odisea  Telesync Latino",
+        "year": 2026,
+        "streamUrl": "http://planettvweb.com:8091/movie/%7Buser%7D/%7Bpassword%7D/159416.mkv",
+        "source": "lista-2",
+        "reason": "rejected-quality"
+    },
+    {
+        "name": "Minions y monstruos  HDTS Audio 5.1",
+        "year": 2026,
+        "streamUrl": "http://planettvweb.com:8091/movie/%7Buser%7D/%7Bpassword%7D/159342.mkv",
+        "source": "lista-2",
+        "reason": "rejected-quality"
+    },
+    {
+        "name": "Minions III. Minions y monstruos  Telesync Latino",
+        "year": 2026,
+        "streamUrl": "http://planettvweb.com:8091/movie/%7Buser%7D/%7Bpassword%7D/159275.mkv",
+        "source": "lista-2",
+        "reason": "rejected-quality"
+    },
+    {
+        "name": "Temporada de sangre",
+        "year": 2026,
+        "streamUrl": "http://planettvweb.com:8091/movie/%7Buser%7D/%7Bpassword%7D/159277.mkv",
+        "source": "lista-2",
+        "reason": "no-confident-match"
+    },
+    {
+        "name": "Parto Maldito",
+        "year": 2025,
+        "streamUrl": "http://planettvweb.com:8091/movie/%7Buser%7D/%7Bpassword%7D/159034.mkv",
+        "source": "lista-2",
+        "reason": "no-confident-match"
+    },
+    {
+        "name": "El diablo viste de Prada 2  Lat 1080",
+        "year": 2026,
+        "streamUrl": "http://planettvweb.com:8091/movie/%7Buser%7D/%7Bpassword%7D/159011.mkv",
+        "source": "lista-2",
+        "reason": "no-search-results"
+    },
+    {
+        "name": "La Meta es el Amor",
+        "year": 2026,
+        "streamUrl": "http://planettvweb.com:8091/movie/%7Buser%7D/%7Bpassword%7D/159013.mkv",
+        "source": "lista-2",
+        "reason": "no-confident-match"
+    },
+    {
+        "name": "Hokum  Subtitulada",
+        "year": 2026,
+        "streamUrl": "http://planettvweb.com:8091/movie/%7Buser%7D/%7Bpassword%7D/159009.mp4",
+        "source": "lista-2",
+        "reason": "no-search-results"
+    },
+    {
+        "name": "El Secreto Del Abismo",
+        "year": 1989,
+        "streamUrl": "http://planettvweb.com:8091/movie/%7Buser%7D/%7Bpassword%7D/159000.mkv",
+        "source": "lista-2",
+        "reason": "no-confident-match"
+    },
+    {
+        "name": "Hazte la muerta",
+        "year": 2025,
+        "streamUrl": "http://planettvweb.com:8091/movie/%7Buser%7D/%7Bpassword%7D/147762.mkv",
+        "source": "lista-2",
+        "reason": "no-search-results"
+    }
+]

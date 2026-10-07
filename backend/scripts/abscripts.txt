@@ -1,0 +1,6 @@
+// import-movie-list => lee las listas limpia los titulos busca match en tmdb y devuelve 
+un json con el nombre de la lista y añade peliculas directo al movie-stream-all.json
+ej. node scripts/import-movie-list 1
+
+// assign-movie.js => añade pelicula individual pero este script lee los unmatched de import-movie-list
+ej. node  scripts/assign-movie.js "spider man" 102020

@@ -213,6 +213,41 @@ export function cleanProviderTags(title = "") {
     return value;
 }
 
+// ============================================================
+// FILTRO DE CALIDAD
+// ============================================================
+//
+// Estas etiquetas indican películas grabadas en cine o
+// versiones que no queremos incorporar al catálogo.
+//
+
+const REJECTED_QUALITY_TAGS = [
+    "CAM",
+    "CAMRIP",
+    "HDCAM",
+    "HDTS",
+    "TS",
+    "TELESYNC",
+    "TELECINE"
+];
+
+export function hasRejectedQualityTag(title = "") {
+    const value = String(title);
+
+    return REJECTED_QUALITY_TAGS.some(tag => {
+        const escaped = tag.replace(
+            /[.*+?^${}()|[\]\\]/g,
+            "\\$&"
+        );
+
+        const regex = new RegExp(
+            `(?:^|\\s)${escaped}(?=\\s|$)`,
+            "i"
+        );
+
+        return regex.test(value);
+    });
+}
 
 // ============================================================
 // CORRECCIONES DE TÍTULO
@@ -1213,6 +1248,26 @@ export async function matchMovie(
     providerTitle,
     movieYear = null
 ) {
+       // ========================================================
+    // FILTRO DE CALIDAD
+    // ========================================================
+    //
+    // IMPORTANTE:
+    // Se hace ANTES de cleanProviderTags()
+    // porque cleanProviderTags() elimina las etiquetas CAM,
+    // HDCAM, CAMRIP, etc.
+    //
+
+    if (hasRejectedQualityTag(providerTitle)) {
+        return {
+            match: null,
+            reason: "rejected-quality",
+            providerTitle,
+            cleanedName: null,
+            searchVariants: []
+        };
+    }
+
     const cleanedName =
         cleanProviderTags(
             providerTitle
@@ -1222,7 +1277,6 @@ export async function matchMovie(
         createSearchVariants(
             providerTitle
         );
-
     // --------------------------------------------------------
     // Variantes completas.
     //
