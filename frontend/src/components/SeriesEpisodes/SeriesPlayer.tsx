@@ -168,9 +168,12 @@ export const SeriesPlayer = ({
                     }
 
 
-                    setStreamUrl(
-                        data.streamUrl
-                    )
+                    const proxyUrl =
+    `${apiUrl}/series/${id}/proxy` +
+    `?season=${season}` +
+    `&episode=${episode}`
+
+setStreamUrl(proxyUrl)
 
                 } catch (error) {
 

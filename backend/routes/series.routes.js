@@ -5,9 +5,11 @@ import {
     getRecommendationsSeries,
     getSeriesByGenre,
     getDiscover
+    
 } from "../controllers/series.controller.js";
 import {
-    getSeriesStream
+    getSeriesStream,
+    proxySeriesStream
 } from "../controllers/seriesStream.controller.js";
 
 const router = express.Router()
@@ -20,6 +22,10 @@ router.get("/:id", getSerieID)
 router.get(
     "/:id/stream",
     getSeriesStream
+);
+router.get(
+    "/:id/proxy",
+    proxySeriesStream
 );
 
 export default router
