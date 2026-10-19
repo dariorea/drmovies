@@ -1,0 +1,3894 @@
+[
+  {
+    "seriesName": "16",
+    "originalKey": "16",
+    "groupTitle": "lista-6",
+    "seasons": {
+      "1": {
+        "episodes": {
+          "1": {
+            "episode": 1,
+            "name": "16 S01 E01",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/497821.mp4",
+            "source": "lista-6"
+          },
+          "2": {
+            "episode": 2,
+            "name": "16 S01 E02",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/497822.mp4",
+            "source": "lista-6"
+          },
+          "3": {
+            "episode": 3,
+            "name": "16 S01 E03",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/497823.mp4",
+            "source": "lista-6"
+          },
+          "4": {
+            "episode": 4,
+            "name": "16 S01 E04",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/497824.mp4",
+            "source": "lista-6"
+          },
+          "5": {
+            "episode": 5,
+            "name": "16 S01 E05",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/497825.mp4",
+            "source": "lista-6"
+          },
+          "6": {
+            "episode": 6,
+            "name": "16 S01 E06",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/497826.mp4",
+            "source": "lista-6"
+          },
+          "7": {
+            "episode": 7,
+            "name": "16 S01 E07",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/497827.mp4",
+            "source": "lista-6"
+          },
+          "8": {
+            "episode": 8,
+            "name": "16 S01 E08",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/497828.mp4",
+            "source": "lista-6"
+          },
+          "9": {
+            "episode": 9,
+            "name": "16 S01 E09",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/497829.mp4",
+            "source": "lista-6"
+          },
+          "10": {
+            "episode": 10,
+            "name": "16 S01 E10",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/497830.mp4",
+            "source": "lista-6"
+          },
+          "11": {
+            "episode": 11,
+            "name": "16 S01 E11",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/497831.mp4",
+            "source": "lista-6"
+          },
+          "12": {
+            "episode": 12,
+            "name": "16 S01 E12",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/497832.mp4",
+            "source": "lista-6"
+          },
+          "13": {
+            "episode": 13,
+            "name": "16 S01 E13",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/497833.mp4",
+            "source": "lista-6"
+          },
+          "14": {
+            "episode": 14,
+            "name": "16 S01 E14",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/497834.mp4",
+            "source": "lista-6"
+          },
+          "15": {
+            "episode": 15,
+            "name": "16 S01 E15",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/497835.mp4",
+            "source": "lista-6"
+          },
+          "16": {
+            "episode": 16,
+            "name": "16 S01 E16",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/497836.mp4",
+            "source": "lista-6"
+          },
+          "17": {
+            "episode": 17,
+            "name": "16 S01 E17",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/497837.mp4",
+            "source": "lista-6"
+          },
+          "18": {
+            "episode": 18,
+            "name": "16 S01 E18",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/497838.mp4",
+            "source": "lista-6"
+          },
+          "19": {
+            "episode": 19,
+            "name": "16 S01 E19",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/497839.mp4",
+            "source": "lista-6"
+          },
+          "20": {
+            "episode": 20,
+            "name": "16 S01 E20",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/497840.mp4",
+            "source": "lista-6"
+          },
+          "21": {
+            "episode": 21,
+            "name": "16 S01 E21",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/497841.mp4",
+            "source": "lista-6"
+          },
+          "22": {
+            "episode": 22,
+            "name": "16 S01 E22",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/497842.mp4",
+            "source": "lista-6"
+          },
+          "23": {
+            "episode": 23,
+            "name": "16 S01 E23",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/497843.mp4",
+            "source": "lista-6"
+          },
+          "24": {
+            "episode": 24,
+            "name": "16 S01 E24",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/497844.mp4",
+            "source": "lista-6"
+          },
+          "25": {
+            "episode": 25,
+            "name": "16 S01 E25",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/497845.mp4",
+            "source": "lista-6"
+          },
+          "26": {
+            "episode": 26,
+            "name": "16 S01 E26",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/497846.mp4",
+            "source": "lista-6"
+          },
+          "27": {
+            "episode": 27,
+            "name": "16 S01 E27",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/497847.mp4",
+            "source": "lista-6"
+          },
+          "28": {
+            "episode": 28,
+            "name": "16 S01 E28",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/497848.mp4",
+            "source": "lista-6"
+          },
+          "29": {
+            "episode": 29,
+            "name": "16 S01 E29",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/497849.mp4",
+            "source": "lista-6"
+          },
+          "30": {
+            "episode": 30,
+            "name": "16 S01 E30",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/497850.mp4",
+            "source": "lista-6"
+          },
+          "31": {
+            "episode": 31,
+            "name": "16 S01 E31",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/497851.mp4",
+            "source": "lista-6"
+          },
+          "32": {
+            "episode": 32,
+            "name": "16 S01 E32",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/497852.mp4",
+            "source": "lista-6"
+          },
+          "33": {
+            "episode": 33,
+            "name": "16 S01 E33",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/497853.mp4",
+            "source": "lista-6"
+          },
+          "34": {
+            "episode": 34,
+            "name": "16 S01 E34",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/497854.mp4",
+            "source": "lista-6"
+          },
+          "35": {
+            "episode": 35,
+            "name": "16 S01 E35",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/497855.mp4",
+            "source": "lista-6"
+          },
+          "36": {
+            "episode": 36,
+            "name": "16 S01 E36",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/497856.mp4",
+            "source": "lista-6"
+          },
+          "37": {
+            "episode": 37,
+            "name": "16 S01 E37",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/497857.mp4",
+            "source": "lista-6"
+          },
+          "38": {
+            "episode": 38,
+            "name": "16 S01 E38",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/497858.mp4",
+            "source": "lista-6"
+          },
+          "39": {
+            "episode": 39,
+            "name": "16 S01 E39",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/497859.mp4",
+            "source": "lista-6"
+          },
+          "40": {
+            "episode": 40,
+            "name": "16 S01 E40",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/497860.mp4",
+            "source": "lista-6"
+          },
+          "41": {
+            "episode": 41,
+            "name": "16 S01 E41",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/497861.mp4",
+            "source": "lista-6"
+          },
+          "42": {
+            "episode": 42,
+            "name": "16 S01 E42",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/497862.mp4",
+            "source": "lista-6"
+          },
+          "43": {
+            "episode": 43,
+            "name": "16 S01 E43",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/497863.mp4",
+            "source": "lista-6"
+          },
+          "44": {
+            "episode": 44,
+            "name": "16 S01 E44",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/497864.mp4",
+            "source": "lista-6"
+          },
+          "45": {
+            "episode": 45,
+            "name": "16 S01 E45",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/497865.mp4",
+            "source": "lista-6"
+          },
+          "46": {
+            "episode": 46,
+            "name": "16 S01 E46",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/497866.mp4",
+            "source": "lista-6"
+          },
+          "47": {
+            "episode": 47,
+            "name": "16 S01 E47",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/497867.mp4",
+            "source": "lista-6"
+          },
+          "48": {
+            "episode": 48,
+            "name": "16 S01 E48",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/497868.mp4",
+            "source": "lista-6"
+          },
+          "49": {
+            "episode": 49,
+            "name": "16 S01 E49",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/497869.mp4",
+            "source": "lista-6"
+          },
+          "50": {
+            "episode": 50,
+            "name": "16 S01 E50",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/497870.mp4",
+            "source": "lista-6"
+          },
+          "51": {
+            "episode": 51,
+            "name": "16 S01 E51",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/497871.mp4",
+            "source": "lista-6"
+          },
+          "52": {
+            "episode": 52,
+            "name": "16 S01 E52",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/497872.mp4",
+            "source": "lista-6"
+          },
+          "53": {
+            "episode": 53,
+            "name": "16 S01 E53",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/497873.mp4",
+            "source": "lista-6"
+          },
+          "54": {
+            "episode": 54,
+            "name": "16 S01 E54",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/497874.mp4",
+            "source": "lista-6"
+          },
+          "55": {
+            "episode": 55,
+            "name": "16 S01 E55",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/497875.mp4",
+            "source": "lista-6"
+          },
+          "56": {
+            "episode": 56,
+            "name": "16 S01 E56",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/497876.mp4",
+            "source": "lista-6"
+          },
+          "57": {
+            "episode": 57,
+            "name": "16 S01 E57",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/497877.mp4",
+            "source": "lista-6"
+          },
+          "58": {
+            "episode": 58,
+            "name": "16 S01 E58",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/497878.mp4",
+            "source": "lista-6"
+          },
+          "59": {
+            "episode": 59,
+            "name": "16 S01 E59",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/497879.mp4",
+            "source": "lista-6"
+          },
+          "60": {
+            "episode": 60,
+            "name": "16 S01 E60",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/497880.mp4",
+            "source": "lista-6"
+          },
+          "61": {
+            "episode": 61,
+            "name": "16 S01 E61",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/497881.mp4",
+            "source": "lista-6"
+          },
+          "62": {
+            "episode": 62,
+            "name": "16 S01 E62",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/497882.mp4",
+            "source": "lista-6"
+          },
+          "63": {
+            "episode": 63,
+            "name": "16 S01 E63",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/497883.mp4",
+            "source": "lista-6"
+          },
+          "64": {
+            "episode": 64,
+            "name": "16 S01 E64",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/497884.mp4",
+            "source": "lista-6"
+          },
+          "65": {
+            "episode": 65,
+            "name": "16 S01 E65",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/497885.mp4",
+            "source": "lista-6"
+          },
+          "66": {
+            "episode": 66,
+            "name": "16 S01 E66",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/497886.mp4",
+            "source": "lista-6"
+          },
+          "67": {
+            "episode": 67,
+            "name": "16 S01 E67",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/497887.mp4",
+            "source": "lista-6"
+          },
+          "68": {
+            "episode": 68,
+            "name": "16 S01 E68",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/497888.mp4",
+            "source": "lista-6"
+          },
+          "69": {
+            "episode": 69,
+            "name": "16 S01 E69",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/497889.mp4",
+            "source": "lista-6"
+          },
+          "70": {
+            "episode": 70,
+            "name": "16 S01 E70",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/497890.mp4",
+            "source": "lista-6"
+          },
+          "71": {
+            "episode": 71,
+            "name": "16 S01 E71",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/497891.mp4",
+            "source": "lista-6"
+          },
+          "72": {
+            "episode": 72,
+            "name": "16 S01 E72",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/497892.mp4",
+            "source": "lista-6"
+          },
+          "73": {
+            "episode": 73,
+            "name": "16 S01 E73",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/497893.mp4",
+            "source": "lista-6"
+          },
+          "74": {
+            "episode": 74,
+            "name": "16 S01 E74",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/497894.mp4",
+            "source": "lista-6"
+          },
+          "75": {
+            "episode": 75,
+            "name": "16 S01 E75",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/497895.mp4",
+            "source": "lista-6"
+          },
+          "76": {
+            "episode": 76,
+            "name": "16 S01 E76",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/497896.mp4",
+            "source": "lista-6"
+          },
+          "77": {
+            "episode": 77,
+            "name": "16 S01 E77",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/497897.mp4",
+            "source": "lista-6"
+          },
+          "78": {
+            "episode": 78,
+            "name": "16 S01 E78",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/497898.mp4",
+            "source": "lista-6"
+          },
+          "79": {
+            "episode": 79,
+            "name": "16 S01 E79",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/497899.mp4",
+            "source": "lista-6"
+          },
+          "80": {
+            "episode": 80,
+            "name": "16 S01 E80",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/497900.mp4",
+            "source": "lista-6"
+          },
+          "81": {
+            "episode": 81,
+            "name": "16 S01 E81",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/497901.mp4",
+            "source": "lista-6"
+          },
+          "82": {
+            "episode": 82,
+            "name": "16 S01 E82",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/497902.mp4",
+            "source": "lista-6"
+          },
+          "83": {
+            "episode": 83,
+            "name": "16 S01 E83",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/497903.mp4",
+            "source": "lista-6"
+          },
+          "84": {
+            "episode": 84,
+            "name": "16 S01 E84",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/497904.mp4",
+            "source": "lista-6"
+          },
+          "85": {
+            "episode": 85,
+            "name": "16 S01 E85",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/497905.mp4",
+            "source": "lista-6"
+          },
+          "86": {
+            "episode": 86,
+            "name": "16 S01 E86",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/497906.mp4",
+            "source": "lista-6"
+          },
+          "87": {
+            "episode": 87,
+            "name": "16 S01 E87",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/497907.mp4",
+            "source": "lista-6"
+          },
+          "88": {
+            "episode": 88,
+            "name": "16 S01 E88",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/497908.mp4",
+            "source": "lista-6"
+          },
+          "89": {
+            "episode": 89,
+            "name": "16 S01 E89",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/497909.mp4",
+            "source": "lista-6"
+          },
+          "90": {
+            "episode": 90,
+            "name": "16 S01 E90",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/497910.mp4",
+            "source": "lista-6"
+          },
+          "91": {
+            "episode": 91,
+            "name": "16 S01 E91",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/497911.mp4",
+            "source": "lista-6"
+          },
+          "92": {
+            "episode": 92,
+            "name": "16 S01 E92",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/497912.mp4",
+            "source": "lista-6"
+          },
+          "93": {
+            "episode": 93,
+            "name": "16 S01 E93",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/497913.mp4",
+            "source": "lista-6"
+          },
+          "94": {
+            "episode": 94,
+            "name": "16 S01 E94",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/497914.mp4",
+            "source": "lista-6"
+          },
+          "95": {
+            "episode": 95,
+            "name": "16 S01 E95",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/497915.mp4",
+            "source": "lista-6"
+          },
+          "96": {
+            "episode": 96,
+            "name": "16 S01 E96",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/497916.mp4",
+            "source": "lista-6"
+          },
+          "97": {
+            "episode": 97,
+            "name": "16 S01 E97",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/497917.mp4",
+            "source": "lista-6"
+          },
+          "98": {
+            "episode": 98,
+            "name": "16 S01 E98",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/497918.mp4",
+            "source": "lista-6"
+          },
+          "99": {
+            "episode": 99,
+            "name": "16 S01 E99",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/497919.mp4",
+            "source": "lista-6"
+          }
+        }
+      }
+    },
+    "totalEpisodes": 99,
+    "m3uStructure": {
+      "1": 99
+    }
+  },
+  {
+    "seriesName": "17",
+    "originalKey": "17",
+    "groupTitle": "lista-6",
+    "seasons": {
+      "1": {
+        "episodes": {
+          "1": {
+            "episode": 1,
+            "name": "17 S01 E01",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/490481.mp4",
+            "source": "lista-6"
+          },
+          "2": {
+            "episode": 2,
+            "name": "17 S01 E02",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/490482.mp4",
+            "source": "lista-6"
+          },
+          "3": {
+            "episode": 3,
+            "name": "17 S01 E03",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/490483.mp4",
+            "source": "lista-6"
+          },
+          "4": {
+            "episode": 4,
+            "name": "17 S01 E04",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/490484.mp4",
+            "source": "lista-6"
+          },
+          "5": {
+            "episode": 5,
+            "name": "17 S01 E05",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/490485.mp4",
+            "source": "lista-6"
+          },
+          "6": {
+            "episode": 6,
+            "name": "17 S01 E06",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/490486.mp4",
+            "source": "lista-6"
+          },
+          "7": {
+            "episode": 7,
+            "name": "17 S01 E07",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/490487.mp4",
+            "source": "lista-6"
+          },
+          "8": {
+            "episode": 8,
+            "name": "17 S01 E08",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/490488.mp4",
+            "source": "lista-6"
+          },
+          "9": {
+            "episode": 9,
+            "name": "17 S01 E09",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/490489.mp4",
+            "source": "lista-6"
+          },
+          "10": {
+            "episode": 10,
+            "name": "17 S01 E10",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/490490.mp4",
+            "source": "lista-6"
+          },
+          "11": {
+            "episode": 11,
+            "name": "17 S01 E11",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/490491.mp4",
+            "source": "lista-6"
+          },
+          "12": {
+            "episode": 12,
+            "name": "17 S01 E12",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/490492.mp4",
+            "source": "lista-6"
+          },
+          "13": {
+            "episode": 13,
+            "name": "17 S01 E13",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/490493.mp4",
+            "source": "lista-6"
+          },
+          "14": {
+            "episode": 14,
+            "name": "17 S01 E14",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/490494.mp4",
+            "source": "lista-6"
+          },
+          "15": {
+            "episode": 15,
+            "name": "17 S01 E15",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/490495.mp4",
+            "source": "lista-6"
+          },
+          "16": {
+            "episode": 16,
+            "name": "17 S01 E16",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/490496.mp4",
+            "source": "lista-6"
+          },
+          "17": {
+            "episode": 17,
+            "name": "17 S01 E17",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/490497.mp4",
+            "source": "lista-6"
+          },
+          "18": {
+            "episode": 18,
+            "name": "17 S01 E18",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/490498.mp4",
+            "source": "lista-6"
+          },
+          "19": {
+            "episode": 19,
+            "name": "17 S01 E19",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/490499.mp4",
+            "source": "lista-6"
+          },
+          "20": {
+            "episode": 20,
+            "name": "17 S01 E20",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/490500.mp4",
+            "source": "lista-6"
+          },
+          "21": {
+            "episode": 21,
+            "name": "17 S01 E21",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/490501.mp4",
+            "source": "lista-6"
+          },
+          "22": {
+            "episode": 22,
+            "name": "17 S01 E22",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/490502.mp4",
+            "source": "lista-6"
+          },
+          "23": {
+            "episode": 23,
+            "name": "17 S01 E23",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/490503.mp4",
+            "source": "lista-6"
+          },
+          "24": {
+            "episode": 24,
+            "name": "17 S01 E24",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/490504.mp4",
+            "source": "lista-6"
+          },
+          "25": {
+            "episode": 25,
+            "name": "17 S01 E25",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/490505.mp4",
+            "source": "lista-6"
+          },
+          "26": {
+            "episode": 26,
+            "name": "17 S01 E26",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/490506.mp4",
+            "source": "lista-6"
+          },
+          "27": {
+            "episode": 27,
+            "name": "17 S01 E27",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/490507.mp4",
+            "source": "lista-6"
+          },
+          "28": {
+            "episode": 28,
+            "name": "17 S01 E28",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/490508.mp4",
+            "source": "lista-6"
+          },
+          "29": {
+            "episode": 29,
+            "name": "17 S01 E29",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/490509.mp4",
+            "source": "lista-6"
+          },
+          "30": {
+            "episode": 30,
+            "name": "17 S01 E30",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/490510.mp4",
+            "source": "lista-6"
+          },
+          "31": {
+            "episode": 31,
+            "name": "17 S01 E31",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/490511.mp4",
+            "source": "lista-6"
+          },
+          "32": {
+            "episode": 32,
+            "name": "17 S01 E32",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/490512.mp4",
+            "source": "lista-6"
+          },
+          "33": {
+            "episode": 33,
+            "name": "17 S01 E33",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/490513.mp4",
+            "source": "lista-6"
+          },
+          "34": {
+            "episode": 34,
+            "name": "17 S01 E34",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/490514.mp4",
+            "source": "lista-6"
+          },
+          "35": {
+            "episode": 35,
+            "name": "17 S01 E35",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/490515.mp4",
+            "source": "lista-6"
+          },
+          "36": {
+            "episode": 36,
+            "name": "17 S01 E36",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/490516.mp4",
+            "source": "lista-6"
+          },
+          "37": {
+            "episode": 37,
+            "name": "17 S01 E37",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/490517.mp4",
+            "source": "lista-6"
+          },
+          "38": {
+            "episode": 38,
+            "name": "17 S01 E38",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/490518.mp4",
+            "source": "lista-6"
+          },
+          "39": {
+            "episode": 39,
+            "name": "17 S01 E39",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/490519.mp4",
+            "source": "lista-6"
+          },
+          "40": {
+            "episode": 40,
+            "name": "17 S01 E40",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/490520.mp4",
+            "source": "lista-6"
+          },
+          "41": {
+            "episode": 41,
+            "name": "17 S01 E41",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/490521.mp4",
+            "source": "lista-6"
+          },
+          "42": {
+            "episode": 42,
+            "name": "17 S01 E42",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/490522.mp4",
+            "source": "lista-6"
+          },
+          "43": {
+            "episode": 43,
+            "name": "17 S01 E43",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/490523.mp4",
+            "source": "lista-6"
+          },
+          "44": {
+            "episode": 44,
+            "name": "17 S01 E44",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/490524.mp4",
+            "source": "lista-6"
+          },
+          "45": {
+            "episode": 45,
+            "name": "17 S01 E45",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/490525.mp4",
+            "source": "lista-6"
+          },
+          "46": {
+            "episode": 46,
+            "name": "17 S01 E46",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/490526.mp4",
+            "source": "lista-6"
+          },
+          "47": {
+            "episode": 47,
+            "name": "17 S01 E47",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/490527.mp4",
+            "source": "lista-6"
+          },
+          "48": {
+            "episode": 48,
+            "name": "17 S01 E48",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/490528.mp4",
+            "source": "lista-6"
+          },
+          "49": {
+            "episode": 49,
+            "name": "17 S01 E49",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/490529.mp4",
+            "source": "lista-6"
+          },
+          "50": {
+            "episode": 50,
+            "name": "17 S01 E50",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/490530.mp4",
+            "source": "lista-6"
+          },
+          "51": {
+            "episode": 51,
+            "name": "17 S01 E51",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/490531.mp4",
+            "source": "lista-6"
+          },
+          "52": {
+            "episode": 52,
+            "name": "17 S01 E52",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/490532.mp4",
+            "source": "lista-6"
+          },
+          "53": {
+            "episode": 53,
+            "name": "17 S01 E53",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/490533.mp4",
+            "source": "lista-6"
+          },
+          "54": {
+            "episode": 54,
+            "name": "17 S01 E54",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/490534.mp4",
+            "source": "lista-6"
+          },
+          "55": {
+            "episode": 55,
+            "name": "17 S01 E55",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/490535.mp4",
+            "source": "lista-6"
+          },
+          "56": {
+            "episode": 56,
+            "name": "17 S01 E56",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/490536.mp4",
+            "source": "lista-6"
+          },
+          "57": {
+            "episode": 57,
+            "name": "17 S01 E57",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/490537.mp4",
+            "source": "lista-6"
+          },
+          "58": {
+            "episode": 58,
+            "name": "17 S01 E58",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/490538.mp4",
+            "source": "lista-6"
+          },
+          "59": {
+            "episode": 59,
+            "name": "17 S01 E59",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/490539.mp4",
+            "source": "lista-6"
+          },
+          "60": {
+            "episode": 60,
+            "name": "17 S01 E60",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/490540.mp4",
+            "source": "lista-6"
+          },
+          "61": {
+            "episode": 61,
+            "name": "17 S01 E61",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/490541.mp4",
+            "source": "lista-6"
+          },
+          "62": {
+            "episode": 62,
+            "name": "17 S01 E62",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/490542.mp4",
+            "source": "lista-6"
+          },
+          "63": {
+            "episode": 63,
+            "name": "17 S01 E63",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/490543.mp4",
+            "source": "lista-6"
+          },
+          "64": {
+            "episode": 64,
+            "name": "17 S01 E64",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/490544.mp4",
+            "source": "lista-6"
+          },
+          "65": {
+            "episode": 65,
+            "name": "17 S01 E65",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/490545.mp4",
+            "source": "lista-6"
+          },
+          "66": {
+            "episode": 66,
+            "name": "17 S01 E66",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/490546.mp4",
+            "source": "lista-6"
+          },
+          "67": {
+            "episode": 67,
+            "name": "17 S01 E67",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/490547.mp4",
+            "source": "lista-6"
+          },
+          "68": {
+            "episode": 68,
+            "name": "17 S01 E68",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/490548.mp4",
+            "source": "lista-6"
+          },
+          "69": {
+            "episode": 69,
+            "name": "17 S01 E69",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/490549.mp4",
+            "source": "lista-6"
+          },
+          "70": {
+            "episode": 70,
+            "name": "17 S01 E70",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/490550.mp4",
+            "source": "lista-6"
+          },
+          "71": {
+            "episode": 71,
+            "name": "17 S01 E71",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/490551.mp4",
+            "source": "lista-6"
+          },
+          "72": {
+            "episode": 72,
+            "name": "17 S01 E72",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/490552.mp4",
+            "source": "lista-6"
+          },
+          "73": {
+            "episode": 73,
+            "name": "17 S01 E73",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/490553.mp4",
+            "source": "lista-6"
+          },
+          "74": {
+            "episode": 74,
+            "name": "17 S01 E74",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/490554.mp4",
+            "source": "lista-6"
+          },
+          "75": {
+            "episode": 75,
+            "name": "17 S01 E75",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/490555.mp4",
+            "source": "lista-6"
+          },
+          "76": {
+            "episode": 76,
+            "name": "17 S01 E76",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/490556.mp4",
+            "source": "lista-6"
+          },
+          "77": {
+            "episode": 77,
+            "name": "17 S01 E77",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/490557.mp4",
+            "source": "lista-6"
+          },
+          "78": {
+            "episode": 78,
+            "name": "17 S01 E78",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/490558.mp4",
+            "source": "lista-6"
+          },
+          "79": {
+            "episode": 79,
+            "name": "17 S01 E79",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/490559.mp4",
+            "source": "lista-6"
+          },
+          "80": {
+            "episode": 80,
+            "name": "17 S01 E80",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/490560.mp4",
+            "source": "lista-6"
+          },
+          "81": {
+            "episode": 81,
+            "name": "17 S01 E81",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/490561.mp4",
+            "source": "lista-6"
+          },
+          "82": {
+            "episode": 82,
+            "name": "17 S01 E82",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/490562.mp4",
+            "source": "lista-6"
+          },
+          "83": {
+            "episode": 83,
+            "name": "17 S01 E83",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/490563.mp4",
+            "source": "lista-6"
+          },
+          "84": {
+            "episode": 84,
+            "name": "17 S01 E84",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/490564.mp4",
+            "source": "lista-6"
+          },
+          "85": {
+            "episode": 85,
+            "name": "17 S01 E85",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/490565.mp4",
+            "source": "lista-6"
+          },
+          "86": {
+            "episode": 86,
+            "name": "17 S01 E86",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/490566.mp4",
+            "source": "lista-6"
+          },
+          "87": {
+            "episode": 87,
+            "name": "17 S01 E87",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/490567.mp4",
+            "source": "lista-6"
+          },
+          "88": {
+            "episode": 88,
+            "name": "17 S01 E88",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/490568.mp4",
+            "source": "lista-6"
+          },
+          "89": {
+            "episode": 89,
+            "name": "17 S01 E89",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/490569.mp4",
+            "source": "lista-6"
+          },
+          "90": {
+            "episode": 90,
+            "name": "17 S01 E90",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/490570.mp4",
+            "source": "lista-6"
+          },
+          "91": {
+            "episode": 91,
+            "name": "17 S01 E91",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/490571.mp4",
+            "source": "lista-6"
+          },
+          "92": {
+            "episode": 92,
+            "name": "17 S01 E92",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/490572.mp4",
+            "source": "lista-6"
+          },
+          "93": {
+            "episode": 93,
+            "name": "17 S01 E93",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/490573.mp4",
+            "source": "lista-6"
+          }
+        }
+      }
+    },
+    "totalEpisodes": 93,
+    "m3uStructure": {
+      "1": 93
+    }
+  },
+  {
+    "seriesName": "90210",
+    "originalKey": "90210",
+    "groupTitle": "lista-6",
+    "seasons": {
+      "1": {
+        "episodes": {
+          "1": {
+            "episode": 1,
+            "name": "90210 S01 E01",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/503845.mkv",
+            "source": "lista-6"
+          },
+          "2": {
+            "episode": 2,
+            "name": "90210 S01 E02",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/503846.mkv",
+            "source": "lista-6"
+          },
+          "3": {
+            "episode": 3,
+            "name": "90210 S01 E03",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/503847.mkv",
+            "source": "lista-6"
+          },
+          "4": {
+            "episode": 4,
+            "name": "90210 S01 E04",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/503848.mkv",
+            "source": "lista-6"
+          },
+          "5": {
+            "episode": 5,
+            "name": "90210 S01 E05",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/503849.mkv",
+            "source": "lista-6"
+          },
+          "6": {
+            "episode": 6,
+            "name": "90210 S01 E06",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/503850.mkv",
+            "source": "lista-6"
+          },
+          "7": {
+            "episode": 7,
+            "name": "90210 S01 E07",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/503851.mkv",
+            "source": "lista-6"
+          },
+          "8": {
+            "episode": 8,
+            "name": "90210 S01 E08",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/503852.mkv",
+            "source": "lista-6"
+          },
+          "9": {
+            "episode": 9,
+            "name": "90210 S01 E09",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/503853.mkv",
+            "source": "lista-6"
+          },
+          "10": {
+            "episode": 10,
+            "name": "90210 S01 E10",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/503854.mkv",
+            "source": "lista-6"
+          },
+          "11": {
+            "episode": 11,
+            "name": "90210 S01 E11",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/503855.mkv",
+            "source": "lista-6"
+          },
+          "12": {
+            "episode": 12,
+            "name": "90210 S01 E12",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/503856.mkv",
+            "source": "lista-6"
+          },
+          "13": {
+            "episode": 13,
+            "name": "90210 S01 E13",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/503857.mkv",
+            "source": "lista-6"
+          },
+          "14": {
+            "episode": 14,
+            "name": "90210 S01 E14",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/503858.mkv",
+            "source": "lista-6"
+          },
+          "15": {
+            "episode": 15,
+            "name": "90210 S01 E15",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/503859.mkv",
+            "source": "lista-6"
+          },
+          "16": {
+            "episode": 16,
+            "name": "90210 S01 E16",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/503860.mkv",
+            "source": "lista-6"
+          },
+          "17": {
+            "episode": 17,
+            "name": "90210 S01 E17",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/503861.mkv",
+            "source": "lista-6"
+          },
+          "18": {
+            "episode": 18,
+            "name": "90210 S01 E18",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/503862.mkv",
+            "source": "lista-6"
+          },
+          "19": {
+            "episode": 19,
+            "name": "90210 S01 E19",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/503863.mkv",
+            "source": "lista-6"
+          },
+          "20": {
+            "episode": 20,
+            "name": "90210 S01 E20",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/503864.mkv",
+            "source": "lista-6"
+          },
+          "21": {
+            "episode": 21,
+            "name": "90210 S01 E21",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/503865.mkv",
+            "source": "lista-6"
+          },
+          "22": {
+            "episode": 22,
+            "name": "90210 S01 E22",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/503866.mkv",
+            "source": "lista-6"
+          }
+        }
+      },
+      "2": {
+        "episodes": {
+          "1": {
+            "episode": 1,
+            "name": "90210 S02 E01",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/503867.mkv",
+            "source": "lista-6"
+          },
+          "2": {
+            "episode": 2,
+            "name": "90210 S02 E02",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/503868.mkv",
+            "source": "lista-6"
+          },
+          "3": {
+            "episode": 3,
+            "name": "90210 S02 E03",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/503869.mkv",
+            "source": "lista-6"
+          },
+          "4": {
+            "episode": 4,
+            "name": "90210 S02 E04",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/503870.mkv",
+            "source": "lista-6"
+          },
+          "5": {
+            "episode": 5,
+            "name": "90210 S02 E05",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/503871.mkv",
+            "source": "lista-6"
+          },
+          "6": {
+            "episode": 6,
+            "name": "90210 S02 E06",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/503872.mkv",
+            "source": "lista-6"
+          },
+          "7": {
+            "episode": 7,
+            "name": "90210 S02 E07",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/503873.mkv",
+            "source": "lista-6"
+          },
+          "8": {
+            "episode": 8,
+            "name": "90210 S02 E08",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/503874.mkv",
+            "source": "lista-6"
+          },
+          "9": {
+            "episode": 9,
+            "name": "90210 S02 E09",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/503875.mkv",
+            "source": "lista-6"
+          },
+          "10": {
+            "episode": 10,
+            "name": "90210 S02 E10",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/503876.mkv",
+            "source": "lista-6"
+          },
+          "11": {
+            "episode": 11,
+            "name": "90210 S02 E11",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/503877.mkv",
+            "source": "lista-6"
+          },
+          "12": {
+            "episode": 12,
+            "name": "90210 S02 E12",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/503878.mkv",
+            "source": "lista-6"
+          },
+          "13": {
+            "episode": 13,
+            "name": "90210 S02 E13",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/503879.mkv",
+            "source": "lista-6"
+          },
+          "14": {
+            "episode": 14,
+            "name": "90210 S02 E14",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/503880.mkv",
+            "source": "lista-6"
+          },
+          "15": {
+            "episode": 15,
+            "name": "90210 S02 E15",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/503881.mkv",
+            "source": "lista-6"
+          },
+          "16": {
+            "episode": 16,
+            "name": "90210 S02 E16",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/503882.mkv",
+            "source": "lista-6"
+          },
+          "17": {
+            "episode": 17,
+            "name": "90210 S02 E17",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/503883.mkv",
+            "source": "lista-6"
+          },
+          "18": {
+            "episode": 18,
+            "name": "90210 S02 E18",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/503884.mkv",
+            "source": "lista-6"
+          },
+          "19": {
+            "episode": 19,
+            "name": "90210 S02 E19",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/503885.mkv",
+            "source": "lista-6"
+          },
+          "20": {
+            "episode": 20,
+            "name": "90210 S02 E20",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/503886.mkv",
+            "source": "lista-6"
+          },
+          "21": {
+            "episode": 21,
+            "name": "90210 S02 E21",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/503887.mkv",
+            "source": "lista-6"
+          },
+          "22": {
+            "episode": 22,
+            "name": "90210 S02 E22",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/503888.mkv",
+            "source": "lista-6"
+          },
+          "23": {
+            "episode": 23,
+            "name": "90210 S02 E23",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/503889.mkv",
+            "source": "lista-6"
+          },
+          "24": {
+            "episode": 24,
+            "name": "90210 S02 E24",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/503890.mkv",
+            "source": "lista-6"
+          },
+          "25": {
+            "episode": 25,
+            "name": "90210 S02 E25",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/503891.mkv",
+            "source": "lista-6"
+          },
+          "26": {
+            "episode": 26,
+            "name": "90210 S02 E26",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/503892.mkv",
+            "source": "lista-6"
+          },
+          "27": {
+            "episode": 27,
+            "name": "90210 S02 E27",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/503893.mkv",
+            "source": "lista-6"
+          },
+          "28": {
+            "episode": 28,
+            "name": "90210 S02 E28",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/503894.mkv",
+            "source": "lista-6"
+          }
+        }
+      },
+      "3": {
+        "episodes": {
+          "1": {
+            "episode": 1,
+            "name": "90210 S03 E01",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/503895.mkv",
+            "source": "lista-6"
+          },
+          "2": {
+            "episode": 2,
+            "name": "90210 S03 E02",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/503896.mkv",
+            "source": "lista-6"
+          },
+          "3": {
+            "episode": 3,
+            "name": "90210 S03 E03",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/503897.mkv",
+            "source": "lista-6"
+          },
+          "4": {
+            "episode": 4,
+            "name": "90210 S03 E04",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/503898.mkv",
+            "source": "lista-6"
+          },
+          "5": {
+            "episode": 5,
+            "name": "90210 S03 E05",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/503899.mkv",
+            "source": "lista-6"
+          },
+          "6": {
+            "episode": 6,
+            "name": "90210 S03 E06",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/503900.mkv",
+            "source": "lista-6"
+          },
+          "7": {
+            "episode": 7,
+            "name": "90210 S03 E07",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/503901.mkv",
+            "source": "lista-6"
+          },
+          "8": {
+            "episode": 8,
+            "name": "90210 S03 E08",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/503902.mkv",
+            "source": "lista-6"
+          },
+          "9": {
+            "episode": 9,
+            "name": "90210 S03 E09",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/503903.mkv",
+            "source": "lista-6"
+          },
+          "10": {
+            "episode": 10,
+            "name": "90210 S03 E10",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/503904.mkv",
+            "source": "lista-6"
+          },
+          "11": {
+            "episode": 11,
+            "name": "90210 S03 E11",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/503905.mkv",
+            "source": "lista-6"
+          },
+          "12": {
+            "episode": 12,
+            "name": "90210 S03 E12",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/503906.mkv",
+            "source": "lista-6"
+          },
+          "13": {
+            "episode": 13,
+            "name": "90210 S03 E13",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/503907.mkv",
+            "source": "lista-6"
+          },
+          "14": {
+            "episode": 14,
+            "name": "90210 S03 E14",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/503908.mkv",
+            "source": "lista-6"
+          },
+          "15": {
+            "episode": 15,
+            "name": "90210 S03 E15",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/503909.mkv",
+            "source": "lista-6"
+          },
+          "16": {
+            "episode": 16,
+            "name": "90210 S03 E16",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/503910.mkv",
+            "source": "lista-6"
+          },
+          "17": {
+            "episode": 17,
+            "name": "90210 S03 E17",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/503911.mkv",
+            "source": "lista-6"
+          },
+          "18": {
+            "episode": 18,
+            "name": "90210 S03 E18",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/503912.mkv",
+            "source": "lista-6"
+          },
+          "19": {
+            "episode": 19,
+            "name": "90210 S03 E19",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/503913.mkv",
+            "source": "lista-6"
+          },
+          "20": {
+            "episode": 20,
+            "name": "90210 S03 E20",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/503914.mkv",
+            "source": "lista-6"
+          },
+          "21": {
+            "episode": 21,
+            "name": "90210 S03 E21",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/503915.mkv",
+            "source": "lista-6"
+          },
+          "22": {
+            "episode": 22,
+            "name": "90210 S03 E22",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/503916.mkv",
+            "source": "lista-6"
+          },
+          "23": {
+            "episode": 23,
+            "name": "90210 S03 E23",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/503917.mkv",
+            "source": "lista-6"
+          },
+          "24": {
+            "episode": 24,
+            "name": "90210 S03 E24",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/503918.mkv",
+            "source": "lista-6"
+          },
+          "25": {
+            "episode": 25,
+            "name": "90210 S03 E25",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/503919.mkv",
+            "source": "lista-6"
+          },
+          "26": {
+            "episode": 26,
+            "name": "90210 S03 E26",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/503920.mkv",
+            "source": "lista-6"
+          },
+          "27": {
+            "episode": 27,
+            "name": "90210 S03 E27",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/503921.mkv",
+            "source": "lista-6"
+          },
+          "28": {
+            "episode": 28,
+            "name": "90210 S03 E28",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/503922.mkv",
+            "source": "lista-6"
+          },
+          "29": {
+            "episode": 29,
+            "name": "90210 S03 E29",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/503923.mkv",
+            "source": "lista-6"
+          },
+          "30": {
+            "episode": 30,
+            "name": "90210 S03 E30",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/503924.mkv",
+            "source": "lista-6"
+          }
+        }
+      },
+      "4": {
+        "episodes": {
+          "1": {
+            "episode": 1,
+            "name": "90210 S04 E01",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/503925.mkv",
+            "source": "lista-6"
+          },
+          "2": {
+            "episode": 2,
+            "name": "90210 S04 E02",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/503926.mkv",
+            "source": "lista-6"
+          },
+          "3": {
+            "episode": 3,
+            "name": "90210 S04 E03",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/503927.mkv",
+            "source": "lista-6"
+          },
+          "4": {
+            "episode": 4,
+            "name": "90210 S04 E04",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/503928.mkv",
+            "source": "lista-6"
+          },
+          "5": {
+            "episode": 5,
+            "name": "90210 S04 E05",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/503929.mkv",
+            "source": "lista-6"
+          },
+          "6": {
+            "episode": 6,
+            "name": "90210 S04 E06",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/503930.mkv",
+            "source": "lista-6"
+          },
+          "7": {
+            "episode": 7,
+            "name": "90210 S04 E07",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/503931.mkv",
+            "source": "lista-6"
+          },
+          "8": {
+            "episode": 8,
+            "name": "90210 S04 E08",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/503932.mkv",
+            "source": "lista-6"
+          },
+          "9": {
+            "episode": 9,
+            "name": "90210 S04 E09",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/503933.mkv",
+            "source": "lista-6"
+          },
+          "10": {
+            "episode": 10,
+            "name": "90210 S04 E10",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/503934.mkv",
+            "source": "lista-6"
+          },
+          "11": {
+            "episode": 11,
+            "name": "90210 S04 E11",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/503935.mkv",
+            "source": "lista-6"
+          },
+          "12": {
+            "episode": 12,
+            "name": "90210 S04 E12",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/503936.mkv",
+            "source": "lista-6"
+          },
+          "13": {
+            "episode": 13,
+            "name": "90210 S04 E13",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/503937.mkv",
+            "source": "lista-6"
+          },
+          "14": {
+            "episode": 14,
+            "name": "90210 S04 E14",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/503938.mkv",
+            "source": "lista-6"
+          },
+          "15": {
+            "episode": 15,
+            "name": "90210 S04 E15",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/503939.mkv",
+            "source": "lista-6"
+          },
+          "16": {
+            "episode": 16,
+            "name": "90210 S04 E16",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/503940.mkv",
+            "source": "lista-6"
+          },
+          "17": {
+            "episode": 17,
+            "name": "90210 S04 E17",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/503941.mkv",
+            "source": "lista-6"
+          },
+          "18": {
+            "episode": 18,
+            "name": "90210 S04 E18",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/503942.mkv",
+            "source": "lista-6"
+          },
+          "19": {
+            "episode": 19,
+            "name": "90210 S04 E19",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/503943.mkv",
+            "source": "lista-6"
+          },
+          "20": {
+            "episode": 20,
+            "name": "90210 S04 E20",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/503944.mkv",
+            "source": "lista-6"
+          },
+          "21": {
+            "episode": 21,
+            "name": "90210 S04 E21",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/503945.mkv",
+            "source": "lista-6"
+          },
+          "22": {
+            "episode": 22,
+            "name": "90210 S04 E22",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/503946.mkv",
+            "source": "lista-6"
+          },
+          "23": {
+            "episode": 23,
+            "name": "90210 S04 E23",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/503947.mkv",
+            "source": "lista-6"
+          },
+          "24": {
+            "episode": 24,
+            "name": "90210 S04 E24",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/503948.mkv",
+            "source": "lista-6"
+          },
+          "25": {
+            "episode": 25,
+            "name": "90210 S04 E25",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/503949.mkv",
+            "source": "lista-6"
+          },
+          "26": {
+            "episode": 26,
+            "name": "90210 S04 E26",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/503950.mkv",
+            "source": "lista-6"
+          },
+          "27": {
+            "episode": 27,
+            "name": "90210 S04 E27",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/503951.mkv",
+            "source": "lista-6"
+          },
+          "28": {
+            "episode": 28,
+            "name": "90210 S04 E28",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/503952.mkv",
+            "source": "lista-6"
+          },
+          "29": {
+            "episode": 29,
+            "name": "90210 S04 E29",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/503953.mkv",
+            "source": "lista-6"
+          },
+          "30": {
+            "episode": 30,
+            "name": "90210 S04 E30",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/503954.mkv",
+            "source": "lista-6"
+          },
+          "31": {
+            "episode": 31,
+            "name": "90210 S04 E31",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/503955.mkv",
+            "source": "lista-6"
+          }
+        }
+      },
+      "5": {
+        "episodes": {
+          "1": {
+            "episode": 1,
+            "name": "90210 S05 E01",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/503956.mkv",
+            "source": "lista-6"
+          },
+          "2": {
+            "episode": 2,
+            "name": "90210 S05 E02",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/503957.mkv",
+            "source": "lista-6"
+          },
+          "3": {
+            "episode": 3,
+            "name": "90210 S05 E03",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/503958.mkv",
+            "source": "lista-6"
+          },
+          "4": {
+            "episode": 4,
+            "name": "90210 S05 E04",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/503959.mkv",
+            "source": "lista-6"
+          },
+          "5": {
+            "episode": 5,
+            "name": "90210 S05 E05",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/503960.mkv",
+            "source": "lista-6"
+          },
+          "6": {
+            "episode": 6,
+            "name": "90210 S05 E06",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/503961.mkv",
+            "source": "lista-6"
+          },
+          "7": {
+            "episode": 7,
+            "name": "90210 S05 E07",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/503962.mkv",
+            "source": "lista-6"
+          },
+          "8": {
+            "episode": 8,
+            "name": "90210 S05 E08",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/503963.mkv",
+            "source": "lista-6"
+          },
+          "9": {
+            "episode": 9,
+            "name": "90210 S05 E09",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/503964.mkv",
+            "source": "lista-6"
+          },
+          "10": {
+            "episode": 10,
+            "name": "90210 S05 E10",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/503965.mkv",
+            "source": "lista-6"
+          },
+          "11": {
+            "episode": 11,
+            "name": "90210 S05 E11",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/503966.mkv",
+            "source": "lista-6"
+          },
+          "12": {
+            "episode": 12,
+            "name": "90210 S05 E12",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/503967.mkv",
+            "source": "lista-6"
+          },
+          "13": {
+            "episode": 13,
+            "name": "90210 S05 E13",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/503968.mkv",
+            "source": "lista-6"
+          },
+          "14": {
+            "episode": 14,
+            "name": "90210 S05 E14",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/503969.mkv",
+            "source": "lista-6"
+          },
+          "15": {
+            "episode": 15,
+            "name": "90210 S05 E15",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/503970.mkv",
+            "source": "lista-6"
+          },
+          "16": {
+            "episode": 16,
+            "name": "90210 S05 E16",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/503971.mkv",
+            "source": "lista-6"
+          },
+          "17": {
+            "episode": 17,
+            "name": "90210 S05 E17",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/503972.mkv",
+            "source": "lista-6"
+          },
+          "18": {
+            "episode": 18,
+            "name": "90210 S05 E18",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/503973.mkv",
+            "source": "lista-6"
+          },
+          "19": {
+            "episode": 19,
+            "name": "90210 S05 E19",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/503974.mkv",
+            "source": "lista-6"
+          },
+          "20": {
+            "episode": 20,
+            "name": "90210 S05 E20",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/503975.mkv",
+            "source": "lista-6"
+          },
+          "21": {
+            "episode": 21,
+            "name": "90210 S05 E21",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/503976.mkv",
+            "source": "lista-6"
+          },
+          "22": {
+            "episode": 22,
+            "name": "90210 S05 E22",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/503977.mkv",
+            "source": "lista-6"
+          },
+          "23": {
+            "episode": 23,
+            "name": "90210 S05 E23",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/503978.mkv",
+            "source": "lista-6"
+          },
+          "24": {
+            "episode": 24,
+            "name": "90210 S05 E24",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/503979.mkv",
+            "source": "lista-6"
+          },
+          "25": {
+            "episode": 25,
+            "name": "90210 S05 E25",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/503980.mkv",
+            "source": "lista-6"
+          },
+          "26": {
+            "episode": 26,
+            "name": "90210 S05 E26",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/503981.mkv",
+            "source": "lista-6"
+          },
+          "27": {
+            "episode": 27,
+            "name": "90210 S05 E27",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/503982.mkv",
+            "source": "lista-6"
+          },
+          "28": {
+            "episode": 28,
+            "name": "90210 S05 E28",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/503983.mkv",
+            "source": "lista-6"
+          },
+          "29": {
+            "episode": 29,
+            "name": "90210 S05 E29",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/503984.mkv",
+            "source": "lista-6"
+          },
+          "30": {
+            "episode": 30,
+            "name": "90210 S05 E30",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/503985.mkv",
+            "source": "lista-6"
+          },
+          "31": {
+            "episode": 31,
+            "name": "90210 S05 E31",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/503986.mkv",
+            "source": "lista-6"
+          },
+          "32": {
+            "episode": 32,
+            "name": "90210 S05 E32",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/503987.mkv",
+            "source": "lista-6"
+          }
+        }
+      },
+      "6": {
+        "episodes": {
+          "1": {
+            "episode": 1,
+            "name": "90210 S06 E01",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/503988.mkv",
+            "source": "lista-6"
+          },
+          "2": {
+            "episode": 2,
+            "name": "90210 S06 E02",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/503989.mkv",
+            "source": "lista-6"
+          },
+          "3": {
+            "episode": 3,
+            "name": "90210 S06 E03",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/503990.mkv",
+            "source": "lista-6"
+          },
+          "4": {
+            "episode": 4,
+            "name": "90210 S06 E04",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/503991.mkv",
+            "source": "lista-6"
+          },
+          "5": {
+            "episode": 5,
+            "name": "90210 S06 E05",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/503992.mkv",
+            "source": "lista-6"
+          },
+          "6": {
+            "episode": 6,
+            "name": "90210 S06 E06",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/503993.mkv",
+            "source": "lista-6"
+          },
+          "7": {
+            "episode": 7,
+            "name": "90210 S06 E07",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/503994.mkv",
+            "source": "lista-6"
+          },
+          "8": {
+            "episode": 8,
+            "name": "90210 S06 E08",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/503995.mkv",
+            "source": "lista-6"
+          },
+          "9": {
+            "episode": 9,
+            "name": "90210 S06 E09",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/503996.mkv",
+            "source": "lista-6"
+          },
+          "10": {
+            "episode": 10,
+            "name": "90210 S06 E10",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/503997.mkv",
+            "source": "lista-6"
+          },
+          "11": {
+            "episode": 11,
+            "name": "90210 S06 E11",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/503998.mkv",
+            "source": "lista-6"
+          },
+          "12": {
+            "episode": 12,
+            "name": "90210 S06 E12",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/503999.mkv",
+            "source": "lista-6"
+          },
+          "13": {
+            "episode": 13,
+            "name": "90210 S06 E13",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/504000.mkv",
+            "source": "lista-6"
+          },
+          "14": {
+            "episode": 14,
+            "name": "90210 S06 E14",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/504001.mkv",
+            "source": "lista-6"
+          },
+          "15": {
+            "episode": 15,
+            "name": "90210 S06 E15",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/504002.mkv",
+            "source": "lista-6"
+          },
+          "16": {
+            "episode": 16,
+            "name": "90210 S06 E16",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/504003.mkv",
+            "source": "lista-6"
+          },
+          "17": {
+            "episode": 17,
+            "name": "90210 S06 E17",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/504004.mkv",
+            "source": "lista-6"
+          },
+          "18": {
+            "episode": 18,
+            "name": "90210 S06 E18",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/504005.mkv",
+            "source": "lista-6"
+          },
+          "19": {
+            "episode": 19,
+            "name": "90210 S06 E19",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/504006.mkv",
+            "source": "lista-6"
+          },
+          "20": {
+            "episode": 20,
+            "name": "90210 S06 E20",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/504007.mkv",
+            "source": "lista-6"
+          },
+          "21": {
+            "episode": 21,
+            "name": "90210 S06 E21",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/504008.mkv",
+            "source": "lista-6"
+          },
+          "22": {
+            "episode": 22,
+            "name": "90210 S06 E22",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/504009.mkv",
+            "source": "lista-6"
+          },
+          "23": {
+            "episode": 23,
+            "name": "90210 S06 E23",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/504010.mkv",
+            "source": "lista-6"
+          },
+          "24": {
+            "episode": 24,
+            "name": "90210 S06 E24",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/504011.mkv",
+            "source": "lista-6"
+          },
+          "25": {
+            "episode": 25,
+            "name": "90210 S06 E25",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/504012.mkv",
+            "source": "lista-6"
+          },
+          "26": {
+            "episode": 26,
+            "name": "90210 S06 E26",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/504013.mkv",
+            "source": "lista-6"
+          },
+          "27": {
+            "episode": 27,
+            "name": "90210 S06 E27",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/504014.mkv",
+            "source": "lista-6"
+          },
+          "28": {
+            "episode": 28,
+            "name": "90210 S06 E28",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/504015.mkv",
+            "source": "lista-6"
+          },
+          "29": {
+            "episode": 29,
+            "name": "90210 S06 E29",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/504016.mkv",
+            "source": "lista-6"
+          },
+          "30": {
+            "episode": 30,
+            "name": "90210 S06 E30",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/504017.mkv",
+            "source": "lista-6"
+          },
+          "31": {
+            "episode": 31,
+            "name": "90210 S06 E31",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/504018.mkv",
+            "source": "lista-6"
+          }
+        }
+      },
+      "7": {
+        "episodes": {
+          "1": {
+            "episode": 1,
+            "name": "90210 S07 E01",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/504019.mkv",
+            "source": "lista-6"
+          },
+          "2": {
+            "episode": 2,
+            "name": "90210 S07 E02",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/504020.mkv",
+            "source": "lista-6"
+          },
+          "3": {
+            "episode": 3,
+            "name": "90210 S07 E03",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/504021.mkv",
+            "source": "lista-6"
+          },
+          "4": {
+            "episode": 4,
+            "name": "90210 S07 E04",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/504022.mkv",
+            "source": "lista-6"
+          },
+          "5": {
+            "episode": 5,
+            "name": "90210 S07 E05",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/504023.mkv",
+            "source": "lista-6"
+          },
+          "6": {
+            "episode": 6,
+            "name": "90210 S07 E06",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/504024.mkv",
+            "source": "lista-6"
+          },
+          "7": {
+            "episode": 7,
+            "name": "90210 S07 E07",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/504025.mkv",
+            "source": "lista-6"
+          },
+          "8": {
+            "episode": 8,
+            "name": "90210 S07 E08",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/504026.mkv",
+            "source": "lista-6"
+          },
+          "9": {
+            "episode": 9,
+            "name": "90210 S07 E09",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/504027.mkv",
+            "source": "lista-6"
+          },
+          "10": {
+            "episode": 10,
+            "name": "90210 S07 E10",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/504028.mkv",
+            "source": "lista-6"
+          },
+          "11": {
+            "episode": 11,
+            "name": "90210 S07 E11",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/504029.mkv",
+            "source": "lista-6"
+          },
+          "12": {
+            "episode": 12,
+            "name": "90210 S07 E12",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/504030.mkv",
+            "source": "lista-6"
+          },
+          "13": {
+            "episode": 13,
+            "name": "90210 S07 E13",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/504031.mkv",
+            "source": "lista-6"
+          },
+          "14": {
+            "episode": 14,
+            "name": "90210 S07 E14",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/504032.mkv",
+            "source": "lista-6"
+          },
+          "15": {
+            "episode": 15,
+            "name": "90210 S07 E15",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/504033.mkv",
+            "source": "lista-6"
+          },
+          "16": {
+            "episode": 16,
+            "name": "90210 S07 E16",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/504034.mkv",
+            "source": "lista-6"
+          }
+        }
+      },
+      "8": {
+        "episodes": {
+          "1": {
+            "episode": 1,
+            "name": "90210 S08 E01",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/504035.mkv",
+            "source": "lista-6"
+          },
+          "2": {
+            "episode": 2,
+            "name": "90210 S08 E02",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/504036.mkv",
+            "source": "lista-6"
+          },
+          "3": {
+            "episode": 3,
+            "name": "90210 S08 E03",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/504037.mkv",
+            "source": "lista-6"
+          },
+          "4": {
+            "episode": 4,
+            "name": "90210 S08 E04",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/504038.mkv",
+            "source": "lista-6"
+          },
+          "5": {
+            "episode": 5,
+            "name": "90210 S08 E05",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/504039.mkv",
+            "source": "lista-6"
+          },
+          "6": {
+            "episode": 6,
+            "name": "90210 S08 E06",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/504040.mkv",
+            "source": "lista-6"
+          },
+          "7": {
+            "episode": 7,
+            "name": "90210 S08 E07",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/504041.mkv",
+            "source": "lista-6"
+          },
+          "8": {
+            "episode": 8,
+            "name": "90210 S08 E08",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/504042.mkv",
+            "source": "lista-6"
+          },
+          "9": {
+            "episode": 9,
+            "name": "90210 S08 E09",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/504043.mkv",
+            "source": "lista-6"
+          },
+          "10": {
+            "episode": 10,
+            "name": "90210 S08 E10",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/504044.mkv",
+            "source": "lista-6"
+          },
+          "11": {
+            "episode": 11,
+            "name": "90210 S08 E11",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/504045.mkv",
+            "source": "lista-6"
+          },
+          "12": {
+            "episode": 12,
+            "name": "90210 S08 E12",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/504046.mkv",
+            "source": "lista-6"
+          },
+          "13": {
+            "episode": 13,
+            "name": "90210 S08 E13",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/504047.mkv",
+            "source": "lista-6"
+          },
+          "14": {
+            "episode": 14,
+            "name": "90210 S08 E14",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/504048.mkv",
+            "source": "lista-6"
+          },
+          "15": {
+            "episode": 15,
+            "name": "90210 S08 E15",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/504049.mkv",
+            "source": "lista-6"
+          },
+          "16": {
+            "episode": 16,
+            "name": "90210 S08 E16",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/504050.mkv",
+            "source": "lista-6"
+          },
+          "17": {
+            "episode": 17,
+            "name": "90210 S08 E17",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/504051.mkv",
+            "source": "lista-6"
+          },
+          "18": {
+            "episode": 18,
+            "name": "90210 S08 E18",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/504052.mkv",
+            "source": "lista-6"
+          },
+          "19": {
+            "episode": 19,
+            "name": "90210 S08 E19",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/504053.mkv",
+            "source": "lista-6"
+          },
+          "20": {
+            "episode": 20,
+            "name": "90210 S08 E20",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/504054.mkv",
+            "source": "lista-6"
+          },
+          "21": {
+            "episode": 21,
+            "name": "90210 S08 E21",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/504055.mkv",
+            "source": "lista-6"
+          },
+          "22": {
+            "episode": 22,
+            "name": "90210 S08 E22",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/504056.mkv",
+            "source": "lista-6"
+          },
+          "23": {
+            "episode": 23,
+            "name": "90210 S08 E23",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/504057.mkv",
+            "source": "lista-6"
+          },
+          "24": {
+            "episode": 24,
+            "name": "90210 S08 E24",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/504058.mkv",
+            "source": "lista-6"
+          },
+          "25": {
+            "episode": 25,
+            "name": "90210 S08 E25",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/504059.mkv",
+            "source": "lista-6"
+          },
+          "26": {
+            "episode": 26,
+            "name": "90210 S08 E26",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/504060.mkv",
+            "source": "lista-6"
+          },
+          "27": {
+            "episode": 27,
+            "name": "90210 S08 E27",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/504061.mkv",
+            "source": "lista-6"
+          },
+          "28": {
+            "episode": 28,
+            "name": "90210 S08 E28",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/504062.mkv",
+            "source": "lista-6"
+          },
+          "29": {
+            "episode": 29,
+            "name": "90210 S08 E29",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/504063.mkv",
+            "source": "lista-6"
+          },
+          "30": {
+            "episode": 30,
+            "name": "90210 S08 E30",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/504064.mkv",
+            "source": "lista-6"
+          },
+          "31": {
+            "episode": 31,
+            "name": "90210 S08 E31",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/504065.mkv",
+            "source": "lista-6"
+          }
+        }
+      },
+      "9": {
+        "episodes": {
+          "1": {
+            "episode": 1,
+            "name": "90210 S09 E01",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/504066.mkv",
+            "source": "lista-6"
+          },
+          "2": {
+            "episode": 2,
+            "name": "90210 S09 E02",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/504067.mkv",
+            "source": "lista-6"
+          },
+          "3": {
+            "episode": 3,
+            "name": "90210 S09 E03",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/504068.mkv",
+            "source": "lista-6"
+          },
+          "4": {
+            "episode": 4,
+            "name": "90210 S09 E04",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/504069.mkv",
+            "source": "lista-6"
+          },
+          "5": {
+            "episode": 5,
+            "name": "90210 S09 E05",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/504070.mkv",
+            "source": "lista-6"
+          },
+          "6": {
+            "episode": 6,
+            "name": "90210 S09 E06",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/504071.mkv",
+            "source": "lista-6"
+          },
+          "7": {
+            "episode": 7,
+            "name": "90210 S09 E07",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/504072.mkv",
+            "source": "lista-6"
+          },
+          "8": {
+            "episode": 8,
+            "name": "90210 S09 E08",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/504073.mkv",
+            "source": "lista-6"
+          },
+          "9": {
+            "episode": 9,
+            "name": "90210 S09 E09",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/504074.mkv",
+            "source": "lista-6"
+          },
+          "10": {
+            "episode": 10,
+            "name": "90210 S09 E10",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/504075.mkv",
+            "source": "lista-6"
+          },
+          "11": {
+            "episode": 11,
+            "name": "90210 S09 E11",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/504076.mkv",
+            "source": "lista-6"
+          },
+          "12": {
+            "episode": 12,
+            "name": "90210 S09 E12",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/504077.mkv",
+            "source": "lista-6"
+          },
+          "13": {
+            "episode": 13,
+            "name": "90210 S09 E13",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/504078.mkv",
+            "source": "lista-6"
+          },
+          "14": {
+            "episode": 14,
+            "name": "90210 S09 E14",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/504079.mkv",
+            "source": "lista-6"
+          },
+          "15": {
+            "episode": 15,
+            "name": "90210 S09 E15",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/504080.mkv",
+            "source": "lista-6"
+          },
+          "16": {
+            "episode": 16,
+            "name": "90210 S09 E16",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/504081.mkv",
+            "source": "lista-6"
+          },
+          "17": {
+            "episode": 17,
+            "name": "90210 S09 E17",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/504082.mkv",
+            "source": "lista-6"
+          },
+          "18": {
+            "episode": 18,
+            "name": "90210 S09 E18",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/504083.mkv",
+            "source": "lista-6"
+          },
+          "19": {
+            "episode": 19,
+            "name": "90210 S09 E19",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/504084.mkv",
+            "source": "lista-6"
+          },
+          "20": {
+            "episode": 20,
+            "name": "90210 S09 E20",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/504085.mkv",
+            "source": "lista-6"
+          },
+          "21": {
+            "episode": 21,
+            "name": "90210 S09 E21",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/504086.mkv",
+            "source": "lista-6"
+          },
+          "22": {
+            "episode": 22,
+            "name": "90210 S09 E22",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/504087.mkv",
+            "source": "lista-6"
+          },
+          "23": {
+            "episode": 23,
+            "name": "90210 S09 E23",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/504088.mkv",
+            "source": "lista-6"
+          },
+          "24": {
+            "episode": 24,
+            "name": "90210 S09 E24",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/504089.mkv",
+            "source": "lista-6"
+          },
+          "25": {
+            "episode": 25,
+            "name": "90210 S09 E25",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/504090.mkv",
+            "source": "lista-6"
+          },
+          "26": {
+            "episode": 26,
+            "name": "90210 S09 E26",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/504091.mkv",
+            "source": "lista-6"
+          }
+        }
+      },
+      "10": {
+        "episodes": {
+          "1": {
+            "episode": 1,
+            "name": "90210 S10 E01",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/504092.mkv",
+            "source": "lista-6"
+          },
+          "2": {
+            "episode": 2,
+            "name": "90210 S10 E02",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/504093.mkv",
+            "source": "lista-6"
+          },
+          "3": {
+            "episode": 3,
+            "name": "90210 S10 E03",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/504094.mkv",
+            "source": "lista-6"
+          },
+          "4": {
+            "episode": 4,
+            "name": "90210 S10 E04",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/504095.mkv",
+            "source": "lista-6"
+          },
+          "5": {
+            "episode": 5,
+            "name": "90210 S10 E05",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/504096.mkv",
+            "source": "lista-6"
+          },
+          "6": {
+            "episode": 6,
+            "name": "90210 S10 E06",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/504097.mkv",
+            "source": "lista-6"
+          },
+          "7": {
+            "episode": 7,
+            "name": "90210 S10 E07",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/504098.mkv",
+            "source": "lista-6"
+          },
+          "8": {
+            "episode": 8,
+            "name": "90210 S10 E08",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/504099.mkv",
+            "source": "lista-6"
+          },
+          "9": {
+            "episode": 9,
+            "name": "90210 S10 E09",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/504100.mkv",
+            "source": "lista-6"
+          },
+          "10": {
+            "episode": 10,
+            "name": "90210 S10 E10",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/504101.mkv",
+            "source": "lista-6"
+          },
+          "11": {
+            "episode": 11,
+            "name": "90210 S10 E11",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/504102.mkv",
+            "source": "lista-6"
+          },
+          "12": {
+            "episode": 12,
+            "name": "90210 S10 E12",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/504103.mkv",
+            "source": "lista-6"
+          },
+          "13": {
+            "episode": 13,
+            "name": "90210 S10 E13",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/504104.mkv",
+            "source": "lista-6"
+          },
+          "14": {
+            "episode": 14,
+            "name": "90210 S10 E14",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/504105.mkv",
+            "source": "lista-6"
+          },
+          "15": {
+            "episode": 15,
+            "name": "90210 S10 E15",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/504106.mkv",
+            "source": "lista-6"
+          },
+          "16": {
+            "episode": 16,
+            "name": "90210 S10 E16",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/504107.mkv",
+            "source": "lista-6"
+          },
+          "17": {
+            "episode": 17,
+            "name": "90210 S10 E17",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/504108.mkv",
+            "source": "lista-6"
+          },
+          "18": {
+            "episode": 18,
+            "name": "90210 S10 E18",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/504109.mkv",
+            "source": "lista-6"
+          },
+          "19": {
+            "episode": 19,
+            "name": "90210 S10 E19",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/504110.mkv",
+            "source": "lista-6"
+          },
+          "20": {
+            "episode": 20,
+            "name": "90210 S10 E20",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/504111.mkv",
+            "source": "lista-6"
+          },
+          "21": {
+            "episode": 21,
+            "name": "90210 S10 E21",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/504112.mkv",
+            "source": "lista-6"
+          },
+          "22": {
+            "episode": 22,
+            "name": "90210 S10 E22",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/504113.mkv",
+            "source": "lista-6"
+          },
+          "23": {
+            "episode": 23,
+            "name": "90210 S10 E23",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/504114.mkv",
+            "source": "lista-6"
+          },
+          "24": {
+            "episode": 24,
+            "name": "90210 S10 E24",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/504115.mkv",
+            "source": "lista-6"
+          },
+          "25": {
+            "episode": 25,
+            "name": "90210 S10 E25",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/504116.mkv",
+            "source": "lista-6"
+          },
+          "26": {
+            "episode": 26,
+            "name": "90210 S10 E26",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/504117.mkv",
+            "source": "lista-6"
+          },
+          "27": {
+            "episode": 27,
+            "name": "90210 S10 E27",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/504118.mkv",
+            "source": "lista-6"
+          }
+        }
+      }
+    },
+    "totalEpisodes": 274,
+    "m3uStructure": {
+      "1": 22,
+      "2": 28,
+      "3": 30,
+      "4": 31,
+      "5": 32,
+      "6": 31,
+      "7": 16,
+      "8": 31,
+      "9": 26,
+      "10": 27
+    }
+  },
+  {
+    "seriesName": "Aftermath",
+    "originalKey": "aftermath",
+    "groupTitle": "lista-6",
+    "seasons": {
+      "1": {
+        "episodes": {
+          "1": {
+            "episode": 1,
+            "name": "Aftermath S01 E01",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/461550.mkv",
+            "source": "lista-6"
+          },
+          "2": {
+            "episode": 2,
+            "name": "Aftermath S01 E02",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/461551.mkv",
+            "source": "lista-6"
+          },
+          "3": {
+            "episode": 3,
+            "name": "Aftermath S01 E03",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/461552.mkv",
+            "source": "lista-6"
+          },
+          "4": {
+            "episode": 4,
+            "name": "Aftermath S01 E04",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/461553.mkv",
+            "source": "lista-6"
+          },
+          "5": {
+            "episode": 5,
+            "name": "Aftermath S01 E05",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/461554.mkv",
+            "source": "lista-6"
+          },
+          "6": {
+            "episode": 6,
+            "name": "Aftermath S01 E06",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/461555.mkv",
+            "source": "lista-6"
+          },
+          "7": {
+            "episode": 7,
+            "name": "Aftermath S01 E07",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/461556.mkv",
+            "source": "lista-6"
+          },
+          "8": {
+            "episode": 8,
+            "name": "Aftermath S01 E08",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/461557.mkv",
+            "source": "lista-6"
+          },
+          "9": {
+            "episode": 9,
+            "name": "Aftermath S01 E09",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/461558.mkv",
+            "source": "lista-6"
+          },
+          "10": {
+            "episode": 10,
+            "name": "Aftermath S01 E10",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/461559.mkv",
+            "source": "lista-6"
+          },
+          "11": {
+            "episode": 11,
+            "name": "Aftermath S01 E11",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/461560.mkv",
+            "source": "lista-6"
+          },
+          "12": {
+            "episode": 12,
+            "name": "Aftermath S01 E12",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/461561.mkv",
+            "source": "lista-6"
+          },
+          "13": {
+            "episode": 13,
+            "name": "Aftermath S01 E13",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/461562.mkv",
+            "source": "lista-6"
+          }
+        }
+      }
+    },
+    "totalEpisodes": 13,
+    "m3uStructure": {
+      "1": 13
+    }
+  },
+  {
+    "seriesName": "Marte",
+    "originalKey": "marte",
+    "groupTitle": "lista-6",
+    "seasons": {
+      "1": {
+        "episodes": {
+          "1": {
+            "episode": 1,
+            "name": "Marte S01 E01",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/461732.mkv",
+            "source": "lista-6"
+          },
+          "2": {
+            "episode": 2,
+            "name": "Marte S01 E02",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/461733.mkv",
+            "source": "lista-6"
+          },
+          "3": {
+            "episode": 3,
+            "name": "Marte S01 E03",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/461734.mkv",
+            "source": "lista-6"
+          },
+          "4": {
+            "episode": 4,
+            "name": "Marte S01 E04",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/461735.mkv",
+            "source": "lista-6"
+          },
+          "5": {
+            "episode": 5,
+            "name": "Marte S01 E05",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/461736.mkv",
+            "source": "lista-6"
+          },
+          "6": {
+            "episode": 6,
+            "name": "Marte S01 E06",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/461737.mkv",
+            "source": "lista-6"
+          }
+        }
+      }
+    },
+    "totalEpisodes": 6,
+    "m3uStructure": {
+      "1": 6
+    }
+  },
+  {
+    "seriesName": "The Equalizer",
+    "originalKey": "the equalizer",
+    "groupTitle": "lista-6",
+    "seasons": {
+      "1": {
+        "episodes": {
+          "1": {
+            "episode": 1,
+            "name": "The Equalizer S01 E01",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/461893.mkv",
+            "source": "lista-6"
+          },
+          "2": {
+            "episode": 2,
+            "name": "The Equalizer S01 E02",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/461894.mkv",
+            "source": "lista-6"
+          },
+          "3": {
+            "episode": 3,
+            "name": "The Equalizer S01 E03",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/461895.mkv",
+            "source": "lista-6"
+          },
+          "4": {
+            "episode": 4,
+            "name": "The Equalizer S01 E04",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/461896.mkv",
+            "source": "lista-6"
+          },
+          "5": {
+            "episode": 5,
+            "name": "The Equalizer S01 E05",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/461897.mkv",
+            "source": "lista-6"
+          },
+          "6": {
+            "episode": 6,
+            "name": "The Equalizer S01 E06",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/461898.mkv",
+            "source": "lista-6"
+          },
+          "7": {
+            "episode": 7,
+            "name": "The Equalizer S01 E07",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/461899.mkv",
+            "source": "lista-6"
+          },
+          "8": {
+            "episode": 8,
+            "name": "The Equalizer S01 E08",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/461900.mkv",
+            "source": "lista-6"
+          },
+          "9": {
+            "episode": 9,
+            "name": "The Equalizer S01 E09",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/461901.mkv",
+            "source": "lista-6"
+          },
+          "10": {
+            "episode": 10,
+            "name": "The Equalizer S01 E10",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/461902.mkv",
+            "source": "lista-6"
+          }
+        }
+      },
+      "2": {
+        "episodes": {
+          "1": {
+            "episode": 1,
+            "name": "The Equalizer S02 E01",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/525698.mp4",
+            "source": "lista-6"
+          },
+          "2": {
+            "episode": 2,
+            "name": "The Equalizer S02 E02",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/525699.mp4",
+            "source": "lista-6"
+          },
+          "3": {
+            "episode": 3,
+            "name": "The Equalizer S02 E03",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/525700.mp4",
+            "source": "lista-6"
+          },
+          "4": {
+            "episode": 4,
+            "name": "The Equalizer S02 E04",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/525701.mp4",
+            "source": "lista-6"
+          },
+          "5": {
+            "episode": 5,
+            "name": "The Equalizer S02 E05",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/525702.mp4",
+            "source": "lista-6"
+          },
+          "6": {
+            "episode": 6,
+            "name": "The Equalizer S02 E06",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/525703.mp4",
+            "source": "lista-6"
+          },
+          "7": {
+            "episode": 7,
+            "name": "The Equalizer S02 E07",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/525704.mp4",
+            "source": "lista-6"
+          },
+          "8": {
+            "episode": 8,
+            "name": "The Equalizer S02 E08",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/525705.mp4",
+            "source": "lista-6"
+          },
+          "9": {
+            "episode": 9,
+            "name": "The Equalizer S02 E09",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/525706.mp4",
+            "source": "lista-6"
+          },
+          "10": {
+            "episode": 10,
+            "name": "The Equalizer S02 E10",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/525707.mp4",
+            "source": "lista-6"
+          },
+          "11": {
+            "episode": 11,
+            "name": "The Equalizer S02 E11",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/525708.mp4",
+            "source": "lista-6"
+          },
+          "12": {
+            "episode": 12,
+            "name": "The Equalizer S02 E12",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/525709.mp4",
+            "source": "lista-6"
+          },
+          "13": {
+            "episode": 13,
+            "name": "The Equalizer S02 E13",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/525710.mp4",
+            "source": "lista-6"
+          },
+          "14": {
+            "episode": 14,
+            "name": "The Equalizer S02 E14",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/525711.mp4",
+            "source": "lista-6"
+          },
+          "15": {
+            "episode": 15,
+            "name": "The Equalizer S02 E15",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/525712.mp4",
+            "source": "lista-6"
+          },
+          "16": {
+            "episode": 16,
+            "name": "The Equalizer S02 E16",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/525713.mp4",
+            "source": "lista-6"
+          },
+          "17": {
+            "episode": 17,
+            "name": "The Equalizer S02 E17",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/525714.mp4",
+            "source": "lista-6"
+          },
+          "18": {
+            "episode": 18,
+            "name": "The Equalizer S02 E18",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/525715.mp4",
+            "source": "lista-6"
+          }
+        }
+      },
+      "3": {
+        "episodes": {
+          "1": {
+            "episode": 1,
+            "name": "The Equalizer S03 E01",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/525716.mp4",
+            "source": "lista-6"
+          },
+          "2": {
+            "episode": 2,
+            "name": "The Equalizer S03 E02",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/525717.mp4",
+            "source": "lista-6"
+          },
+          "3": {
+            "episode": 3,
+            "name": "The Equalizer S03 E03",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/525718.mp4",
+            "source": "lista-6"
+          },
+          "4": {
+            "episode": 4,
+            "name": "The Equalizer S03 E04",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/525719.mp4",
+            "source": "lista-6"
+          },
+          "5": {
+            "episode": 5,
+            "name": "The Equalizer S03 E05",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/525720.mp4",
+            "source": "lista-6"
+          },
+          "6": {
+            "episode": 6,
+            "name": "The Equalizer S03 E06",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/525721.mp4",
+            "source": "lista-6"
+          },
+          "7": {
+            "episode": 7,
+            "name": "The Equalizer S03 E07",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/525722.mp4",
+            "source": "lista-6"
+          },
+          "8": {
+            "episode": 8,
+            "name": "The Equalizer S03 E08",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/525723.mp4",
+            "source": "lista-6"
+          },
+          "9": {
+            "episode": 9,
+            "name": "The Equalizer S03 E09",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/525724.mp4",
+            "source": "lista-6"
+          },
+          "10": {
+            "episode": 10,
+            "name": "The Equalizer S03 E10",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/525725.mp4",
+            "source": "lista-6"
+          },
+          "11": {
+            "episode": 11,
+            "name": "The Equalizer S03 E11",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/525726.mp4",
+            "source": "lista-6"
+          },
+          "12": {
+            "episode": 12,
+            "name": "The Equalizer S03 E12",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/525727.mp4",
+            "source": "lista-6"
+          },
+          "13": {
+            "episode": 13,
+            "name": "The Equalizer S03 E13",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/525728.mp4",
+            "source": "lista-6"
+          },
+          "14": {
+            "episode": 14,
+            "name": "The Equalizer S03 E14",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/525729.mp4",
+            "source": "lista-6"
+          },
+          "15": {
+            "episode": 15,
+            "name": "The Equalizer S03 E15",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/525730.mp4",
+            "source": "lista-6"
+          },
+          "16": {
+            "episode": 16,
+            "name": "The Equalizer S03 E16",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/525731.mp4",
+            "source": "lista-6"
+          },
+          "17": {
+            "episode": 17,
+            "name": "The Equalizer S03 E17",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/525732.mp4",
+            "source": "lista-6"
+          },
+          "18": {
+            "episode": 18,
+            "name": "The Equalizer S03 E18",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/525733.mp4",
+            "source": "lista-6"
+          }
+        }
+      },
+      "4": {
+        "episodes": {
+          "1": {
+            "episode": 1,
+            "name": "The Equalizer S04 E01",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/525734.mp4",
+            "source": "lista-6"
+          },
+          "2": {
+            "episode": 2,
+            "name": "The Equalizer S04 E02",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/525735.mp4",
+            "source": "lista-6"
+          },
+          "3": {
+            "episode": 3,
+            "name": "The Equalizer S04 E03",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/525736.mp4",
+            "source": "lista-6"
+          },
+          "4": {
+            "episode": 4,
+            "name": "The Equalizer S04 E04",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/525737.mp4",
+            "source": "lista-6"
+          },
+          "5": {
+            "episode": 5,
+            "name": "The Equalizer S04 E05",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/525738.mp4",
+            "source": "lista-6"
+          },
+          "6": {
+            "episode": 6,
+            "name": "The Equalizer S04 E06",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/525739.mp4",
+            "source": "lista-6"
+          },
+          "7": {
+            "episode": 7,
+            "name": "The Equalizer S04 E07",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/525740.mp4",
+            "source": "lista-6"
+          },
+          "8": {
+            "episode": 8,
+            "name": "The Equalizer S04 E08",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/525741.mp4",
+            "source": "lista-6"
+          },
+          "9": {
+            "episode": 9,
+            "name": "The Equalizer S04 E09",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/525742.mp4",
+            "source": "lista-6"
+          },
+          "10": {
+            "episode": 10,
+            "name": "The Equalizer S04 E10",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/525743.mp4",
+            "source": "lista-6"
+          }
+        }
+      }
+    },
+    "totalEpisodes": 56,
+    "m3uStructure": {
+      "1": 10,
+      "2": 18,
+      "3": 18,
+      "4": 10
+    }
+  },
+  {
+    "seriesName": "Educar a un superhéroe",
+    "originalKey": "educar a un superheroe",
+    "groupTitle": "lista-6",
+    "seasons": {
+      "1": {
+        "episodes": {
+          "1": {
+            "episode": 1,
+            "name": "Educar a un superhéroe S01 E01",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/461531.mp4",
+            "source": "lista-6"
+          },
+          "2": {
+            "episode": 2,
+            "name": "Educar a un superhéroe S01 E02",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/461532.mp4",
+            "source": "lista-6"
+          },
+          "3": {
+            "episode": 3,
+            "name": "Educar a un superhéroe S01 E03",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/461533.mp4",
+            "source": "lista-6"
+          },
+          "4": {
+            "episode": 4,
+            "name": "Educar a un superhéroe S01 E04",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/461534.mp4",
+            "source": "lista-6"
+          },
+          "5": {
+            "episode": 5,
+            "name": "Educar a un superhéroe S01 E05",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/461535.mp4",
+            "source": "lista-6"
+          },
+          "6": {
+            "episode": 6,
+            "name": "Educar a un superhéroe S01 E06",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/461536.mp4",
+            "source": "lista-6"
+          },
+          "7": {
+            "episode": 7,
+            "name": "Educar a un superhéroe S01 E07",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/461537.mp4",
+            "source": "lista-6"
+          },
+          "8": {
+            "episode": 8,
+            "name": "Educar a un superhéroe S01 E08",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/461538.mp4",
+            "source": "lista-6"
+          },
+          "9": {
+            "episode": 9,
+            "name": "Educar a un superhéroe S01 E09",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/461539.mp4",
+            "source": "lista-6"
+          }
+        }
+      }
+    },
+    "totalEpisodes": 9,
+    "m3uStructure": {
+      "1": 9
+    }
+  },
+  {
+    "seriesName": "1000 Maneras de morir",
+    "originalKey": "1000 maneras de morir",
+    "groupTitle": "lista-6",
+    "seasons": {
+      "1": {
+        "episodes": {
+          "1": {
+            "episode": 1,
+            "name": "1000 Maneras de morir S01 E01",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/461674.avi",
+            "source": "lista-6"
+          },
+          "2": {
+            "episode": 2,
+            "name": "1000 Maneras de morir S01 E02",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/461675.avi",
+            "source": "lista-6"
+          },
+          "3": {
+            "episode": 3,
+            "name": "1000 Maneras de morir S01 E03",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/461676.avi",
+            "source": "lista-6"
+          },
+          "4": {
+            "episode": 4,
+            "name": "1000 Maneras de morir S01 E04",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/461677.avi",
+            "source": "lista-6"
+          },
+          "5": {
+            "episode": 5,
+            "name": "1000 Maneras de morir S01 E05",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/461678.avi",
+            "source": "lista-6"
+          },
+          "6": {
+            "episode": 6,
+            "name": "1000 Maneras de morir S01 E06",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/461679.avi",
+            "source": "lista-6"
+          },
+          "7": {
+            "episode": 7,
+            "name": "1000 Maneras de morir S01 E07",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/461680.avi",
+            "source": "lista-6"
+          },
+          "8": {
+            "episode": 8,
+            "name": "1000 Maneras de morir S01 E08",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/461681.avi",
+            "source": "lista-6"
+          },
+          "9": {
+            "episode": 9,
+            "name": "1000 Maneras de morir S01 E09",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/461682.avi",
+            "source": "lista-6"
+          },
+          "10": {
+            "episode": 10,
+            "name": "1000 Maneras de morir S01 E10",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/461683.avi",
+            "source": "lista-6"
+          },
+          "11": {
+            "episode": 11,
+            "name": "1000 Maneras de morir S01 E11",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/461684.avi",
+            "source": "lista-6"
+          },
+          "12": {
+            "episode": 12,
+            "name": "1000 Maneras de morir S01 E12",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/461685.avi",
+            "source": "lista-6"
+          }
+        }
+      },
+      "2": {
+        "episodes": {
+          "1": {
+            "episode": 1,
+            "name": "1000 Maneras de morir S02 E01",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/461686.avi",
+            "source": "lista-6"
+          },
+          "2": {
+            "episode": 2,
+            "name": "1000 Maneras de morir S02 E02",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/461687.avi",
+            "source": "lista-6"
+          },
+          "3": {
+            "episode": 3,
+            "name": "1000 Maneras de morir S02 E03",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/461688.avi",
+            "source": "lista-6"
+          },
+          "4": {
+            "episode": 4,
+            "name": "1000 Maneras de morir S02 E04",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/461689.avi",
+            "source": "lista-6"
+          },
+          "5": {
+            "episode": 5,
+            "name": "1000 Maneras de morir S02 E05",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/461690.avi",
+            "source": "lista-6"
+          },
+          "6": {
+            "episode": 6,
+            "name": "1000 Maneras de morir S02 E06",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/461691.avi",
+            "source": "lista-6"
+          },
+          "7": {
+            "episode": 7,
+            "name": "1000 Maneras de morir S02 E07",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/461692.avi",
+            "source": "lista-6"
+          },
+          "8": {
+            "episode": 8,
+            "name": "1000 Maneras de morir S02 E08",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/461693.avi",
+            "source": "lista-6"
+          },
+          "9": {
+            "episode": 9,
+            "name": "1000 Maneras de morir S02 E09",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/461694.avi",
+            "source": "lista-6"
+          },
+          "10": {
+            "episode": 10,
+            "name": "1000 Maneras de morir S02 E10",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/461695.avi",
+            "source": "lista-6"
+          },
+          "11": {
+            "episode": 11,
+            "name": "1000 Maneras de morir S02 E11",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/461696.avi",
+            "source": "lista-6"
+          },
+          "12": {
+            "episode": 12,
+            "name": "1000 Maneras de morir S02 E12",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/461697.avi",
+            "source": "lista-6"
+          }
+        }
+      },
+      "3": {
+        "episodes": {
+          "1": {
+            "episode": 1,
+            "name": "1000 Maneras de morir S03 E01",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/461698.avi",
+            "source": "lista-6"
+          },
+          "2": {
+            "episode": 2,
+            "name": "1000 Maneras de morir S03 E02",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/461699.avi",
+            "source": "lista-6"
+          },
+          "3": {
+            "episode": 3,
+            "name": "1000 Maneras de morir S03 E03",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/461700.avi",
+            "source": "lista-6"
+          },
+          "4": {
+            "episode": 4,
+            "name": "1000 Maneras de morir S03 E04",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/461701.avi",
+            "source": "lista-6"
+          },
+          "5": {
+            "episode": 5,
+            "name": "1000 Maneras de morir S03 E05",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/461702.avi",
+            "source": "lista-6"
+          },
+          "6": {
+            "episode": 6,
+            "name": "1000 Maneras de morir S03 E06",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/461703.avi",
+            "source": "lista-6"
+          },
+          "7": {
+            "episode": 7,
+            "name": "1000 Maneras de morir S03 E07",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/461704.avi",
+            "source": "lista-6"
+          },
+          "8": {
+            "episode": 8,
+            "name": "1000 Maneras de morir S03 E08",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/461705.avi",
+            "source": "lista-6"
+          },
+          "9": {
+            "episode": 9,
+            "name": "1000 Maneras de morir S03 E09",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/461706.avi",
+            "source": "lista-6"
+          },
+          "10": {
+            "episode": 10,
+            "name": "1000 Maneras de morir S03 E10",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/461707.avi",
+            "source": "lista-6"
+          },
+          "11": {
+            "episode": 11,
+            "name": "1000 Maneras de morir S03 E11",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/461708.avi",
+            "source": "lista-6"
+          },
+          "12": {
+            "episode": 12,
+            "name": "1000 Maneras de morir S03 E12",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/461709.avi",
+            "source": "lista-6"
+          },
+          "13": {
+            "episode": 13,
+            "name": "1000 Maneras de morir S03 E13",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/461710.avi",
+            "source": "lista-6"
+          },
+          "14": {
+            "episode": 14,
+            "name": "1000 Maneras de morir S03 E14",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/461711.avi",
+            "source": "lista-6"
+          },
+          "15": {
+            "episode": 15,
+            "name": "1000 Maneras de morir S03 E15",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/461712.avi",
+            "source": "lista-6"
+          },
+          "16": {
+            "episode": 16,
+            "name": "1000 Maneras de morir S03 E16",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/461713.avi",
+            "source": "lista-6"
+          },
+          "17": {
+            "episode": 17,
+            "name": "1000 Maneras de morir S03 E17",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/461714.avi",
+            "source": "lista-6"
+          },
+          "18": {
+            "episode": 18,
+            "name": "1000 Maneras de morir S03 E18",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/461715.avi",
+            "source": "lista-6"
+          },
+          "19": {
+            "episode": 19,
+            "name": "1000 Maneras de morir S03 E19",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/461716.avi",
+            "source": "lista-6"
+          },
+          "20": {
+            "episode": 20,
+            "name": "1000 Maneras de morir S03 E20",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/461717.avi",
+            "source": "lista-6"
+          },
+          "21": {
+            "episode": 21,
+            "name": "1000 Maneras de morir S03 E21",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/461718.avi",
+            "source": "lista-6"
+          },
+          "22": {
+            "episode": 22,
+            "name": "1000 Maneras de morir S03 E22",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/461719.avi",
+            "source": "lista-6"
+          },
+          "23": {
+            "episode": 23,
+            "name": "1000 Maneras de morir S03 E23",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/461720.avi",
+            "source": "lista-6"
+          },
+          "24": {
+            "episode": 24,
+            "name": "1000 Maneras de morir S03 E24",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/461721.avi",
+            "source": "lista-6"
+          },
+          "25": {
+            "episode": 25,
+            "name": "1000 Maneras de morir S03 E25",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/461722.avi",
+            "source": "lista-6"
+          },
+          "26": {
+            "episode": 26,
+            "name": "1000 Maneras de morir S03 E26",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/461723.avi",
+            "source": "lista-6"
+          },
+          "27": {
+            "episode": 27,
+            "name": "1000 Maneras de morir S03 E27",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/461724.avi",
+            "source": "lista-6"
+          },
+          "28": {
+            "episode": 28,
+            "name": "1000 Maneras de morir S03 E28",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/461725.avi",
+            "source": "lista-6"
+          }
+        }
+      }
+    },
+    "totalEpisodes": 52,
+    "m3uStructure": {
+      "1": 12,
+      "2": 12,
+      "3": 28
+    }
+  },
+  {
+    "seriesName": "la serie - Camino a Qatar",
+    "originalKey": "la serie camino a qatar",
+    "groupTitle": "lista-6",
+    "seasons": {
+      "1": {
+        "episodes": {
+          "1": {
+            "episode": 1,
+            "name": "la serie - Camino a Qatar S01 E01",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/461668.mkv",
+            "source": "lista-6"
+          },
+          "2": {
+            "episode": 2,
+            "name": "la serie - Camino a Qatar S01 E02",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/461669.mp4",
+            "source": "lista-6"
+          },
+          "3": {
+            "episode": 3,
+            "name": "la serie - Camino a Qatar S01 E03",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/461670.mp4",
+            "source": "lista-6"
+          },
+          "4": {
+            "episode": 4,
+            "name": "la serie - Camino a Qatar S01 E04",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/461671.mp4",
+            "source": "lista-6"
+          },
+          "5": {
+            "episode": 5,
+            "name": "la serie - Camino a Qatar S01 E05",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/461672.mp4",
+            "source": "lista-6"
+          },
+          "6": {
+            "episode": 6,
+            "name": "la serie - Camino a Qatar S01 E06",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/461673.mp4",
+            "source": "lista-6"
+          }
+        }
+      }
+    },
+    "totalEpisodes": 6,
+    "m3uStructure": {
+      "1": 6
+    }
+  },
+  {
+    "seriesName": "Alert: Missing Persons Unit",
+    "originalKey": "alert missing persons unit",
+    "groupTitle": "lista-6",
+    "seasons": {
+      "1": {
+        "episodes": {
+          "1": {
+            "episode": 1,
+            "name": "Alert: Missing Persons Unit S01 E01",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/463357.mp4",
+            "source": "lista-6"
+          },
+          "2": {
+            "episode": 2,
+            "name": "Alert: Missing Persons Unit S01 E02",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/463358.mp4",
+            "source": "lista-6"
+          },
+          "3": {
+            "episode": 3,
+            "name": "Alert: Missing Persons Unit S01 E03",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/463359.mp4",
+            "source": "lista-6"
+          },
+          "4": {
+            "episode": 4,
+            "name": "Alert: Missing Persons Unit S01 E04",
+            "streamUrl": "http://superxlatino.com:8880/series/%7Buser%7D/%7Bpassword%7D/463360.mp4",
+            "source": "lista-6"
+          }
+        }
+      }
+    },
+    "totalEpisodes": 4,
+    "m3uStructure": {
+      "1": 4
+    }
+  }
+]

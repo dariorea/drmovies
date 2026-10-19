@@ -1,0 +1,2769 @@
+AUDITORÍA DE SERIES LISTA 6 — SEGUNDA PASADA
+============================================
+Fecha: 2026-10-10T02:31:31.004Z
+Total de series: 1286
+
+RESUMEN:
+AMBIGUO_CONSERVADO: 110
+NO_EVALUADO_ESTADO_ORIGINAL: 1057
+PROPUESTA_ESTRUCTURA_DOMINANTE: 16
+PROPUESTA_CANDIDATO_UNICO: 45
+SIN_CANDIDATOS: 31
+CANDIDATO_UNICO_PARA_REVISAR: 25
+PROPUESTA_CON_EVIDENCIA_LIMITADA: 2
+
+--------------------------------------------
+Serie: 16
+Estado original: AMBIGUO
+Recomendación: AMBIGUO_CONSERVADO
+Confianza: BAJA
+Motivo: Los candidatos no tienen una ventaja suficientemente sólida. Se conserva la revisión manual.
+Candidatos ordenados:
+  - 16 (106302) | puntos=1 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=true
+  - Club Friday Season 16: Hot Love Issue (243175) | puntos=1 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=true
+  - The Way We Were (23279) | puntos=1 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=true
+  - Club Friday the series 16: Domestic Incident (272146) | puntos=1 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=true
+  - Pregnant at 16 (214911) | puntos=1 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=true
+  - Мама в 16 (289081) | puntos=1 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=true
+  - 16+ (76951) | puntos=1 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=true
+  - 16 (105691) | puntos=1 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=true
+  - 16+ (297348) | puntos=1 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=true
+  - James at 16 (10138) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+  - C-16: FBI (26634) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+  - AIKa R-16 Virgin Mission (68417) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+  - 16 and Pregnant (31673) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+  - My Super Sweet 16 (10390) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+
+--------------------------------------------
+Serie: 90210
+Estado original: REVISAR
+Recomendación: PROPUESTA_ESTRUCTURA_DOMINANTE
+Confianza: ALTA_PARA_REVISION
+Motivo: El candidato lidera por estructura: 5 temporadas exactas, 1 parciales y 4 incompatibles. Ventaja de puntuación: 82 puntos. La selección todavía requiere revisión.
+Propuesta: Beverly Hills, 90210 (TMDB 2025)
+Candidatos ordenados:
+  - Beverly Hills, 90210 (2025) | puntos=47 | exactas=5 | parciales=1 | incompatibles=4 | no encontradas=0 | título exacto=false
+  - 90210 (5917) | puntos=-35 | exactas=0 | parciales=1 | incompatibles=4 | no encontradas=5 | título exacto=true
+  - Dr. 90210 (3360) | puntos=-35 | exactas=0 | parciales=0 | incompatibles=7 | no encontradas=3 | título exacto=false
+  - BH90210 (89235) | puntos=-65 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=9 | título exacto=false
+  - High Maintenance 90210 (11362) | puntos=-65 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=9 | título exacto=false
+
+--------------------------------------------
+Serie: 1000 Maneras de morir
+Estado original: REVISAR
+Recomendación: PROPUESTA_CANDIDATO_UNICO
+Confianza: MEDIA
+Motivo: Solo hay un candidato disponible y presenta evidencia de título o estructura. Requiere confirmación manual.
+Propuesta: 1000 Ways to Die (TMDB 15826)
+Candidatos ordenados:
+  - 1000 Ways to Die (15826) | puntos=13 | exactas=1 | parciales=1 | incompatibles=1 | no encontradas=0 | título exacto=false
+
+--------------------------------------------
+Serie: Unidad de Investigacion
+Estado original: REVISAR
+Recomendación: PROPUESTA_CANDIDATO_UNICO
+Confianza: ALTA_PARA_REVISION
+Motivo: Solo hay un candidato disponible y presenta evidencia de título o estructura. Requiere confirmación manual.
+Propuesta: Research Unit (TMDB 65438)
+Candidatos ordenados:
+  - Research Unit (65438) | puntos=106 | exactas=11 | parciales=0 | incompatibles=2 | no encontradas=0 | título exacto=false
+
+--------------------------------------------
+Serie: Operativo: Lioness
+Estado original: REVISAR
+Recomendación: PROPUESTA_CANDIDATO_UNICO
+Confianza: ALTA_PARA_REVISION
+Motivo: Solo hay un candidato disponible y presenta evidencia de título o estructura. Requiere confirmación manual.
+Propuesta: Lioness (TMDB 113962)
+Candidatos ordenados:
+  - Lioness (113962) | puntos=18 | exactas=2 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+
+--------------------------------------------
+Serie: Equipo Seal
+Estado original: REVISAR
+Recomendación: SIN_CANDIDATOS
+Confianza: BAJA
+Motivo: No hay candidatos en el informe original. Esta segunda pasada no realiza búsquedas nuevas.
+
+--------------------------------------------
+Serie: Predadores
+Estado original: AMBIGUO
+Recomendación: AMBIGUO_CONSERVADO
+Confianza: BAJA
+Motivo: Los candidatos no tienen una ventaja suficientemente sólida. Se conserva la revisión manual.
+Candidatos ordenados:
+  - Predators (215344) | puntos=13 | exactas=1 | parciales=0 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - Predator Bloodlines (120497) | puntos=10 | exactas=1 | parciales=0 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - The Hunt (64313) | puntos=8 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - World's Deadliest (36196) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - Killers of the Cosmos (133445) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - Africa's Deadliest (61478) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+  - Carpathian Predators (122433) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+  - Secret Life of Predators (60959) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+
+--------------------------------------------
+Serie: V: Invasión extraterrestre
+Estado original: REVISAR
+Recomendación: AMBIGUO_CONSERVADO
+Confianza: BAJA
+Motivo: Los candidatos no tienen una ventaja suficientemente sólida. Se conserva la revisión manual.
+Candidatos ordenados:
+  - V (21494) | puntos=3 | exactas=0 | parciales=2 | incompatibles=0 | no encontradas=1 | título exacto=false
+  - V (14141) | puntos=-4 | exactas=1 | parciales=0 | incompatibles=0 | no encontradas=2 | título exacto=false
+  - V (75893) | puntos=-9 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=2 | título exacto=false
+
+--------------------------------------------
+Serie: The Gold
+Estado original: AMBIGUO
+Recomendación: AMBIGUO_CONSERVADO
+Confianza: BAJA
+Motivo: Los candidatos no tienen una ventaja suficientemente sólida. Se conserva la revisión manual.
+Candidatos ordenados:
+  - The Gold (218351) | puntos=13 | exactas=1 | parciales=0 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - Brigands: The Quest for Gold (235779) | puntos=10 | exactas=1 | parciales=0 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - The Mysterious Cities of Gold (11285) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - Tales of the Gold Monkey (2999) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - Persona 4 The Golden Animation (61465) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - The Brave of Gold Goldran (110064) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - The Fading Gold (275846) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - GoGo for the Gold (205753) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+
+--------------------------------------------
+Serie: Transformers: La Chispa de la Tierra
+Estado original: REVISAR
+Recomendación: CANDIDATO_UNICO_PARA_REVISAR
+Confianza: BAJA
+Motivo: Solo hay un candidato, pero la evidencia disponible no permite recomendarlo con suficiente seguridad.
+Propuesta: Transformers: EarthSpark (TMDB 157747)
+Candidatos ordenados:
+  - Transformers: EarthSpark (157747) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+
+--------------------------------------------
+Serie: Falsa identidad
+Estado original: REVISAR
+Recomendación: PROPUESTA_CON_EVIDENCIA_LIMITADA
+Confianza: MEDIA
+Motivo: El candidato mejor puntuado tiene una ventaja de 10 puntos, pero la evidencia estructural no alcanza el umbral de dominancia fuerte.
+Propuesta: False Identity (TMDB 82809)
+Candidatos ordenados:
+  - False Identity (82809) | puntos=6 | exactas=0 | parciales=1 | incompatibles=1 | no encontradas=0 | título exacto=true
+  - False Flag (65312) | puntos=-4 | exactas=0 | parciales=0 | incompatibles=2 | no encontradas=0 | título exacto=false
+
+--------------------------------------------
+Serie: Infiniti
+Estado original: AMBIGUO
+Recomendación: AMBIGUO_CONSERVADO
+Confianza: BAJA
+Motivo: Los candidatos no tienen una ventaja suficientemente sólida. Se conserva la revisión manual.
+Candidatos ordenados:
+  - Infiniti (128798) | puntos=13 | exactas=1 | parciales=0 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - The Infinite Worlds of H.G. Wells (40182) | puntos=10 | exactas=1 | parciales=0 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - Super Space Sheriff Gavan Infinity: Side Story (337292) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+
+--------------------------------------------
+Serie: Otoño en mi corazón
+Estado original: REVISAR
+Recomendación: CANDIDATO_UNICO_PARA_REVISAR
+Confianza: BAJA
+Motivo: Solo hay un candidato, pero la evidencia disponible no permite recomendarlo con suficiente seguridad.
+Propuesta: Autumn in My Heart (TMDB 14807)
+Candidatos ordenados:
+  - Autumn in My Heart (14807) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+
+--------------------------------------------
+Serie: Corpse Party: Tortured Souls
+Estado original: REVISAR
+Recomendación: PROPUESTA_CANDIDATO_UNICO
+Confianza: BAJA
+Motivo: Solo hay un candidato disponible y presenta evidencia de título o estructura. Requiere confirmación manual.
+Propuesta: Corpse Party: Tortured Souls (TMDB 61178)
+Candidatos ordenados:
+  - Corpse Party: Tortured Souls (61178) | puntos=1 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=true
+
+--------------------------------------------
+Serie: Elfen Lied
+Estado original: REVISAR
+Recomendación: PROPUESTA_CANDIDATO_UNICO
+Confianza: BAJA
+Motivo: Solo hay un candidato disponible y presenta evidencia de título o estructura. Requiere confirmación manual.
+Propuesta: Elfen Lied (TMDB 42671)
+Candidatos ordenados:
+  - Elfen Lied (42671) | puntos=1 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=true
+
+--------------------------------------------
+Serie: Deadman Wonderland
+Estado original: REVISAR
+Recomendación: PROPUESTA_CANDIDATO_UNICO
+Confianza: BAJA
+Motivo: Solo hay un candidato disponible y presenta evidencia de título o estructura. Requiere confirmación manual.
+Propuesta: Deadman Wonderland (TMDB 42503)
+Candidatos ordenados:
+  - Deadman Wonderland (42503) | puntos=1 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=true
+
+--------------------------------------------
+Serie: Mirai Nikki
+Estado original: REVISAR
+Recomendación: AMBIGUO_CONSERVADO
+Confianza: BAJA
+Motivo: Los candidatos no tienen una ventaja suficientemente sólida. Se conserva la revisión manual.
+Candidatos ordenados:
+  - The Future Diary (46671) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+  - Future Diary Another World (45840) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+
+--------------------------------------------
+Serie: Highschool of the Dead
+Estado original: REVISAR
+Recomendación: PROPUESTA_CANDIDATO_UNICO
+Confianza: BAJA
+Motivo: Solo hay un candidato disponible y presenta evidencia de título o estructura. Requiere confirmación manual.
+Propuesta: High School of the Dead (TMDB 56998)
+Candidatos ordenados:
+  - High School of the Dead (56998) | puntos=1 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=true
+
+--------------------------------------------
+Serie: Two Cops
+Estado original: REVISAR
+Recomendación: AMBIGUO_CONSERVADO
+Confianza: BAJA
+Motivo: Los candidatos no tienen una ventaja suficientemente sólida. Se conserva la revisión manual.
+Candidatos ordenados:
+  - Two Cops (74785) | puntos=1 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=true
+  - Throwing Stones: Cops Against the Government (117270) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+
+--------------------------------------------
+Serie: Cuerdas del Corazón
+Estado original: REVISAR
+Recomendación: SIN_CANDIDATOS
+Confianza: BAJA
+Motivo: No hay candidatos en el informe original. Esta segunda pasada no realiza búsquedas nuevas.
+
+--------------------------------------------
+Serie: Que Viniste de las Estrellas
+Estado original: REVISAR
+Recomendación: SIN_CANDIDATOS
+Confianza: BAJA
+Motivo: No hay candidatos en el informe original. Esta segunda pasada no realiza búsquedas nuevas.
+
+--------------------------------------------
+Serie: VIP
+Estado original: AMBIGUO
+Recomendación: AMBIGUO_CONSERVADO
+Confianza: BAJA
+Motivo: Los candidatos no tienen una ventaja suficientemente sólida. Se conserva la revisión manual.
+Candidatos ordenados:
+  - VIP (94642) | puntos=13 | exactas=1 | parciales=0 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - V.I.P (236838) | puntos=13 | exactas=1 | parciales=0 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - V.I.P. (4397) | puntos=8 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - Top Chef VIP (209374) | puntos=8 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - Big Brother VIP Mexico (31019) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - V.I.P. Schaukel (27320) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - Mundo VIP (35491) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - Gran hermano VIP (82250) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+  - Remarriage & Desires (133775) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+
+--------------------------------------------
+Serie: ¿Le Temes a la Oscuridad?
+Estado original: REVISAR
+Recomendación: PROPUESTA_ESTRUCTURA_DOMINANTE
+Confianza: ALTA_PARA_REVISION
+Motivo: El candidato lidera por estructura: 6 temporadas exactas, 0 parciales y 1 incompatibles. Ventaja de puntuación: 92 puntos. La selección todavía requiere revisión.
+Propuesta: Are You Afraid of the Dark? (TMDB 2913)
+Candidatos ordenados:
+  - Are You Afraid of the Dark? (2913) | puntos=58 | exactas=6 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+  - Are You Afraid of the Dark? (93693) | puntos=-34 | exactas=0 | parciales=0 | incompatibles=3 | no encontradas=4 | título exacto=false
+
+--------------------------------------------
+Serie: Reina: amor y guerra
+Estado original: REVISAR
+Recomendación: SIN_CANDIDATOS
+Confianza: BAJA
+Motivo: No hay candidatos en el informe original. Esta segunda pasada no realiza búsquedas nuevas.
+
+--------------------------------------------
+Serie: Revival
+Estado original: AMBIGUO
+Recomendación: AMBIGUO_CONSERVADO
+Confianza: BAJA
+Motivo: Los candidatos no tienen una ventaja suficientemente sólida. Se conserva la revisión manual.
+Candidatos ordenados:
+  - Revival (254013) | puntos=13 | exactas=1 | parciales=0 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - Duck Dynasty: The Revival (283874) | puntos=10 | exactas=1 | parciales=0 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - Revival (230942) | puntos=8 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - The Seven Deadly Sins (62104) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - The Great Revival (32265) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - Time Bokan: Royal Revival (44243) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - Birth of a Hero (80409) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - Stone House Revival (117794) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - Revival (213116) | puntos=1 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=true
+
+--------------------------------------------
+Serie: Río de la luna
+Estado original: REVISAR
+Recomendación: SIN_CANDIDATOS
+Confianza: BAJA
+Motivo: No hay candidatos en el informe original. Esta segunda pasada no realiza búsquedas nuevas.
+
+--------------------------------------------
+Serie: Aquí no hay quien viva
+Estado original: AMBIGUO
+Recomendación: PROPUESTA_ESTRUCTURA_DOMINANTE
+Confianza: ALTA_PARA_REVISION
+Motivo: El candidato lidera por estructura: 4 temporadas exactas, 0 parciales y 1 incompatibles. Ventaja de puntuación: 64 puntos. La selección todavía requiere revisión.
+Propuesta: Aquí no hay quien viva (TMDB 2282)
+Candidatos ordenados:
+  - Aquí no hay quien viva (2282) | puntos=41 | exactas=4 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=true
+  - Aquí no hay quien viva (Colombia) (156288) | puntos=-23 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=4 | título exacto=false
+  - Aquí no hay quien viva (Argentina) (156287) | puntos=-23 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=4 | título exacto=false
+  - Aquí no hay quien viva (310251) | puntos=-27 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=4 | título exacto=true
+
+--------------------------------------------
+Serie: Avatar: La leyenda de Aang
+Estado original: REVISAR
+Recomendación: PROPUESTA_ESTRUCTURA_DOMINANTE
+Confianza: ALTA_PARA_REVISION
+Motivo: El candidato lidera por estructura: 3 temporadas exactas, 0 parciales y 0 incompatibles. Ventaja de puntuación: 41 puntos. La selección todavía requiere revisión.
+Propuesta: Avatar: The Last Airbender (TMDB 246)
+Candidatos ordenados:
+  - Avatar: The Last Airbender (246) | puntos=23 | exactas=3 | parciales=0 | incompatibles=0 | no encontradas=1 | título exacto=false
+  - Avatar: The Last Airbender (82452) | puntos=-18 | exactas=0 | parciales=0 | incompatibles=2 | no encontradas=2 | título exacto=false
+
+--------------------------------------------
+Serie: Los Pequeños Looney Tunes
+Estado original: REVISAR
+Recomendación: CANDIDATO_UNICO_PARA_REVISAR
+Confianza: BAJA
+Motivo: Solo hay un candidato, pero la evidencia disponible no permite recomendarlo con suficiente seguridad.
+Propuesta: Baby Looney Tunes (TMDB 670)
+Candidatos ordenados:
+  - Baby Looney Tunes (670) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+
+--------------------------------------------
+Serie: Ben 10: Supremacía Alienígena
+Estado original: REVISAR
+Recomendación: PROPUESTA_CANDIDATO_UNICO
+Confianza: MEDIA
+Motivo: Solo hay un candidato disponible y presenta evidencia de título o estructura. Requiere confirmación manual.
+Propuesta: Ben 10: Ultimate Alien (TMDB 31109)
+Candidatos ordenados:
+  - Ben 10: Ultimate Alien (31109) | puntos=8 | exactas=1 | parciales=1 | incompatibles=0 | no encontradas=1 | título exacto=false
+
+--------------------------------------------
+Serie: Drama Total: La venganza de la isla
+Estado original: REVISAR
+Recomendación: PROPUESTA_CANDIDATO_UNICO
+Confianza: MEDIA
+Motivo: Solo hay un candidato disponible y presenta evidencia de título o estructura. Requiere confirmación manual.
+Propuesta: Total Drama: Revenge of the Island (TMDB 33507)
+Candidatos ordenados:
+  - Total Drama: Revenge of the Island (33507) | puntos=3 | exactas=1 | parciales=0 | incompatibles=0 | no encontradas=1 | título exacto=false
+
+--------------------------------------------
+Serie: Total Drama Action
+Estado original: REVISAR
+Recomendación: PROPUESTA_CANDIDATO_UNICO
+Confianza: MEDIA
+Motivo: Solo hay un candidato disponible y presenta evidencia de título o estructura. Requiere confirmación manual.
+Propuesta: Total Drama Action (TMDB 8616)
+Candidatos ordenados:
+  - Total Drama Action (8616) | puntos=1 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=1 | título exacto=true
+
+--------------------------------------------
+Serie: Total Drama Pahkitew Island
+Estado original: REVISAR
+Recomendación: CANDIDATO_UNICO_PARA_REVISAR
+Confianza: BAJA
+Motivo: Solo hay un candidato, pero la evidencia disponible no permite recomendarlo con suficiente seguridad.
+Propuesta: Total Drama Pahkitew Island (TMDB 296168)
+Candidatos ordenados:
+  - Total Drama Pahkitew Island (296168) | puntos=-6 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=1 | título exacto=true
+
+--------------------------------------------
+Serie: El Chavo Animado
+Estado original: REVISAR
+Recomendación: PROPUESTA_CANDIDATO_UNICO
+Confianza: ALTA_PARA_REVISION
+Motivo: Solo hay un candidato disponible y presenta evidencia de título o estructura. Requiere confirmación manual.
+Propuesta: El Chavo: The Animated Series (TMDB 7821)
+Candidatos ordenados:
+  - El Chavo: The Animated Series (7821) | puntos=51 | exactas=4 | parciales=2 | incompatibles=1 | no encontradas=0 | título exacto=true
+
+--------------------------------------------
+Serie: El Espectacular Hombre-Araña
+Estado original: REVISAR
+Recomendación: PROPUESTA_CANDIDATO_UNICO
+Confianza: MEDIA
+Motivo: Solo hay un candidato disponible y presenta evidencia de título o estructura. Requiere confirmación manual.
+Propuesta: The Spectacular Spider-Man (TMDB 3854)
+Candidatos ordenados:
+  - The Spectacular Spider-Man (3854) | puntos=8 | exactas=1 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+
+--------------------------------------------
+Serie: Grandes héroes y leyendas de La Biblia
+Estado original: REVISAR
+Recomendación: CANDIDATO_UNICO_PARA_REVISAR
+Confianza: BAJA
+Motivo: Solo hay un candidato, pero la evidencia disponible no permite recomendarlo con suficiente seguridad.
+Propuesta: Greatest Heroes & Legends of Bible (TMDB 67880)
+Candidatos ordenados:
+  - Greatest Heroes & Legends of Bible (67880) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+
+--------------------------------------------
+Serie: Hermano de Jorel
+Estado original: REVISAR
+Recomendación: CANDIDATO_UNICO_PARA_REVISAR
+Confianza: BAJA
+Motivo: Solo hay un candidato, pero la evidencia disponible no permite recomendarlo con suficiente seguridad.
+Propuesta: Jorel's Brother (TMDB 74606)
+Candidatos ordenados:
+  - Jorel's Brother (74606) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+
+--------------------------------------------
+Serie: Las sombrías aventuras de Billy y Mandy
+Estado original: REVISAR
+Recomendación: CANDIDATO_UNICO_PARA_REVISAR
+Confianza: BAJA
+Motivo: Solo hay un candidato, pero la evidencia disponible no permite recomendarlo con suficiente seguridad.
+Propuesta: The Grim Adventures of Billy and Mandy (TMDB 897)
+Candidatos ordenados:
+  - The Grim Adventures of Billy and Mandy (897) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+
+--------------------------------------------
+Serie: Insensato Corazón
+Estado original: REVISAR
+Recomendación: SIN_CANDIDATOS
+Confianza: BAJA
+Motivo: No hay candidatos en el informe original. Esta segunda pasada no realiza búsquedas nuevas.
+
+--------------------------------------------
+Serie: perder
+Estado original: AMBIGUO
+Recomendación: AMBIGUO_CONSERVADO
+Confianza: BAJA
+Motivo: Los candidatos no tienen una ventaja suficientemente sólida. Se conserva la revisión manual.
+Candidatos ordenados:
+  - Win or Lose (114500) | puntos=10 | exactas=1 | parciales=0 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - Losing Alice (104022) | puntos=10 | exactas=1 | parciales=0 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - To Love, To Lose (310045) | puntos=10 | exactas=1 | parciales=0 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - The Biggest Loser (579) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - Fit for TV: The Reality of the Biggest Loser (296549) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+  - Unbroken (119209) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+  - Antes de perder (87421) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+  - How to Lose a War (243162) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+
+--------------------------------------------
+Serie: Una estrella más brillante que el sol
+Estado original: REVISAR
+Recomendación: CANDIDATO_UNICO_PARA_REVISAR
+Confianza: BAJA
+Motivo: Solo hay un candidato, pero la evidencia disponible no permite recomendarlo con suficiente seguridad.
+Propuesta: A Star Brighter than the Sun (TMDB 283818)
+Candidatos ordenados:
+  - A Star Brighter than the Sun (283818) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+
+--------------------------------------------
+Serie: Los Backyardigans
+Estado original: REVISAR
+Recomendación: PROPUESTA_CANDIDATO_UNICO
+Confianza: MEDIA
+Motivo: Solo hay un candidato disponible y presenta evidencia de título o estructura. Requiere confirmación manual.
+Propuesta: The Backyardigans (TMDB 1878)
+Candidatos ordenados:
+  - The Backyardigans (1878) | puntos=11 | exactas=1 | parciales=1 | incompatibles=2 | no encontradas=0 | título exacto=false
+
+--------------------------------------------
+Serie: ¡Las reglas de Megamente!
+Estado original: REVISAR
+Recomendación: CANDIDATO_UNICO_PARA_REVISAR
+Confianza: BAJA
+Motivo: Solo hay un candidato, pero la evidencia disponible no permite recomendarlo con suficiente seguridad.
+Propuesta: Megamind Rules! (TMDB 157432)
+Candidatos ordenados:
+  - Megamind Rules! (157432) | puntos=-9 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=2 | título exacto=false
+
+--------------------------------------------
+Serie: Monster High
+Estado original: AMBIGUO
+Recomendación: AMBIGUO_CONSERVADO
+Confianza: BAJA
+Motivo: Los candidatos no tienen una ventaja suficientemente sólida. Se conserva la revisión manual.
+Candidatos ordenados:
+  - Monster High (131532) | puntos=8 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - Monster High (41974) | puntos=8 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - Monster High: Adventures of the Ghoul Squad (237302) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - Monster High: Webisodes (247806) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+  - Monster High: Scary Cool Ghouls (330262) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+  - Meet the Ghouls (Monster High) (331337) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+
+--------------------------------------------
+Serie: Rugrats Crecidos
+Estado original: REVISAR
+Recomendación: PROPUESTA_CANDIDATO_UNICO
+Confianza: MEDIA
+Motivo: Solo hay un candidato disponible y presenta evidencia de título o estructura. Requiere confirmación manual.
+Propuesta: All Grown Up! (TMDB 130)
+Candidatos ordenados:
+  - All Grown Up! (130) | puntos=18 | exactas=0 | parciales=4 | incompatibles=1 | no encontradas=0 | título exacto=false
+
+--------------------------------------------
+Serie: El Árbol Familiar de los Croods
+Estado original: REVISAR
+Recomendación: SIN_CANDIDATOS
+Confianza: BAJA
+Motivo: No hay candidatos en el informe original. Esta segunda pasada no realiza búsquedas nuevas.
+
+--------------------------------------------
+Serie: Just Add Magic
+Estado original: REVISAR
+Recomendación: PROPUESTA_ESTRUCTURA_DOMINANTE
+Confianza: ALTA_PARA_REVISION
+Motivo: El candidato lidera por estructura: 2 temporadas exactas, 0 parciales y 1 incompatibles. Ventaja de puntuación: 37 puntos. La selección todavía requiere revisión.
+Propuesta: Just Add Magic (TMDB 62904)
+Candidatos ordenados:
+  - Just Add Magic (62904) | puntos=21 | exactas=2 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=true
+  - Just Add Magic: Mystery City (98078) | puntos=-16 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=2 | título exacto=false
+
+--------------------------------------------
+Serie: Gimbap y Onigiri
+Estado original: REVISAR
+Recomendación: SIN_CANDIDATOS
+Confianza: BAJA
+Motivo: No hay candidatos en el informe original. Esta segunda pasada no realiza búsquedas nuevas.
+
+--------------------------------------------
+Serie: La Casa de Papel: De Tokio a Berlín
+Estado original: REVISAR
+Recomendación: PROPUESTA_CANDIDATO_UNICO
+Confianza: BAJA
+Motivo: Solo hay un candidato disponible y presenta evidencia de título o estructura. Requiere confirmación manual.
+Propuesta: Money Heist: From Tokyo to Berlin (TMDB 132719)
+Candidatos ordenados:
+  - Money Heist: From Tokyo to Berlin (132719) | puntos=1 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=true
+
+--------------------------------------------
+Serie: Mi Ídolo
+Estado original: AMBIGUO
+Recomendación: AMBIGUO_CONSERVADO
+Confianza: BAJA
+Motivo: Los candidatos no tienen una ventaja suficientemente sólida. Se conserva la revisión manual.
+Candidatos ordenados:
+  - Idol I (285278) | puntos=13 | exactas=1 | parciales=0 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - My Bias, My Boss (296140) | puntos=10 | exactas=1 | parciales=0 | incompatibles=0 | no encontradas=0 | título exacto=false
+
+--------------------------------------------
+Serie: Bloque de búsqueda
+Estado original: REVISAR
+Recomendación: PROPUESTA_CANDIDATO_UNICO
+Confianza: BAJA
+Motivo: Solo hay un candidato disponible y presenta evidencia de título o estructura. Requiere confirmación manual.
+Propuesta: Bloque de búsqueda (TMDB 102918)
+Candidatos ordenados:
+  - Bloque de búsqueda (102918) | puntos=1 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=true
+
+--------------------------------------------
+Serie: Hasta que la plata nos separe
+Estado original: AMBIGUO
+Recomendación: AMBIGUO_CONSERVADO
+Confianza: BAJA
+Motivo: Los candidatos no tienen una ventaja suficientemente sólida. Se conserva la revisión manual.
+Candidatos ordenados:
+  - Hasta que la plata nos separe (196614) | puntos=1 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=true
+  - Hasta que la plata nos separe (100087) | puntos=1 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=true
+
+--------------------------------------------
+Serie: La Playita
+Estado original: REVISAR
+Recomendación: PROPUESTA_CANDIDATO_UNICO
+Confianza: BAJA
+Motivo: Solo hay un candidato disponible y presenta evidencia de título o estructura. Requiere confirmación manual.
+Propuesta: La Playita (TMDB 136226)
+Candidatos ordenados:
+  - La Playita (136226) | puntos=1 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=true
+
+--------------------------------------------
+Serie: Madre Luna
+Estado original: REVISAR
+Recomendación: PROPUESTA_CANDIDATO_UNICO
+Confianza: BAJA
+Motivo: Solo hay un candidato disponible y presenta evidencia de título o estructura. Requiere confirmación manual.
+Propuesta: Madre Luna (TMDB 5170)
+Candidatos ordenados:
+  - Madre Luna (5170) | puntos=1 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=true
+
+--------------------------------------------
+Serie: Ojo por Ojo
+Estado original: REVISAR
+Recomendación: AMBIGUO_CONSERVADO
+Confianza: BAJA
+Motivo: Los candidatos no tienen una ventaja suficientemente sólida. Se conserva la revisión manual.
+Candidatos ordenados:
+  - Ojo por Ojo (135967) | puntos=1 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=true
+  - Ull per ull (33431) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+
+--------------------------------------------
+Serie: Rafael Orozco - El Idolo
+Estado original: REVISAR
+Recomendación: PROPUESTA_CANDIDATO_UNICO
+Confianza: BAJA
+Motivo: Solo hay un candidato disponible y presenta evidencia de título o estructura. Requiere confirmación manual.
+Propuesta: Rafael Orozco - El Idolo (TMDB 87944)
+Candidatos ordenados:
+  - Rafael Orozco - El Idolo (87944) | puntos=1 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=true
+
+--------------------------------------------
+Serie: American Dad: Un Agente de Familia
+Estado original: REVISAR
+Recomendación: PROPUESTA_CANDIDATO_UNICO
+Confianza: ALTA_PARA_REVISION
+Motivo: Solo hay un candidato disponible y presenta evidencia de título o estructura. Requiere confirmación manual.
+Propuesta: American Dad! (TMDB 1433)
+Candidatos ordenados:
+  - American Dad! (1433) | puntos=178 | exactas=18 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+
+--------------------------------------------
+Serie: Tía Alison
+Estado original: REVISAR
+Recomendación: PROPUESTA_CANDIDATO_UNICO
+Confianza: BAJA
+Motivo: Solo hay un candidato disponible y presenta evidencia de título o estructura. Requiere confirmación manual.
+Propuesta: Tía Alison (TMDB 231455)
+Candidatos ordenados:
+  - Tía Alison (231455) | puntos=1 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=true
+
+--------------------------------------------
+Serie: Acorralados
+Estado original: REVISAR
+Recomendación: SIN_CANDIDATOS
+Confianza: BAJA
+Motivo: No hay candidatos en el informe original. Esta segunda pasada no realiza búsquedas nuevas.
+
+--------------------------------------------
+Serie: Aguas profundas
+Estado original: AMBIGUO
+Recomendación: AMBIGUO_CONSERVADO
+Confianza: BAJA
+Motivo: Los candidatos no tienen una ventaja suficientemente sólida. Se conserva la revisión manual.
+Candidatos ordenados:
+  - Surface (3486) | puntos=8 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - Jeremy Wade's Dark Waters (88386) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+
+--------------------------------------------
+Serie: Amor y riqueza (2025)
+Estado original: AMBIGUO
+Recomendación: AMBIGUO_CONSERVADO
+Confianza: BAJA
+Motivo: Los candidatos no tienen una ventaja suficientemente sólida. Se conserva la revisión manual.
+Candidatos ordenados:
+  - 2025爱奇艺尖叫之夜 (307664) | puntos=8 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - 斑马百科2025 (278708) | puntos=8 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - Game for Peace (282796) | puntos=8 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - 2025 (323537) | puntos=8 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - La Hija Del Mariachi (292233) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - Tencent Video All Star Night 2025 (308871) | puntos=1 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=true
+  - Our Little Trip - Joetsu 2025 (284462) | puntos=1 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=true
+  - 絶メシロード2025 (309379) | puntos=1 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=true
+  - WWE Evolution (2025) (309562) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+  - The Dark Money Game (288377) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+  - Comic Relief: Red Nose Day 2025 (287064) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+  - Stardom Spring Vacation 2025 ~Hi Hi! Okinawa~ (291769) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+
+--------------------------------------------
+Serie: Arnold
+Estado original: AMBIGUO
+Recomendación: AMBIGUO_CONSERVADO
+Confianza: BAJA
+Motivo: Los candidatos no tienen una ventaja suficientemente sólida. Se conserva la revisión manual.
+Candidatos ordenados:
+  - Diff'rent Strokes (2410) | puntos=8 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - Hey Arnold! (537) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - Arnoldos Ristorantino (112132) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - Arnold (226135) | puntos=1 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=true
+  - ARNOLD&PUPPETS (259869) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+  - Icons Unearthed: Arnold Schwarzenegger (331540) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+  - The Hunt for the Trump Tapes With Tom Arnold (81715) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+  - Jack Arnold erzählt (90467) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+
+--------------------------------------------
+Serie: Atentado en Londres: La cacería tras las bombas del 7/7
+Estado original: AMBIGUO
+Recomendación: AMBIGUO_CONSERVADO
+Confianza: BAJA
+Motivo: Los candidatos no tienen una ventaja suficientemente sólida. Se conserva la revisión manual.
+Candidatos ordenados:
+  - Platform 7 (237232) | puntos=13 | exactas=1 | parciales=0 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - Attack on London: Hunting the 7/7 Bombers (262277) | puntos=13 | exactas=1 | parciales=0 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - Eureka Seven (889) | puntos=8 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - 7 vidas (111) | puntos=8 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - Blake's 7 (1731) | puntos=8 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - Macross 7 (21735) | puntos=8 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - Seven Detectives (84574) | puntos=8 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - Trinity Seven (61460) | puntos=8 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - 7 Project (132280) | puntos=8 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - Koi Koi Seven (44567) | puntos=8 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - 7 Stars Family (93692) | puntos=8 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - 7th Heaven (4550) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - Scissor Seven (79141) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - 7 Days (31160) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - 7 Tage, 7 Köpfe (6447) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+
+--------------------------------------------
+Serie: Blockbuster
+Estado original: AMBIGUO
+Recomendación: AMBIGUO_CONSERVADO
+Confianza: BAJA
+Motivo: Los candidatos no tienen una ventaja suficientemente sólida. Se conserva la revisión manual.
+Candidatos ordenados:
+  - Blockbuster (201874) | puntos=13 | exactas=1 | parciales=0 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - Blockbusters (94481) | puntos=10 | exactas=1 | parciales=0 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - LEGO Masters Korea (201002) | puntos=10 | exactas=1 | parciales=0 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - Blockbusters (5151) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - All New Blockbusters (43646) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - The Blockbusters (275975) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - Blockbusters (4192) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+  - Blockbusters (22414) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+
+--------------------------------------------
+Serie: Carmen Sandiego
+Estado original: AMBIGUO
+Recomendación: PROPUESTA_ESTRUCTURA_DOMINANTE
+Confianza: ALTA_PARA_REVISION
+Motivo: El candidato lidera por estructura: 2 temporadas exactas, 1 parciales y 0 incompatibles. Ventaja de puntuación: 13 puntos. La selección todavía requiere revisión.
+Propuesta: Carmen Sandiego (TMDB 74728)
+Candidatos ordenados:
+  - Carmen Sandiego (74728) | puntos=28 | exactas=2 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - Where on Earth Is Carmen Sandiego? (3945) | puntos=15 | exactas=0 | parciales=3 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - Where in the World Is Carmen Sandiego? (965) | puntos=15 | exactas=0 | parciales=3 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - Where in Time Is Carmen Sandiego? (4091) | puntos=3 | exactas=0 | parciales=2 | incompatibles=0 | no encontradas=1 | título exacto=false
+  - Mais où se cache Carmen Sandiego ? (98875) | puntos=-6 | exactas=0 | parciales=0 | incompatibles=3 | no encontradas=0 | título exacto=false
+  - Where in the World Is Carmen Sandiego? (335110) | puntos=-16 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=2 | título exacto=false
+
+--------------------------------------------
+Serie: Como hacerse rico
+Estado original: REVISAR
+Recomendación: SIN_CANDIDATOS
+Confianza: BAJA
+Motivo: No hay candidatos en el informe original. Esta segunda pasada no realiza búsquedas nuevas.
+
+--------------------------------------------
+Serie: Conferencia del sureste: Sábados de fútbol americano
+Estado original: REVISAR
+Recomendación: SIN_CANDIDATOS
+Confianza: BAJA
+Motivo: No hay candidatos en el informe original. Esta segunda pasada no realiza búsquedas nuevas.
+
+--------------------------------------------
+Serie: Conversaciones con asesinos: Las cintas del Hijo de Sam
+Estado original: AMBIGUO
+Recomendación: AMBIGUO_CONSERVADO
+Confianza: BAJA
+Motivo: Los candidatos no tienen una ventaja suficientemente sólida. Se conserva la revisión manual.
+Candidatos ordenados:
+  - Conversations with a Killer: The Son of Sam Tapes (294611) | puntos=13 | exactas=1 | parciales=0 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - Conversations with a Killer: The Jeffrey Dahmer Tapes (209167) | puntos=10 | exactas=1 | parciales=0 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - Conversations with a Killer: The Charles Manson Tapes (330320) | puntos=10 | exactas=1 | parciales=0 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - Conversations with a Killer: The John Wayne Gacy Tapes (197248) | puntos=10 | exactas=1 | parciales=0 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - Conversations with a Killer: The Ted Bundy Tapes (85833) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+
+--------------------------------------------
+Serie: Daybreak
+Estado original: AMBIGUO
+Recomendación: AMBIGUO_CONSERVADO
+Confianza: BAJA
+Motivo: Los candidatos no tienen una ventaja suficientemente sólida. Se conserva la revisión manual.
+Candidatos ordenados:
+  - Daybreak (83478) | puntos=13 | exactas=1 | parciales=0 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - Daybreak (220014) | puntos=13 | exactas=1 | parciales=0 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - Day Break (4618) | puntos=8 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - Daybreak (110690) | puntos=8 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - Mars Daybreak (21997) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - Eyes of Dawn (118682) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - Before Daybreak (80417) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - Day Breaker (202253) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - Daybreak (43149) | puntos=1 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=true
+  - Daybreak (33133) | puntos=1 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=true
+
+--------------------------------------------
+Serie: mamá?
+Estado original: AMBIGUO
+Recomendación: AMBIGUO_CONSERVADO
+Confianza: BAJA
+Motivo: Los candidatos no tienen una ventaja suficientemente sólida. Se conserva la revisión manual.
+Candidatos ordenados:
+  - Mama (63530) | puntos=8 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - Mama's Family (2016) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - Teen Mom 2 (34996) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - Hi Bye, Mama! (97219) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - Mama June: Family Crisis (70284) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - Pan Mama (284776) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - Buongiorno, mamma! (124004) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - Angry Mom (62244) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - Mama (12218) | puntos=1 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=true
+  - Dear Mama (201581) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+
+--------------------------------------------
+Serie: De cita en cita: Brasil
+Estado original: AMBIGUO
+Recomendación: AMBIGUO_CONSERVADO
+Confianza: BAJA
+Motivo: Los candidatos no tienen una ventaja suficientemente sólida. Se conserva la revisión manual.
+Candidatos ordenados:
+  - Dating Around (86807) | puntos=13 | exactas=1 | parciales=0 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - Dating Around: Brazil (105846) | puntos=13 | exactas=1 | parciales=0 | incompatibles=0 | no encontradas=0 | título exacto=true
+
+--------------------------------------------
+Serie: Nuevo Pobre
+Estado original: AMBIGUO
+Recomendación: AMBIGUO_CONSERVADO
+Confianza: BAJA
+Motivo: Los candidatos no tienen una ventaja suficientemente sólida. Se conserva la revisión manual.
+Candidatos ordenados:
+  - Nuevo Rico Nuevo Pobre (7311) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - Newly Rich, Newly Poor (283917) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+
+--------------------------------------------
+Serie: El precio de una confesión
+Estado original: REVISAR
+Recomendación: CANDIDATO_UNICO_PARA_REVISAR
+Confianza: BAJA
+Motivo: Solo hay un candidato, pero la evidencia disponible no permite recomendarlo con suficiente seguridad.
+Propuesta: The Price of Confession (TMDB 209110)
+Candidatos ordenados:
+  - The Price of Confession (209110) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+
+--------------------------------------------
+Serie: el mundo oscuro de sabrina
+Estado original: REVISAR
+Recomendación: SIN_CANDIDATOS
+Confianza: BAJA
+Motivo: No hay candidatos en el informe original. Esta segunda pasada no realiza búsquedas nuevas.
+
+--------------------------------------------
+Serie: El show de Vince Staples
+Estado original: REVISAR
+Recomendación: CANDIDATO_UNICO_PARA_REVISAR
+Confianza: BAJA
+Motivo: Solo hay un candidato, pero la evidencia disponible no permite recomendarlo con suficiente seguridad.
+Propuesta: The Vince Staples Show (TMDB 243861)
+Candidatos ordenados:
+  - The Vince Staples Show (243861) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+
+--------------------------------------------
+Serie: 4Ever
+Estado original: AMBIGUO
+Recomendación: AMBIGUO_CONSERVADO
+Confianza: BAJA
+Motivo: Los candidatos no tienen una ventaja suficientemente sólida. Se conserva la revisión manual.
+Candidatos ordenados:
+  - 4Ever (156929) | puntos=13 | exactas=1 | parciales=0 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - BTS Japan Official Fanmeeting Vol.4 ~Happy Ever After~ (256008) | puntos=10 | exactas=1 | parciales=0 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - 4eVeR (82849) | puntos=8 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - Sally4Ever (83657) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - Brorsor 4ever (95440) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - Rungsted 4ever (100828) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - Unlockdown (203137) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+
+--------------------------------------------
+Serie: Adultos
+Estado original: AMBIGUO
+Recomendación: PROPUESTA_ESTRUCTURA_DOMINANTE
+Confianza: ALTA_PARA_REVISION
+Motivo: El candidato lidera por estructura: 1 temporadas exactas, 1 parciales y 0 incompatibles. Ventaja de puntuación: 8 puntos. La selección todavía requiere revisión.
+Propuesta: Adults (TMDB 260458)
+Candidatos ordenados:
+  - Adults (260458) | puntos=18 | exactas=1 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - Party of Five (4266) | puntos=10 | exactas=0 | parciales=2 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - Otona nya Koi no Shikata ga Wakaranee! (107840) | puntos=3 | exactas=1 | parciales=0 | incompatibles=0 | no encontradas=1 | título exacto=false
+  - Nineteen to Twenty (218475) | puntos=-2 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=1 | título exacto=false
+  - Risqué Business: Japan (224229) | puntos=-9 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=1 | título exacto=false
+  - Risqué Business: The Netherlands and Germany (244890) | puntos=-9 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=1 | título exacto=false
+  - The Lying Life of Adults (103416) | puntos=-9 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=1 | título exacto=false
+  - Ren & Stimpy Adult Party Cartoon (71708) | puntos=-9 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=1 | título exacto=false
+
+--------------------------------------------
+Serie: Alien: Earth
+Estado original: AMBIGUO
+Recomendación: AMBIGUO_CONSERVADO
+Confianza: BAJA
+Motivo: Los candidatos no tienen una ventaja suficientemente sólida. Se conserva la revisión manual.
+Candidatos ordenados:
+  - Alien: Earth (157239) | puntos=13 | exactas=1 | parciales=0 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - Invasion Earth (102165) | puntos=10 | exactas=1 | parciales=0 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - Alien Earths (47153) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+  - Alien Planet Earths (75121) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+
+--------------------------------------------
+Serie: Far from Home
+Estado original: AMBIGUO
+Recomendación: AMBIGUO_CONSERVADO
+Confianza: BAJA
+Motivo: Los candidatos no tienen una ventaja suficientemente sólida. Se conserva la revisión manual.
+Candidatos ordenados:
+  - Far from Home (215874) | puntos=13 | exactas=1 | parciales=0 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - Not Far From Home (293621) | puntos=10 | exactas=1 | parciales=0 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - Far Away from Home (213812) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+
+--------------------------------------------
+Serie: Hombre vs. Abeja
+Estado original: REVISAR
+Recomendación: CANDIDATO_UNICO_PARA_REVISAR
+Confianza: BAJA
+Motivo: Solo hay un candidato, pero la evidencia disponible no permite recomendarlo con suficiente seguridad.
+Propuesta: Man vs Bee (TMDB 197588)
+Candidatos ordenados:
+  - Man vs Bee (197588) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+
+--------------------------------------------
+Serie: Kaos
+Estado original: AMBIGUO
+Recomendación: AMBIGUO_CONSERVADO
+Confianza: BAJA
+Motivo: Los candidatos no tienen una ventaja suficientemente sólida. Se conserva la revisión manual.
+Candidatos ordenados:
+  - KAOS (102621) | puntos=13 | exactas=1 | parciales=0 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - Chaos (260232) | puntos=13 | exactas=1 | parciales=0 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - Fauda (69557) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - The Graft (300926) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - Hayrettin ile Kaos Show (293413) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - Tozkoparan İskender: Kaos (311281) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - Kaos (314330) | puntos=1 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=true
+  - KAOS i Koncerthuset (282962) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+
+--------------------------------------------
+Serie: Insiders
+Estado original: AMBIGUO
+Recomendación: AMBIGUO_CONSERVADO
+Confianza: BAJA
+Motivo: Los candidatos no tienen una ventaja suficientemente sólida. Se conserva la revisión manual.
+Candidatos ordenados:
+  - Insiders (134365) | puntos=13 | exactas=1 | parciales=0 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - The Insider's Guide To Love (1632) | puntos=10 | exactas=1 | parciales=0 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - The Insiders (8960) | puntos=8 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - Insiders Project (112000) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - The Insider's Guide To Happiness (15599) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - Insiders (337148) | puntos=1 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=true
+  - Fearless: The Inside Story of the AFLW (202210) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+  - The Insiders (34829) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+  - Insiders (11818) | puntos=-4 | exactas=0 | parciales=0 | incompatibles=0 | no encontradas=1 | título exacto=true
+
+--------------------------------------------
+Serie: Kitz
+Estado original: AMBIGUO
+Recomendación: AMBIGUO_CONSERVADO
+Confianza: BAJA
+Motivo: Los candidatos no tienen una ventaja suficientemente sólida. Se conserva la revisión manual.
+Candidatos ordenados:
+  - Kitz (139799) | puntos=13 | exactas=1 | parciales=0 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - Murder in the Mountains (41451) | puntos=10 | exactas=1 | parciales=0 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - The Wonderful Stories of Professor Kitzel (37313) | puntos=-7 | exactas=0 | parciales=0 | incompatibles=0 | no encontradas=1 | título exacto=false
+
+--------------------------------------------
+Serie: El sabor del destino
+Estado original: REVISAR
+Recomendación: CANDIDATO_UNICO_PARA_REVISAR
+Confianza: BAJA
+Motivo: Solo hay un candidato, pero la evidencia disponible no permite recomendarlo con suficiente seguridad.
+Propuesta: Delicacies Destiny (TMDB 197107)
+Candidatos ordenados:
+  - Delicacies Destiny (197107) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+
+--------------------------------------------
+Serie: Entre paredes
+Estado original: AMBIGUO
+Recomendación: AMBIGUO_CONSERVADO
+Confianza: BAJA
+Motivo: Los candidatos no tienen una ventaja suficientemente sólida. Se conserva la revisión manual.
+Candidatos ordenados:
+  - Between Walls (283085) | puntos=13 | exactas=1 | parciales=0 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - Entre quatre parets (271405) | puntos=10 | exactas=1 | parciales=0 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - A Fist Within Four Walls (67742) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+
+--------------------------------------------
+Serie: Anatomía según Grey
+Estado original: REVISAR
+Recomendación: PROPUESTA_CANDIDATO_UNICO
+Confianza: ALTA_PARA_REVISION
+Motivo: Solo hay un candidato disponible y presenta evidencia de título o estructura. Requiere confirmación manual.
+Propuesta: Grey's Anatomy (TMDB 1416)
+Candidatos ordenados:
+  - Grey's Anatomy (1416) | puntos=155 | exactas=16 | parciales=1 | incompatibles=5 | no encontradas=0 | título exacto=false
+
+--------------------------------------------
+Serie: La noche más larga
+Estado original: AMBIGUO
+Recomendación: AMBIGUO_CONSERVADO
+Confianza: BAJA
+Motivo: Los candidatos no tienen una ventaja suficientemente sólida. Se conserva la revisión manual.
+Candidatos ordenados:
+  - The Longest Night (201331) | puntos=13 | exactas=1 | parciales=0 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - Such a long night (154095) | puntos=13 | exactas=1 | parciales=0 | incompatibles=0 | no encontradas=0 | título exacto=true
+
+--------------------------------------------
+Serie: Maniac
+Estado original: AMBIGUO
+Recomendación: AMBIGUO_CONSERVADO
+Confianza: BAJA
+Motivo: Los candidatos no tienen una ventaja suficientemente sólida. Se conserva la revisión manual.
+Candidatos ordenados:
+  - Maniac (73411) | puntos=13 | exactas=1 | parciales=0 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - Maniac (65918) | puntos=13 | exactas=1 | parciales=0 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - You Maniac (306630) | puntos=10 | exactas=1 | parciales=0 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - Junji Ito Maniac: Japanese Tales of the Macabre (203704) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - Maniac Mansion (316) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - Monster Loving Maniacs (220687) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - Ultra Maniac (38061) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - Comic Book Men (42004) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+
+--------------------------------------------
+Serie: Una chica superfuerte
+Estado original: AMBIGUO
+Recomendación: AMBIGUO_CONSERVADO
+Confianza: BAJA
+Motivo: Los candidatos no tienen una ventaja suficientemente sólida. Se conserva la revisión manual.
+Candidatos ordenados:
+  - Strong Girl Bong-soon (68814) | puntos=10 | exactas=1 | parciales=0 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - Strong Girl Nam-soon (203164) | puntos=10 | exactas=1 | parciales=0 | incompatibles=0 | no encontradas=0 | título exacto=false
+
+--------------------------------------------
+Serie: nunca
+Estado original: AMBIGUO
+Recomendación: AMBIGUO_CONSERVADO
+Confianza: BAJA
+Motivo: Los candidatos no tienen una ventaja suficientemente sólida. Se conserva la revisión manual.
+Candidatos ordenados:
+  - Jake and the Never Land Pirates (34891) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - Never Have I Ever (100883) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - Parker Lewis Can't Lose (3089) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - Make It or Break It (17518) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - Nunca Digas Adeus (220984) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - Unforgettable (59302) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - Never Twice (94940) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - It's Always Sunny in Philadelphia (2710) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+
+--------------------------------------------
+Serie: Onmyōji
+Estado original: AMBIGUO
+Recomendación: AMBIGUO_CONSERVADO
+Confianza: BAJA
+Motivo: Los candidatos no tienen una ventaja suficientemente sólida. Se conserva la revisión manual.
+Candidatos ordenados:
+  - Onmyoji (210946) | puntos=13 | exactas=1 | parciales=0 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - The Reincarnation of the Strongest Exorcist in Another World (156563) | puntos=10 | exactas=1 | parciales=0 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - Twin Star Exorcists (66078) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - Shonen Onmyouji (80672) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - Ghost Kindergarten (131111) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+  - Onmyoji Abe no Seimei (128689) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+  - Onmyoji Abe no Seimei (35860) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+
+--------------------------------------------
+Serie: Pandemia
+Estado original: AMBIGUO
+Recomendación: AMBIGUO_CONSERVADO
+Confianza: BAJA
+Motivo: Los candidatos no tienen una ventaja suficientemente sólida. Se conserva la revisión manual.
+Candidatos ordenados:
+  - Pandemic: How to Prevent an Outbreak (96557) | puntos=13 | exactas=1 | parciales=0 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - 90 Day Diaries (114659) | puntos=10 | exactas=1 | parciales=0 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - Pandemic (41322) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+  - The Pandemic Prophet (334465) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+  - Lo Que Salió - De la pandemia al Movistar Arena (285410) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+  - Ang Pokpok ng Pandemia (227481) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+  - Say Yes To The Dress: In Sickness And In Health (119158) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+  - Obesidad infantil. La pandemia ignorada (292345) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+
+--------------------------------------------
+Serie: People Like Me
+Estado original: AMBIGUO
+Recomendación: AMBIGUO_CONSERVADO
+Confianza: BAJA
+Motivo: Los candidatos no tienen una ventaja suficientemente sólida. Se conserva la revisión manual.
+Candidatos ordenados:
+  - People Like Me (291159) | puntos=13 | exactas=1 | parciales=0 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - People Like Me (291912) | puntos=13 | exactas=1 | parciales=0 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - Youths in the Breeze (202836) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+
+--------------------------------------------
+Serie: Patrulla de animadoras rebeldes
+Estado original: REVISAR
+Recomendación: SIN_CANDIDATOS
+Confianza: BAJA
+Motivo: No hay candidatos en el informe original. Esta segunda pasada no realiza búsquedas nuevas.
+
+--------------------------------------------
+Serie: Para bien (o para mal)
+Estado original: AMBIGUO
+Recomendación: AMBIGUO_CONSERVADO
+Confianza: BAJA
+Motivo: Los candidatos no tienen una ventaja suficientemente sólida. Se conserva la revisión manual.
+Candidatos ordenados:
+  - (Un)Well (106530) | puntos=13 | exactas=1 | parciales=0 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - Attraction (223495) | puntos=10 | exactas=1 | parciales=0 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - Feel Good To Die (83435) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - Headspace Guide to Sleep (121628) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+
+--------------------------------------------
+Serie: Pose
+Estado original: AMBIGUO
+Recomendación: PROPUESTA_ESTRUCTURA_DOMINANTE
+Confianza: ALTA_PARA_REVISION
+Motivo: El candidato lidera por estructura: 2 temporadas exactas, 1 parciales y 0 incompatibles. Ventaja de puntuación: 13 puntos. La selección todavía requiere revisión.
+Propuesta: POSE (TMDB 79084)
+Candidatos ordenados:
+  - POSE (79084) | puntos=28 | exactas=2 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - Law & Order: Special Victims Unit (2734) | puntos=15 | exactas=0 | parciales=3 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - Ghost Whisperer (1606) | puntos=15 | exactas=0 | parciales=3 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - Die Höhle der Löwen (64830) | puntos=15 | exactas=0 | parciales=3 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - Taken (68006) | puntos=3 | exactas=0 | parciales=2 | incompatibles=0 | no encontradas=1 | título exacto=false
+  - Furious (287238) | puntos=-4 | exactas=1 | parciales=0 | incompatibles=0 | no encontradas=2 | título exacto=false
+  - Task (228305) | puntos=-11 | exactas=0 | parciales=0 | incompatibles=2 | no encontradas=1 | título exacto=false
+  - Obsession (223313) | puntos=-16 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=2 | título exacto=false
+
+--------------------------------------------
+Serie: The Last Drive-in: The Walking Dead - The Ones Who Live
+Estado original: REVISAR
+Recomendación: AMBIGUO_CONSERVADO
+Confianza: BAJA
+Motivo: Los candidatos no tienen una ventaja suficientemente sólida. Se conserva la revisión manual.
+Candidatos ordenados:
+  - The Last Drive-in: The Walking Dead - The Ones Who Live (257681) | puntos=1 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=true
+  - The Last Drive-in: The Walking Dead (225863) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+  - The Last Drive-in: The Walking Dead - Dead City (257679) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+  - The Last Drive-In with Joe Bob Briggs: The Walking Dead - Daryl Dixon (247652) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+
+--------------------------------------------
+Serie: Rompan todo: La historia del rock en América Latina
+Estado original: REVISAR
+Recomendación: SIN_CANDIDATOS
+Confianza: BAJA
+Motivo: No hay candidatos en el informe original. Esta segunda pasada no realiza búsquedas nuevas.
+
+--------------------------------------------
+Serie: Rebelde
+Estado original: AMBIGUO
+Recomendación: AMBIGUO_CONSERVADO
+Confianza: BAJA
+Motivo: Los candidatos no tienen una ventaja suficientemente sólida. Se conserva la revisión manual.
+Candidatos ordenados:
+  - Rebelde (12637) | puntos=18 | exactas=1 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - Rebel Rio (46154) | puntos=13 | exactas=0 | parciales=2 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - Rebelde (134949) | puntos=11 | exactas=1 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=true
+  - Rebelde Way (158866) | puntos=10 | exactas=0 | parciales=2 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - Rebelde Way (9027) | puntos=3 | exactas=0 | parciales=1 | incompatibles=1 | no encontradas=0 | título exacto=false
+  - The Boroughs (224941) | puntos=-9 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=1 | título exacto=false
+  - Rosa Rebelde (227823) | puntos=-9 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=1 | título exacto=false
+  - Seoul Busters (239005) | puntos=-9 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=1 | título exacto=false
+  - Trapp Family Story (43938) | puntos=-9 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=1 | título exacto=false
+
+--------------------------------------------
+Serie: Scissor Seven
+Estado original: REVISAR
+Recomendación: PROPUESTA_CANDIDATO_UNICO
+Confianza: ALTA_PARA_REVISION
+Motivo: Solo hay un candidato disponible y presenta evidencia de título o estructura. Requiere confirmación manual.
+Propuesta: Scissor Seven (TMDB 79141)
+Candidatos ordenados:
+  - Scissor Seven (79141) | puntos=41 | exactas=4 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=true
+
+--------------------------------------------
+Serie: Sesame Street
+Estado original: AMBIGUO
+Recomendación: AMBIGUO_CONSERVADO
+Confianza: BAJA
+Motivo: Los candidatos no tienen una ventaja suficientemente sólida. Se conserva la revisión manual.
+Candidatos ordenados:
+  - Sesame Street (502) | puntos=13 | exactas=0 | parciales=2 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - Sesame Street (9099) | puntos=13 | exactas=0 | parciales=2 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - Sesame Street: Play with Me Sesame (10480) | puntos=10 | exactas=0 | parciales=2 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - My Sesame Street Friends (127305) | puntos=10 | exactas=0 | parciales=2 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - Sesame Street (11956) | puntos=1 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=1 | título exacto=true
+  - Mecha Builders (194703) | puntos=-2 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=1 | título exacto=false
+  - Sesame Street: Bert and Ernie's Great Adventures (243126) | puntos=-2 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=1 | título exacto=false
+  - Shadows Over Sesame Street (281314) | puntos=-4 | exactas=0 | parciales=0 | incompatibles=2 | no encontradas=0 | título exacto=false
+  - Sesame Street: Elmo's World (30577) | puntos=-14 | exactas=0 | parciales=0 | incompatibles=0 | no encontradas=2 | título exacto=false
+
+--------------------------------------------
+Serie: Sin filtro
+Estado original: AMBIGUO
+Recomendación: AMBIGUO_CONSERVADO
+Confianza: BAJA
+Motivo: Los candidatos no tienen una ventaja suficientemente sólida. Se conserva la revisión manual.
+Candidatos ordenados:
+  - #NoFilter (219067) | puntos=13 | exactas=1 | parciales=0 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - Shrinking (136311) | puntos=10 | exactas=1 | parciales=0 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - O Mundo [Sem Filtro] de Any Malu (315187) | puntos=10 | exactas=1 | parciales=0 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - La Trevi sin filtro (303793) | puntos=10 | exactas=1 | parciales=0 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - Good Luck Guys: Survival Without Filter (235539) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+  - Ninel Conde sin filtro (332279) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+  - La vida sin filtros (230051) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+  - Calle y Poché: No Labels (228966) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+
+--------------------------------------------
+Serie: Solo una mirada
+Estado original: AMBIGUO
+Recomendación: AMBIGUO_CONSERVADO
+Confianza: BAJA
+Motivo: Los candidatos no tienen una ventaja suficientemente sólida. Se conserva la revisión manual.
+Candidatos ordenados:
+  - Just One Look (283484) | puntos=13 | exactas=1 | parciales=0 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - Just One Look (72013) | puntos=13 | exactas=1 | parciales=0 | incompatibles=0 | no encontradas=0 | título exacto=true
+
+--------------------------------------------
+Serie: Simon Cowell: The Next Act
+Estado original: REVISAR
+Recomendación: PROPUESTA_CANDIDATO_UNICO
+Confianza: BAJA
+Motivo: Solo hay un candidato disponible y presenta evidencia de título o estructura. Requiere confirmación manual.
+Propuesta: Simon Cowell: The Next Act (TMDB 299713)
+Candidatos ordenados:
+  - Simon Cowell: The Next Act (299713) | puntos=1 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=true
+
+--------------------------------------------
+Serie: The Days
+Estado original: AMBIGUO
+Recomendación: AMBIGUO_CONSERVADO
+Confianza: BAJA
+Motivo: Los candidatos no tienen una ventaja suficientemente sólida. Se conserva la revisión manual.
+Candidatos ordenados:
+  - THE DAYS (216228) | puntos=13 | exactas=1 | parciales=0 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - Around the World in 80 Days (96228) | puntos=10 | exactas=1 | parciales=0 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - The Days and Nights of Molly Dodd (524) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - Days That Shook the World (1298) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - 365 Days to the Wedding (230189) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - The Good Old Days (111286) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - The Days (10164) | puntos=1 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=true
+  - The Last Days of Ptolemy Grey (155493) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+  - Around the World in 80 Days (20580) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+
+--------------------------------------------
+Serie: Trabajo Incógnito
+Estado original: REVISAR
+Recomendación: CANDIDATO_UNICO_PARA_REVISAR
+Confianza: BAJA
+Motivo: Solo hay un candidato, pero la evidencia disponible no permite recomendarlo con suficiente seguridad.
+Propuesta: Inside Job (TMDB 97727)
+Candidatos ordenados:
+  - Inside Job (97727) | puntos=-2 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=1 | título exacto=false
+
+--------------------------------------------
+Serie: Una nueva jugada
+Estado original: REVISAR
+Recomendación: PROPUESTA_CANDIDATO_UNICO
+Confianza: MEDIA
+Motivo: Solo hay un candidato disponible y presenta evidencia de título o estructura. Requiere confirmación manual.
+Propuesta: Running Point (TMDB 244623)
+Candidatos ordenados:
+  - Running Point (244623) | puntos=8 | exactas=1 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+
+--------------------------------------------
+Serie: Women at Warː 100 Years of Service
+Estado original: REVISAR
+Recomendación: PROPUESTA_CANDIDATO_UNICO
+Confianza: BAJA
+Motivo: Solo hay un candidato disponible y presenta evidencia de título o estructura. Requiere confirmación manual.
+Propuesta: Women at Warː 100 Years of Service (TMDB 214467)
+Candidatos ordenados:
+  - Women at Warː 100 Years of Service (214467) | puntos=1 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=true
+
+--------------------------------------------
+Serie: Zomvivor: Escuela zombi (2025)
+Estado original: AMBIGUO
+Recomendación: AMBIGUO_CONSERVADO
+Confianza: BAJA
+Motivo: Los candidatos no tienen una ventaja suficientemente sólida. Se conserva la revisión manual.
+Candidatos ordenados:
+  - 2025爱奇艺尖叫之夜 (307664) | puntos=8 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - 斑马百科2025 (278708) | puntos=8 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - Game for Peace (282796) | puntos=8 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - 2025 (323537) | puntos=8 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - La Hija Del Mariachi (292233) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - Tencent Video All Star Night 2025 (308871) | puntos=1 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=true
+  - Our Little Trip - Joetsu 2025 (284462) | puntos=1 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=true
+  - 絶メシロード2025 (309379) | puntos=1 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=true
+  - WWE Evolution (2025) (309562) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+  - The Dark Money Game (288377) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+  - Comic Relief: Red Nose Day 2025 (287064) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+  - Stardom Spring Vacation 2025 ~Hi Hi! Okinawa~ (291769) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+
+--------------------------------------------
+Serie: Amor a primera bestia
+Estado original: REVISAR
+Recomendación: CANDIDATO_UNICO_PARA_REVISAR
+Confianza: BAJA
+Motivo: Solo hay un candidato, pero la evidencia disponible no permite recomendarlo con suficiente seguridad.
+Propuesta: Sexy Beasts (TMDB 128250)
+Candidatos ordenados:
+  - Sexy Beasts (128250) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+
+--------------------------------------------
+Serie: mi amor
+Estado original: AMBIGUO
+Recomendación: AMBIGUO_CONSERVADO
+Confianza: BAJA
+Motivo: Los candidatos no tienen una ventaja suficientemente sólida. Se conserva la revisión manual.
+Candidatos ordenados:
+  - Go Go Squid 2: Dt.Appledog's Time (116133) | puntos=8 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - I Dream of Jeannie (1660) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - My Siblings (119267) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - My Love Story with Yamada-kun at Lv999 (208067) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - My Dearest (206693) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - KinnPorsche: The Series (117067) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - My Love Story!! (62565) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - Love for Rent (63549) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - My Love from the Star (60957) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+
+--------------------------------------------
+Serie: Dona Beja
+Estado original: AMBIGUO
+Recomendación: AMBIGUO_CONSERVADO
+Confianza: BAJA
+Motivo: Los candidatos no tienen una ventaja suficientemente sólida. Se conserva la revisión manual.
+Candidatos ordenados:
+  - Madam Beja (152401) | puntos=8 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - Dona Beija (67984) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+
+--------------------------------------------
+Serie: BKN
+Estado original: REVISAR
+Recomendación: PROPUESTA_CANDIDATO_UNICO
+Confianza: MEDIA
+Motivo: Solo hay un candidato disponible y presenta evidencia de título o estructura. Requiere confirmación manual.
+Propuesta: BKN (TMDB 106200)
+Candidatos ordenados:
+  - BKN (106200) | puntos=56 | exactas=1 | parciales=9 | incompatibles=1 | no encontradas=0 | título exacto=true
+
+--------------------------------------------
+Serie: Cerro Alegre
+Estado original: REVISAR
+Recomendación: PROPUESTA_CANDIDATO_UNICO
+Confianza: BAJA
+Motivo: Solo hay un candidato disponible y presenta evidencia de título o estructura. Requiere confirmación manual.
+Propuesta: Cerro Alegre (TMDB 97517)
+Candidatos ordenados:
+  - Cerro Alegre (97517) | puntos=1 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=true
+
+--------------------------------------------
+Serie: Conde Vrolok
+Estado original: REVISAR
+Recomendación: PROPUESTA_CANDIDATO_UNICO
+Confianza: BAJA
+Motivo: Solo hay un candidato disponible y presenta evidencia de título o estructura. Requiere confirmación manual.
+Propuesta: Conde Vrolok (TMDB 107033)
+Candidatos ordenados:
+  - Conde Vrolok (107033) | puntos=1 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=true
+
+--------------------------------------------
+Serie: Dime quién fue
+Estado original: REVISAR
+Recomendación: PROPUESTA_CANDIDATO_UNICO
+Confianza: BAJA
+Motivo: Solo hay un candidato disponible y presenta evidencia de título o estructura. Requiere confirmación manual.
+Propuesta: Dime quién fue (TMDB 95832)
+Candidatos ordenados:
+  - Dime quién fue (95832) | puntos=1 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=true
+
+--------------------------------------------
+Serie: El mundo del Profesor Rossa
+Estado original: REVISAR
+Recomendación: PROPUESTA_CANDIDATO_UNICO
+Confianza: BAJA
+Motivo: Solo hay un candidato disponible y presenta evidencia de título o estructura. Requiere confirmación manual.
+Propuesta: El mundo del Profesor Rossa (TMDB 7696)
+Candidatos ordenados:
+  - El mundo del Profesor Rossa (7696) | puntos=1 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=true
+
+--------------------------------------------
+Serie: ¿Es pastel_ San Valentín (2026)
+Estado original: AMBIGUO
+Recomendación: AMBIGUO_CONSERVADO
+Confianza: BAJA
+Motivo: Los candidatos no tienen una ventaja suficientemente sólida. Se conserva la revisión manual.
+Candidatos ordenados:
+  - 2026 (327781) | puntos=13 | exactas=1 | parciales=0 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - Singer 2026 • Malaysia (322628) | puntos=13 | exactas=1 | parciales=0 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - 说唱巅峰对决2026 (326694) | puntos=8 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - Make It Right 2026 (327403) | puntos=8 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - Singer 2026 Malaysia (322193) | puntos=8 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - 斑马百科2026 (313415) | puntos=8 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - 2026环西自行车赛 (332515) | puntos=8 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - GTO (2026) (325022) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - Magic Knight Rayearth (303272) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - 乘风破浪的姐姐 第七季 (317948) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - School Friends Class of 2026 (312794) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - Twenty One Pilots: Festivals 2026 Series (328968) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - TRNSMT 2026 (326234) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+
+--------------------------------------------
+Serie: Los Venegas
+Estado original: REVISAR
+Recomendación: PROPUESTA_CANDIDATO_UNICO
+Confianza: BAJA
+Motivo: Solo hay un candidato disponible y presenta evidencia de título o estructura. Requiere confirmación manual.
+Propuesta: Los Venegas (TMDB 298329)
+Candidatos ordenados:
+  - Los Venegas (298329) | puntos=1 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=true
+
+--------------------------------------------
+Serie: Machos
+Estado original: REVISAR
+Recomendación: AMBIGUO_CONSERVADO
+Confianza: BAJA
+Motivo: Los candidatos no tienen una ventaja suficientemente sólida. Se conserva la revisión manual.
+Candidatos ordenados:
+  - Machos (76649) | puntos=1 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=true
+  - Alpha Males (215092) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+  - Real Men (255650) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+  - The King of the Machos (208533) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+
+--------------------------------------------
+Serie: Perla Tan Real Como Tu
+Estado original: REVISAR
+Recomendación: PROPUESTA_CANDIDATO_UNICO
+Confianza: BAJA
+Motivo: Solo hay un candidato disponible y presenta evidencia de título o estructura. Requiere confirmación manual.
+Propuesta: Perla Tan Real Como Tu (TMDB 291523)
+Candidatos ordenados:
+  - Perla Tan Real Como Tu (291523) | puntos=1 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=true
+
+--------------------------------------------
+Serie: Playa salvaje
+Estado original: REVISAR
+Recomendación: PROPUESTA_CANDIDATO_UNICO
+Confianza: BAJA
+Motivo: Solo hay un candidato disponible y presenta evidencia de título o estructura. Requiere confirmación manual.
+Propuesta: Playa salvaje (TMDB 32774)
+Candidatos ordenados:
+  - Playa salvaje (32774) | puntos=1 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=true
+
+--------------------------------------------
+Serie: Pobre novio
+Estado original: AMBIGUO
+Recomendación: AMBIGUO_CONSERVADO
+Confianza: BAJA
+Motivo: Los candidatos no tienen una ventaja suficientemente sólida. Se conserva la revisión manual.
+Candidatos ordenados:
+  - Pobre novio (130731) | puntos=8 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - Pobre Novio (278656) | puntos=8 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=true
+
+--------------------------------------------
+Serie: la comedia
+Estado original: REVISAR
+Recomendación: AMBIGUO_CONSERVADO
+Confianza: BAJA
+Motivo: Los candidatos no tienen una ventaja suficientemente sólida. Se conserva la revisión manual.
+Candidatos ordenados:
+  - My Teen Romantic Comedy SNAFU (65676) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+  - El Club de la Comedia (61589) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+  - La Comedia Musical Española (98175) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+  - Sucupira, la comedia (101322) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+  - El club de la comedia (98654) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+  - The end of comedy (71091) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+  - GazZelig - I comici dalla A allo Zelig (88158) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+  - Saucy! Secrets of the British Sex Comedy (260273) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+
+--------------------------------------------
+Serie: Búnker
+Estado original: AMBIGUO
+Recomendación: AMBIGUO_CONSERVADO
+Confianza: BAJA
+Motivo: Los candidatos no tienen una ventaja suficientemente sólida. Se conserva la revisión manual.
+Candidatos ordenados:
+  - Bunker (124791) | puntos=13 | exactas=1 | parciales=0 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - Billionaires' Bunker (245648) | puntos=10 | exactas=1 | parciales=0 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - The Bunker (63830) | puntos=8 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - Archie Bunker's Place (4277) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - Pure Genius (66545) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - Kwatery Hitlera (111665) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - Bunker, or Scientists Underground (110599) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - A bunker (74894) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+
+--------------------------------------------
+Serie: Caída de un ícono P. Diddy (2025)
+Estado original: AMBIGUO
+Recomendación: AMBIGUO_CONSERVADO
+Confianza: BAJA
+Motivo: Los candidatos no tienen una ventaja suficientemente sólida. Se conserva la revisión manual.
+Candidatos ordenados:
+  - 2025爱奇艺尖叫之夜 (307664) | puntos=8 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - Tencent Video All Star Night 2025 (308871) | puntos=8 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - 斑马百科2025 (278708) | puntos=8 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - Game for Peace (282796) | puntos=8 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - 2025 (323537) | puntos=8 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - La Hija Del Mariachi (292233) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - Our Little Trip - Joetsu 2025 (284462) | puntos=1 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=true
+  - 絶メシロード2025 (309379) | puntos=1 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=true
+  - WWE Evolution (2025) (309562) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+  - The Dark Money Game (288377) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+  - Comic Relief: Red Nose Day 2025 (287064) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+  - Stardom Spring Vacation 2025 ~Hi Hi! Okinawa~ (291769) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+
+--------------------------------------------
+Serie: Hechiceras
+Estado original: AMBIGUO
+Recomendación: AMBIGUO_CONSERVADO
+Confianza: BAJA
+Motivo: Los candidatos no tienen una ventaja suficientemente sólida. Se conserva la revisión manual.
+Candidatos ordenados:
+  - Charmed (1981) | puntos=13 | exactas=1 | parciales=0 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - Charmed (79611) | puntos=13 | exactas=1 | parciales=0 | incompatibles=0 | no encontradas=0 | título exacto=true
+
+--------------------------------------------
+Serie: Peacemaker
+Estado original: AMBIGUO
+Recomendación: AMBIGUO_CONSERVADO
+Confianza: BAJA
+Motivo: Los candidatos no tienen una ventaja suficientemente sólida. Se conserva la revisión manual.
+Candidatos ordenados:
+  - Peacemaker (110492) | puntos=13 | exactas=1 | parciales=0 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - Peacemaker: The Official Podcast with James Gunn (318471) | puntos=10 | exactas=1 | parciales=0 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - Podly: The Peacemaker Podcast (324515) | puntos=10 | exactas=1 | parciales=0 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - Peacemaker Kurogane (21788) | puntos=8 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - Peacemaker (108886) | puntos=8 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - Peacemakers (2915) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - The Peacemaker (36106) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+  - The Peacemaker: L.A. Gang Wars (42814) | puntos=-7 | exactas=0 | parciales=0 | incompatibles=0 | no encontradas=1 | título exacto=false
+
+--------------------------------------------
+Serie: Fires
+Estado original: AMBIGUO
+Recomendación: AMBIGUO_CONSERVADO
+Confianza: BAJA
+Motivo: Los candidatos no tienen una ventaja suficientemente sólida. Se conserva la revisión manual.
+Candidatos ordenados:
+  - Fires (126038) | puntos=13 | exactas=1 | parciales=0 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - Home Fires (62048) | puntos=10 | exactas=1 | parciales=0 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - Little Fires Everywhere (90257) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - Fireside Chat (302552) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - Bay of Fires (215512) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - Fireside Theater (11035) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - FireStorm (26016) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - Firestarter: Rekindled (41327) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+
+--------------------------------------------
+Serie: El universo en expansión de Ashley García
+Estado original: REVISAR
+Recomendación: SIN_CANDIDATOS
+Confianza: BAJA
+Motivo: No hay candidatos en el informe original. Esta segunda pasada no realiza búsquedas nuevas.
+
+--------------------------------------------
+Serie: La Funeraria_ Dinero y Cenizas (2025)
+Estado original: AMBIGUO
+Recomendación: AMBIGUO_CONSERVADO
+Confianza: BAJA
+Motivo: Los candidatos no tienen una ventaja suficientemente sólida. Se conserva la revisión manual.
+Candidatos ordenados:
+  - Our Little Trip - Joetsu 2025 (284462) | puntos=13 | exactas=1 | parciales=0 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - WWE Evolution (2025) (309562) | puntos=10 | exactas=1 | parciales=0 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - 2025爱奇艺尖叫之夜 (307664) | puntos=8 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - Tencent Video All Star Night 2025 (308871) | puntos=8 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - 斑马百科2025 (278708) | puntos=8 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - Game for Peace (282796) | puntos=8 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - 2025 (323537) | puntos=8 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - 絶メシロード2025 (309379) | puntos=8 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - La Hija Del Mariachi (292233) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - The Dark Money Game (288377) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - Comic Relief: Red Nose Day 2025 (287064) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - Stardom Spring Vacation 2025 ~Hi Hi! Okinawa~ (291769) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+
+--------------------------------------------
+Serie: Malditos
+Estado original: AMBIGUO
+Recomendación: AMBIGUO_CONSERVADO
+Confianza: BAJA
+Motivo: Los candidatos no tienen una ventaja suficientemente sólida. Se conserva la revisión manual.
+Candidatos ordenados:
+  - Malditos (249822) | puntos=13 | exactas=1 | parciales=0 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - The Midwich Cuckoos (156640) | puntos=10 | exactas=1 | parciales=0 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - Tremors (4372) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - Destinations of the Damned with Zak Bagans (272087) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - The Accursed Kings (69405) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+  - Cursed Poems (274611) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+  - Atlas Of Cursed Places (114125) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+  - Village of the Damned (75222) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+
+--------------------------------------------
+Serie: por Adriane Galisteu (2025)
+Estado original: AMBIGUO
+Recomendación: AMBIGUO_CONSERVADO
+Confianza: BAJA
+Motivo: Los candidatos no tienen una ventaja suficientemente sólida. Se conserva la revisión manual.
+Candidatos ordenados:
+  - 絶メシロード2025 (309379) | puntos=13 | exactas=1 | parciales=0 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - The Dark Money Game (288377) | puntos=10 | exactas=1 | parciales=0 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - Stardom Spring Vacation 2025 ~Hi Hi! Okinawa~ (291769) | puntos=10 | exactas=1 | parciales=0 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - 2025爱奇艺尖叫之夜 (307664) | puntos=8 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - Tencent Video All Star Night 2025 (308871) | puntos=8 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - 斑马百科2025 (278708) | puntos=8 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - Game for Peace (282796) | puntos=8 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - 2025 (323537) | puntos=8 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - La Hija Del Mariachi (292233) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - Comic Relief: Red Nose Day 2025 (287064) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - Our Little Trip - Joetsu 2025 (284462) | puntos=1 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=true
+  - WWE Evolution (2025) (309562) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+
+--------------------------------------------
+Serie: Mr. Pickles
+Estado original: AMBIGUO
+Recomendación: AMBIGUO_CONSERVADO
+Confianza: BAJA
+Motivo: Los candidatos no tienen una ventaja suficientemente sólida. Se conserva la revisión manual.
+Candidatos ordenados:
+  - Mr. Pickles (61593) | puntos=13 | exactas=1 | parciales=0 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - Kidding (73925) | puntos=10 | exactas=1 | parciales=0 | incompatibles=0 | no encontradas=0 | título exacto=false
+
+--------------------------------------------
+Serie: Shameless
+Estado original: AMBIGUO
+Recomendación: PROPUESTA_ESTRUCTURA_DOMINANTE
+Confianza: ALTA_PARA_REVISION
+Motivo: El candidato lidera por estructura: 6 temporadas exactas, 1 parciales y 1 incompatibles. Ventaja de puntuación: 51 puntos. La selección todavía requiere revisión.
+Propuesta: Shameless (TMDB 34307)
+Candidatos ordenados:
+  - Shameless (34307) | puntos=66 | exactas=6 | parciales=1 | incompatibles=1 | no encontradas=0 | título exacto=true
+  - Shameless (1906) | puntos=15 | exactas=0 | parciales=4 | incompatibles=4 | no encontradas=0 | título exacto=true
+  - Shameless (86005) | puntos=-41 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=7 | título exacto=true
+  - Shameless Lover (276355) | puntos=-44 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=7 | título exacto=false
+  - Rich & Shameless (157512) | puntos=-46 | exactas=0 | parciales=0 | incompatibles=2 | no encontradas=6 | título exacto=false
+  - Shameless (120399) | puntos=-48 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=7 | título exacto=true
+  - Shameless (109353) | puntos=-48 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=7 | título exacto=true
+  - Shameless Hall of Shame (208736) | puntos=-51 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=7 | título exacto=false
+
+--------------------------------------------
+Serie: DC's Stargirl
+Estado original: REVISAR
+Recomendación: PROPUESTA_CANDIDATO_UNICO
+Confianza: MEDIA
+Motivo: Solo hay un candidato disponible y presenta evidencia de título o estructura. Requiere confirmación manual.
+Propuesta: DC's Stargirl (TMDB 80986)
+Candidatos ordenados:
+  - DC's Stargirl (80986) | puntos=16 | exactas=1 | parciales=1 | incompatibles=1 | no encontradas=0 | título exacto=true
+
+--------------------------------------------
+Serie: The Tourist
+Estado original: AMBIGUO
+Recomendación: AMBIGUO_CONSERVADO
+Confianza: BAJA
+Motivo: Los candidatos no tienen una ventaja suficientemente sólida. Se conserva la revisión manual.
+Candidatos ordenados:
+  - The Tourist (120909) | puntos=13 | exactas=1 | parciales=0 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - The Tourist Trap (195364) | puntos=10 | exactas=1 | parciales=0 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - The Guide - Five Stars in Kyoto (63326) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - The Locked Down Tourist (123877) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - Accidental Tourist (285919) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+  - Jim Gaffigan: The Pale Tourist (105031) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+  - Indian Adaptation of The Tourist (258724) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+  - The Suicide Tourist (59884) | puntos=-7 | exactas=0 | parciales=0 | incompatibles=0 | no encontradas=1 | título exacto=false
+
+--------------------------------------------
+Serie: Tiny Toons Looniversity
+Estado original: REVISAR
+Recomendación: PROPUESTA_CANDIDATO_UNICO
+Confianza: BAJA
+Motivo: Solo hay un candidato disponible y presenta evidencia de título o estructura. Requiere confirmación manual.
+Propuesta: Tiny Toons Looniversity (TMDB 155779)
+Candidatos ordenados:
+  - Tiny Toons Looniversity (155779) | puntos=1 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=true
+
+--------------------------------------------
+Serie: Walker
+Estado original: AMBIGUO
+Recomendación: PROPUESTA_ESTRUCTURA_DOMINANTE
+Confianza: ALTA_PARA_REVISION
+Motivo: El candidato lidera por estructura: 1 temporadas exactas, 1 parciales y 0 incompatibles. Ventaja de puntuación: 8 puntos. La selección todavía requiere revisión.
+Propuesta: Walker (TMDB 99121)
+Candidatos ordenados:
+  - Walker (99121) | puntos=18 | exactas=1 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - Line Walker (75117) | puntos=10 | exactas=0 | parciales=2 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - Walker, Texas Ranger (3772) | puntos=3 | exactas=0 | parciales=1 | incompatibles=1 | no encontradas=0 | título exacto=false
+  - Spiritual Realm Walker (297923) | puntos=3 | exactas=0 | parciales=1 | incompatibles=1 | no encontradas=0 | título exacto=false
+  - Walker Independence (201877) | puntos=-9 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=1 | título exacto=false
+  - Self Made: Inspired by the Life of Madam C.J. Walker (97539) | puntos=-9 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=1 | título exacto=false
+  - Nightwalker: The Midnight Detective (21315) | puntos=-9 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=1 | título exacto=false
+  - Sleepwalkers (4293) | puntos=-9 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=1 | título exacto=false
+
+--------------------------------------------
+Serie: Years & Years
+Estado original: AMBIGUO
+Recomendación: AMBIGUO_CONSERVADO
+Confianza: BAJA
+Motivo: Los candidatos no tienen una ventaja suficientemente sólida. Se conserva la revisión manual.
+Candidatos ordenados:
+  - Years and Years (87104) | puntos=8 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - The Wonder Years (4500) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - One Hundred Thousand Years of Qi Refining (220850) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - The First Years (82708) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - FAIRY TAIL 100 YEARS QUEST (248947) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - Kamp Koral: SpongeBob's Under Years (99588) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - One Hundred Years of Solitude (207333) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - The Wonder Years (126164) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - The First Hundred Years (13212) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+
+--------------------------------------------
+Serie: Young Love
+Estado original: AMBIGUO
+Recomendación: AMBIGUO_CONSERVADO
+Confianza: BAJA
+Motivo: Los candidatos no tienen una ventaja suficientemente sólida. Se conserva la revisión manual.
+Candidatos ordenados:
+  - Young Love (62672) | puntos=13 | exactas=1 | parciales=0 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - Shonan Junai Gumi! (101098) | puntos=10 | exactas=1 | parciales=0 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - Young Love (217272) | puntos=8 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - Young Babylon (222490) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - Club Friday Season 16: Hot Love Issue (243175) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - Glory Jane (41874) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - Too Young To Love (302330) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - Love Forever Young (232361) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - Pure Love Gang of Shonan (45070) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+
+--------------------------------------------
+Serie: fantasma
+Estado original: AMBIGUO
+Recomendación: AMBIGUO_CONSERVADO
+Confianza: BAJA
+Motivo: Los candidatos no tienen una ventaja suficientemente sólida. Se conserva la revisión manual.
+Candidatos ordenados:
+  - Ghost (45018) | puntos=8 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - Ghosts (126027) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - The Ghost and Molly McGee (92649) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - Ghostwriter (3925) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - The Ghost & Mrs. Muir (12883) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - Space Ghost and Dino Boy (3303) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - Toilet-Bound Hanako-kun (95269) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+  - Space Ghost Coast to Coast (2798) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+  - Ghostwriter (93520) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+
+--------------------------------------------
+Serie: ¡Hola! Escuela: Love On
+Estado original: REVISAR
+Recomendación: SIN_CANDIDATOS
+Confianza: BAJA
+Motivo: No hay candidatos en el informe original. Esta segunda pasada no realiza búsquedas nuevas.
+
+--------------------------------------------
+Serie: JARDIN DE LOS CIELOS
+Estado original: REVISAR
+Recomendación: SIN_CANDIDATOS
+Confianza: BAJA
+Motivo: No hay candidatos en el informe original. Esta segunda pasada no realiza búsquedas nuevas.
+
+--------------------------------------------
+Serie: Alphonse
+Estado original: AMBIGUO
+Recomendación: AMBIGUO_CONSERVADO
+Confianza: BAJA
+Motivo: Los candidatos no tienen una ventaja suficientemente sólida. Se conserva la revisión manual.
+Candidatos ordenados:
+  - Alphonse (197436) | puntos=13 | exactas=1 | parciales=0 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - Le cirque Alphonse : Une affaire de famille (74574) | puntos=10 | exactas=1 | parciales=0 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - Alphonse Président (75343) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - As-tu vu Alphonse ? (100263) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+
+--------------------------------------------
+Serie: Bajoterra
+Estado original: REVISAR
+Recomendación: PROPUESTA_CANDIDATO_UNICO
+Confianza: ALTA_PARA_REVISION
+Motivo: Solo hay un candidato disponible y presenta evidencia de título o estructura. Requiere confirmación manual.
+Propuesta: Slugterra (TMDB 46994)
+Candidatos ordenados:
+  - Slugterra (46994) | puntos=28 | exactas=3 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+
+--------------------------------------------
+Serie: Bergerac
+Estado original: AMBIGUO
+Recomendación: AMBIGUO_CONSERVADO
+Confianza: BAJA
+Motivo: Los candidatos no tienen una ventaja suficientemente sólida. Se conserva la revisión manual.
+Candidatos ordenados:
+  - Bergerac (1596) | puntos=8 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - Bergerac (251750) | puntos=8 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - Cyrano de Bergerac (40021) | puntos=-7 | exactas=0 | parciales=0 | incompatibles=0 | no encontradas=1 | título exacto=false
+
+--------------------------------------------
+Serie: Policías de Chicago
+Estado original: REVISAR
+Recomendación: PROPUESTA_CANDIDATO_UNICO
+Confianza: ALTA_PARA_REVISION
+Motivo: Solo hay un candidato disponible y presenta evidencia de título o estructura. Requiere confirmación manual.
+Propuesta: Chicago P.D. (TMDB 58841)
+Candidatos ordenados:
+  - Chicago P.D. (58841) | puntos=93 | exactas=9 | parciales=1 | incompatibles=1 | no encontradas=0 | título exacto=false
+
+--------------------------------------------
+Serie: Corona de Lágrimas
+Estado original: AMBIGUO
+Recomendación: AMBIGUO_CONSERVADO
+Confianza: BAJA
+Motivo: Los candidatos no tienen una ventaja suficientemente sólida. Se conserva la revisión manual.
+Candidatos ordenados:
+  - Corona de lágrimas (46881) | puntos=8 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - Corona de lágrimas (316315) | puntos=8 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=true
+
+--------------------------------------------
+Serie: Asesinato en la ciudad de la Bola Disco
+Estado original: REVISAR
+Recomendación: SIN_CANDIDATOS
+Confianza: BAJA
+Motivo: No hay candidatos en el informe original. Esta segunda pasada no realiza búsquedas nuevas.
+
+--------------------------------------------
+Serie: Attack on Titan
+Estado original: REVISAR
+Recomendación: PROPUESTA_ESTRUCTURA_DOMINANTE
+Confianza: ALTA_PARA_REVISION
+Motivo: El candidato lidera por estructura: 3 temporadas exactas, 0 parciales y 1 incompatibles. Ventaja de puntuación: 44 puntos. La selección todavía requiere revisión.
+Propuesta: Attack on Titan (TMDB 1429)
+Candidatos ordenados:
+  - Attack on Titan (1429) | puntos=31 | exactas=3 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=true
+  - Attack on Titan: Chibi Theater (224499) | puntos=-13 | exactas=0 | parciales=0 | incompatibles=3 | no encontradas=1 | título exacto=false
+  - Attack on Titan: Junior High (63510) | puntos=-23 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=3 | título exacto=false
+  - Attack on Titan: Counter Rockets (65242) | puntos=-23 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=3 | título exacto=false
+
+--------------------------------------------
+Serie: Black Lagoon
+Estado original: REVISAR
+Recomendación: AMBIGUO_CONSERVADO
+Confianza: BAJA
+Motivo: Los candidatos no tienen una ventaja suficientemente sólida. Se conserva la revisión manual.
+Candidatos ordenados:
+  - Black Lagoon (12598) | puntos=-6 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=2 | título exacto=true
+  - Black Lagoon Omake (289997) | puntos=-16 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=2 | título exacto=false
+  - Black Lagoon: Roberta's Blood Trail (254198) | puntos=-16 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=2 | título exacto=false
+
+--------------------------------------------
+Serie: Blade
+Estado original: AMBIGUO
+Recomendación: AMBIGUO_CONSERVADO
+Confianza: BAJA
+Motivo: Los candidatos no tienen una ventaja suficientemente sólida. Se conserva la revisión manual.
+Candidatos ordenados:
+  - Blade: The Series (4619) | puntos=13 | exactas=1 | parciales=0 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - Blade (62798) | puntos=13 | exactas=1 | parciales=0 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - Queen's Blade (45502) | puntos=10 | exactas=1 | parciales=0 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - Fate/stay night [Unlimited Blade Works] (61415) | puntos=10 | exactas=1 | parciales=0 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - Reborn to Master the Blade: From Hero-King to Extraordinary Squire ♀ (194718) | puntos=10 | exactas=1 | parciales=0 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - Tekkaman Blade (9155) | puntos=8 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - Kamen Rider (2661) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - Blade of the Immortal (92090) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - Spring of the Blade (294990) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - Blade Man (61739) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+
+--------------------------------------------
+Serie: My Hero Academia
+Estado original: REVISAR
+Recomendación: PROPUESTA_ESTRUCTURA_DOMINANTE
+Confianza: ALTA_PARA_REVISION
+Motivo: El candidato lidera por estructura: 5 temporadas exactas, 0 parciales y 3 incompatibles. Ventaja de puntuación: 91 puntos. La selección todavía requiere revisión.
+Propuesta: My Hero Academia (TMDB 65930)
+Candidatos ordenados:
+  - My Hero Academia (65930) | puntos=47 | exactas=5 | parciales=0 | incompatibles=3 | no encontradas=0 | título exacto=true
+  - My Hero Academia: Vigilantes (280110) | puntos=-44 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=7 | título exacto=false
+
+--------------------------------------------
+Serie: Fate/Zero
+Estado original: AMBIGUO
+Recomendación: AMBIGUO_CONSERVADO
+Confianza: BAJA
+Motivo: Los candidatos no tienen una ventaja suficientemente sólida. Se conserva la revisión manual.
+Candidatos ordenados:
+  - Fate/Apocrypha (72304) | puntos=13 | exactas=1 | parciales=0 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - Hawaii Five-O (2303) | puntos=10 | exactas=1 | parciales=0 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - Penn Zero: Part-Time Hero (62486) | puntos=8 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - Zoids Wild Zero (103377) | puntos=8 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - Fate (113997) | puntos=8 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - Re:ZERO -Starting Life in Another World- (65942) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - EDENS ZERO (104711) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - Hawaii Five-0 (32798) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+  - The Familiar of Zero (35753) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+  - Fate/Zero (45845) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+  - Absolute Zero (40395) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+  - Fate/stay night [Unlimited Blade Works] (61415) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+  - Terminator Zero (239287) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+  - Fate: The Winx Saga (97175) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+
+--------------------------------------------
+Serie: Futakoi
+Estado original: AMBIGUO
+Recomendación: AMBIGUO_CONSERVADO
+Confianza: BAJA
+Motivo: Los candidatos no tienen una ventaja suficientemente sólida. Se conserva la revisión manual.
+Candidatos ordenados:
+  - Futakoi (34826) | puntos=13 | exactas=1 | parciales=0 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - Futakoi Alternative (34787) | puntos=10 | exactas=1 | parciales=0 | incompatibles=0 | no encontradas=0 | título exacto=false
+
+--------------------------------------------
+Serie: Hellsing Ultimate
+Estado original: AMBIGUO
+Recomendación: AMBIGUO_CONSERVADO
+Confianza: BAJA
+Motivo: Los candidatos no tienen una ventaja suficientemente sólida. Se conserva la revisión manual.
+Candidatos ordenados:
+  - Hellsing Ultimate (61752) | puntos=13 | exactas=1 | parciales=0 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - Hellsing Ultimate Abridged (286509) | puntos=10 | exactas=1 | parciales=0 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - Hellsing: The Dawn (115176) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+
+--------------------------------------------
+Serie: Horimiya
+Estado original: AMBIGUO
+Recomendación: AMBIGUO_CONSERVADO
+Confianza: BAJA
+Motivo: Los candidatos no tienen una ventaja suficientemente sólida. Se conserva la revisión manual.
+Candidatos ordenados:
+  - Horimiya (110070) | puntos=13 | exactas=1 | parciales=0 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - Horimiya: The Missing Pieces (228663) | puntos=10 | exactas=1 | parciales=0 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - Horimiya (113980) | puntos=1 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=true
+  - Hori-san and Miyamura-kun (71376) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+
+--------------------------------------------
+Serie: Hunter x Hunter
+Estado original: AMBIGUO
+Recomendación: PROPUESTA_CON_EVIDENCIA_LIMITADA
+Confianza: MEDIA
+Motivo: El candidato mejor puntuado tiene una ventaja de 10 puntos, pero la evidencia estructural no alcanza el umbral de dominancia fuerte.
+Propuesta: Hunter x Hunter (TMDB 46298)
+Candidatos ordenados:
+  - Hunter x Hunter (46298) | puntos=9 | exactas=1 | parciales=0 | incompatibles=2 | no encontradas=0 | título exacto=true
+  - Hunter x Hunter (45952) | puntos=-1 | exactas=1 | parciales=0 | incompatibles=0 | no encontradas=2 | título exacto=true
+  - Fantasy x Hunter (154121) | puntos=-16 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=2 | título exacto=false
+  - Hunter × Hunter: Greed Island (330285) | puntos=-16 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=2 | título exacto=false
+  - Hunter × Hunter: Original Video Animation (330103) | puntos=-16 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=2 | título exacto=false
+  - Hunter x Hunter: Greed Island Final (330298) | puntos=-16 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=2 | título exacto=false
+
+--------------------------------------------
+Serie: Too
+Estado original: AMBIGUO
+Recomendación: AMBIGUO_CONSERVADO
+Confianza: BAJA
+Motivo: Los candidatos no tienen una ventaja suficientemente sólida. Se conserva la revisión manual.
+Candidatos ordenados:
+  - My Senior Brother is Too Steady (218642) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - Never Too Young (14198) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - Too Close for Comfort (3781) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - Makeine: Too Many Losing Heroines! (241535) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+  - Too Hot to Handle (102085) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+  - Way Too Early (272021) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+  - Let's Make a Mug Too (106611) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+  - Too Much (241361) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+
+--------------------------------------------
+Serie: Rent-a-Girlfriend
+Estado original: REVISAR
+Recomendación: AMBIGUO_CONSERVADO
+Confianza: BAJA
+Motivo: Los candidatos no tienen una ventaja suficientemente sólida. Se conserva la revisión manual.
+Candidatos ordenados:
+  - Rent-a-Girlfriend (96316) | puntos=-6 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=2 | título exacto=true
+  - Rent a Girlfriend Home for New Year (139607) | puntos=-9 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=2 | título exacto=false
+  - Rental a Girlfriend (201910) | puntos=-16 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=2 | título exacto=false
+
+--------------------------------------------
+Serie: Demon Slayer: Kimetsu no Yaiba
+Estado original: REVISAR
+Recomendación: PROPUESTA_CANDIDATO_UNICO
+Confianza: ALTA_PARA_REVISION
+Motivo: Solo hay un candidato disponible y presenta evidencia de título o estructura. Requiere confirmación manual.
+Propuesta: Demon Slayer: Kimetsu no Yaiba (TMDB 85937)
+Candidatos ordenados:
+  - Demon Slayer: Kimetsu no Yaiba (85937) | puntos=26 | exactas=2 | parciales=1 | incompatibles=1 | no encontradas=0 | título exacto=true
+
+--------------------------------------------
+Serie: Marco
+Estado original: AMBIGUO
+Recomendación: AMBIGUO_CONSERVADO
+Confianza: BAJA
+Motivo: Los candidatos no tienen una ventaja suficientemente sólida. Se conserva la revisión manual.
+Candidatos ordenados:
+  - 母をたずねて三千里 (324168) | puntos=13 | exactas=1 | parciales=0 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - 3000 Leagues in Search of Mother (8962) | puntos=13 | exactas=1 | parciales=0 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - Marco (127672) | puntos=1 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=true
+  - Marco Polo (60699) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+  - Marco Polo (6479) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+  - Animated Travels: Marco Polo's Adventures (28665) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+  - Marco Lachance (262358) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+  - The Adventures of Marco & Gina (75184) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+  - The Adventures of the Young Marco Polo (67107) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+  - Marco's Kitchen Burnout (32308) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+  - Marco Polo (207158) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+
+--------------------------------------------
+Serie: MASHLE: MAGIC AND MUSCLES
+Estado original: REVISAR
+Recomendación: PROPUESTA_CANDIDATO_UNICO
+Confianza: MEDIA
+Motivo: Solo hay un candidato disponible y presenta evidencia de título o estructura. Requiere confirmación manual.
+Propuesta: MASHLE: MAGIC AND MUSCLES (TMDB 204832)
+Candidatos ordenados:
+  - MASHLE: MAGIC AND MUSCLES (204832) | puntos=1 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=1 | título exacto=true
+
+--------------------------------------------
+Serie: Shin-chan
+Estado original: AMBIGUO
+Recomendación: PROPUESTA_ESTRUCTURA_DOMINANTE
+Confianza: ALTA_PARA_REVISION
+Motivo: El candidato lidera por estructura: 11 temporadas exactas, 11 parciales y 5 incompatibles. Ventaja de puntuación: 327 puntos. La selección todavía requiere revisión.
+Propuesta: Shin Chan (TMDB 333589)
+Candidatos ordenados:
+  - Shin Chan (333589) | puntos=123 | exactas=11 | parciales=11 | incompatibles=5 | no encontradas=5 | título exacto=true
+  - Crayon Shin-chan Spin-off (67324) | puntos=-204 | exactas=0 | parciales=0 | incompatibles=4 | no encontradas=28 | título exacto=false
+  - Shin Chan (262657) | puntos=-206 | exactas=0 | parciales=0 | incompatibles=3 | no encontradas=29 | título exacto=true
+  - Shin Chan (30623) | puntos=-209 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=31 | título exacto=true
+  - Shinchan (Vitello Dub) (254063) | puntos=-214 | exactas=0 | parciales=0 | incompatibles=2 | no encontradas=30 | título exacto=false
+  - Eternity Shinya no Nurekoi Channel (105903) | puntos=-219 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=31 | título exacto=false
+  - Getter Robo: Armageddon (68736) | puntos=-219 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=31 | título exacto=false
+  - Kamen Rider Fourze × Crayon Shin-chan (157216) | puntos=-219 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=31 | título exacto=false
+
+--------------------------------------------
+Serie: Urusei Yatsura
+Estado original: AMBIGUO
+Recomendación: AMBIGUO_CONSERVADO
+Confianza: BAJA
+Motivo: Los candidatos no tienen una ventaja suficientemente sólida. Se conserva la revisión manual.
+Candidatos ordenados:
+  - Urusei Yatsura (34163) | puntos=8 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - Urusei Yatsura (154524) | puntos=8 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=true
+
+--------------------------------------------
+Serie: Yowamushi Pedal
+Estado original: AMBIGUO
+Recomendación: AMBIGUO_CONSERVADO
+Confianza: BAJA
+Motivo: Los candidatos no tienen una ventaja suficientemente sólida. Se conserva la revisión manual.
+Candidatos ordenados:
+  - Yowamushi Pedal (61441) | puntos=1 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=true
+  - Yowamushi Pedal (82415) | puntos=1 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=true
+
+--------------------------------------------
+Serie: Mouse
+Estado original: AMBIGUO
+Recomendación: AMBIGUO_CONSERVADO
+Confianza: BAJA
+Motivo: Los candidatos no tienen una ventaja suficientemente sólida. Se conserva la revisión manual.
+Candidatos ordenados:
+  - Mouse (117378) | puntos=13 | exactas=1 | parciales=0 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - Mouse (241315) | puntos=13 | exactas=1 | parciales=0 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - Mickey Mouse Clubhouse (3934) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - Mickey and the Roadster Racers (70823) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - Mickey Mouse Funhouse (127633) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - Mickey Mouse Clubhouse+ (232869) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - Mickey Mouse Works (2330) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - Mouse (39025) | puntos=1 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=true
+  - Mickey Mouse (46879) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+  - Disney's House of Mouse (2467) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+  - Big Mouth (155226) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+
+--------------------------------------------
+Serie: Death Valley
+Estado original: AMBIGUO
+Recomendación: AMBIGUO_CONSERVADO
+Confianza: BAJA
+Motivo: Los candidatos no tienen una ventaja suficientemente sólida. Se conserva la revisión manual.
+Candidatos ordenados:
+  - Ancient Egypt - Life and Death in the Valley of the Kings (55810) | puntos=10 | exactas=1 | parciales=0 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - Into Death Valley with Nick Knowles (222617) | puntos=10 | exactas=1 | parciales=0 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - Death Valley (40245) | puntos=8 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - Death Valley (254897) | puntos=8 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - Death Valley (337238) | puntos=8 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - American Horror Story (1413) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - Death Valley Days (11376) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+
+--------------------------------------------
+Serie: Destination X
+Estado original: AMBIGUO
+Recomendación: AMBIGUO_CONSERVADO
+Confianza: BAJA
+Motivo: Los candidatos no tienen una ventaja suficientemente sólida. Se conserva la revisión manual.
+Candidatos ordenados:
+  - Destination X (277294) | puntos=8 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - Destination X (251643) | puntos=8 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - Destination X (289980) | puntos=8 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - Bestemming X (220051) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - Destination X (276218) | puntos=1 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=true
+  - Destination X (318301) | puntos=1 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=true
+  - Destination X (318302) | puntos=1 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=true
+  - Wild Chile (106339) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+  - Destination X : ce qu'il fallait voir (242440) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+  - Destination X - Danmark (285986) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+
+--------------------------------------------
+Serie: un asesinato (2026)
+Estado original: AMBIGUO
+Recomendación: AMBIGUO_CONSERVADO
+Confianza: BAJA
+Motivo: Los candidatos no tienen una ventaja suficientemente sólida. Se conserva la revisión manual.
+Candidatos ordenados:
+  - Sophie: A Murder in West Cork (126396) | puntos=10 | exactas=1 | parciales=0 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - John Lennon: Murder Without a Trial (238126) | puntos=10 | exactas=1 | parciales=0 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - 说唱巅峰对决2026 (326694) | puntos=8 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - Make It Right 2026 (327403) | puntos=8 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - Singer 2026 Malaysia (322193) | puntos=8 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - 斑马百科2026 (313415) | puntos=8 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - 2026环西自行车赛 (332515) | puntos=8 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - Diagnosis: Murder (2625) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - The Killing (32368) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - A Murder at the End of the World (134095) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - GTO (2026) (325022) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - Magic Knight Rayearth (303272) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - 乘风破浪的姐姐 第七季 (317948) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - 2026 (327781) | puntos=1 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=true
+  - Singer 2026 • Malaysia (322628) | puntos=1 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=true
+
+--------------------------------------------
+Serie: BeyBlade
+Estado original: AMBIGUO
+Recomendación: AMBIGUO_CONSERVADO
+Confianza: BAJA
+Motivo: Los candidatos no tienen una ventaja suficientemente sólida. Se conserva la revisión manual.
+Candidatos ordenados:
+  - Beyblade (54728) | puntos=8 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - Beyblade: Metal Fight Beyblade (37807) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - Beyblade X (226688) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - Beyblade Burst (67667) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - BeyWheelz (85032) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+  - BeyWarriors: Cyborg (206298) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+  - La légende de Beyblade (300370) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+
+--------------------------------------------
+Serie: Capitán Cavernícola
+Estado original: AMBIGUO
+Recomendación: AMBIGUO_CONSERVADO
+Confianza: BAJA
+Motivo: Los candidatos no tienen una ventaja suficientemente sólida. Se conserva la revisión manual.
+Candidatos ordenados:
+  - Scooby's All-Stars (1072) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - Captain Caveman and the Teen Angels (9773) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+
+--------------------------------------------
+Serie: Dinoplatívolos
+Estado original: REVISAR
+Recomendación: CANDIDATO_UNICO_PARA_REVISAR
+Confianza: BAJA
+Motivo: Solo hay un candidato, pero la evidencia disponible no permite recomendarlo con suficiente seguridad.
+Propuesta: Dinosaucers (TMDB 2158)
+Candidatos ordenados:
+  - Dinosaucers (2158) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+
+--------------------------------------------
+Serie: Don Dracula
+Estado original: REVISAR
+Recomendación: PROPUESTA_CANDIDATO_UNICO
+Confianza: BAJA
+Motivo: Solo hay un candidato disponible y presenta evidencia de título o estructura. Requiere confirmación manual.
+Propuesta: Don Dracula (TMDB 16576)
+Candidatos ordenados:
+  - Don Dracula (16576) | puntos=1 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=true
+
+--------------------------------------------
+Serie: Don Gato y su Pandilla
+Estado original: REVISAR
+Recomendación: CANDIDATO_UNICO_PARA_REVISAR
+Confianza: BAJA
+Motivo: Solo hay un candidato, pero la evidencia disponible no permite recomendarlo con suficiente seguridad.
+Propuesta: Top Cat (TMDB 4232)
+Candidatos ordenados:
+  - Top Cat (4232) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+
+--------------------------------------------
+Serie: Droppy
+Estado original: REVISAR
+Recomendación: SIN_CANDIDATOS
+Confianza: BAJA
+Motivo: No hay candidatos en el informe original. Esta segunda pasada no realiza búsquedas nuevas.
+
+--------------------------------------------
+Serie: Earthworm Jim
+Estado original: REVISAR
+Recomendación: PROPUESTA_CANDIDATO_UNICO
+Confianza: BAJA
+Motivo: Solo hay un candidato disponible y presenta evidencia de título o estructura. Requiere confirmación manual.
+Propuesta: Earthworm Jim (TMDB 6592)
+Candidatos ordenados:
+  - Earthworm Jim (6592) | puntos=1 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=true
+
+--------------------------------------------
+Serie: El Inspector Clouseau
+Estado original: REVISAR
+Recomendación: SIN_CANDIDATOS
+Confianza: BAJA
+Motivo: No hay candidatos en el informe original. Esta segunda pasada no realiza búsquedas nuevas.
+
+--------------------------------------------
+Serie: Los gatos samurai
+Estado original: REVISAR
+Recomendación: CANDIDATO_UNICO_PARA_REVISAR
+Confianza: BAJA
+Motivo: Solo hay un candidato, pero la evidencia disponible no permite recomendarlo con suficiente seguridad.
+Propuesta: Samurai Pizza Cats (TMDB 10797)
+Candidatos ordenados:
+  - Samurai Pizza Cats (10797) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+
+--------------------------------------------
+Serie: He-Man y los Amos del Universo
+Estado original: REVISAR
+Recomendación: AMBIGUO_CONSERVADO
+Confianza: BAJA
+Motivo: Los candidatos no tienen una ventaja suficientemente sólida. Se conserva la revisión manual.
+Candidatos ordenados:
+  - He-Man and the Masters of the Universe (931) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+  - He-Man and the Masters of the Universe (3035) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+  - He-Man and the Masters of the Universe (96659) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+
+--------------------------------------------
+Serie: Iron Man
+Estado original: AMBIGUO
+Recomendación: AMBIGUO_CONSERVADO
+Confianza: BAJA
+Motivo: Los candidatos no tienen una ventaja suficientemente sólida. Se conserva la revisión manual.
+Candidatos ordenados:
+  - Iron Man: Armored Adventures (7330) | puntos=8 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - Marvel's Ultimate Spider-Man (34391) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - The Marvel Super Heroes (2164) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - Iron Man and His Awesome Friends (274388) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - Iron Man (3097) | puntos=1 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=true
+  - Iron Man (45418) | puntos=1 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=true
+  - Blade Man (61739) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+  - Meet Iron Man and His Awesome Friends (294895) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+
+--------------------------------------------
+Serie: Josie y sus Gatimelódicas
+Estado original: AMBIGUO
+Recomendación: AMBIGUO_CONSERVADO
+Confianza: BAJA
+Motivo: Los candidatos no tienen una ventaja suficientemente sólida. Se conserva la revisión manual.
+Candidatos ordenados:
+  - Josie and the Pussycats (4489) | puntos=13 | exactas=1 | parciales=0 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - Josie and the Pussycats in Outer Space (24211) | puntos=10 | exactas=1 | parciales=0 | incompatibles=0 | no encontradas=0 | título exacto=false
+
+--------------------------------------------
+Serie: La Pantera Rosa
+Estado original: AMBIGUO
+Recomendación: AMBIGUO_CONSERVADO
+Confianza: BAJA
+Motivo: Los candidatos no tienen una ventaja suficientemente sólida. Se conserva la revisión manual.
+Candidatos ordenados:
+  - The All New Pink Panther Show (114772) | puntos=8 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - Pink Panther and Pals (5559) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - The Pink Panther (14693) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+  - Pink Panther and Sons (12479) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+
+--------------------------------------------
+Serie: Las chicas superpoderosas
+Estado original: AMBIGUO
+Recomendación: AMBIGUO_CONSERVADO
+Confianza: BAJA
+Motivo: Los candidatos no tienen una ventaja suficientemente sólida. Se conserva la revisión manual.
+Candidatos ordenados:
+  - The Powerpuff Girls (607) | puntos=8 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - The Powerpuff Girls (66149) | puntos=8 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - Powerpuff Girls Z (12406) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+
+--------------------------------------------
+Serie: Looney Tunes
+Estado original: REVISAR
+Recomendación: AMBIGUO_CONSERVADO
+Confianza: BAJA
+Motivo: Los candidatos no tienen una ventaja suficientemente sólida. Se conserva la revisión manual.
+Candidatos ordenados:
+  - Looney Tunes (333432) | puntos=1 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=true
+  - New Looney Tunes (65763) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+  - Looney Tunes Cartoons (102321) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+  - The Looney Tunes Show (32605) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+  - Baby Looney Tunes (670) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+  - Loonatics Unleashed (1977) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+  - Looney Tunes: Bugs Bunny 80th Anniversary Collection (334205) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+  - Looney Tunes Presents: Sports Talk With Bugs Bunny (260183) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+
+--------------------------------------------
+Serie: Los pequeños Picapiedras
+Estado original: REVISAR
+Recomendación: SIN_CANDIDATOS
+Confianza: BAJA
+Motivo: No hay candidatos en el informe original. Esta segunda pasada no realiza búsquedas nuevas.
+
+--------------------------------------------
+Serie: MAGNETRON
+Estado original: REVISAR
+Recomendación: SIN_CANDIDATOS
+Confianza: BAJA
+Motivo: No hay candidatos en el informe original. Esta segunda pasada no realiza búsquedas nuevas.
+
+--------------------------------------------
+Serie: Rugrats
+Estado original: AMBIGUO
+Recomendación: AMBIGUO_CONSERVADO
+Confianza: BAJA
+Motivo: Los candidatos no tienen una ventaja suficientemente sólida. Se conserva la revisión manual.
+Candidatos ordenados:
+  - Rugrats (3022) | puntos=8 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - Rugrats (124920) | puntos=8 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - All Grown Up! (130) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+  - Rugrats Pre-School Daze (11059) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+
+--------------------------------------------
+Serie: Magic School Bus
+Estado original: AMBIGUO
+Recomendación: AMBIGUO_CONSERVADO
+Confianza: BAJA
+Motivo: Los candidatos no tienen una ventaja suficientemente sólida. Se conserva la revisión manual.
+Candidatos ordenados:
+  - The Magic School Bus (7248) | puntos=13 | exactas=1 | parciales=0 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - The Magic School Bus Rides Again (73472) | puntos=10 | exactas=1 | parciales=0 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - 魔法校车再次启程 (286920) | puntos=10 | exactas=1 | parciales=0 | incompatibles=0 | no encontradas=0 | título exacto=false
+
+--------------------------------------------
+Serie: Tom Y Jerry
+Estado original: AMBIGUO
+Recomendación: AMBIGUO_CONSERVADO
+Confianza: BAJA
+Motivo: Los candidatos no tienen una ventaja suficientemente sólida. Se conserva la revisión manual.
+Candidatos ordenados:
+  - The Tom and Jerry Comedy Show (14705) | puntos=8 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - Tom & Jerry Kids Show (4274) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - The Tom and Jerry Show (47480) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - Tom and Jerry Tales (676) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - The Tom and Jerry Show (7842) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - Tom and Jerry (217288) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+  - Tom and Jerry in New York (127445) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+
+--------------------------------------------
+Serie: yam yam y el genio
+Estado original: REVISAR
+Recomendación: SIN_CANDIDATOS
+Confianza: BAJA
+Motivo: No hay candidatos en el informe original. Esta segunda pasada no realiza búsquedas nuevas.
+
+--------------------------------------------
+Serie: El jurado presenta: Retiro corporativo
+Estado original: AMBIGUO
+Recomendación: AMBIGUO_CONSERVADO
+Confianza: BAJA
+Motivo: Los candidatos no tienen una ventaja suficientemente sólida. Se conserva la revisión manual.
+Candidatos ordenados:
+  - Jury Duty Presents: Company Retreat (312697) | puntos=8 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - Jury Duty Presents: Behind the Scenes of Company Retreat (319013) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+
+--------------------------------------------
+Serie: El clavel y la rosa
+Estado original: REVISAR
+Recomendación: SIN_CANDIDATOS
+Confianza: BAJA
+Motivo: No hay candidatos en el informe original. Esta segunda pasada no realiza búsquedas nuevas.
+
+--------------------------------------------
+Serie: Solamente Milagros
+Estado original: REVISAR
+Recomendación: CANDIDATO_UNICO_PARA_REVISAR
+Confianza: BAJA
+Motivo: Solo hay un candidato, pero la evidencia disponible no permite recomendarlo con suficiente seguridad.
+Propuesta: Solamente Milagros (TMDB 244260)
+Candidatos ordenados:
+  - Solamente Milagros (244260) | puntos=-4 | exactas=0 | parciales=0 | incompatibles=0 | no encontradas=1 | título exacto=true
+
+--------------------------------------------
+Serie: Danny Go! Español
+Estado original: REVISAR
+Recomendación: SIN_CANDIDATOS
+Confianza: BAJA
+Motivo: No hay candidatos en el informe original. Esta segunda pasada no realiza búsquedas nuevas.
+
+--------------------------------------------
+Serie: Cinta
+Estado original: AMBIGUO
+Recomendación: AMBIGUO_CONSERVADO
+Confianza: BAJA
+Motivo: Los candidatos no tienen una ventaja suficientemente sólida. Se conserva la revisión manual.
+Candidatos ordenados:
+  - Made with Love (315595) | puntos=10 | exactas=1 | parciales=0 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - Kupilih Cinta (152516) | puntos=10 | exactas=1 | parciales=0 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - What We Lose to Love (206566) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - Titian Cinta (74142) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - Degup Cinta (103894) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - High School Love (50338) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - Tahajjud Cinta (76624) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - Cinta Fitri (135677) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+
+--------------------------------------------
+Serie: Kevin
+Estado original: AMBIGUO
+Recomendación: AMBIGUO_CONSERVADO
+Confianza: BAJA
+Motivo: Los candidatos no tienen una ventaja suficientemente sólida. Se conserva la revisión manual.
+Candidatos ordenados:
+  - Kevin (255760) | puntos=13 | exactas=1 | parciales=0 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - Kevin Can F**K Himself (99652) | puntos=10 | exactas=1 | parciales=0 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - Funny AF with Kevin Hart (311991) | puntos=10 | exactas=1 | parciales=0 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - Kevin Hill (9762) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - Kevin Can Wait (67132) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - Kevin (Probably) Saves the World (71725) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - Kevin from Work (62412) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - It's Kevin (59511) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+
+--------------------------------------------
+Serie: El profe
+Estado original: AMBIGUO
+Recomendación: AMBIGUO_CONSERVADO
+Confianza: BAJA
+Motivo: Los candidatos no tienen una ventaja suficientemente sólida. Se conserva la revisión manual.
+Candidatos ordenados:
+  - Flunked (287978) | puntos=13 | exactas=1 | parciales=0 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - English Teacher (258902) | puntos=10 | exactas=1 | parciales=0 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - The Critic (1839) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - Women's Murder Club (3371) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - Tatsuki: Too Kind for School (315704) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - The Practice (3050) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+  - Trust Me: The False Prophet (316898) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+  - Il camorrista - Una serie di Giuseppe Tornatore (285758) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+
+--------------------------------------------
+Serie: Dar luz a la noche
+Estado original: REVISAR
+Recomendación: SIN_CANDIDATOS
+Confianza: BAJA
+Motivo: No hay candidatos en el informe original. Esta segunda pasada no realiza búsquedas nuevas.
+
+--------------------------------------------
+Serie: Némesis
+Estado original: AMBIGUO
+Recomendación: AMBIGUO_CONSERVADO
+Confianza: BAJA
+Motivo: Los candidatos no tienen una ventaja suficientemente sólida. Se conserva la revisión manual.
+Candidatos ordenados:
+  - Nemesis (285807) | puntos=13 | exactas=1 | parciales=0 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - Nemesis (158902) | puntos=13 | exactas=1 | parciales=0 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - Nemesis (122851) | puntos=8 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - The Champions (4579) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - My Royal Nemesis (303143) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - Threshold (1441) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - My Dearest Nemesis (259015) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - Ms Ma, Nemesis (82658) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - Nemesis (314189) | puntos=1 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=true
+  - Nemesis (244276) | puntos=1 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=true
+  - Nemesis (214976) | puntos=1 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=true
+  - Nemesis วุ่นรักชำระแค้น (236203) | puntos=1 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=true
+  - Jack Taylor (46705) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+
+--------------------------------------------
+Serie: Rivales
+Estado original: AMBIGUO
+Recomendación: AMBIGUO_CONSERVADO
+Confianza: BAJA
+Motivo: Los candidatos no tienen una ventaja suficientemente sólida. Se conserva la revisión manual.
+Candidatos ordenados:
+  - Rivals (208921) | puntos=18 | exactas=1 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - Ink Master (46286) | puntos=15 | exactas=1 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - Benim İçin Üzülme (78068) | puntos=10 | exactas=0 | parciales=2 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - Amigas y rivales (12861) | puntos=-2 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=1 | título exacto=false
+  - Magkaribal (32566) | puntos=-2 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=1 | título exacto=false
+  - Heated Rivalry (301507) | puntos=-9 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=1 | título exacto=false
+  - Rivals Forever - The Sneaker Battle (77288) | puntos=-9 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=1 | título exacto=false
+  - The Greatest Rivalry: India vs Pakistan (247833) | puntos=-9 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=1 | título exacto=false
+
+--------------------------------------------
+Serie: La canción del samurái
+Estado original: REVISAR
+Recomendación: AMBIGUO_CONSERVADO
+Confianza: BAJA
+Motivo: Los candidatos no tienen una ventaja suficientemente sólida. Se conserva la revisión manual.
+Candidatos ordenados:
+  - Song of the Samurai - Chapter: Youthful Days in Edo (302162) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+  - Song of the Samurai - Chapter: Fateful Showdown in Kyoto (320340) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+
+--------------------------------------------
+Serie: Pequeñas historias de Bluey
+Estado original: REVISAR
+Recomendación: CANDIDATO_UNICO_PARA_REVISAR
+Confianza: BAJA
+Motivo: Solo hay un candidato, pero la evidencia disponible no permite recomendarlo con suficiente seguridad.
+Propuesta: Bluey Minisodes (TMDB 256953)
+Candidatos ordenados:
+  - Bluey Minisodes (256953) | puntos=-9 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=1 | título exacto=false
+
+--------------------------------------------
+Serie: Amor Eterno
+Estado original: AMBIGUO
+Recomendación: AMBIGUO_CONSERVADO
+Confianza: BAJA
+Motivo: Los candidatos no tienen una ventaja suficientemente sólida. Se conserva la revisión manual.
+Candidatos ordenados:
+  - Boogie Oogie (84612) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - Perfect Heart (202662) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - Amor Eterno Amor (46180) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - Endless Love (65555) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+  - My Siblings (119267) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+  - Eternal Love (69316) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+  - Forever Love (233753) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+  - Snowy Night Timeless Love (263037) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+  - Endless Love (323145) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+
+--------------------------------------------
+Serie: Ezel
+Estado original: REVISAR
+Recomendación: AMBIGUO_CONSERVADO
+Confianza: BAJA
+Motivo: Los candidatos no tienen una ventaja suficientemente sólida. Se conserva la revisión manual.
+Candidatos ordenados:
+  - Ezel (32519) | puntos=1 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=true
+  - Urfalıyam Ezelden (208065) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+  - Op 3 ezels (37081) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+
+--------------------------------------------
+Serie: La Señora Fazilet y sus Hijas
+Estado original: REVISAR
+Recomendación: CANDIDATO_UNICO_PARA_REVISAR
+Confianza: BAJA
+Motivo: Solo hay un candidato, pero la evidencia disponible no permite recomendarlo con suficiente seguridad.
+Propuesta: Mrs. Fazilet and Her Daughters (TMDB 76560)
+Candidatos ordenados:
+  - Mrs. Fazilet and Her Daughters (76560) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+
+--------------------------------------------
+Serie: Traicionada (Sadakatzis)
+Estado original: REVISAR
+Recomendación: CANDIDATO_UNICO_PARA_REVISAR
+Confianza: BAJA
+Motivo: Solo hay un candidato, pero la evidencia disponible no permite recomendarlo con suficiente seguridad.
+Propuesta: A Woman Scorned (TMDB 110562)
+Candidatos ordenados:
+  - A Woman Scorned (110562) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+
+--------------------------------------------
+Serie: El amor invencible
+Estado original: REVISAR
+Recomendación: PROPUESTA_CANDIDATO_UNICO
+Confianza: BAJA
+Motivo: Solo hay un candidato disponible y presenta evidencia de título o estructura. Requiere confirmación manual.
+Propuesta: El amor invencible (TMDB 220992)
+Candidatos ordenados:
+  - El amor invencible (220992) | puntos=1 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=true
+
+--------------------------------------------
+Serie: myeol mang one day destruction
+Estado original: REVISAR
+Recomendación: SIN_CANDIDATOS
+Confianza: BAJA
+Motivo: No hay candidatos en el informe original. Esta segunda pasada no realiza búsquedas nuevas.
+
+--------------------------------------------
+Serie: Fatmagul
+Estado original: REVISAR
+Recomendación: CANDIDATO_UNICO_PARA_REVISAR
+Confianza: BAJA
+Motivo: Solo hay un candidato, pero la evidencia disponible no permite recomendarlo con suficiente seguridad.
+Propuesta: What is Fatmagul's Fault? (TMDB 44807)
+Candidatos ordenados:
+  - What is Fatmagul's Fault? (44807) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+
+--------------------------------------------
+Serie: La familia Ingalls
+Estado original: REVISAR
+Recomendación: AMBIGUO_CONSERVADO
+Confianza: BAJA
+Motivo: Los candidatos no tienen una ventaja suficientemente sólida. Se conserva la revisión manual.
+Candidatos ordenados:
+  - Little House on the Prairie (1781) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+  - Little House on the Prairie (15717) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+
+--------------------------------------------
+Serie: Dinosaurios
+Estado original: REVISAR
+Recomendación: PROPUESTA_ESTRUCTURA_DOMINANTE
+Confianza: ALTA_PARA_REVISION
+Motivo: El candidato lidera por estructura: 2 temporadas exactas, 1 parciales y 1 incompatibles. Ventaja de puntuación: 27 puntos. La selección todavía requiere revisión.
+Propuesta: Dinosaurs (TMDB 3763)
+Candidatos ordenados:
+  - Dinosaurs (3763) | puntos=23 | exactas=2 | parciales=1 | incompatibles=1 | no encontradas=0 | título exacto=false
+  - Harry and His Bucket Full of Dinosaurs (35225) | puntos=-4 | exactas=0 | parciales=2 | incompatibles=0 | no encontradas=2 | título exacto=false
+  - Dinossaurs & Robots (41263) | puntos=-16 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=3 | título exacto=false
+  - Yabba-Dabba Dinosaurs (109086) | puntos=-16 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=3 | título exacto=false
+  - The Dinosaurs (313298) | puntos=-23 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=3 | título exacto=false
+  - Dinotopia (73536) | puntos=-23 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=3 | título exacto=false
+  - Walking with Dinosaurs (256924) | puntos=-23 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=3 | título exacto=false
+  - Bad Dinosaurs (249018) | puntos=-23 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=3 | título exacto=false
+
+--------------------------------------------
+Serie: Power Rangers
+Estado original: REVISAR
+Recomendación: PROPUESTA_ESTRUCTURA_DOMINANTE
+Confianza: ALTA_PARA_REVISION
+Motivo: El candidato lidera por estructura: 3 temporadas exactas, 1 parciales y 1 incompatibles. Ventaja de puntuación: 61 puntos. La selección todavía requiere revisión.
+Propuesta: Power Rangers (TMDB 2328)
+Candidatos ordenados:
+  - Power Rangers (2328) | puntos=36 | exactas=3 | parciales=1 | incompatibles=1 | no encontradas=0 | título exacto=true
+  - Ohsama Sentai King-Ohger (213439) | puntos=-25 | exactas=0 | parciales=0 | incompatibles=2 | no encontradas=3 | título exacto=false
+  - Zyuden Sentai Kyoryuger (95503) | puntos=-25 | exactas=0 | parciales=0 | incompatibles=2 | no encontradas=3 | título exacto=false
+  - Kikai Sentai Zenkaiger (120398) | puntos=-30 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=4 | título exacto=false
+  - Engine Sentai Go-Onger (5615) | puntos=-30 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=4 | título exacto=false
+  - No. 1 Sentai Gozyuger (275648) | puntos=-30 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=4 | título exacto=false
+  - Uchuu Sentai Kyuranger (103386) | puntos=-30 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=4 | título exacto=false
+  - Bakuage Sentai Boonboomger (234667) | puntos=-30 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=4 | título exacto=false
+
+--------------------------------------------
+Serie: Pa Quererte
+Estado original: REVISAR
+Recomendación: PROPUESTA_CANDIDATO_UNICO
+Confianza: MEDIA
+Motivo: Solo hay un candidato disponible y presenta evidencia de título o estructura. Requiere confirmación manual.
+Propuesta: Pa' Quererte (TMDB 136228)
+Candidatos ordenados:
+  - Pa' Quererte (136228) | puntos=1 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=1 | título exacto=true
+
+--------------------------------------------
+Serie: Lost
+Estado original: AMBIGUO
+Recomendación: PROPUESTA_ESTRUCTURA_DOMINANTE
+Confianza: ALTA_PARA_REVISION
+Motivo: El candidato lidera por estructura: 2 temporadas exactas, 0 parciales y 2 incompatibles. Ventaja de puntuación: 11 puntos. La selección todavía requiere revisión.
+Propuesta: Lost (TMDB 4607)
+Candidatos ordenados:
+  - Lost (4607) | puntos=19 | exactas=2 | parciales=0 | incompatibles=2 | no encontradas=0 | título exacto=true
+  - Lost in Space (3051) | puntos=8 | exactas=0 | parciales=3 | incompatibles=0 | no encontradas=1 | título exacto=false
+  - Lost Girl (33852) | puntos=-8 | exactas=0 | parciales=0 | incompatibles=4 | no encontradas=0 | título exacto=false
+  - Lost in Space (75758) | puntos=-13 | exactas=0 | parciales=0 | incompatibles=3 | no encontradas=1 | título exacto=false
+  - The Lost World (896) | puntos=-13 | exactas=0 | parciales=0 | incompatibles=3 | no encontradas=1 | título exacto=false
+  - Saint Seiya: The Lost Canvas (61389) | puntos=-16 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=3 | título exacto=false
+  - Lost (129318) | puntos=-20 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=3 | título exacto=true
+  - Regular Show: The Lost Tapes (256695) | puntos=-23 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=3 | título exacto=false
+  - The Lost Room (3868) | puntos=-23 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=3 | título exacto=false
+
+--------------------------------------------
+Serie: Star Wars: Visions presenta - La Jedi número 9
+Estado original: REVISAR
+Recomendación: SIN_CANDIDATOS
+Confianza: BAJA
+Motivo: No hay candidatos en el informe original. Esta segunda pasada no realiza búsquedas nuevas.
+
+--------------------------------------------
+Serie: Conversaciones con asesinos: Las cintas de Charles Manson
+Estado original: REVISAR
+Recomendación: AMBIGUO_CONSERVADO
+Confianza: BAJA
+Motivo: Los candidatos no tienen una ventaja suficientemente sólida. Se conserva la revisión manual.
+Candidatos ordenados:
+  - Conversations with a Killer: The Jeffrey Dahmer Tapes (209167) | puntos=-7 | exactas=0 | parciales=0 | incompatibles=0 | no encontradas=1 | título exacto=false
+  - Conversations with a Killer: The Charles Manson Tapes (330320) | puntos=-7 | exactas=0 | parciales=0 | incompatibles=0 | no encontradas=1 | título exacto=false
+  - Conversations with a Killer: The John Wayne Gacy Tapes (197248) | puntos=-7 | exactas=0 | parciales=0 | incompatibles=0 | no encontradas=1 | título exacto=false
+  - Conversations with a Killer: The Ted Bundy Tapes (85833) | puntos=-7 | exactas=0 | parciales=0 | incompatibles=0 | no encontradas=1 | título exacto=false
+  - Conversations with a Killer: The Son of Sam Tapes (294611) | puntos=-7 | exactas=0 | parciales=0 | incompatibles=0 | no encontradas=1 | título exacto=false
+
+--------------------------------------------
+Serie: Néctar en el cielo
+Estado original: REVISAR
+Recomendación: CANDIDATO_UNICO_PARA_REVISAR
+Confianza: BAJA
+Motivo: Solo hay un candidato, pero la evidencia disponible no permite recomendarlo con suficiente seguridad.
+Propuesta: Néctar en el cielo (TMDB 157723)
+Candidatos ordenados:
+  - Néctar en el cielo (157723) | puntos=-4 | exactas=0 | parciales=0 | incompatibles=0 | no encontradas=1 | título exacto=true
+
+--------------------------------------------
+Serie: Little Margo Stories
+Estado original: REVISAR
+Recomendación: PROPUESTA_CANDIDATO_UNICO
+Confianza: BAJA
+Motivo: Solo hay un candidato disponible y presenta evidencia de título o estructura. Requiere confirmación manual.
+Propuesta: Little Margo Stories (TMDB 252512)
+Candidatos ordenados:
+  - Little Margo Stories (252512) | puntos=1 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=true
+
+--------------------------------------------
+Serie: Fragmentos
+Estado original: AMBIGUO
+Recomendación: AMBIGUO_CONSERVADO
+Confianza: BAJA
+Motivo: Los candidatos no tienen una ventaja suficientemente sólida. Se conserva la revisión manual.
+Candidatos ordenados:
+  - The Shards (298168) | puntos=13 | exactas=1 | parciales=0 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - Shards of Her (197235) | puntos=10 | exactas=1 | parciales=0 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - Manson Speaks: Inside the Mind of a Madman (77292) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+  - Fragmentos de interior (103539) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+  - W.Doc Fragmentos (328737) | puntos=-7 | exactas=0 | parciales=0 | incompatibles=0 | no encontradas=1 | título exacto=false
+
+--------------------------------------------
+Serie: Chumbak
+Estado original: AMBIGUO
+Recomendación: AMBIGUO_CONSERVADO
+Confianza: BAJA
+Motivo: Los candidatos no tienen una ventaja suficientemente sólida. Se conserva la revisión manual.
+Candidatos ordenados:
+  - Chumbak (313172) | puntos=8 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - Chumbak (309225) | puntos=8 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - Chumbak (224596) | puntos=1 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=true
+  - Chumbak (313227) | puntos=1 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=true
+
+--------------------------------------------
+Serie: Youth
+Estado original: AMBIGUO
+Recomendación: AMBIGUO_CONSERVADO
+Confianza: BAJA
+Motivo: Los candidatos no tienen una ventaja suficientemente sólida. Se conserva la revisión manual.
+Candidatos ordenados:
+  - Youth (285418) | puntos=8 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - Youth (312854) | puntos=8 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - Youth (116373) | puntos=8 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - Youth (82762) | puntos=8 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - Youth Periplous (106938) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - Record of Youth (99047) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - The Blood of Youth (216943) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - Youth Over Flowers (68876) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - Dashing Youth (258280) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - Youth of May (119466) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+
+--------------------------------------------
+Serie: Harlem
+Estado original: AMBIGUO
+Recomendación: AMBIGUO_CONSERVADO
+Confianza: BAJA
+Motivo: Los candidatos no tienen una ventaja suficientemente sólida. Se conserva la revisión manual.
+Candidatos ordenados:
+  - Harlem (138089) | puntos=18 | exactas=1 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - Godfather of Harlem (79086) | puntos=15 | exactas=1 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - Where I Live (2716) | puntos=10 | exactas=0 | parciales=2 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - Harlem Globetrotters (5305) | puntos=10 | exactas=0 | parciales=2 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - Harlem Globetrotters: Play It Forward (219374) | puntos=10 | exactas=0 | parciales=2 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - Harlem Ice (282252) | puntos=-9 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=1 | título exacto=false
+  - By Whatever Means Necessary: The Times of Godfather of Harlem (114100) | puntos=-9 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=1 | título exacto=false
+  - I Remember Harlem (77057) | puntos=-9 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=1 | título exacto=false
+
+--------------------------------------------
+Serie: Irremplazable
+Estado original: REVISAR
+Recomendación: SIN_CANDIDATOS
+Confianza: BAJA
+Motivo: No hay candidatos en el informe original. Esta segunda pasada no realiza búsquedas nuevas.
+
+--------------------------------------------
+Serie: Coven Academy: El Secreto de las Brujas
+Estado original: REVISAR
+Recomendación: CANDIDATO_UNICO_PARA_REVISAR
+Confianza: BAJA
+Motivo: Solo hay un candidato, pero la evidencia disponible no permite recomendarlo con suficiente seguridad.
+Propuesta: Coven Academy (TMDB 298505)
+Candidatos ordenados:
+  - Coven Academy (298505) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false
+
+--------------------------------------------
+Serie: África: el hogar de la vida salvaje
+Estado original: REVISAR
+Recomendación: SIN_CANDIDATOS
+Confianza: BAJA
+Motivo: No hay candidatos en el informe original. Esta segunda pasada no realiza búsquedas nuevas.
+
+--------------------------------------------
+Serie: Entre pasos: En busca de un sueño
+Estado original: REVISAR
+Recomendación: SIN_CANDIDATOS
+Confianza: BAJA
+Motivo: No hay candidatos en el informe original. Esta segunda pasada no realiza búsquedas nuevas.
+
+--------------------------------------------
+Serie: El Círculo
+Estado original: AMBIGUO
+Recomendación: AMBIGUO_CONSERVADO
+Confianza: BAJA
+Motivo: Los candidatos no tienen una ventaja suficientemente sólida. Se conserva la revisión manual.
+Candidatos ordenados:
+  - Inside the Circle (290233) | puntos=13 | exactas=1 | parciales=0 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - El Círculo (284768) | puntos=13 | exactas=1 | parciales=0 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - El círculo de los famosos (219264) | puntos=10 | exactas=1 | parciales=0 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - Halka (85545) | puntos=8 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=true
+  - The Secret Circle (37664) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - Into The Ring (104735) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - Hitler's Circle of Evil (77393) | puntos=5 | exactas=0 | parciales=1 | incompatibles=0 | no encontradas=0 | título exacto=false
+  - En el círculo del asesino (303506) | puntos=-2 | exactas=0 | parciales=0 | incompatibles=1 | no encontradas=0 | título exacto=false

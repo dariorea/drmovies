@@ -1,0 +1,2943 @@
+AUDITORÍA DE MATCHES — LISTA 6
+================================
+
+Matches auditados: 1048
+MATCH_FUERTE: 677
+MATCH_PROBABLE: 371
+
+RESUMEN DE AUDITORÍA
+--------------------
+REVISAR: 151
+CONSISTENTE: 737
+ESTRUCTURA_DEBIL: 112
+MATCH_PROBABLE_CON_ESTRUCTURA_EXACTA: 48
+
+CASOS QUE REQUIEREN ATENCIÓN
+============================
+
+[ESTRUCTURA_DEBIL] Happy Tree Friends
+  Decisión original: MATCH_PROBABLE
+  Elegido: Happy Tree Friends (TMDB 1126)
+  Estructura: 89 M3U / 180 TMDB
+  Temporadas: 4 M3U / 11 TMDB
+  Score estructural: 75/100 (DEBIL)
+  Temporadas exactas: 4; cercanas: 0; incompatibles: 0; ausentes: 0
+  - La estructura del candidato elegido es débil
+  Candidatos:
+    TMDB 1126 | Happy Tree Friends | estructura 75/100 | DEBIL | 89/180 episodios
+    TMDB 334874 | Happy Tree Friends | estructura 12/100 | DEBIL | 89/39 episodios
+
+[ESTRUCTURA_DEBIL] El plan del diablo
+  Decisión original: MATCH_PROBABLE
+  Elegido: The Devil's Plan (TMDB 214582)
+  Estructura: 12 M3U / 26 TMDB
+  Temporadas: 1 M3U / 3 TMDB
+  Score estructural: 74/100 (DEBIL)
+  Temporadas exactas: 1; cercanas: 0; incompatibles: 0; ausentes: 0
+  - La estructura del candidato elegido es débil
+  Candidatos:
+    TMDB 214582 | The Devil's Plan | estructura 74/100 | DEBIL | 12/26 episodios
+
+[ESTRUCTURA_DEBIL] Como atrapé a mi asesino
+  Decisión original: MATCH_PROBABLE
+  Elegido: How I Caught My Killer (TMDB 217448)
+  Estructura: 9 M3U / 19 TMDB
+  Temporadas: 1 M3U / 2 TMDB
+  Score estructural: 74/100 (DEBIL)
+  Temporadas exactas: 1; cercanas: 0; incompatibles: 0; ausentes: 0
+  - La estructura del candidato elegido es débil
+  Candidatos:
+    TMDB 217448 | How I Caught My Killer | estructura 74/100 | DEBIL | 9/19 episodios
+
+[ESTRUCTURA_DEBIL] Glitch Techs
+  Decisión original: MATCH_PROBABLE
+  Elegido: Glitch Techs (TMDB 98494)
+  Estructura: 9 M3U / 19 TMDB
+  Temporadas: 1 M3U / 2 TMDB
+  Score estructural: 74/100 (DEBIL)
+  Temporadas exactas: 1; cercanas: 0; incompatibles: 0; ausentes: 0
+  - La estructura del candidato elegido es débil
+  Candidatos:
+    TMDB 98494 | Glitch Techs | estructura 74/100 | DEBIL | 9/19 episodios
+
+[ESTRUCTURA_DEBIL] Lakers: Tiempo de ganar
+  Decisión original: MATCH_PROBABLE
+  Elegido: Winning Time: The Rise of the Lakers Dynasty (TMDB 124067)
+  Estructura: 8 M3U / 17 TMDB
+  Temporadas: 1 M3U / 2 TMDB
+  Score estructural: 74/100 (DEBIL)
+  Temporadas exactas: 0; cercanas: 1; incompatibles: 0; ausentes: 0
+  - La estructura del candidato elegido es débil
+  Candidatos:
+    TMDB 124067 | Winning Time: The Rise of the Lakers Dynasty | estructura 74/100 | DEBIL | 8/17 episodios
+
+[ESTRUCTURA_DEBIL] Vilma
+  Decisión original: MATCH_PROBABLE
+  Elegido: Velma (TMDB 126725)
+  Estructura: 10 M3U / 21 TMDB
+  Temporadas: 1 M3U / 2 TMDB
+  Score estructural: 74/100 (DEBIL)
+  Temporadas exactas: 1; cercanas: 0; incompatibles: 0; ausentes: 0
+  - La estructura del candidato elegido es débil
+  Candidatos:
+    TMDB 126725 | Velma | estructura 74/100 | DEBIL | 10/21 episodios
+    TMDB 32952 | Vilma! | estructura 0/100 | DEBIL | 10/0 episodios
+
+[ESTRUCTURA_DEBIL] Bajo la Red
+  Decisión original: MATCH_PROBABLE
+  Elegido: Bajo la Red (TMDB 82364)
+  Estructura: 6 M3U / 13 TMDB
+  Temporadas: 1 M3U / 2 TMDB
+  Score estructural: 74/100 (DEBIL)
+  Temporadas exactas: 1; cercanas: 0; incompatibles: 0; ausentes: 0
+  - La estructura del candidato elegido es débil
+  Candidatos:
+    TMDB 82364 | Bajo la Red | estructura 74/100 | DEBIL | 6/13 episodios
+
+[ESTRUCTURA_DEBIL] Súper Once
+  Decisión original: MATCH_PROBABLE
+  Elegido: Inazuma Eleven (TMDB 42912)
+  Estructura: 127 M3U / 268 TMDB
+  Temporadas: 1 M3U / 4 TMDB
+  Score estructural: 74/100 (DEBIL)
+  Temporadas exactas: 1; cercanas: 0; incompatibles: 0; ausentes: 0
+  - La estructura del candidato elegido es débil
+  Candidatos:
+    TMDB 42912 | Inazuma Eleven | estructura 74/100 | DEBIL | 127/268 episodios
+
+[ESTRUCTURA_DEBIL] Seraph of the End
+  Decisión original: MATCH_PROBABLE
+  Elegido: Seraph of the End (TMDB 62255)
+  Estructura: 11 M3U / 24 TMDB
+  Temporadas: 1 M3U / 2 TMDB
+  Score estructural: 74/100 (DEBIL)
+  Temporadas exactas: 0; cercanas: 1; incompatibles: 0; ausentes: 0
+  - La estructura del candidato elegido es débil
+  Candidatos:
+    TMDB 62255 | Seraph of the End | estructura 74/100 | DEBIL | 11/24 episodios
+
+[ESTRUCTURA_DEBIL] The Family Stallone
+  Decisión original: MATCH_PROBABLE
+  Elegido: The Family Stallone (TMDB 222236)
+  Estructura: 8 M3U / 18 TMDB
+  Temporadas: 1 M3U / 2 TMDB
+  Score estructural: 73/100 (DEBIL)
+  Temporadas exactas: 1; cercanas: 0; incompatibles: 0; ausentes: 0
+  - La estructura del candidato elegido es débil
+  Candidatos:
+    TMDB 222236 | The Family Stallone | estructura 73/100 | DEBIL | 8/18 episodios
+
+[ESTRUCTURA_DEBIL] Dulce amargura
+  Decisión original: MATCH_PROBABLE
+  Elegido: Sweetbitter (TMDB 77032)
+  Estructura: 6 M3U / 14 TMDB
+  Temporadas: 1 M3U / 2 TMDB
+  Score estructural: 73/100 (DEBIL)
+  Temporadas exactas: 1; cercanas: 0; incompatibles: 0; ausentes: 0
+  - La estructura del candidato elegido es débil
+  Candidatos:
+    TMDB 77032 | Sweetbitter | estructura 73/100 | DEBIL | 6/14 episodios
+
+[ESTRUCTURA_DEBIL] Familia en reparación
+  Decisión original: MATCH_PROBABLE
+  Elegido: Shifting Gears (TMDB 260471)
+  Estructura: 10 M3U / 23 TMDB
+  Temporadas: 1 M3U / 2 TMDB
+  Score estructural: 73/100 (DEBIL)
+  Temporadas exactas: 1; cercanas: 0; incompatibles: 0; ausentes: 0
+  - La estructura del candidato elegido es débil
+  Candidatos:
+    TMDB 260471 | Shifting Gears | estructura 73/100 | DEBIL | 10/23 episodios
+
+[ESTRUCTURA_DEBIL] En busca de pruebas
+  Decisión original: MATCH_PROBABLE
+  Elegido: Reasonable Doubt (TMDB 205272)
+  Estructura: 17 M3U / 39 TMDB
+  Temporadas: 2 M3U / 4 TMDB
+  Score estructural: 73/100 (DEBIL)
+  Temporadas exactas: 1; cercanas: 1; incompatibles: 0; ausentes: 0
+  - La estructura del candidato elegido es débil
+  Candidatos:
+    TMDB 205272 | Reasonable Doubt | estructura 73/100 | DEBIL | 17/39 episodios
+
+[ESTRUCTURA_DEBIL] Criminal: Reino Unido
+  Decisión original: MATCH_PROBABLE
+  Elegido: Criminal: UK (TMDB 92926)
+  Estructura: 3 M3U / 7 TMDB
+  Temporadas: 1 M3U / 2 TMDB
+  Score estructural: 73/100 (DEBIL)
+  Temporadas exactas: 1; cercanas: 0; incompatibles: 0; ausentes: 0
+  - La estructura del candidato elegido es débil
+  Candidatos:
+    TMDB 92926 | Criminal: UK | estructura 73/100 | DEBIL | 3/7 episodios
+
+[ESTRUCTURA_DEBIL] Menor de edad infiltrada
+  Decisión original: MATCH_PROBABLE
+  Elegido: Undercover Underage (TMDB 137527)
+  Estructura: 6 M3U / 14 TMDB
+  Temporadas: 1 M3U / 2 TMDB
+  Score estructural: 73/100 (DEBIL)
+  Temporadas exactas: 1; cercanas: 0; incompatibles: 0; ausentes: 0
+  - La estructura del candidato elegido es débil
+  Candidatos:
+    TMDB 137527 | Undercover Underage | estructura 73/100 | DEBIL | 6/14 episodios
+
+[ESTRUCTURA_DEBIL] Al Fondo Hay Sitio
+  Decisión original: MATCH_PROBABLE
+  Elegido: Al Fondo Hay Sitio (TMDB 32209)
+  Estructura: 991 M3U / 2327 TMDB
+  Temporadas: 5 M3U / 12 TMDB
+  Score estructural: 73/100 (DEBIL)
+  Temporadas exactas: 3; cercanas: 2; incompatibles: 0; ausentes: 0
+  - La estructura del candidato elegido es débil
+  Candidatos:
+    TMDB 32209 | Al Fondo Hay Sitio | estructura 73/100 | DEBIL | 991/2327 episodios
+
+[ESTRUCTURA_DEBIL] Aquellos maravillosos 90
+  Decisión original: MATCH_PROBABLE
+  Elegido: That '90s Show (TMDB 135959)
+  Estructura: 10 M3U / 26 TMDB
+  Temporadas: 1 M3U / 2 TMDB
+  Score estructural: 72/100 (DEBIL)
+  Temporadas exactas: 1; cercanas: 0; incompatibles: 0; ausentes: 0
+  - La estructura del candidato elegido es débil
+  Candidatos:
+    TMDB 135959 | That '90s Show | estructura 72/100 | DEBIL | 10/26 episodios
+
+[ESTRUCTURA_DEBIL] El niñero
+  Decisión original: MATCH_PROBABLE
+  Elegido: The Manny (TMDB 241373)
+  Estructura: 10 M3U / 26 TMDB
+  Temporadas: 1 M3U / 3 TMDB
+  Score estructural: 72/100 (DEBIL)
+  Temporadas exactas: 1; cercanas: 0; incompatibles: 0; ausentes: 0
+  - La estructura del candidato elegido es débil
+  Candidatos:
+    TMDB 241373 | The Manny | estructura 72/100 | DEBIL | 10/26 episodios
+
+[ESTRUCTURA_DEBIL] Caníbal
+  Decisión original: MATCH_PROBABLE
+  Elegido: Gannibal (TMDB 210213)
+  Estructura: 6 M3U / 15 TMDB
+  Temporadas: 1 M3U / 2 TMDB
+  Score estructural: 72/100 (DEBIL)
+  Temporadas exactas: 0; cercanas: 1; incompatibles: 0; ausentes: 0
+  - La estructura del candidato elegido es débil
+  Candidatos:
+    TMDB 210213 | Gannibal | estructura 72/100 | DEBIL | 6/15 episodios
+
+[ESTRUCTURA_DEBIL] Martin Mystery
+  Decisión original: MATCH_PROBABLE
+  Elegido: Martin Mystery (TMDB 140)
+  Estructura: 26 M3U / 66 TMDB
+  Temporadas: 1 M3U / 3 TMDB
+  Score estructural: 72/100 (DEBIL)
+  Temporadas exactas: 1; cercanas: 0; incompatibles: 0; ausentes: 0
+  - La estructura del candidato elegido es débil
+  Candidatos:
+    TMDB 140 | Martin Mystery | estructura 72/100 | DEBIL | 26/66 episodios
+
+[ESTRUCTURA_DEBIL] The Closer
+  Decisión original: MATCH_PROBABLE
+  Elegido: The Closer (TMDB 1450)
+  Estructura: 41 M3U / 109 TMDB
+  Temporadas: 3 M3U / 7 TMDB
+  Score estructural: 71/100 (DEBIL)
+  Temporadas exactas: 1; cercanas: 2; incompatibles: 0; ausentes: 0
+  - La estructura del candidato elegido es débil
+  Candidatos:
+    TMDB 1450 | The Closer | estructura 71/100 | DEBIL | 41/109 episodios
+    TMDB 4912 | The Closer | estructura 9/100 | DEBIL | 41/10 episodios
+
+[ESTRUCTURA_DEBIL] Bookie
+  Decisión original: MATCH_PROBABLE
+  Elegido: Bookie (TMDB 221486)
+  Estructura: 6 M3U / 16 TMDB
+  Temporadas: 1 M3U / 2 TMDB
+  Score estructural: 71/100 (DEBIL)
+  Temporadas exactas: 0; cercanas: 1; incompatibles: 0; ausentes: 0
+  - La estructura del candidato elegido es débil
+  Candidatos:
+    TMDB 221486 | Bookie | estructura 71/100 | DEBIL | 6/16 episodios
+
+[ESTRUCTURA_DEBIL] The Curious Case of Natalia Grace
+  Decisión original: MATCH_PROBABLE
+  Elegido: The Curious Case of Natalia Grace (TMDB 226706)
+  Estructura: 6 M3U / 16 TMDB
+  Temporadas: 1 M3U / 3 TMDB
+  Score estructural: 71/100 (DEBIL)
+  Temporadas exactas: 1; cercanas: 0; incompatibles: 0; ausentes: 0
+  - La estructura del candidato elegido es débil
+  Candidatos:
+    TMDB 226706 | The Curious Case of Natalia Grace | estructura 71/100 | DEBIL | 6/16 episodios
+
+[ESTRUCTURA_DEBIL] Las Bravas F.C.
+  Decisión original: MATCH_PROBABLE
+  Elegido: Las Bravas F.C. (TMDB 197549)
+  Estructura: 6 M3U / 16 TMDB
+  Temporadas: 1 M3U / 2 TMDB
+  Score estructural: 71/100 (DEBIL)
+  Temporadas exactas: 0; cercanas: 1; incompatibles: 0; ausentes: 0
+  - La estructura del candidato elegido es débil
+  Candidatos:
+    TMDB 197549 | Las Bravas F.C. | estructura 71/100 | DEBIL | 6/16 episodios
+
+[ESTRUCTURA_DEBIL] Pixie and Dixie and Mr. Jinks
+  Decisión original: MATCH_PROBABLE
+  Elegido: Pixie and Dixie and Mr. Jinks (TMDB 21471)
+  Estructura: 20 M3U / 57 TMDB
+  Temporadas: 1 M3U / 4 TMDB
+  Score estructural: 71/100 (DEBIL)
+  Temporadas exactas: 0; cercanas: 1; incompatibles: 0; ausentes: 0
+  - La estructura del candidato elegido es débil
+  Candidatos:
+    TMDB 21471 | Pixie and Dixie and Mr. Jinks | estructura 71/100 | DEBIL | 20/57 episodios
+
+[ESTRUCTURA_DEBIL] El Pequeño Bheem
+  Decisión original: MATCH_PROBABLE
+  Elegido: Mighty Little Bheem (TMDB 88393)
+  Estructura: 21 M3U / 64 TMDB
+  Temporadas: 1 M3U / 3 TMDB
+  Score estructural: 70/100 (DEBIL)
+  Temporadas exactas: 1; cercanas: 0; incompatibles: 0; ausentes: 0
+  - La estructura del candidato elegido es débil
+  Candidatos:
+    TMDB 88393 | Mighty Little Bheem | estructura 70/100 | DEBIL | 21/64 episodios
+
+[ESTRUCTURA_DEBIL] 3Hz
+  Decisión original: MATCH_PROBABLE
+  Elegido: 3Hz (TMDB 208427)
+  Estructura: 13 M3U / 39 TMDB
+  Temporadas: 1 M3U / 3 TMDB
+  Score estructural: 70/100 (DEBIL)
+  Temporadas exactas: 1; cercanas: 0; incompatibles: 0; ausentes: 0
+  - La estructura del candidato elegido es débil
+  - Título corto o genérico: requiere mayor evidencia estructural
+  Candidatos:
+    TMDB 208427 | 3Hz | estructura 70/100 | DEBIL | 13/39 episodios
+
+[ESTRUCTURA_DEBIL] Tour de Francia: En el corazón del pelotón
+  Decisión original: MATCH_PROBABLE
+  Elegido: Tour de France: Unchained (TMDB 225335)
+  Estructura: 8 M3U / 24 TMDB
+  Temporadas: 1 M3U / 3 TMDB
+  Score estructural: 70/100 (DEBIL)
+  Temporadas exactas: 1; cercanas: 0; incompatibles: 0; ausentes: 0
+  - La estructura del candidato elegido es débil
+  Candidatos:
+    TMDB 225335 | Tour de France: Unchained | estructura 70/100 | DEBIL | 8/24 episodios
+
+[ESTRUCTURA_DEBIL] Manayek
+  Decisión original: MATCH_PROBABLE
+  Elegido: Manayek (TMDB 107013)
+  Estructura: 10 M3U / 30 TMDB
+  Temporadas: 1 M3U / 3 TMDB
+  Score estructural: 70/100 (DEBIL)
+  Temporadas exactas: 1; cercanas: 0; incompatibles: 0; ausentes: 0
+  - La estructura del candidato elegido es débil
+  Candidatos:
+    TMDB 107013 | Manayek | estructura 70/100 | DEBIL | 10/30 episodios
+
+[ESTRUCTURA_DEBIL] Mr. Pickles
+  Decisión original: MATCH_PROBABLE
+  Elegido: Mr. Pickles (TMDB 61593)
+  Estructura: 10 M3U / 31 TMDB
+  Temporadas: 1 M3U / 4 TMDB
+  Score estructural: 70/100 (DEBIL)
+  Temporadas exactas: 1; cercanas: 0; incompatibles: 0; ausentes: 0
+  - La estructura del candidato elegido es débil
+  Candidatos:
+    TMDB 61593 | Mr. Pickles | estructura 70/100 | DEBIL | 10/31 episodios
+
+[ESTRUCTURA_DEBIL] Initial D
+  Decisión original: MATCH_PROBABLE
+  Elegido: Initial D (TMDB 40424)
+  Estructura: 26 M3U / 81 TMDB
+  Temporadas: 1 M3U / 5 TMDB
+  Score estructural: 70/100 (DEBIL)
+  Temporadas exactas: 1; cercanas: 0; incompatibles: 0; ausentes: 0
+  - La estructura del candidato elegido es débil
+  Candidatos:
+    TMDB 40424 | Initial D | estructura 70/100 | DEBIL | 26/81 episodios
+
+[ESTRUCTURA_DEBIL] The Misfit of Demon King Academy
+  Decisión original: MATCH_PROBABLE
+  Elegido: The Misfit of Demon King Academy (TMDB 97617)
+  Estructura: 12 M3U / 37 TMDB
+  Temporadas: 1 M3U / 2 TMDB
+  Score estructural: 70/100 (DEBIL)
+  Temporadas exactas: 0; cercanas: 1; incompatibles: 0; ausentes: 0
+  - La estructura del candidato elegido es débil
+  Candidatos:
+    TMDB 97617 | The Misfit of Demon King Academy | estructura 70/100 | DEBIL | 12/37 episodios
+
+[ESTRUCTURA_DEBIL] Salish & Jordan Matter
+  Decisión original: MATCH_PROBABLE
+  Elegido: Salish & Jordan Matter (TMDB 318906)
+  Estructura: 7 M3U / 21 TMDB
+  Temporadas: 1 M3U / 3 TMDB
+  Score estructural: 70/100 (DEBIL)
+  Temporadas exactas: 1; cercanas: 0; incompatibles: 0; ausentes: 0
+  - La estructura del candidato elegido es débil
+  Candidatos:
+    TMDB 318906 | Salish & Jordan Matter | estructura 70/100 | DEBIL | 7/21 episodios
+
+[ESTRUCTURA_DEBIL] Yowamushi Pedal
+  Decisión original: MATCH_PROBABLE
+  Elegido: Yowamushi Pedal (TMDB 61441)
+  Estructura: 39 M3U / 137 TMDB
+  Temporadas: 1 M3U / 5 TMDB
+  Score estructural: 69/100 (DEBIL)
+  Temporadas exactas: 0; cercanas: 1; incompatibles: 0; ausentes: 0
+  - La estructura del candidato elegido es débil
+  Candidatos:
+    TMDB 61441 | Yowamushi Pedal | estructura 69/100 | DEBIL | 39/137 episodios
+    TMDB 82415 | Yowamushi Pedal | estructura 40/100 | MIXTA | 39/20 episodios
+
+[ESTRUCTURA_DEBIL] BeyBlade
+  Decisión original: MATCH_PROBABLE
+  Elegido: Beyblade (TMDB 54728)
+  Estructura: 48 M3U / 154 TMDB
+  Temporadas: 1 M3U / 3 TMDB
+  Score estructural: 69/100 (DEBIL)
+  Temporadas exactas: 0; cercanas: 1; incompatibles: 0; ausentes: 0
+  - La estructura del candidato elegido es débil
+  Candidatos:
+    TMDB 54728 | Beyblade | estructura 69/100 | DEBIL | 48/154 episodios
+
+[ESTRUCTURA_DEBIL] Ginger
+  Decisión original: MATCH_PROBABLE
+  Elegido: As Told by Ginger (TMDB 1760)
+  Estructura: 13 M3U / 44 TMDB
+  Temporadas: 1 M3U / 3 TMDB
+  Score estructural: 69/100 (DEBIL)
+  Temporadas exactas: 1; cercanas: 0; incompatibles: 0; ausentes: 0
+  - La estructura del candidato elegido es débil
+  Candidatos:
+    TMDB 1760 | As Told by Ginger | estructura 69/100 | DEBIL | 13/44 episodios
+
+[ESTRUCTURA_DEBIL] Locos Dieciseis
+  Decisión original: MATCH_PROBABLE
+  Elegido: 6teen (TMDB 4355)
+  Estructura: 27 M3U / 94 TMDB
+  Temporadas: 1 M3U / 4 TMDB
+  Score estructural: 69/100 (DEBIL)
+  Temporadas exactas: 1; cercanas: 0; incompatibles: 0; ausentes: 0
+  - La estructura del candidato elegido es débil
+  Candidatos:
+    TMDB 4355 | 6teen | estructura 69/100 | DEBIL | 27/94 episodios
+
+[ESTRUCTURA_DEBIL] Magic School Bus
+  Decisión original: MATCH_PROBABLE
+  Elegido: The Magic School Bus (TMDB 7248)
+  Estructura: 13 M3U / 52 TMDB
+  Temporadas: 1 M3U / 4 TMDB
+  Score estructural: 68/100 (DEBIL)
+  Temporadas exactas: 1; cercanas: 0; incompatibles: 0; ausentes: 0
+  - La estructura del candidato elegido es débil
+  Candidatos:
+    TMDB 7248 | The Magic School Bus | estructura 68/100 | DEBIL | 13/52 episodios
+
+[ESTRUCTURA_DEBIL] Enfermeras
+  Decisión original: MATCH_PROBABLE
+  Elegido: Enfermeras (TMDB 122623)
+  Estructura: 100 M3U / 428 TMDB
+  Temporadas: 1 M3U / 2 TMDB
+  Score estructural: 67/100 (DEBIL)
+  Temporadas exactas: 1; cercanas: 0; incompatibles: 0; ausentes: 0
+  - La estructura del candidato elegido es débil
+  Candidatos:
+    TMDB 122623 | Enfermeras | estructura 67/100 | DEBIL | 100/428 episodios
+
+[ESTRUCTURA_DEBIL] Call Me Kat
+  Decisión original: MATCH_PROBABLE
+  Elegido: Call Me Kat (TMDB 113627)
+  Estructura: 13 M3U / 53 TMDB
+  Temporadas: 1 M3U / 3 TMDB
+  Score estructural: 67/100 (DEBIL)
+  Temporadas exactas: 1; cercanas: 0; incompatibles: 0; ausentes: 0
+  - La estructura del candidato elegido es débil
+  Candidatos:
+    TMDB 113627 | Call Me Kat | estructura 67/100 | DEBIL | 13/53 episodios
+
+[ESTRUCTURA_DEBIL] Cuentos de Hadas Fracturados
+  Decisión original: MATCH_PROBABLE
+  Elegido: Fractured Fairy Tales (TMDB 86564)
+  Estructura: 20 M3U / 91 TMDB
+  Temporadas: 1 M3U / 4 TMDB
+  Score estructural: 67/100 (DEBIL)
+  Temporadas exactas: 1; cercanas: 0; incompatibles: 0; ausentes: 0
+  - La estructura del candidato elegido es débil
+  Candidatos:
+    TMDB 86564 | Fractured Fairy Tales | estructura 67/100 | DEBIL | 20/91 episodios
+
+[ESTRUCTURA_DEBIL] Félix el gato
+  Decisión original: MATCH_PROBABLE
+  Elegido: Felix the Cat (TMDB 101512)
+  Estructura: 31 M3U / 132 TMDB
+  Temporadas: 1 M3U / 3 TMDB
+  Score estructural: 67/100 (DEBIL)
+  Temporadas exactas: 1; cercanas: 0; incompatibles: 0; ausentes: 0
+  - La estructura del candidato elegido es débil
+  Candidatos:
+    TMDB 101512 | Felix the Cat | estructura 67/100 | DEBIL | 31/132 episodios
+
+[ESTRUCTURA_DEBIL] Sailor Moon
+  Decisión original: MATCH_PROBABLE
+  Elegido: Sailor Moon (TMDB 3570)
+  Estructura: 46 M3U / 200 TMDB
+  Temporadas: 1 M3U / 5 TMDB
+  Score estructural: 67/100 (DEBIL)
+  Temporadas exactas: 1; cercanas: 0; incompatibles: 0; ausentes: 0
+  - La estructura del candidato elegido es débil
+  Candidatos:
+    TMDB 3570 | Sailor Moon | estructura 67/100 | DEBIL | 46/200 episodios
+
+[ESTRUCTURA_DEBIL] Tal para cual
+  Decisión original: MATCH_PROBABLE
+  Elegido: Tal para cual (TMDB 212361)
+  Estructura: 12 M3U / 57 TMDB
+  Temporadas: 1 M3U / 4 TMDB
+  Score estructural: 66/100 (DEBIL)
+  Temporadas exactas: 1; cercanas: 0; incompatibles: 0; ausentes: 0
+  - La estructura del candidato elegido es débil
+  Candidatos:
+    TMDB 212361 | Tal para cual | estructura 66/100 | DEBIL | 12/57 episodios
+
+[ESTRUCTURA_DEBIL] Piratas: Velas Negras
+  Decisión original: MATCH_PROBABLE
+  Elegido: Black Sails (TMDB 47665)
+  Estructura: 8 M3U / 38 TMDB
+  Temporadas: 1 M3U / 4 TMDB
+  Score estructural: 66/100 (DEBIL)
+  Temporadas exactas: 1; cercanas: 0; incompatibles: 0; ausentes: 0
+  - La estructura del candidato elegido es débil
+  Candidatos:
+    TMDB 47665 | Black Sails | estructura 66/100 | DEBIL | 8/38 episodios
+
+[ESTRUCTURA_DEBIL] Pinky y Cerebro
+  Decisión original: MATCH_PROBABLE
+  Elegido: Pinky and the Brain (TMDB 2228)
+  Estructura: 19 M3U / 95 TMDB
+  Temporadas: 1 M3U / 4 TMDB
+  Score estructural: 66/100 (DEBIL)
+  Temporadas exactas: 1; cercanas: 0; incompatibles: 0; ausentes: 0
+  - La estructura del candidato elegido es débil
+  Candidatos:
+    TMDB 2228 | Pinky and the Brain | estructura 66/100 | DEBIL | 19/95 episodios
+
+[ESTRUCTURA_DEBIL] Vampirina: Una Vampirina adolescente
+  Decisión original: MATCH_PROBABLE
+  Elegido: Vampirina: Teenage Vampire (TMDB 275722)
+  Estructura: 10 M3U / 22 TMDB
+  Temporadas: 2 M3U / 2 TMDB
+  Score estructural: 66/100 (DEBIL)
+  Temporadas exactas: 1; cercanas: 0; incompatibles: 1; ausentes: 0
+  - La estructura del candidato elegido es débil
+  Candidatos:
+    TMDB 275722 | Vampirina: Teenage Vampire | estructura 66/100 | DEBIL | 10/22 episodios
+
+[ESTRUCTURA_DEBIL] Robotboy
+  Decisión original: MATCH_PROBABLE
+  Elegido: Robotboy (TMDB 1534)
+  Estructura: 51 M3U / 130 TMDB
+  Temporadas: 4 M3U / 4 TMDB
+  Score estructural: 64/100 (DEBIL)
+  Temporadas exactas: 2; cercanas: 0; incompatibles: 2; ausentes: 0
+  - La estructura del candidato elegido es débil
+  Candidatos:
+    TMDB 1534 | Robotboy | estructura 64/100 | DEBIL | 51/130 episodios
+
+[ESTRUCTURA_DEBIL] Chibiverse
+  Decisión original: MATCH_PROBABLE
+  Elegido: Chibiverse (TMDB 205683)
+  Estructura: 4 M3U / 31 TMDB
+  Temporadas: 1 M3U / 4 TMDB
+  Score estructural: 64/100 (DEBIL)
+  Temporadas exactas: 1; cercanas: 0; incompatibles: 0; ausentes: 0
+  - La estructura del candidato elegido es débil
+  Candidatos:
+    TMDB 205683 | Chibiverse | estructura 64/100 | DEBIL | 4/31 episodios
+
+[ESTRUCTURA_DEBIL] Diarios de Vampiros
+  Decisión original: MATCH_PROBABLE
+  Elegido: The Vampire Diaries (TMDB 18165)
+  Estructura: 22 M3U / 171 TMDB
+  Temporadas: 1 M3U / 8 TMDB
+  Score estructural: 64/100 (DEBIL)
+  Temporadas exactas: 1; cercanas: 0; incompatibles: 0; ausentes: 0
+  - La estructura del candidato elegido es débil
+  Candidatos:
+    TMDB 18165 | The Vampire Diaries | estructura 64/100 | DEBIL | 22/171 episodios
+
+[ESTRUCTURA_DEBIL] Lindas Mentirosas
+  Decisión original: MATCH_PROBABLE
+  Elegido: Pretty Little Liars (TMDB 31917)
+  Estructura: 22 M3U / 161 TMDB
+  Temporadas: 1 M3U / 7 TMDB
+  Score estructural: 64/100 (DEBIL)
+  Temporadas exactas: 1; cercanas: 0; incompatibles: 0; ausentes: 0
+  - La estructura del candidato elegido es débil
+  Candidatos:
+    TMDB 31917 | Pretty Little Liars | estructura 64/100 | DEBIL | 22/161 episodios
+
+[ESTRUCTURA_DEBIL] La familia Ingalls
+  Decisión original: MATCH_PROBABLE
+  Elegido: Little House on the Prairie (TMDB 1781)
+  Estructura: 24 M3U / 200 TMDB
+  Temporadas: 1 M3U / 9 TMDB
+  Score estructural: 64/100 (DEBIL)
+  Temporadas exactas: 0; cercanas: 1; incompatibles: 0; ausentes: 0
+  - La estructura del candidato elegido es débil
+  Candidatos:
+    TMDB 1781 | Little House on the Prairie | estructura 64/100 | DEBIL | 24/200 episodios
+    TMDB 15717 | Little House on the Prairie | estructura 43/100 | DEBIL | 24/6 episodios
+
+[ESTRUCTURA_DEBIL] Garfield y sus Amigos
+  Decisión original: MATCH_PROBABLE
+  Elegido: Garfield and Friends (TMDB 4606)
+  Estructura: 39 M3U / 363 TMDB
+  Temporadas: 1 M3U / 7 TMDB
+  Score estructural: 63/100 (DEBIL)
+  Temporadas exactas: 1; cercanas: 0; incompatibles: 0; ausentes: 0
+  - La estructura del candidato elegido es débil
+  Candidatos:
+    TMDB 4606 | Garfield and Friends | estructura 63/100 | DEBIL | 39/363 episodios
+
+[ESTRUCTURA_DEBIL] Las Pistas de Blue
+  Decisión original: MATCH_PROBABLE
+  Elegido: Blue's Clues (TMDB 10821)
+  Estructura: 18 M3U / 159 TMDB
+  Temporadas: 1 M3U / 7 TMDB
+  Score estructural: 63/100 (DEBIL)
+  Temporadas exactas: 0; cercanas: 1; incompatibles: 0; ausentes: 0
+  - La estructura del candidato elegido es débil
+  Candidatos:
+    TMDB 10821 | Blue's Clues | estructura 63/100 | DEBIL | 18/159 episodios
+
+[ESTRUCTURA_DEBIL] Walker
+  Decisión original: MATCH_PROBABLE
+  Elegido: Walker (TMDB 99121)
+  Estructura: 29 M3U / 69 TMDB
+  Temporadas: 2 M3U / 4 TMDB
+  Score estructural: 55/100 (DEBIL)
+  Temporadas exactas: 1; cercanas: 0; incompatibles: 1; ausentes: 0
+  - La estructura del candidato elegido es débil
+  Candidatos:
+    TMDB 99121 | Walker | estructura 55/100 | DEBIL | 29/69 episodios
+
+[ESTRUCTURA_DEBIL] Power Rangers
+  Decisión original: MATCH_PROBABLE
+  Elegido: Power Rangers (TMDB 2328)
+  Estructura: 243 M3U / 973 TMDB
+  Temporadas: 5 M3U / 30 TMDB
+  Score estructural: 53/100 (DEBIL)
+  Temporadas exactas: 3; cercanas: 0; incompatibles: 2; ausentes: 0
+  - La estructura del candidato elegido es débil
+  Candidatos:
+    TMDB 2328 | Power Rangers | estructura 53/100 | DEBIL | 243/973 episodios
+
+[ESTRUCTURA_DEBIL] Madre Luna
+  Decisión original: MATCH_PROBABLE
+  Elegido: Madre Luna (TMDB 5170)
+  Estructura: 282 M3U / 139 TMDB
+  Temporadas: 1 M3U / 1 TMDB
+  Score estructural: 50/100 (DEBIL)
+  Temporadas exactas: 0; cercanas: 0; incompatibles: 1; ausentes: 0
+  - La estructura del candidato elegido es débil
+  Candidatos:
+    TMDB 5170 | Madre Luna | estructura 50/100 | DEBIL | 282/139 episodios
+
+[ESTRUCTURA_DEBIL] Aguas profundas
+  Decisión original: MATCH_PROBABLE
+  Elegido: Surface (TMDB 3486)
+  Estructura: 7 M3U / 15 TMDB
+  Temporadas: 1 M3U / 1 TMDB
+  Score estructural: 49/100 (DEBIL)
+  Temporadas exactas: 0; cercanas: 0; incompatibles: 1; ausentes: 0
+  - La estructura del candidato elegido es débil
+  Candidatos:
+    TMDB 3486 | Surface | estructura 49/100 | DEBIL | 7/15 episodios
+
+[ESTRUCTURA_DEBIL] Coven Academy: El Secreto de las Brujas
+  Decisión original: MATCH_PROBABLE
+  Elegido: Coven Academy (TMDB 298505)
+  Estructura: 21 M3U / 10 TMDB
+  Temporadas: 1 M3U / 1 TMDB
+  Score estructural: 49/100 (DEBIL)
+  Temporadas exactas: 0; cercanas: 0; incompatibles: 1; ausentes: 0
+  - La estructura del candidato elegido es débil
+  Candidatos:
+    TMDB 298505 | Coven Academy | estructura 49/100 | DEBIL | 21/10 episodios
+
+[ESTRUCTURA_DEBIL] Un amor distinto al tuyo
+  Decisión original: MATCH_PROBABLE
+  Elegido: A Love Other Than Yours (TMDB 314939)
+  Estructura: 6 M3U / 14 TMDB
+  Temporadas: 1 M3U / 1 TMDB
+  Score estructural: 48/100 (DEBIL)
+  Temporadas exactas: 0; cercanas: 0; incompatibles: 1; ausentes: 0
+  - La estructura del candidato elegido es débil
+  Candidatos:
+    TMDB 314939 | A Love Other Than Yours | estructura 48/100 | DEBIL | 6/14 episodios
+
+[ESTRUCTURA_DEBIL] Catscratch
+  Decisión original: MATCH_PROBABLE
+  Elegido: Catscratch (TMDB 3805)
+  Estructura: 16 M3U / 40 TMDB
+  Temporadas: 1 M3U / 1 TMDB
+  Score estructural: 47/100 (DEBIL)
+  Temporadas exactas: 0; cercanas: 0; incompatibles: 1; ausentes: 0
+  - La estructura del candidato elegido es débil
+  Candidatos:
+    TMDB 3805 | Catscratch | estructura 47/100 | DEBIL | 16/40 episodios
+
+[ESTRUCTURA_DEBIL] Crimen de una dinastía: El caso Murdaugh
+  Decisión original: MATCH_PROBABLE
+  Elegido: Murdaugh: Death in the Family (TMDB 270734)
+  Estructura: 3 M3U / 8 TMDB
+  Temporadas: 1 M3U / 1 TMDB
+  Score estructural: 46/100 (DEBIL)
+  Temporadas exactas: 0; cercanas: 0; incompatibles: 1; ausentes: 0
+  - La estructura del candidato elegido es débil
+  Candidatos:
+    TMDB 270734 | Murdaugh: Death in the Family | estructura 46/100 | DEBIL | 3/8 episodios
+
+[ESTRUCTURA_DEBIL] ¡amor!
+  Decisión original: MATCH_PROBABLE
+  Elegido: #Love (TMDB 302882)
+  Estructura: 16 M3U / 6 TMDB
+  Temporadas: 1 M3U / 1 TMDB
+  Score estructural: 46/100 (DEBIL)
+  Temporadas exactas: 0; cercanas: 0; incompatibles: 1; ausentes: 0
+  - La estructura del candidato elegido es débil
+  Candidatos:
+    TMDB 302882 | #Love | estructura 46/100 | DEBIL | 16/6 episodios
+
+[ESTRUCTURA_DEBIL] El antídoto
+  Decisión original: MATCH_PROBABLE
+  Elegido: El antídoto (TMDB 290554)
+  Estructura: 5 M3U / 14 TMDB
+  Temporadas: 1 M3U / 1 TMDB
+  Score estructural: 46/100 (DEBIL)
+  Temporadas exactas: 0; cercanas: 0; incompatibles: 1; ausentes: 0
+  - La estructura del candidato elegido es débil
+  Candidatos:
+    TMDB 290554 | El antídoto | estructura 46/100 | DEBIL | 5/14 episodios
+
+[ESTRUCTURA_DEBIL] Mujeres con hombreras
+  Decisión original: MATCH_PROBABLE
+  Elegido: Women Wearing Shoulder Pads (TMDB 237015)
+  Estructura: 3 M3U / 8 TMDB
+  Temporadas: 1 M3U / 1 TMDB
+  Score estructural: 46/100 (DEBIL)
+  Temporadas exactas: 0; cercanas: 0; incompatibles: 1; ausentes: 0
+  - La estructura del candidato elegido es débil
+  Candidatos:
+    TMDB 237015 | Women Wearing Shoulder Pads | estructura 46/100 | DEBIL | 3/8 episodios
+
+[ESTRUCTURA_DEBIL] El jurado presenta: Retiro corporativo
+  Decisión original: MATCH_PROBABLE
+  Elegido: Jury Duty Presents: Company Retreat (TMDB 312697)
+  Estructura: 3 M3U / 8 TMDB
+  Temporadas: 1 M3U / 1 TMDB
+  Score estructural: 46/100 (DEBIL)
+  Temporadas exactas: 0; cercanas: 0; incompatibles: 1; ausentes: 0
+  - La estructura del candidato elegido es débil
+  Candidatos:
+    TMDB 312697 | Jury Duty Presents: Company Retreat | estructura 46/100 | DEBIL | 3/8 episodios
+
+[ESTRUCTURA_DEBIL] Colisión
+  Decisión original: MATCH_PROBABLE
+  Elegido: Collision (TMDB 331033)
+  Estructura: 14 M3U / 39 TMDB
+  Temporadas: 1 M3U / 1 TMDB
+  Score estructural: 46/100 (DEBIL)
+  Temporadas exactas: 0; cercanas: 0; incompatibles: 1; ausentes: 0
+  - La estructura del candidato elegido es débil
+  Candidatos:
+    TMDB 331033 | Collision | estructura 46/100 | DEBIL | 14/39 episodios
+
+[ESTRUCTURA_DEBIL] Romance a lo k-drama
+  Decisión original: MATCH_PROBABLE
+  Elegido: Love Like a K-Drama (TMDB 232433)
+  Estructura: 4 M3U / 12 TMDB
+  Temporadas: 1 M3U / 1 TMDB
+  Score estructural: 45/100 (DEBIL)
+  Temporadas exactas: 0; cercanas: 0; incompatibles: 1; ausentes: 0
+  - La estructura del candidato elegido es débil
+  Candidatos:
+    TMDB 232433 | Love Like a K-Drama | estructura 45/100 | DEBIL | 4/12 episodios
+
+[ESTRUCTURA_DEBIL] ¿Ganar o servir?
+  Decisión original: MATCH_PROBABLE
+  Elegido: ¿Ganar o servir? (TMDB 250716)
+  Estructura: 45 M3U / 139 TMDB
+  Temporadas: 1 M3U / 1 TMDB
+  Score estructural: 45/100 (DEBIL)
+  Temporadas exactas: 0; cercanas: 0; incompatibles: 1; ausentes: 0
+  - La estructura del candidato elegido es débil
+  Candidatos:
+    TMDB 250716 | ¿Ganar o servir? | estructura 45/100 | DEBIL | 45/139 episodios
+
+[ESTRUCTURA_DEBIL] La colombiana
+  Decisión original: MATCH_PROBABLE
+  Elegido: La Colombiana (TMDB 116730)
+  Estructura: 46 M3U / 143 TMDB
+  Temporadas: 1 M3U / 1 TMDB
+  Score estructural: 45/100 (DEBIL)
+  Temporadas exactas: 0; cercanas: 0; incompatibles: 1; ausentes: 0
+  - La estructura del candidato elegido es débil
+  Candidatos:
+    TMDB 116730 | La Colombiana | estructura 45/100 | DEBIL | 46/143 episodios
+
+[ESTRUCTURA_DEBIL] Bring Back Alice
+  Decisión original: MATCH_PROBABLE
+  Elegido: #BringBackAlice (TMDB 222892)
+  Estructura: 2 M3U / 6 TMDB
+  Temporadas: 1 M3U / 1 TMDB
+  Score estructural: 45/100 (DEBIL)
+  Temporadas exactas: 0; cercanas: 0; incompatibles: 1; ausentes: 0
+  - La estructura del candidato elegido es débil
+  Candidatos:
+    TMDB 222892 | #BringBackAlice | estructura 45/100 | DEBIL | 2/6 episodios
+
+[ESTRUCTURA_DEBIL] el lagarto juancho
+  Decisión original: MATCH_PROBABLE
+  Elegido: The Hanna-Barbera New Cartoon Series (TMDB 15307)
+  Estructura: 52 M3U / 156 TMDB
+  Temporadas: 1 M3U / 1 TMDB
+  Score estructural: 45/100 (DEBIL)
+  Temporadas exactas: 0; cercanas: 0; incompatibles: 1; ausentes: 0
+  - La estructura del candidato elegido es débil
+  Candidatos:
+    TMDB 15307 | The Hanna-Barbera New Cartoon Series | estructura 45/100 | DEBIL | 52/156 episodios
+
+[ESTRUCTURA_DEBIL] mamá?
+  Decisión original: MATCH_PROBABLE
+  Elegido: Mama (TMDB 63530)
+  Estructura: 7 M3U / 24 TMDB
+  Temporadas: 1 M3U / 1 TMDB
+  Score estructural: 44/100 (DEBIL)
+  Temporadas exactas: 0; cercanas: 0; incompatibles: 1; ausentes: 0
+  - La estructura del candidato elegido es débil
+  Candidatos:
+    TMDB 63530 | Mama | estructura 44/100 | DEBIL | 7/24 episodios
+    TMDB 12218 | Mama | estructura 29/100 | DEBIL | 7/57 episodios
+
+[ESTRUCTURA_DEBIL] Caballero Negro
+  Decisión original: MATCH_PROBABLE
+  Elegido: Black Knight (TMDB 75066)
+  Estructura: 6 M3U / 20 TMDB
+  Temporadas: 1 M3U / 1 TMDB
+  Score estructural: 44/100 (DEBIL)
+  Temporadas exactas: 0; cercanas: 0; incompatibles: 1; ausentes: 0
+  - La estructura del candidato elegido es débil
+  Candidatos:
+    TMDB 75066 | Black Knight | estructura 44/100 | DEBIL | 6/20 episodios
+
+[ESTRUCTURA_DEBIL] mi amor
+  Decisión original: MATCH_PROBABLE
+  Elegido: Go Go Squid 2: Dt.Appledog's Time (TMDB 116133)
+  Estructura: 12 M3U / 38 TMDB
+  Temporadas: 1 M3U / 1 TMDB
+  Score estructural: 44/100 (DEBIL)
+  Temporadas exactas: 0; cercanas: 0; incompatibles: 1; ausentes: 0
+  - La estructura del candidato elegido es débil
+  Candidatos:
+    TMDB 116133 | Go Go Squid 2: Dt.Appledog's Time | estructura 44/100 | DEBIL | 12/38 episodios
+
+[ESTRUCTURA_DEBIL] Pollo Robot
+  Decisión original: MATCH_PROBABLE
+  Elegido: Robot Chicken (TMDB 709)
+  Estructura: 44 M3U / 218 TMDB
+  Temporadas: 3 M3U / 11 TMDB
+  Score estructural: 43/100 (DEBIL)
+  Temporadas exactas: 1; cercanas: 0; incompatibles: 2; ausentes: 0
+  - La estructura del candidato elegido es débil
+  Candidatos:
+    TMDB 709 | Robot Chicken | estructura 43/100 | DEBIL | 44/218 episodios
+
+[ESTRUCTURA_DEBIL] Dona Beja
+  Decisión original: MATCH_PROBABLE
+  Elegido: Madam Beja (TMDB 152401)
+  Estructura: 10 M3U / 40 TMDB
+  Temporadas: 1 M3U / 1 TMDB
+  Score estructural: 43/100 (DEBIL)
+  Temporadas exactas: 0; cercanas: 0; incompatibles: 1; ausentes: 0
+  - La estructura del candidato elegido es débil
+  Candidatos:
+    TMDB 152401 | Madam Beja | estructura 43/100 | DEBIL | 10/40 episodios
+
+[ESTRUCTURA_DEBIL] La muerte y otros misterios
+  Decisión original: MATCH_PROBABLE
+  Elegido: Death and Other Details (TMDB 133813)
+  Estructura: 2 M3U / 10 TMDB
+  Temporadas: 1 M3U / 1 TMDB
+  Score estructural: 41/100 (DEBIL)
+  Temporadas exactas: 0; cercanas: 0; incompatibles: 1; ausentes: 0
+  - La estructura del candidato elegido es débil
+  Candidatos:
+    TMDB 133813 | Death and Other Details | estructura 41/100 | DEBIL | 2/10 episodios
+
+[ESTRUCTURA_DEBIL] Destellos del mañana
+  Decisión original: MATCH_PROBABLE
+  Elegido: Sparks of Tomorrow (TMDB 153217)
+  Estructura: 2 M3U / 13 TMDB
+  Temporadas: 1 M3U / 1 TMDB
+  Score estructural: 40/100 (DEBIL)
+  Temporadas exactas: 0; cercanas: 0; incompatibles: 1; ausentes: 0
+  - La estructura del candidato elegido es débil
+  Candidatos:
+    TMDB 153217 | Sparks of Tomorrow | estructura 40/100 | DEBIL | 2/13 episodios
+
+[ESTRUCTURA_DEBIL] Las Aventuras de Jimmy Neutron: El Niño Genio
+  Decisión original: MATCH_PROBABLE
+  Elegido: The Adventures of Jimmy Neutron: Boy Genius (TMDB 2129)
+  Estructura: 36 M3U / 76 TMDB
+  Temporadas: 2 M3U / 3 TMDB
+  Score estructural: 39/100 (DEBIL)
+  Temporadas exactas: 0; cercanas: 0; incompatibles: 2; ausentes: 0
+  - La estructura del candidato elegido es débil
+  Candidatos:
+    TMDB 2129 | The Adventures of Jimmy Neutron: Boy Genius | estructura 39/100 | DEBIL | 36/76 episodios
+
+[ESTRUCTURA_DEBIL] Enciclopedia de Estambul
+  Decisión original: MATCH_PROBABLE
+  Elegido: Istanbul Encyclopedia (TMDB 278004)
+  Estructura: 1 M3U / 8 TMDB
+  Temporadas: 1 M3U / 1 TMDB
+  Score estructural: 39/100 (DEBIL)
+  Temporadas exactas: 0; cercanas: 0; incompatibles: 1; ausentes: 0
+  - La estructura del candidato elegido es débil
+  Candidatos:
+    TMDB 278004 | Istanbul Encyclopedia | estructura 39/100 | DEBIL | 1/8 episodios
+
+[ESTRUCTURA_DEBIL] El libro de Boba Fett
+  Decisión original: MATCH_PROBABLE
+  Elegido: The Book of Boba Fett (TMDB 115036)
+  Estructura: 1 M3U / 7 TMDB
+  Temporadas: 1 M3U / 1 TMDB
+  Score estructural: 39/100 (DEBIL)
+  Temporadas exactas: 0; cercanas: 0; incompatibles: 1; ausentes: 0
+  - La estructura del candidato elegido es débil
+  Candidatos:
+    TMDB 115036 | The Book of Boba Fett | estructura 39/100 | DEBIL | 1/7 episodios
+
+[ESTRUCTURA_DEBIL] GATE24: Protección fronteriza
+  Decisión original: MATCH_PROBABLE
+  Elegido: GATE24: The Border (TMDB 323579)
+  Estructura: 1 M3U / 10 TMDB
+  Temporadas: 1 M3U / 1 TMDB
+  Score estructural: 38/100 (DEBIL)
+  Temporadas exactas: 0; cercanas: 0; incompatibles: 1; ausentes: 0
+  - La estructura del candidato elegido es débil
+  Candidatos:
+    TMDB 323579 | GATE24: The Border | estructura 38/100 | DEBIL | 1/10 episodios
+
+[ESTRUCTURA_DEBIL] Academia Unicornio: Secretos por descubrir
+  Decisión original: MATCH_PROBABLE
+  Elegido: Unicorn Academy: Secrets Revealed (TMDB 316945)
+  Estructura: 8 M3U / 20 TMDB
+  Temporadas: 1 M3U / 2 TMDB
+  Score estructural: 37/100 (DEBIL)
+  Temporadas exactas: 0; cercanas: 0; incompatibles: 1; ausentes: 0
+  - La estructura del candidato elegido es débil
+  Candidatos:
+    TMDB 316945 | Unicorn Academy: Secrets Revealed | estructura 37/100 | DEBIL | 8/20 episodios
+
+[ESTRUCTURA_DEBIL] Transformers: La Chispa de la Tierra
+  Decisión original: MATCH_PROBABLE
+  Elegido: Transformers: EarthSpark (TMDB 157747)
+  Estructura: 15 M3U / 40 TMDB
+  Temporadas: 1 M3U / 4 TMDB
+  Score estructural: 36/100 (DEBIL)
+  Temporadas exactas: 0; cercanas: 0; incompatibles: 1; ausentes: 0
+  - La estructura del candidato elegido es débil
+  Candidatos:
+    TMDB 157747 | Transformers: EarthSpark | estructura 36/100 | DEBIL | 15/40 episodios
+
+[ESTRUCTURA_DEBIL] Paw Patrol: Patrulla de Cachorros
+  Decisión original: MATCH_PROBABLE
+  Elegido: PAW Patrol (TMDB 57532)
+  Estructura: 203 M3U / 578 TMDB
+  Temporadas: 9 M3U / 14 TMDB
+  Score estructural: 36/100 (DEBIL)
+  Temporadas exactas: 0; cercanas: 0; incompatibles: 9; ausentes: 0
+  - La estructura del candidato elegido es débil
+  Candidatos:
+    TMDB 57532 | PAW Patrol | estructura 36/100 | DEBIL | 203/578 episodios
+
+[ESTRUCTURA_DEBIL] Yomi no Tsugai: Dúo del Inframundo
+  Decisión original: MATCH_PROBABLE
+  Elegido: Daemons of the Shadow Realm (TMDB 260463)
+  Estructura: 9 M3U / 24 TMDB
+  Temporadas: 1 M3U / 2 TMDB
+  Score estructural: 36/100 (DEBIL)
+  Temporadas exactas: 0; cercanas: 0; incompatibles: 1; ausentes: 0
+  - La estructura del candidato elegido es débil
+  Candidatos:
+    TMDB 260463 | Daemons of the Shadow Realm | estructura 36/100 | DEBIL | 9/24 episodios
+
+[ESTRUCTURA_DEBIL] Gary y sus Demonios
+  Decisión original: MATCH_PROBABLE
+  Elegido: Gary and His Demons (TMDB 79478)
+  Estructura: 8 M3U / 26 TMDB
+  Temporadas: 1 M3U / 2 TMDB
+  Score estructural: 34/100 (DEBIL)
+  Temporadas exactas: 0; cercanas: 0; incompatibles: 1; ausentes: 0
+  - La estructura del candidato elegido es débil
+  Candidatos:
+    TMDB 79478 | Gary and His Demons | estructura 34/100 | DEBIL | 8/26 episodios
+
+[ESTRUCTURA_DEBIL] Desagertuta
+  Decisión original: MATCH_PROBABLE
+  Elegido: Disappeared (TMDB 292012)
+  Estructura: 3 M3U / 12 TMDB
+  Temporadas: 1 M3U / 2 TMDB
+  Score estructural: 33/100 (DEBIL)
+  Temporadas exactas: 0; cercanas: 0; incompatibles: 1; ausentes: 0
+  - La estructura del candidato elegido es débil
+  Candidatos:
+    TMDB 292012 | Disappeared | estructura 33/100 | DEBIL | 3/12 episodios
+
+[ESTRUCTURA_DEBIL] 2 Perros Tontos
+  Decisión original: MATCH_PROBABLE
+  Elegido: 2 Stupid Dogs (TMDB 1916)
+  Estructura: 12 M3U / 52 TMDB
+  Temporadas: 1 M3U / 2 TMDB
+  Score estructural: 32/100 (DEBIL)
+  Temporadas exactas: 0; cercanas: 0; incompatibles: 1; ausentes: 0
+  - La estructura del candidato elegido es débil
+  Candidatos:
+    TMDB 1916 | 2 Stupid Dogs | estructura 32/100 | DEBIL | 12/52 episodios
+
+[ESTRUCTURA_DEBIL] El Escuadrón del Tiempo
+  Decisión original: MATCH_PROBABLE
+  Elegido: Time Squad (TMDB 4314)
+  Estructura: 13 M3U / 53 TMDB
+  Temporadas: 1 M3U / 2 TMDB
+  Score estructural: 32/100 (DEBIL)
+  Temporadas exactas: 0; cercanas: 0; incompatibles: 1; ausentes: 0
+  - La estructura del candidato elegido es débil
+  Candidatos:
+    TMDB 4314 | Time Squad | estructura 32/100 | DEBIL | 13/53 episodios
+
+[ESTRUCTURA_DEBIL] Los Supersónicos
+  Decisión original: MATCH_PROBABLE
+  Elegido: The Jetsons (TMDB 2362)
+  Estructura: 17 M3U / 75 TMDB
+  Temporadas: 1 M3U / 3 TMDB
+  Score estructural: 32/100 (DEBIL)
+  Temporadas exactas: 0; cercanas: 0; incompatibles: 1; ausentes: 0
+  - La estructura del candidato elegido es débil
+  Candidatos:
+    TMDB 2362 | The Jetsons | estructura 32/100 | DEBIL | 17/75 episodios
+
+[ESTRUCTURA_DEBIL] Scooby-Doo y ¿quién crees tú?
+  Decisión original: MATCH_PROBABLE
+  Elegido: Scooby-Doo and Guess Who? (TMDB 88367)
+  Estructura: 10 M3U / 52 TMDB
+  Temporadas: 1 M3U / 2 TMDB
+  Score estructural: 31/100 (DEBIL)
+  Temporadas exactas: 0; cercanas: 0; incompatibles: 1; ausentes: 0
+  - La estructura del candidato elegido es débil
+  Candidatos:
+    TMDB 88367 | Scooby-Doo and Guess Who? | estructura 31/100 | DEBIL | 10/52 episodios
+
+[ESTRUCTURA_DEBIL] Full Metal Panic!
+  Decisión original: MATCH_PROBABLE
+  Elegido: Full Metal Panic! (TMDB 39379)
+  Estructura: 12 M3U / 60 TMDB
+  Temporadas: 1 M3U / 4 TMDB
+  Score estructural: 31/100 (DEBIL)
+  Temporadas exactas: 0; cercanas: 0; incompatibles: 1; ausentes: 0
+  - La estructura del candidato elegido es débil
+  Candidatos:
+    TMDB 39379 | Full Metal Panic! | estructura 31/100 | DEBIL | 12/60 episodios
+
+[ESTRUCTURA_DEBIL] CatDog
+  Decisión original: MATCH_PROBABLE
+  Elegido: CatDog (TMDB 1567)
+  Estructura: 26 M3U / 132 TMDB
+  Temporadas: 1 M3U / 3 TMDB
+  Score estructural: 31/100 (DEBIL)
+  Temporadas exactas: 0; cercanas: 0; incompatibles: 1; ausentes: 0
+  - La estructura del candidato elegido es débil
+  Candidatos:
+    TMDB 1567 | CatDog | estructura 31/100 | DEBIL | 26/132 episodios
+
+[ESTRUCTURA_DEBIL] La vida moderna de Rocko
+  Decisión original: MATCH_PROBABLE
+  Elegido: Rocko's Modern Life (TMDB 657)
+  Estructura: 20 M3U / 100 TMDB
+  Temporadas: 1 M3U / 4 TMDB
+  Score estructural: 31/100 (DEBIL)
+  Temporadas exactas: 0; cercanas: 0; incompatibles: 1; ausentes: 0
+  - La estructura del candidato elegido es débil
+  Candidatos:
+    TMDB 657 | Rocko's Modern Life | estructura 31/100 | DEBIL | 20/100 episodios
+
+[ESTRUCTURA_DEBIL] Encontrados
+  Decisión original: MATCH_PROBABLE
+  Elegido: Found (TMDB 214160)
+  Estructura: 6 M3U / 35 TMDB
+  Temporadas: 1 M3U / 2 TMDB
+  Score estructural: 30/100 (DEBIL)
+  Temporadas exactas: 0; cercanas: 0; incompatibles: 1; ausentes: 0
+  - La estructura del candidato elegido es débil
+  Candidatos:
+    TMDB 214160 | Found | estructura 30/100 | DEBIL | 6/35 episodios
+
+[ESTRUCTURA_DEBIL] Johnny Bravo
+  Decisión original: MATCH_PROBABLE
+  Elegido: Johnny Bravo (TMDB 2405)
+  Estructura: 31 M3U / 181 TMDB
+  Temporadas: 1 M3U / 4 TMDB
+  Score estructural: 30/100 (DEBIL)
+  Temporadas exactas: 0; cercanas: 0; incompatibles: 1; ausentes: 0
+  - La estructura del candidato elegido es débil
+  Candidatos:
+    TMDB 2405 | Johnny Bravo | estructura 30/100 | DEBIL | 31/181 episodios
+
+[ESTRUCTURA_DEBIL] La robot adolescente
+  Decisión original: MATCH_PROBABLE
+  Elegido: My Life as a Teenage Robot (TMDB 178)
+  Estructura: 13 M3U / 76 TMDB
+  Temporadas: 1 M3U / 3 TMDB
+  Score estructural: 30/100 (DEBIL)
+  Temporadas exactas: 0; cercanas: 0; incompatibles: 1; ausentes: 0
+  - La estructura del candidato elegido es débil
+  Candidatos:
+    TMDB 178 | My Life as a Teenage Robot | estructura 30/100 | DEBIL | 13/76 episodios
+
+[ESTRUCTURA_DEBIL] T.U.F.F. Puppy
+  Decisión original: MATCH_PROBABLE
+  Elegido: T.U.F.F. Puppy (TMDB 18828)
+  Estructura: 20 M3U / 115 TMDB
+  Temporadas: 1 M3U / 3 TMDB
+  Score estructural: 30/100 (DEBIL)
+  Temporadas exactas: 0; cercanas: 0; incompatibles: 1; ausentes: 0
+  - La estructura del candidato elegido es débil
+  Candidatos:
+    TMDB 18828 | T.U.F.F. Puppy | estructura 30/100 | DEBIL | 20/115 episodios
+
+[ESTRUCTURA_DEBIL] Alert: Missing Persons Unit
+  Decisión original: MATCH_PROBABLE
+  Elegido: Alert: Missing Persons Unit (TMDB 202308)
+  Estructura: 4 M3U / 29 TMDB
+  Temporadas: 1 M3U / 3 TMDB
+  Score estructural: 29/100 (DEBIL)
+  Temporadas exactas: 0; cercanas: 0; incompatibles: 1; ausentes: 0
+  - La estructura del candidato elegido es débil
+  Candidatos:
+    TMDB 202308 | Alert: Missing Persons Unit | estructura 29/100 | DEBIL | 4/29 episodios
+
+[ESTRUCTURA_DEBIL] Arnold
+  Decisión original: MATCH_PROBABLE
+  Elegido: Diff'rent Strokes (TMDB 2410)
+  Estructura: 23 M3U / 189 TMDB
+  Temporadas: 1 M3U / 8 TMDB
+  Score estructural: 29/100 (DEBIL)
+  Temporadas exactas: 0; cercanas: 0; incompatibles: 1; ausentes: 0
+  Mejor estructura alternativa: Arnold (TMDB 226135, 39/100)
+  - La estructura del candidato elegido es débil
+  Candidatos:
+    TMDB 226135 | Arnold | estructura 39/100 | DEBIL | 23/3 episodios
+    TMDB 2410 | Diff'rent Strokes | estructura 29/100 | DEBIL | 23/189 episodios
+
+[ESTRUCTURA_DEBIL] Oveja Karateca
+  Decisión original: MATCH_PROBABLE
+  Elegido: Karate Sheep (TMDB 214091)
+  Estructura: 13 M3U / 91 TMDB
+  Temporadas: 1 M3U / 2 TMDB
+  Score estructural: 29/100 (DEBIL)
+  Temporadas exactas: 0; cercanas: 0; incompatibles: 1; ausentes: 0
+  - La estructura del candidato elegido es débil
+  Candidatos:
+    TMDB 214091 | Karate Sheep | estructura 29/100 | DEBIL | 13/91 episodios
+
+[ESTRUCTURA_DEBIL] Kung Fu: la leyenda continúa
+  Decisión original: MATCH_PROBABLE
+  Elegido: Kung Fu: The Legend Continues (TMDB 636)
+  Estructura: 13 M3U / 88 TMDB
+  Temporadas: 1 M3U / 4 TMDB
+  Score estructural: 29/100 (DEBIL)
+  Temporadas exactas: 0; cercanas: 0; incompatibles: 1; ausentes: 0
+  - La estructura del candidato elegido es débil
+  Candidatos:
+    TMDB 636 | Kung Fu: The Legend Continues | estructura 29/100 | DEBIL | 13/88 episodios
+
+[ESTRUCTURA_DEBIL] Las aventuras de los osos Gummi
+  Decisión original: MATCH_PROBABLE
+  Elegido: Disney's Adventures of the Gummi Bears (TMDB 1931)
+  Estructura: 13 M3U / 95 TMDB
+  Temporadas: 1 M3U / 6 TMDB
+  Score estructural: 29/100 (DEBIL)
+  Temporadas exactas: 0; cercanas: 0; incompatibles: 1; ausentes: 0
+  - La estructura del candidato elegido es débil
+  Candidatos:
+    TMDB 1931 | Disney's Adventures of the Gummi Bears | estructura 29/100 | DEBIL | 13/95 episodios
+
+[ESTRUCTURA_DEBIL] Tres por tres
+  Decisión original: MATCH_PROBABLE
+  Elegido: Full House (TMDB 4313)
+  Estructura: 16 M3U / 192 TMDB
+  Temporadas: 1 M3U / 8 TMDB
+  Score estructural: 28/100 (DEBIL)
+  Temporadas exactas: 0; cercanas: 0; incompatibles: 1; ausentes: 0
+  - La estructura del candidato elegido es débil
+  Candidatos:
+    TMDB 4313 | Full House | estructura 28/100 | DEBIL | 16/192 episodios
+
+[ESTRUCTURA_DEBIL] El Chico De Oro
+  Decisión original: MATCH_PROBABLE
+  Elegido: Yalı Çapkını (TMDB 210865)
+  Estructura: 9 M3U / 101 TMDB
+  Temporadas: 1 M3U / 3 TMDB
+  Score estructural: 28/100 (DEBIL)
+  Temporadas exactas: 0; cercanas: 0; incompatibles: 1; ausentes: 0
+  - La estructura del candidato elegido es débil
+  Candidatos:
+    TMDB 210865 | Yalı Çapkını | estructura 28/100 | DEBIL | 9/101 episodios
+
+[ESTRUCTURA_DEBIL] KND: Los chicos del barrio
+  Decisión original: MATCH_PROBABLE
+  Elegido: Codename: Kids Next Door (TMDB 2660)
+  Estructura: 15 M3U / 139 TMDB
+  Temporadas: 1 M3U / 6 TMDB
+  Score estructural: 28/100 (DEBIL)
+  Temporadas exactas: 0; cercanas: 0; incompatibles: 1; ausentes: 0
+  - La estructura del candidato elegido es débil
+  Candidatos:
+    TMDB 2660 | Codename: Kids Next Door | estructura 28/100 | DEBIL | 15/139 episodios
+
+[ESTRUCTURA_DEBIL] Angela Anaconda
+  Decisión original: MATCH_PROBABLE
+  Elegido: Angela Anaconda (TMDB 5373)
+  Estructura: 11 M3U / 130 TMDB
+  Temporadas: 1 M3U / 3 TMDB
+  Score estructural: 28/100 (DEBIL)
+  Temporadas exactas: 0; cercanas: 0; incompatibles: 1; ausentes: 0
+  - La estructura del candidato elegido es débil
+  Candidatos:
+    TMDB 5373 | Angela Anaconda | estructura 28/100 | DEBIL | 11/130 episodios
+
+[ESTRUCTURA_DEBIL] Los Castores Cascarrabias
+  Decisión original: MATCH_PROBABLE
+  Elegido: The Angry Beavers (TMDB 3579)
+  Estructura: 13 M3U / 123 TMDB
+  Temporadas: 1 M3U / 4 TMDB
+  Score estructural: 28/100 (DEBIL)
+  Temporadas exactas: 0; cercanas: 0; incompatibles: 1; ausentes: 0
+  - La estructura del candidato elegido es débil
+  Candidatos:
+    TMDB 3579 | The Angry Beavers | estructura 28/100 | DEBIL | 13/123 episodios
+
+[ESTRUCTURA_DEBIL] El laboratorio de Dexter
+  Decisión original: MATCH_PROBABLE
+  Elegido: Dexter's Laboratory (TMDB 4229)
+  Estructura: 17 M3U / 220 TMDB
+  Temporadas: 1 M3U / 4 TMDB
+  Score estructural: 27/100 (DEBIL)
+  Temporadas exactas: 0; cercanas: 0; incompatibles: 1; ausentes: 0
+  - La estructura del candidato elegido es débil
+  Candidatos:
+    TMDB 4229 | Dexter's Laboratory | estructura 27/100 | DEBIL | 17/220 episodios
+
+[ESTRUCTURA_DEBIL] Pororo el pequeño pingüino
+  Decisión original: MATCH_PROBABLE
+  Elegido: Pororo the Little Penguin (TMDB 19845)
+  Estructura: 6 M3U / 312 TMDB
+  Temporadas: 1 M3U / 9 TMDB
+  Score estructural: 26/100 (DEBIL)
+  Temporadas exactas: 0; cercanas: 0; incompatibles: 1; ausentes: 0
+  - La estructura del candidato elegido es débil
+  Candidatos:
+    TMDB 19845 | Pororo the Little Penguin | estructura 26/100 | DEBIL | 6/312 episodios
+
+[REVISAR] 16
+  Decisión original: MATCH_PROBABLE
+  Elegido: 16 (TMDB 106302)
+  Estructura: 99 M3U / 98 TMDB
+  Temporadas: 1 M3U / 1 TMDB
+  Score estructural: 100/100 (MUY_CERCANA)
+  Temporadas exactas: 0; cercanas: 1; incompatibles: 0; ausentes: 0
+  - Título corto o genérico: requiere mayor evidencia estructural
+  Candidatos:
+    TMDB 106302 | 16 | estructura 100/100 | MUY_CERCANA | 99/98 episodios
+    TMDB 31673 | 16 and Pregnant | estructura 50/100 | MIXTA | 99/84 episodios
+    TMDB 214911 | Pregnant at 16 | estructura 50/100 | MIXTA | 99/82 episodios
+    TMDB 243175 | Club Friday Season 16: Hot Love Issue | estructura 48/100 | DEBIL | 99/43 episodios
+    TMDB 23279 | The Way We Were | estructura 40/100 | DEBIL | 99/16 episodios
+
+[REVISAR] La noche más larga
+  Decisión original: MATCH_FUERTE
+  Elegido: The Longest Night (TMDB 201331)
+  Estructura: 6 M3U / 6 TMDB
+  Temporadas: 1 M3U / 1 TMDB
+  Score estructural: 100/100 (EXACTA)
+  Temporadas exactas: 1; cercanas: 0; incompatibles: 0; ausentes: 0
+  - Hay candidatos alternativos con puntuaciones estructurales similares
+  Candidatos:
+    TMDB 201331 | The Longest Night | estructura 100/100 | EXACTA | 6/6 episodios
+    TMDB 154095 | Such a long night | estructura 100/100 | EXACTA | 6/6 episodios
+
+[REVISAR] Make My Day
+  Decisión original: MATCH_PROBABLE
+  Elegido: MAKE MY DAY (TMDB 217710)
+  Estructura: 8 M3U / 8 TMDB
+  Temporadas: 1 M3U / 1 TMDB
+  Score estructural: 100/100 (EXACTA)
+  Temporadas exactas: 1; cercanas: 0; incompatibles: 0; ausentes: 0
+  - Hay candidatos alternativos con puntuaciones estructurales similares
+  Candidatos:
+    TMDB 217710 | MAKE MY DAY | estructura 100/100 | EXACTA | 8/8 episodios
+    TMDB 24801 | Make My Day | estructura 96/100 | RAZONABLE | 8/7 episodios
+
+[REVISAR] Apagón
+  Decisión original: MATCH_PROBABLE
+  Elegido: Blackout: Tomorrow Is Too Late (TMDB 136365)
+  Estructura: 6 M3U / 6 TMDB
+  Temporadas: 1 M3U / 1 TMDB
+  Score estructural: 100/100 (EXACTA)
+  Temporadas exactas: 1; cercanas: 0; incompatibles: 0; ausentes: 0
+  - Hay candidatos alternativos con puntuaciones estructurales similares
+  Candidatos:
+    TMDB 136365 | Blackout: Tomorrow Is Too Late | estructura 100/100 | EXACTA | 6/6 episodios
+    TMDB 155548 | Offworld | estructura 95/100 | RAZONABLE | 6/5 episodios
+
+[REVISAR] Naomi
+  Decisión original: MATCH_PROBABLE
+  Elegido: Naomi (TMDB 125474)
+  Estructura: 13 M3U / 13 TMDB
+  Temporadas: 1 M3U / 1 TMDB
+  Score estructural: 100/100 (EXACTA)
+  Temporadas exactas: 1; cercanas: 0; incompatibles: 0; ausentes: 0
+  - Hay candidatos alternativos con puntuaciones estructurales similares
+  Candidatos:
+    TMDB 125474 | Naomi | estructura 100/100 | EXACTA | 13/13 episodios
+    TMDB 36746 | Naomi | estructura 95/100 | RAZONABLE | 13/11 episodios
+
+[REVISAR] My Home Hero
+  Decisión original: MATCH_PROBABLE
+  Elegido: My Home Hero (TMDB 204412)
+  Estructura: 12 M3U / 12 TMDB
+  Temporadas: 1 M3U / 1 TMDB
+  Score estructural: 100/100 (EXACTA)
+  Temporadas exactas: 1; cercanas: 0; incompatibles: 0; ausentes: 0
+  - Hay candidatos alternativos con puntuaciones estructurales similares
+  Candidatos:
+    TMDB 204412 | My Home Hero | estructura 100/100 | EXACTA | 12/12 episodios
+    TMDB 233114 | My Home Hero | estructura 95/100 | RAZONABLE | 12/10 episodios
+
+[REVISAR] Aventura en pelotas: España
+  Decisión original: MATCH_PROBABLE
+  Elegido: Naked and Afraid: Spain (TMDB 279908)
+  Estructura: 5 M3U / 7 TMDB
+  Temporadas: 1 M3U / 1 TMDB
+  Score estructural: 91/100 (MIXTA)
+  Temporadas exactas: 0; cercanas: 1; incompatibles: 0; ausentes: 0
+  - La estructura presenta diferencias relevantes
+  Candidatos:
+    TMDB 279908 | Naked and Afraid: Spain | estructura 91/100 | MIXTA | 5/7 episodios
+
+[REVISAR] El hijo zurdo
+  Decisión original: MATCH_PROBABLE
+  Elegido: El hijo zurdo (TMDB 222193)
+  Estructura: 4 M3U / 6 TMDB
+  Temporadas: 1 M3U / 1 TMDB
+  Score estructural: 90/100 (MIXTA)
+  Temporadas exactas: 0; cercanas: 1; incompatibles: 0; ausentes: 0
+  - La estructura presenta diferencias relevantes
+  Candidatos:
+    TMDB 222193 | El hijo zurdo | estructura 90/100 | MIXTA | 4/6 episodios
+
+[REVISAR] Ultras. Pasión y Muerte
+  Decisión original: MATCH_PROBABLE
+  Elegido: Ultras: Passion and Death (TMDB 325858)
+  Estructura: 2 M3U / 3 TMDB
+  Temporadas: 1 M3U / 1 TMDB
+  Score estructural: 90/100 (MIXTA)
+  Temporadas exactas: 0; cercanas: 1; incompatibles: 0; ausentes: 0
+  - La estructura presenta diferencias relevantes
+  Candidatos:
+    TMDB 325858 | Ultras: Passion and Death | estructura 90/100 | MIXTA | 2/3 episodios
+
+[REVISAR] Mansión Foster para amigos imaginarios
+  Decisión original: MATCH_FUERTE
+  Elegido: Foster's Home for Imaginary Friends (TMDB 1720)
+  Estructura: 75 M3U / 82 TMDB
+  Temporadas: 6 M3U / 6 TMDB
+  Score estructural: 86/100 (MIXTA)
+  Temporadas exactas: 3; cercanas: 1; incompatibles: 2; ausentes: 0
+  - La estructura presenta diferencias relevantes
+  Candidatos:
+    TMDB 1720 | Foster's Home for Imaginary Friends | estructura 86/100 | MIXTA | 75/82 episodios
+
+[REVISAR] Hijos de las estrellas
+  Decisión original: MATCH_PROBABLE
+  Elegido: Children Of The Stars (TMDB 77913)
+  Estructura: 24 M3U / 28 TMDB
+  Temporadas: 3 M3U / 3 TMDB
+  Score estructural: 84/100 (MIXTA)
+  Temporadas exactas: 2; cercanas: 0; incompatibles: 1; ausentes: 0
+  - La estructura presenta diferencias relevantes
+  Candidatos:
+    TMDB 77913 | Children Of The Stars | estructura 84/100 | MIXTA | 24/28 episodios
+
+[REVISAR] SPY×FAMILY
+  Decisión original: MATCH_PROBABLE
+  Elegido: SPY x FAMILY (TMDB 120089)
+  Estructura: 37 M3U / 50 TMDB
+  Temporadas: 2 M3U / 3 TMDB
+  Score estructural: 82/100 (MIXTA)
+  Temporadas exactas: 2; cercanas: 0; incompatibles: 0; ausentes: 0
+  - La estructura presenta diferencias relevantes
+  Candidatos:
+    TMDB 120089 | SPY x FAMILY | estructura 82/100 | MIXTA | 37/50 episodios
+
+[REVISAR] El show de Charlie Brown y Snoopy
+  Decisión original: MATCH_PROBABLE
+  Elegido: The Charlie Brown and Snoopy Show (TMDB 6670)
+  Estructura: 13 M3U / 18 TMDB
+  Temporadas: 1 M3U / 2 TMDB
+  Score estructural: 82/100 (MIXTA)
+  Temporadas exactas: 1; cercanas: 0; incompatibles: 0; ausentes: 0
+  - La estructura presenta diferencias relevantes
+  Candidatos:
+    TMDB 6670 | The Charlie Brown and Snoopy Show | estructura 82/100 | MIXTA | 13/18 episodios
+
+[REVISAR] Dinosaurios
+  Decisión original: MATCH_PROBABLE
+  Elegido: Dinosaurs (TMDB 3763)
+  Estructura: 64 M3U / 65 TMDB
+  Temporadas: 4 M3U / 4 TMDB
+  Score estructural: 82/100 (MIXTA)
+  Temporadas exactas: 2; cercanas: 0; incompatibles: 2; ausentes: 0
+  - La estructura presenta diferencias relevantes
+  Candidatos:
+    TMDB 3763 | Dinosaurs | estructura 82/100 | MIXTA | 64/65 episodios
+
+[REVISAR] Lost
+  Decisión original: MATCH_PROBABLE
+  Elegido: Lost (TMDB 4607)
+  Estructura: 86 M3U / 118 TMDB
+  Temporadas: 4 M3U / 6 TMDB
+  Score estructural: 82/100 (MIXTA)
+  Temporadas exactas: 2; cercanas: 2; incompatibles: 0; ausentes: 0
+  - La estructura presenta diferencias relevantes
+  Candidatos:
+    TMDB 4607 | Lost | estructura 82/100 | MIXTA | 86/118 episodios
+    TMDB 129318 | Lost | estructura 4/100 | DEBIL | 86/16 episodios
+
+[REVISAR] Sexo en la Ciudad
+  Decisión original: MATCH_PROBABLE
+  Elegido: Sex and the City (TMDB 105)
+  Estructura: 66 M3U / 94 TMDB
+  Temporadas: 4 M3U / 6 TMDB
+  Score estructural: 81/100 (MIXTA)
+  Temporadas exactas: 4; cercanas: 0; incompatibles: 0; ausentes: 0
+  - La estructura presenta diferencias relevantes
+  Candidatos:
+    TMDB 105 | Sex and the City | estructura 81/100 | MIXTA | 66/94 episodios
+
+[REVISAR] Kid Cosmic
+  Decisión original: MATCH_PROBABLE
+  Elegido: Kid Cosmic (TMDB 116249)
+  Estructura: 36 M3U / 24 TMDB
+  Temporadas: 2 M3U / 3 TMDB
+  Score estructural: 80/100 (MIXTA)
+  Temporadas exactas: 2; cercanas: 0; incompatibles: 0; ausentes: 0
+  - La estructura presenta diferencias relevantes
+  Candidatos:
+    TMDB 116249 | Kid Cosmic | estructura 80/100 | MIXTA | 36/24 episodios
+
+[REVISAR] A tres metros sobre el cielo
+  Decisión original: MATCH_PROBABLE
+  Elegido: Summertime (TMDB 100333)
+  Estructura: 16 M3U / 24 TMDB
+  Temporadas: 2 M3U / 3 TMDB
+  Score estructural: 80/100 (MIXTA)
+  Temporadas exactas: 2; cercanas: 0; incompatibles: 0; ausentes: 0
+  - La estructura presenta diferencias relevantes
+  Candidatos:
+    TMDB 100333 | Summertime | estructura 80/100 | MIXTA | 16/24 episodios
+
+[REVISAR] Amor a primera bestia
+  Decisión original: MATCH_PROBABLE
+  Elegido: Sexy Beasts (TMDB 128250)
+  Estructura: 8 M3U / 12 TMDB
+  Temporadas: 1 M3U / 2 TMDB
+  Score estructural: 80/100 (MIXTA)
+  Temporadas exactas: 0; cercanas: 1; incompatibles: 0; ausentes: 0
+  - La estructura presenta diferencias relevantes
+  Candidatos:
+    TMDB 128250 | Sexy Beasts | estructura 80/100 | MIXTA | 8/12 episodios
+
+[REVISAR] Kipo y la era de los magnimales
+  Decisión original: MATCH_PROBABLE
+  Elegido: Kipo and the Age of Wonderbeasts (TMDB 95599)
+  Estructura: 20 M3U / 30 TMDB
+  Temporadas: 2 M3U / 3 TMDB
+  Score estructural: 80/100 (MIXTA)
+  Temporadas exactas: 2; cercanas: 0; incompatibles: 0; ausentes: 0
+  - La estructura presenta diferencias relevantes
+  Candidatos:
+    TMDB 95599 | Kipo and the Age of Wonderbeasts | estructura 80/100 | MIXTA | 20/30 episodios
+
+[REVISAR] Mea culpa
+  Decisión original: MATCH_PROBABLE
+  Elegido: Mea culpa (TMDB 99308)
+  Estructura: 140 M3U / 168 TMDB
+  Temporadas: 14 M3U / 14 TMDB
+  Score estructural: 80/100 (MIXTA)
+  Temporadas exactas: 3; cercanas: 5; incompatibles: 6; ausentes: 0
+  - La estructura presenta diferencias relevantes
+  Candidatos:
+    TMDB 99308 | Mea culpa | estructura 80/100 | MIXTA | 140/168 episodios
+    TMDB 281291 | Mea Culpa | estructura 35/100 | DEBIL | 140/24 episodios
+    TMDB 96438 | Sino ang Maysala?: Mea Culpa | estructura 9/100 | DEBIL | 140/75 episodios
+
+[REVISAR] Fire Force
+  Decisión original: MATCH_PROBABLE
+  Elegido: Fire Force (TMDB 88046)
+  Estructura: 48 M3U / 73 TMDB
+  Temporadas: 2 M3U / 3 TMDB
+  Score estructural: 80/100 (MIXTA)
+  Temporadas exactas: 2; cercanas: 0; incompatibles: 0; ausentes: 0
+  - La estructura presenta diferencias relevantes
+  Candidatos:
+    TMDB 88046 | Fire Force | estructura 80/100 | MIXTA | 48/73 episodios
+
+[REVISAR] El pantano
+  Decisión original: MATCH_PROBABLE
+  Elegido: The Mire (TMDB 81686)
+  Estructura: 11 M3U / 17 TMDB
+  Temporadas: 2 M3U / 3 TMDB
+  Score estructural: 79/100 (MIXTA)
+  Temporadas exactas: 2; cercanas: 0; incompatibles: 0; ausentes: 0
+  - La estructura presenta diferencias relevantes
+  Candidatos:
+    TMDB 81686 | The Mire | estructura 79/100 | MIXTA | 11/17 episodios
+    TMDB 71192 | El pantano | estructura 32/100 | MIXTA | 11/9 episodios
+
+[REVISAR] Alias Us
+  Decisión original: MATCH_PROBABLE
+  Elegido: Alias (TMDB 2046)
+  Estructura: 66 M3U / 105 TMDB
+  Temporadas: 3 M3U / 5 TMDB
+  Score estructural: 79/100 (MIXTA)
+  Temporadas exactas: 3; cercanas: 0; incompatibles: 0; ausentes: 0
+  - La estructura presenta diferencias relevantes
+  Candidatos:
+    TMDB 2046 | Alias | estructura 79/100 | MIXTA | 66/105 episodios
+
+[REVISAR] The Eminence in Shadow
+  Decisión original: MATCH_PROBABLE
+  Elegido: The Eminence in Shadow (TMDB 119495)
+  Estructura: 28 M3U / 32 TMDB
+  Temporadas: 2 M3U / 2 TMDB
+  Score estructural: 79/100 (MIXTA)
+  Temporadas exactas: 1; cercanas: 0; incompatibles: 1; ausentes: 0
+  - La estructura presenta diferencias relevantes
+  Candidatos:
+    TMDB 119495 | The Eminence in Shadow | estructura 79/100 | MIXTA | 28/32 episodios
+
+[REVISAR] Clase
+  Decisión original: MATCH_PROBABLE
+  Elegido: Class (TMDB 211116)
+  Estructura: 13 M3U / 8 TMDB
+  Temporadas: 1 M3U / 2 TMDB
+  Score estructural: 78/100 (MIXTA)
+  Temporadas exactas: 1; cercanas: 0; incompatibles: 0; ausentes: 0
+  - La estructura presenta diferencias relevantes
+  Candidatos:
+    TMDB 211116 | Class | estructura 78/100 | MIXTA | 13/8 episodios
+
+[REVISAR] Todos quieren salvarse
+  Decisión original: MATCH_PROBABLE
+  Elegido: Everything Calls for Salvation (TMDB 134057)
+  Estructura: 7 M3U / 12 TMDB
+  Temporadas: 1 M3U / 2 TMDB
+  Score estructural: 78/100 (MIXTA)
+  Temporadas exactas: 1; cercanas: 0; incompatibles: 0; ausentes: 0
+  - La estructura presenta diferencias relevantes
+  Candidatos:
+    TMDB 134057 | Everything Calls for Salvation | estructura 78/100 | MIXTA | 7/12 episodios
+
+[REVISAR] Ciudades invisibles
+  Decisión original: MATCH_PROBABLE
+  Elegido: Invisible City (TMDB 110529)
+  Estructura: 7 M3U / 12 TMDB
+  Temporadas: 1 M3U / 2 TMDB
+  Score estructural: 78/100 (MIXTA)
+  Temporadas exactas: 1; cercanas: 0; incompatibles: 0; ausentes: 0
+  - La estructura presenta diferencias relevantes
+  Candidatos:
+    TMDB 110529 | Invisible City | estructura 78/100 | MIXTA | 7/12 episodios
+
+[REVISAR] The Vow: Una historia sobre NXIVM
+  Decisión original: MATCH_PROBABLE
+  Elegido: The Vow (TMDB 49920)
+  Estructura: 9 M3U / 15 TMDB
+  Temporadas: 1 M3U / 2 TMDB
+  Score estructural: 78/100 (MIXTA)
+  Temporadas exactas: 1; cercanas: 0; incompatibles: 0; ausentes: 0
+  - La estructura presenta diferencias relevantes
+  Candidatos:
+    TMDB 49920 | The Vow | estructura 78/100 | MIXTA | 9/15 episodios
+
+[REVISAR] Pataclaun
+  Decisión original: MATCH_PROBABLE
+  Elegido: Pataclaun (TMDB 79868)
+  Estructura: 54 M3U / 91 TMDB
+  Temporadas: 1 M3U / 2 TMDB
+  Score estructural: 78/100 (MIXTA)
+  Temporadas exactas: 0; cercanas: 1; incompatibles: 0; ausentes: 0
+  - La estructura presenta diferencias relevantes
+  Candidatos:
+    TMDB 79868 | Pataclaun | estructura 78/100 | MIXTA | 54/91 episodios
+
+[REVISAR] La Gran Sangre
+  Decisión original: MATCH_PROBABLE
+  Elegido: La Gran Sangre (TMDB 6698)
+  Estructura: 64 M3U / 106 TMDB
+  Temporadas: 3 M3U / 4 TMDB
+  Score estructural: 78/100 (MIXTA)
+  Temporadas exactas: 2; cercanas: 1; incompatibles: 0; ausentes: 0
+  - La estructura presenta diferencias relevantes
+  Candidatos:
+    TMDB 6698 | La Gran Sangre | estructura 78/100 | MIXTA | 64/106 episodios
+
+[REVISAR] El hotel embrujado
+  Decisión original: MATCH_PROBABLE
+  Elegido: Haunted Hotel (TMDB 255752)
+  Estructura: 10 M3U / 18 TMDB
+  Temporadas: 1 M3U / 2 TMDB
+  Score estructural: 77/100 (MIXTA)
+  Temporadas exactas: 1; cercanas: 0; incompatibles: 0; ausentes: 0
+  - La estructura presenta diferencias relevantes
+  Candidatos:
+    TMDB 255752 | Haunted Hotel | estructura 77/100 | MIXTA | 10/18 episodios
+
+[REVISAR] Estos ojos negros
+  Decisión original: MATCH_PROBABLE
+  Elegido: Yeh Kaali Kaali Ankhein (TMDB 153950)
+  Estructura: 8 M3U / 14 TMDB
+  Temporadas: 1 M3U / 2 TMDB
+  Score estructural: 77/100 (MIXTA)
+  Temporadas exactas: 1; cercanas: 0; incompatibles: 0; ausentes: 0
+  - La estructura presenta diferencias relevantes
+  Candidatos:
+    TMDB 153950 | Yeh Kaali Kaali Ankhein | estructura 77/100 | MIXTA | 8/14 episodios
+
+[REVISAR] No estoy muerta todavía
+  Decisión original: MATCH_PROBABLE
+  Elegido: Not Dead Yet (TMDB 203178)
+  Estructura: 13 M3U / 23 TMDB
+  Temporadas: 1 M3U / 2 TMDB
+  Score estructural: 77/100 (MIXTA)
+  Temporadas exactas: 1; cercanas: 0; incompatibles: 0; ausentes: 0
+  - La estructura presenta diferencias relevantes
+  Candidatos:
+    TMDB 203178 | Not Dead Yet | estructura 77/100 | MIXTA | 13/23 episodios
+
+[REVISAR] Centaurworld
+  Decisión original: MATCH_PROBABLE
+  Elegido: Centaurworld (TMDB 93233)
+  Estructura: 10 M3U / 18 TMDB
+  Temporadas: 1 M3U / 2 TMDB
+  Score estructural: 77/100 (MIXTA)
+  Temporadas exactas: 1; cercanas: 0; incompatibles: 0; ausentes: 0
+  - La estructura presenta diferencias relevantes
+  Candidatos:
+    TMDB 93233 | Centaurworld | estructura 77/100 | MIXTA | 10/18 episodios
+
+[REVISAR] Vgly
+  Decisión original: MATCH_PROBABLE
+  Elegido: Vgly (TMDB 226241)
+  Estructura: 13 M3U / 23 TMDB
+  Temporadas: 1 M3U / 2 TMDB
+  Score estructural: 77/100 (MIXTA)
+  Temporadas exactas: 1; cercanas: 0; incompatibles: 0; ausentes: 0
+  - La estructura presenta diferencias relevantes
+  Candidatos:
+    TMDB 226241 | Vgly | estructura 77/100 | MIXTA | 13/23 episodios
+
+[REVISAR] Capitán Tsubasa
+  Decisión original: MATCH_PROBABLE
+  Elegido: Captain Tsubasa (TMDB 77240)
+  Estructura: 52 M3U / 91 TMDB
+  Temporadas: 1 M3U / 2 TMDB
+  Score estructural: 77/100 (MIXTA)
+  Temporadas exactas: 1; cercanas: 0; incompatibles: 0; ausentes: 0
+  - La estructura presenta diferencias relevantes
+  Candidatos:
+    TMDB 77240 | Captain Tsubasa | estructura 77/100 | MIXTA | 52/91 episodios
+
+[REVISAR] Ellos
+  Decisión original: MATCH_PROBABLE
+  Elegido: Them (TMDB 120462)
+  Estructura: 10 M3U / 18 TMDB
+  Temporadas: 1 M3U / 2 TMDB
+  Score estructural: 77/100 (MIXTA)
+  Temporadas exactas: 1; cercanas: 0; incompatibles: 0; ausentes: 0
+  - La estructura presenta diferencias relevantes
+  Candidatos:
+    TMDB 120462 | Them | estructura 77/100 | MIXTA | 10/18 episodios
+
+[REVISAR] Educar a un superhéroe
+  Decisión original: MATCH_PROBABLE
+  Elegido: Raising Dion (TMDB 93392)
+  Estructura: 9 M3U / 17 TMDB
+  Temporadas: 1 M3U / 2 TMDB
+  Score estructural: 76/100 (MIXTA)
+  Temporadas exactas: 1; cercanas: 0; incompatibles: 0; ausentes: 0
+  - La estructura presenta diferencias relevantes
+  Candidatos:
+    TMDB 93392 | Raising Dion | estructura 76/100 | MIXTA | 9/17 episodios
+
+[REVISAR] Dr. Seuss's Horton!
+  Decisión original: MATCH_PROBABLE
+  Elegido: Dr. Seuss's Horton! (TMDB 293205)
+  Estructura: 7 M3U / 13 TMDB
+  Temporadas: 1 M3U / 2 TMDB
+  Score estructural: 76/100 (MIXTA)
+  Temporadas exactas: 1; cercanas: 0; incompatibles: 0; ausentes: 0
+  - La estructura presenta diferencias relevantes
+  Candidatos:
+    TMDB 293205 | Dr. Seuss's Horton! | estructura 76/100 | MIXTA | 7/13 episodios
+
+[REVISAR] Kung Fu Panda: El Guerrero Dragón
+  Decisión original: MATCH_PROBABLE
+  Elegido: Kung Fu Panda: The Dragon Knight (TMDB 129959)
+  Estructura: 23 M3U / 42 TMDB
+  Temporadas: 2 M3U / 3 TMDB
+  Score estructural: 76/100 (MIXTA)
+  Temporadas exactas: 2; cercanas: 0; incompatibles: 0; ausentes: 0
+  - La estructura presenta diferencias relevantes
+  Candidatos:
+    TMDB 129959 | Kung Fu Panda: The Dragon Knight | estructura 76/100 | MIXTA | 23/42 episodios
+
+[REVISAR] Perros de caza
+  Decisión original: MATCH_PROBABLE
+  Elegido: Bloodhounds (TMDB 127529)
+  Estructura: 8 M3U / 15 TMDB
+  Temporadas: 1 M3U / 2 TMDB
+  Score estructural: 76/100 (MIXTA)
+  Temporadas exactas: 1; cercanas: 0; incompatibles: 0; ausentes: 0
+  - La estructura presenta diferencias relevantes
+  Candidatos:
+    TMDB 127529 | Bloodhounds | estructura 76/100 | MIXTA | 8/15 episodios
+
+[REVISAR] Rey Tigre
+  Decisión original: MATCH_PROBABLE
+  Elegido: Tiger King (TMDB 100698)
+  Estructura: 7 M3U / 13 TMDB
+  Temporadas: 1 M3U / 2 TMDB
+  Score estructural: 76/100 (MIXTA)
+  Temporadas exactas: 0; cercanas: 1; incompatibles: 0; ausentes: 0
+  - La estructura presenta diferencias relevantes
+  Candidatos:
+    TMDB 100698 | Tiger King | estructura 76/100 | MIXTA | 7/13 episodios
+
+[REVISAR] Zombiverso
+  Decisión original: MATCH_PROBABLE
+  Elegido: Zombieverse (TMDB 217945)
+  Estructura: 8 M3U / 15 TMDB
+  Temporadas: 1 M3U / 2 TMDB
+  Score estructural: 76/100 (MIXTA)
+  Temporadas exactas: 1; cercanas: 0; incompatibles: 0; ausentes: 0
+  - La estructura presenta diferencias relevantes
+  Candidatos:
+    TMDB 217945 | Zombieverse | estructura 76/100 | MIXTA | 8/15 episodios
+
+[REVISAR] Delete Me
+  Decisión original: MATCH_PROBABLE
+  Elegido: Delete Me (TMDB 119039)
+  Estructura: 7 M3U / 13 TMDB
+  Temporadas: 1 M3U / 2 TMDB
+  Score estructural: 76/100 (MIXTA)
+  Temporadas exactas: 1; cercanas: 0; incompatibles: 0; ausentes: 0
+  - La estructura presenta diferencias relevantes
+  Candidatos:
+    TMDB 119039 | Delete Me | estructura 76/100 | MIXTA | 7/13 episodios
+
+[REVISAR] Almost Paradise
+  Decisión original: MATCH_PROBABLE
+  Elegido: Almost Paradise (TMDB 100383)
+  Estructura: 10 M3U / 20 TMDB
+  Temporadas: 1 M3U / 2 TMDB
+  Score estructural: 75/100 (MIXTA)
+  Temporadas exactas: 1; cercanas: 0; incompatibles: 0; ausentes: 0
+  - La estructura presenta diferencias relevantes
+  Candidatos:
+    TMDB 100383 | Almost Paradise | estructura 75/100 | MIXTA | 10/20 episodios
+
+[REVISAR] The Gold
+  Decisión original: MATCH_PROBABLE
+  Elegido: The Gold (TMDB 218351)
+  Estructura: 6 M3U / 12 TMDB
+  Temporadas: 1 M3U / 2 TMDB
+  Score estructural: 75/100 (MIXTA)
+  Temporadas exactas: 1; cercanas: 0; incompatibles: 0; ausentes: 0
+  - La estructura presenta diferencias relevantes
+  Candidatos:
+    TMDB 218351 | The Gold | estructura 75/100 | MIXTA | 6/12 episodios
+
+[REVISAR] Señorita 89
+  Decisión original: MATCH_PROBABLE
+  Elegido: Señorita 89 (TMDB 155645)
+  Estructura: 8 M3U / 16 TMDB
+  Temporadas: 1 M3U / 2 TMDB
+  Score estructural: 75/100 (MIXTA)
+  Temporadas exactas: 1; cercanas: 0; incompatibles: 0; ausentes: 0
+  - La estructura presenta diferencias relevantes
+  Candidatos:
+    TMDB 155645 | Señorita 89 | estructura 75/100 | MIXTA | 8/16 episodios
+
+[REVISAR] Dr. Death
+  Decisión original: MATCH_PROBABLE
+  Elegido: Dr. Death (TMDB 93749)
+  Estructura: 8 M3U / 16 TMDB
+  Temporadas: 1 M3U / 2 TMDB
+  Score estructural: 75/100 (MIXTA)
+  Temporadas exactas: 1; cercanas: 0; incompatibles: 0; ausentes: 0
+  - La estructura presenta diferencias relevantes
+  Candidatos:
+    TMDB 93749 | Dr. Death | estructura 75/100 | MIXTA | 8/16 episodios
+
+[REVISAR] Sálvame
+  Decisión original: MATCH_PROBABLE
+  Elegido: Save Me (TMDB 72690)
+  Estructura: 16 M3U / 32 TMDB
+  Temporadas: 1 M3U / 2 TMDB
+  Score estructural: 75/100 (MIXTA)
+  Temporadas exactas: 1; cercanas: 0; incompatibles: 0; ausentes: 0
+  - La estructura presenta diferencias relevantes
+  Candidatos:
+    TMDB 72690 | Save Me | estructura 75/100 | MIXTA | 16/32 episodios
+    TMDB 101236 | Sálvame | estructura 29/100 | DEBIL | 16/2 episodios
+
+[REVISAR] Stick: El swing perfecto
+  Decisión original: MATCH_PROBABLE
+  Elegido: Stick (TMDB 248830)
+  Estructura: 10 M3U / 20 TMDB
+  Temporadas: 1 M3U / 2 TMDB
+  Score estructural: 75/100 (MIXTA)
+  Temporadas exactas: 1; cercanas: 0; incompatibles: 0; ausentes: 0
+  - La estructura presenta diferencias relevantes
+  Candidatos:
+    TMDB 248830 | Stick | estructura 75/100 | MIXTA | 10/20 episodios
+
+[REVISAR] The Boss Baby: Back in Business
+  Decisión original: MATCH_PROBABLE
+  Elegido: The Boss Baby: Back in Business (TMDB 77606)
+  Estructura: 25 M3U / 49 TMDB
+  Temporadas: 2 M3U / 4 TMDB
+  Score estructural: 75/100 (MIXTA)
+  Temporadas exactas: 1; cercanas: 1; incompatibles: 0; ausentes: 0
+  - La estructura presenta diferencias relevantes
+  Candidatos:
+    TMDB 77606 | The Boss Baby: Back in Business | estructura 75/100 | MIXTA | 25/49 episodios
+
+[REVISAR] Avatar: La Leyenda de Korra
+  Decisión original: MATCH_PROBABLE
+  Elegido: The Legend of Korra (TMDB 33880)
+  Estructura: 26 M3U / 52 TMDB
+  Temporadas: 2 M3U / 4 TMDB
+  Score estructural: 75/100 (MIXTA)
+  Temporadas exactas: 2; cercanas: 0; incompatibles: 0; ausentes: 0
+  - La estructura presenta diferencias relevantes
+  Candidatos:
+    TMDB 33880 | The Legend of Korra | estructura 75/100 | MIXTA | 26/52 episodios
+
+[REVISAR] Amor 101
+  Decisión original: MATCH_PROBABLE
+  Elegido: Love 101 (TMDB 100897)
+  Estructura: 8 M3U / 16 TMDB
+  Temporadas: 1 M3U / 2 TMDB
+  Score estructural: 75/100 (MIXTA)
+  Temporadas exactas: 1; cercanas: 0; incompatibles: 0; ausentes: 0
+  - La estructura presenta diferencias relevantes
+  Candidatos:
+    TMDB 100897 | Love 101 | estructura 75/100 | MIXTA | 8/16 episodios
+
+[REVISAR] Barracuda Queens
+  Decisión original: MATCH_PROBABLE
+  Elegido: Barracuda Queens (TMDB 225152)
+  Estructura: 6 M3U / 12 TMDB
+  Temporadas: 1 M3U / 2 TMDB
+  Score estructural: 75/100 (MIXTA)
+  Temporadas exactas: 1; cercanas: 0; incompatibles: 0; ausentes: 0
+  - La estructura presenta diferencias relevantes
+  Candidatos:
+    TMDB 225152 | Barracuda Queens | estructura 75/100 | MIXTA | 6/12 episodios
+
+[REVISAR] Historia: Nivel 1
+  Decisión original: MATCH_PROBABLE
+  Elegido: History 101 (TMDB 102905)
+  Estructura: 10 M3U / 20 TMDB
+  Temporadas: 1 M3U / 2 TMDB
+  Score estructural: 75/100 (MIXTA)
+  Temporadas exactas: 1; cercanas: 0; incompatibles: 0; ausentes: 0
+  - La estructura presenta diferencias relevantes
+  Candidatos:
+    TMDB 102905 | History 101 | estructura 75/100 | MIXTA | 10/20 episodios
+
+[REVISAR] Hellbound
+  Decisión original: MATCH_PROBABLE
+  Elegido: Hellbound (TMDB 106651)
+  Estructura: 6 M3U / 12 TMDB
+  Temporadas: 1 M3U / 2 TMDB
+  Score estructural: 75/100 (MIXTA)
+  Temporadas exactas: 1; cercanas: 0; incompatibles: 0; ausentes: 0
+  - La estructura presenta diferencias relevantes
+  Candidatos:
+    TMDB 106651 | Hellbound | estructura 75/100 | MIXTA | 6/12 episodios
+
+[REVISAR] Hacia el lago
+  Decisión original: MATCH_PROBABLE
+  Elegido: To the Lake (TMDB 95202)
+  Estructura: 8 M3U / 16 TMDB
+  Temporadas: 1 M3U / 2 TMDB
+  Score estructural: 75/100 (MIXTA)
+  Temporadas exactas: 1; cercanas: 0; incompatibles: 0; ausentes: 0
+  - La estructura presenta diferencias relevantes
+  Candidatos:
+    TMDB 95202 | To the Lake | estructura 75/100 | MIXTA | 8/16 episodios
+
+[REVISAR] Inestable
+  Decisión original: MATCH_PROBABLE
+  Elegido: Unstable (TMDB 219788)
+  Estructura: 8 M3U / 16 TMDB
+  Temporadas: 1 M3U / 2 TMDB
+  Score estructural: 75/100 (MIXTA)
+  Temporadas exactas: 1; cercanas: 0; incompatibles: 0; ausentes: 0
+  - La estructura presenta diferencias relevantes
+  Candidatos:
+    TMDB 219788 | Unstable | estructura 75/100 | MIXTA | 8/16 episodios
+
+[REVISAR] Soy extraordinaria
+  Decisión original: MATCH_PROBABLE
+  Elegido: Extraordinary (TMDB 47907)
+  Estructura: 8 M3U / 16 TMDB
+  Temporadas: 1 M3U / 2 TMDB
+  Score estructural: 75/100 (MIXTA)
+  Temporadas exactas: 1; cercanas: 0; incompatibles: 0; ausentes: 0
+  - La estructura presenta diferencias relevantes
+  Candidatos:
+    TMDB 47907 | Extraordinary | estructura 75/100 | MIXTA | 8/16 episodios
+
+[REVISAR] Fin de semana en familia
+  Decisión original: MATCH_PROBABLE
+  Elegido: Weekend Family (TMDB 118904)
+  Estructura: 8 M3U / 16 TMDB
+  Temporadas: 1 M3U / 2 TMDB
+  Score estructural: 75/100 (MIXTA)
+  Temporadas exactas: 1; cercanas: 0; incompatibles: 0; ausentes: 0
+  - La estructura presenta diferencias relevantes
+  Candidatos:
+    TMDB 118904 | Weekend Family | estructura 75/100 | MIXTA | 8/16 episodios
+
+[REVISAR] Malos pensamientos
+  Decisión original: MATCH_PROBABLE
+  Elegido: Bad Thoughts (TMDB 251608)
+  Estructura: 6 M3U / 12 TMDB
+  Temporadas: 1 M3U / 2 TMDB
+  Score estructural: 75/100 (MIXTA)
+  Temporadas exactas: 1; cercanas: 0; incompatibles: 0; ausentes: 0
+  - La estructura presenta diferencias relevantes
+  Candidatos:
+    TMDB 251608 | Bad Thoughts | estructura 75/100 | MIXTA | 6/12 episodios
+
+[REVISAR] Murdaugh Murders: A Southern Scandal
+  Decisión original: MATCH_PROBABLE
+  Elegido: Murdaugh Murders: A Southern Scandal (TMDB 218530)
+  Estructura: 3 M3U / 6 TMDB
+  Temporadas: 1 M3U / 2 TMDB
+  Score estructural: 75/100 (MIXTA)
+  Temporadas exactas: 1; cercanas: 0; incompatibles: 0; ausentes: 0
+  - La estructura presenta diferencias relevantes
+  Candidatos:
+    TMDB 218530 | Murdaugh Murders: A Southern Scandal | estructura 75/100 | MIXTA | 3/6 episodios
+
+[REVISAR] Ojitos de huevo
+  Decisión original: MATCH_PROBABLE
+  Elegido: Nothing to See Here (TMDB 237983)
+  Estructura: 8 M3U / 16 TMDB
+  Temporadas: 1 M3U / 2 TMDB
+  Score estructural: 75/100 (MIXTA)
+  Temporadas exactas: 1; cercanas: 0; incompatibles: 0; ausentes: 0
+  - La estructura presenta diferencias relevantes
+  Candidatos:
+    TMDB 237983 | Nothing to See Here | estructura 75/100 | MIXTA | 8/16 episodios
+
+[REVISAR] Presidente por accidente
+  Decisión original: MATCH_PROBABLE
+  Elegido: Represent (TMDB 194899)
+  Estructura: 6 M3U / 12 TMDB
+  Temporadas: 1 M3U / 2 TMDB
+  Score estructural: 75/100 (MIXTA)
+  Temporadas exactas: 1; cercanas: 0; incompatibles: 0; ausentes: 0
+  - La estructura presenta diferencias relevantes
+  Candidatos:
+    TMDB 194899 | Represent | estructura 75/100 | MIXTA | 6/12 episodios
+
+[REVISAR] Perros en el espacio
+  Decisión original: MATCH_PROBABLE
+  Elegido: Dogs in Space (TMDB 136752)
+  Estructura: 10 M3U / 20 TMDB
+  Temporadas: 1 M3U / 2 TMDB
+  Score estructural: 75/100 (MIXTA)
+  Temporadas exactas: 1; cercanas: 0; incompatibles: 0; ausentes: 0
+  - La estructura presenta diferencias relevantes
+  Candidatos:
+    TMDB 136752 | Dogs in Space | estructura 75/100 | MIXTA | 10/20 episodios
+
+[REVISAR] Si no hubiera visto el sol
+  Decisión original: MATCH_PROBABLE
+  Elegido: Had I Not Seen the Sun (TMDB 241576)
+  Estructura: 10 M3U / 20 TMDB
+  Temporadas: 1 M3U / 2 TMDB
+  Score estructural: 75/100 (MIXTA)
+  Temporadas exactas: 1; cercanas: 0; incompatibles: 0; ausentes: 0
+  - La estructura presenta diferencias relevantes
+  Candidatos:
+    TMDB 241576 | Had I Not Seen the Sun | estructura 75/100 | MIXTA | 10/20 episodios
+
+[REVISAR] Siempre Reinas
+  Decisión original: MATCH_PROBABLE
+  Elegido: Siempre Reinas (TMDB 211664)
+  Estructura: 6 M3U / 12 TMDB
+  Temporadas: 1 M3U / 2 TMDB
+  Score estructural: 75/100 (MIXTA)
+  Temporadas exactas: 1; cercanas: 0; incompatibles: 0; ausentes: 0
+  - La estructura presenta diferencias relevantes
+  Candidatos:
+    TMDB 211664 | Siempre Reinas | estructura 75/100 | MIXTA | 6/12 episodios
+
+[REVISAR] Amor y anarquía
+  Decisión original: MATCH_PROBABLE
+  Elegido: Love & Anarchy (TMDB 111743)
+  Estructura: 8 M3U / 16 TMDB
+  Temporadas: 1 M3U / 2 TMDB
+  Score estructural: 75/100 (MIXTA)
+  Temporadas exactas: 1; cercanas: 0; incompatibles: 0; ausentes: 0
+  - La estructura presenta diferencias relevantes
+  Candidatos:
+    TMDB 111743 | Love & Anarchy | estructura 75/100 | MIXTA | 8/16 episodios
+
+[REVISAR] Hora de Aventura con Fionna & Cake
+  Decisión original: MATCH_PROBABLE
+  Elegido: Adventure Time: Fionna and Cake (TMDB 131378)
+  Estructura: 10 M3U / 20 TMDB
+  Temporadas: 1 M3U / 2 TMDB
+  Score estructural: 75/100 (MIXTA)
+  Temporadas exactas: 1; cercanas: 0; incompatibles: 0; ausentes: 0
+  - La estructura presenta diferencias relevantes
+  Candidatos:
+    TMDB 131378 | Adventure Time: Fionna and Cake | estructura 75/100 | MIXTA | 10/20 episodios
+
+[REVISAR] Maldito Rap
+  Decisión original: MATCH_PROBABLE
+  Elegido: Rap Sh!t (TMDB 155772)
+  Estructura: 8 M3U / 16 TMDB
+  Temporadas: 1 M3U / 2 TMDB
+  Score estructural: 75/100 (MIXTA)
+  Temporadas exactas: 1; cercanas: 0; incompatibles: 0; ausentes: 0
+  - La estructura presenta diferencias relevantes
+  Candidatos:
+    TMDB 155772 | Rap Sh!t | estructura 75/100 | MIXTA | 8/16 episodios
+
+[REVISAR] Mi niñera es una vampira
+  Decisión original: MATCH_PROBABLE
+  Elegido: My Babysitter's a Vampire (TMDB 39518)
+  Estructura: 13 M3U / 26 TMDB
+  Temporadas: 1 M3U / 2 TMDB
+  Score estructural: 75/100 (MIXTA)
+  Temporadas exactas: 1; cercanas: 0; incompatibles: 0; ausentes: 0
+  - La estructura presenta diferencias relevantes
+  Candidatos:
+    TMDB 39518 | My Babysitter's a Vampire | estructura 75/100 | MIXTA | 13/26 episodios
+
+[REVISAR] Momma Named Me Sheriff
+  Decisión original: MATCH_PROBABLE
+  Elegido: Momma Named Me Sheriff (TMDB 96372)
+  Estructura: 9 M3U / 18 TMDB
+  Temporadas: 1 M3U / 2 TMDB
+  Score estructural: 75/100 (MIXTA)
+  Temporadas exactas: 1; cercanas: 0; incompatibles: 0; ausentes: 0
+  - La estructura presenta diferencias relevantes
+  Candidatos:
+    TMDB 96372 | Momma Named Me Sheriff | estructura 75/100 | MIXTA | 9/18 episodios
+
+[REVISAR] En busca de Ola
+  Decisión original: MATCH_PROBABLE
+  Elegido: Finding Ola (TMDB 154810)
+  Estructura: 6 M3U / 12 TMDB
+  Temporadas: 1 M3U / 2 TMDB
+  Score estructural: 75/100 (MIXTA)
+  Temporadas exactas: 1; cercanas: 0; incompatibles: 0; ausentes: 0
+  - La estructura presenta diferencias relevantes
+  Candidatos:
+    TMDB 154810 | Finding Ola | estructura 75/100 | MIXTA | 6/12 episodios
+
+[REVISAR] The Tourist
+  Decisión original: MATCH_PROBABLE
+  Elegido: The Tourist (TMDB 120909)
+  Estructura: 6 M3U / 12 TMDB
+  Temporadas: 1 M3U / 2 TMDB
+  Score estructural: 75/100 (MIXTA)
+  Temporadas exactas: 1; cercanas: 0; incompatibles: 0; ausentes: 0
+  - La estructura presenta diferencias relevantes
+  Candidatos:
+    TMDB 120909 | The Tourist | estructura 75/100 | MIXTA | 6/12 episodios
+
+[REVISAR] Aharen Is Indecipherable
+  Decisión original: MATCH_PROBABLE
+  Elegido: Aharen-san wa Hakarenai (TMDB 130237)
+  Estructura: 12 M3U / 24 TMDB
+  Temporadas: 1 M3U / 2 TMDB
+  Score estructural: 75/100 (MIXTA)
+  Temporadas exactas: 1; cercanas: 0; incompatibles: 0; ausentes: 0
+  - La estructura presenta diferencias relevantes
+  Candidatos:
+    TMDB 130237 | Aharen-san wa Hakarenai | estructura 75/100 | MIXTA | 12/24 episodios
+
+[REVISAR] Basilisk
+  Decisión original: MATCH_PROBABLE
+  Elegido: Basilisk (TMDB 9410)
+  Estructura: 24 M3U / 48 TMDB
+  Temporadas: 1 M3U / 2 TMDB
+  Score estructural: 75/100 (MIXTA)
+  Temporadas exactas: 1; cercanas: 0; incompatibles: 0; ausentes: 0
+  - La estructura presenta diferencias relevantes
+  Candidatos:
+    TMDB 9410 | Basilisk | estructura 75/100 | MIXTA | 24/48 episodios
+
+[REVISAR] Code Geass: La Rebelión de Lelouch
+  Decisión original: MATCH_PROBABLE
+  Elegido: Code Geass: Lelouch of the Rebellion (TMDB 31724)
+  Estructura: 25 M3U / 50 TMDB
+  Temporadas: 1 M3U / 2 TMDB
+  Score estructural: 75/100 (MIXTA)
+  Temporadas exactas: 1; cercanas: 0; incompatibles: 0; ausentes: 0
+  - La estructura presenta diferencias relevantes
+  Candidatos:
+    TMDB 31724 | Code Geass: Lelouch of the Rebellion | estructura 75/100 | MIXTA | 25/50 episodios
+
+[REVISAR] Grappler Baki
+  Decisión original: MATCH_PROBABLE
+  Elegido: Baki the Grappler (TMDB 56425)
+  Estructura: 24 M3U / 48 TMDB
+  Temporadas: 1 M3U / 2 TMDB
+  Score estructural: 75/100 (MIXTA)
+  Temporadas exactas: 1; cercanas: 0; incompatibles: 0; ausentes: 0
+  - La estructura presenta diferencias relevantes
+  Candidatos:
+    TMDB 56425 | Baki the Grappler | estructura 75/100 | MIXTA | 24/48 episodios
+
+[REVISAR] Saga of Tanya The Evil
+  Decisión original: MATCH_PROBABLE
+  Elegido: Saga of Tanya the Evil (TMDB 69346)
+  Estructura: 12 M3U / 24 TMDB
+  Temporadas: 1 M3U / 2 TMDB
+  Score estructural: 75/100 (MIXTA)
+  Temporadas exactas: 1; cercanas: 0; incompatibles: 0; ausentes: 0
+  - La estructura presenta diferencias relevantes
+  Candidatos:
+    TMDB 69346 | Saga of Tanya the Evil | estructura 75/100 | MIXTA | 12/24 episodios
+
+[REVISAR] Seirei Gensouki: Spirit Chronicles
+  Decisión original: MATCH_PROBABLE
+  Elegido: Seirei Gensouki: Spirit Chronicles (TMDB 113808)
+  Estructura: 12 M3U / 24 TMDB
+  Temporadas: 1 M3U / 2 TMDB
+  Score estructural: 75/100 (MIXTA)
+  Temporadas exactas: 1; cercanas: 0; incompatibles: 0; ausentes: 0
+  - La estructura presenta diferencias relevantes
+  Candidatos:
+    TMDB 113808 | Seirei Gensouki: Spirit Chronicles | estructura 75/100 | MIXTA | 12/24 episodios
+
+[REVISAR] The Iceblade Sorcerer Shall Rule the World
+  Decisión original: MATCH_PROBABLE
+  Elegido: The Iceblade Sorcerer Shall Rule the World (TMDB 200777)
+  Estructura: 12 M3U / 24 TMDB
+  Temporadas: 1 M3U / 2 TMDB
+  Score estructural: 75/100 (MIXTA)
+  Temporadas exactas: 1; cercanas: 0; incompatibles: 0; ausentes: 0
+  - La estructura presenta diferencias relevantes
+  Candidatos:
+    TMDB 200777 | The Iceblade Sorcerer Shall Rule the World | estructura 75/100 | MIXTA | 12/24 episodios
+
+[REVISAR] Sueña Sin Limites
+  Decisión original: MATCH_PROBABLE
+  Elegido: Dream High (TMDB 37722)
+  Estructura: 16 M3U / 32 TMDB
+  Temporadas: 1 M3U / 2 TMDB
+  Score estructural: 75/100 (MIXTA)
+  Temporadas exactas: 1; cercanas: 0; incompatibles: 0; ausentes: 0
+  - La estructura presenta diferencias relevantes
+  Candidatos:
+    TMDB 37722 | Dream High | estructura 75/100 | MIXTA | 16/32 episodios
+
+[REVISAR] Patito feo
+  Decisión original: MATCH_PROBABLE
+  Elegido: Patty's World (TMDB 7282)
+  Estructura: 155 M3U / 304 TMDB
+  Temporadas: 1 M3U / 2 TMDB
+  Score estructural: 75/100 (MIXTA)
+  Temporadas exactas: 0; cercanas: 1; incompatibles: 0; ausentes: 0
+  - La estructura presenta diferencias relevantes
+  Candidatos:
+    TMDB 7282 | Patty's World | estructura 75/100 | MIXTA | 155/304 episodios
+
+[REVISAR] Doc - Una nueva vida
+  Decisión original: MATCH_PROBABLE
+  Elegido: Doc (TMDB 101048)
+  Estructura: 32 M3U / 64 TMDB
+  Temporadas: 2 M3U / 4 TMDB
+  Score estructural: 75/100 (MIXTA)
+  Temporadas exactas: 2; cercanas: 0; incompatibles: 0; ausentes: 0
+  - La estructura presenta diferencias relevantes
+  Candidatos:
+    TMDB 101048 | Doc | estructura 75/100 | MIXTA | 32/64 episodios
+
+[REVISAR] Jalas o Te Rajas
+  Decisión original: MATCH_PROBABLE
+  Elegido: Prank or Tank (TMDB 228820)
+  Estructura: 6 M3U / 12 TMDB
+  Temporadas: 1 M3U / 2 TMDB
+  Score estructural: 75/100 (MIXTA)
+  Temporadas exactas: 1; cercanas: 0; incompatibles: 0; ausentes: 0
+  - La estructura presenta diferencias relevantes
+  Candidatos:
+    TMDB 228820 | Prank or Tank | estructura 75/100 | MIXTA | 6/12 episodios
+
+[REVISAR] La lista terminal
+  Decisión original: MATCH_PROBABLE
+  Elegido: The Terminal List (TMDB 120911)
+  Estructura: 8 M3U / 16 TMDB
+  Temporadas: 1 M3U / 2 TMDB
+  Score estructural: 75/100 (MIXTA)
+  Temporadas exactas: 1; cercanas: 0; incompatibles: 0; ausentes: 0
+  - La estructura presenta diferencias relevantes
+  Candidatos:
+    TMDB 120911 | The Terminal List | estructura 75/100 | MIXTA | 8/16 episodios
+
+[REVISAR] Falsa identidad
+  Decisión original: MATCH_PROBABLE
+  Elegido: False Identity (TMDB 82809)
+  Estructura: 243 M3U / 171 TMDB
+  Temporadas: 2 M3U / 2 TMDB
+  Score estructural: 74/100 (MIXTA)
+  Temporadas exactas: 0; cercanas: 1; incompatibles: 1; ausentes: 0
+  - La estructura presenta diferencias relevantes
+  Candidatos:
+    TMDB 82809 | False Identity | estructura 74/100 | MIXTA | 243/171 episodios
+    TMDB 65312 | False Flag | estructura 28/100 | DEBIL | 243/25 episodios
+
+[REVISAR] Empeños a lo bestia
+  Decisión original: MATCH_PROBABLE
+  Elegido: Hardcore Pawn (TMDB 33478)
+  Estructura: 106 M3U / 160 TMDB
+  Temporadas: 9 M3U / 9 TMDB
+  Score estructural: 74/100 (MIXTA)
+  Temporadas exactas: 5; cercanas: 0; incompatibles: 4; ausentes: 0
+  - La estructura presenta diferencias relevantes
+  Candidatos:
+    TMDB 33478 | Hardcore Pawn | estructura 74/100 | MIXTA | 106/160 episodios
+
+[REVISAR] El día menos pensado
+  Decisión original: MATCH_PROBABLE
+  Elegido: El día menos pensado (TMDB 99312)
+  Estructura: 107 M3U / 149 TMDB
+  Temporadas: 9 M3U / 11 TMDB
+  Score estructural: 74/100 (MIXTA)
+  Temporadas exactas: 6; cercanas: 1; incompatibles: 2; ausentes: 0
+  - La estructura presenta diferencias relevantes
+  Candidatos:
+    TMDB 99312 | El día menos pensado | estructura 74/100 | MIXTA | 107/149 episodios
+    TMDB 101262 | The Least Expected Day: Inside the Movistar Team 2019 | estructura 16/100 | DEBIL | 107/23 episodios
+
+[REVISAR] Avatar: La leyenda de Aang
+  Decisión original: MATCH_PROBABLE
+  Elegido: Avatar: The Last Airbender (TMDB 246)
+  Estructura: 84 M3U / 61 TMDB
+  Temporadas: 4 M3U / 3 TMDB
+  Score estructural: 73/100 (MIXTA)
+  Temporadas exactas: 3; cercanas: 0; incompatibles: 0; ausentes: 1
+  - La estructura presenta diferencias relevantes
+  Candidatos:
+    TMDB 246 | Avatar: The Last Airbender | estructura 73/100 | MIXTA | 84/61 episodios
+    TMDB 82452 | Avatar: The Last Airbender | estructura 13/100 | DEBIL | 84/15 episodios
+
+[REVISAR] Total Drama Action
+  Decisión original: MATCH_PROBABLE
+  Elegido: Total Drama Action (TMDB 8616)
+  Estructura: 27 M3U / 27 TMDB
+  Temporadas: 2 M3U / 1 TMDB
+  Score estructural: 73/100 (MIXTA)
+  Temporadas exactas: 0; cercanas: 1; incompatibles: 0; ausentes: 1
+  - La estructura presenta diferencias relevantes
+  Candidatos:
+    TMDB 8616 | Total Drama Action | estructura 73/100 | MIXTA | 27/27 episodios
+
+[REVISAR] El Espectacular Hombre-Araña
+  Decisión original: MATCH_PROBABLE
+  Elegido: The Spectacular Spider-Man (TMDB 3854)
+  Estructura: 39 M3U / 26 TMDB
+  Temporadas: 2 M3U / 2 TMDB
+  Score estructural: 73/100 (MIXTA)
+  Temporadas exactas: 1; cercanas: 0; incompatibles: 1; ausentes: 0
+  - La estructura presenta diferencias relevantes
+  Candidatos:
+    TMDB 3854 | The Spectacular Spider-Man | estructura 73/100 | MIXTA | 39/26 episodios
+
+[REVISAR] Demon Slayer: Kimetsu no Yaiba
+  Decisión original: MATCH_PROBABLE
+  Elegido: Demon Slayer: Kimetsu no Yaiba (TMDB 85937)
+  Estructura: 63 M3U / 63 TMDB
+  Temporadas: 4 M3U / 5 TMDB
+  Score estructural: 73/100 (MIXTA)
+  Temporadas exactas: 2; cercanas: 0; incompatibles: 2; ausentes: 0
+  - La estructura presenta diferencias relevantes
+  Candidatos:
+    TMDB 85937 | Demon Slayer: Kimetsu no Yaiba | estructura 73/100 | MIXTA | 63/63 episodios
+
+[REVISAR] Rugrats Crecidos
+  Decisión original: MATCH_PROBABLE
+  Elegido: All Grown Up! (TMDB 130)
+  Estructura: 38 M3U / 52 TMDB
+  Temporadas: 5 M3U / 5 TMDB
+  Score estructural: 71/100 (MIXTA)
+  Temporadas exactas: 0; cercanas: 2; incompatibles: 3; ausentes: 0
+  - La estructura presenta diferencias relevantes
+  Candidatos:
+    TMDB 130 | All Grown Up! | estructura 71/100 | MIXTA | 38/52 episodios
+
+[REVISAR] ¡Buena suerte Charlie!
+  Decisión original: MATCH_PROBABLE
+  Elegido: Good Luck Charlie (TMDB 21641)
+  Estructura: 75 M3U / 99 TMDB
+  Temporadas: 3 M3U / 4 TMDB
+  Score estructural: 71/100 (MIXTA)
+  Temporadas exactas: 1; cercanas: 1; incompatibles: 1; ausentes: 0
+  - La estructura presenta diferencias relevantes
+  Candidatos:
+    TMDB 21641 | Good Luck Charlie | estructura 71/100 | MIXTA | 75/99 episodios
+
+[REVISAR] 1000 Maneras de morir
+  Decisión original: MATCH_PROBABLE
+  Elegido: 1000 Ways to Die (TMDB 15826)
+  Estructura: 52 M3U / 71 TMDB
+  Temporadas: 3 M3U / 4 TMDB
+  Score estructural: 70/100 (MIXTA)
+  Temporadas exactas: 1; cercanas: 1; incompatibles: 1; ausentes: 0
+  - La estructura presenta diferencias relevantes
+  Candidatos:
+    TMDB 15826 | 1000 Ways to Die | estructura 70/100 | MIXTA | 52/71 episodios
+
+[REVISAR] Drama Total: La venganza de la isla
+  Decisión original: MATCH_PROBABLE
+  Elegido: Total Drama: Revenge of the Island (TMDB 33507)
+  Estructura: 14 M3U / 13 TMDB
+  Temporadas: 2 M3U / 1 TMDB
+  Score estructural: 70/100 (MIXTA)
+  Temporadas exactas: 1; cercanas: 0; incompatibles: 0; ausentes: 1
+  - La estructura presenta diferencias relevantes
+  Candidatos:
+    TMDB 33507 | Total Drama: Revenge of the Island | estructura 70/100 | MIXTA | 14/13 episodios
+
+[REVISAR] Corazones rebeldes
+  Decisión original: MATCH_PROBABLE
+  Elegido: Badly in Love (TMDB 305379)
+  Estructura: 17 M3U / 30 TMDB
+  Temporadas: 2 M3U / 2 TMDB
+  Score estructural: 70/100 (MIXTA)
+  Temporadas exactas: 1; cercanas: 0; incompatibles: 1; ausentes: 0
+  - La estructura presenta diferencias relevantes
+  Candidatos:
+    TMDB 305379 | Badly in Love | estructura 70/100 | MIXTA | 17/30 episodios
+
+[REVISAR] Rivales
+  Decisión original: MATCH_PROBABLE
+  Elegido: Rivals (TMDB 208921)
+  Estructura: 11 M3U / 20 TMDB
+  Temporadas: 2 M3U / 2 TMDB
+  Score estructural: 69/100 (MIXTA)
+  Temporadas exactas: 1; cercanas: 0; incompatibles: 1; ausentes: 0
+  - La estructura presenta diferencias relevantes
+  Candidatos:
+    TMDB 208921 | Rivals | estructura 69/100 | MIXTA | 11/20 episodios
+    TMDB 77288 | Rivals Forever - The Sneaker Battle | estructura 13/100 | DEBIL | 11/2 episodios
+    TMDB 32566 | Magkaribal | estructura 11/100 | DEBIL | 11/94 episodios
+
+[REVISAR] La Familia del Barrio
+  Decisión original: MATCH_PROBABLE
+  Elegido: La Familia del Barrio (TMDB 92468)
+  Estructura: 54 M3U / 95 TMDB
+  Temporadas: 4 M3U / 6 TMDB
+  Score estructural: 68/100 (MIXTA)
+  Temporadas exactas: 2; cercanas: 1; incompatibles: 1; ausentes: 0
+  - La estructura presenta diferencias relevantes
+  Candidatos:
+    TMDB 92468 | La Familia del Barrio | estructura 68/100 | MIXTA | 54/95 episodios
+
+[REVISAR] Georgie y Mandy: Primer matrimonio
+  Decisión original: MATCH_PROBABLE
+  Elegido: Georgie & Mandy's First Marriage (TMDB 243875)
+  Estructura: 38 M3U / 46 TMDB
+  Temporadas: 2 M3U / 3 TMDB
+  Score estructural: 67/100 (MIXTA)
+  Temporadas exactas: 1; cercanas: 0; incompatibles: 1; ausentes: 0
+  - La estructura presenta diferencias relevantes
+  Candidatos:
+    TMDB 243875 | Georgie & Mandy's First Marriage | estructura 67/100 | MIXTA | 38/46 episodios
+
+[REVISAR] Detective Alex Cross
+  Decisión original: MATCH_PROBABLE
+  Elegido: Cross (TMDB 213306)
+  Estructura: 22 M3U / 16 TMDB
+  Temporadas: 2 M3U / 3 TMDB
+  Score estructural: 64/100 (MIXTA)
+  Temporadas exactas: 1; cercanas: 0; incompatibles: 1; ausentes: 0
+  - La estructura presenta diferencias relevantes
+  Candidatos:
+    TMDB 213306 | Cross | estructura 64/100 | MIXTA | 22/16 episodios
+
+[REVISAR] BKN
+  Decisión original: MATCH_PROBABLE
+  Elegido: BKN (TMDB 106200)
+  Estructura: 147 M3U / 282 TMDB
+  Temporadas: 11 M3U / 11 TMDB
+  Score estructural: 63/100 (MIXTA)
+  Temporadas exactas: 1; cercanas: 3; incompatibles: 7; ausentes: 0
+  - La estructura presenta diferencias relevantes
+  - Título corto o genérico: requiere mayor evidencia estructural
+  Candidatos:
+    TMDB 106200 | BKN | estructura 63/100 | MIXTA | 147/282 episodios
+
+[REVISAR] Piel de otoño
+  Decisión original: MATCH_FUERTE
+  Elegido: Piel de otoño (TMDB 16291)
+  Estructura: 90 M3U / 100 TMDB
+  Temporadas: 1 M3U / 1 TMDB
+  Score estructural: 62/100 (MIXTA)
+  Temporadas exactas: 0; cercanas: 0; incompatibles: 1; ausentes: 0
+  - La estructura presenta diferencias relevantes
+  Candidatos:
+    TMDB 16291 | Piel de otoño | estructura 62/100 | MIXTA | 90/100 episodios
+
+[REVISAR] Ben 10: Supremacía Alienígena
+  Decisión original: MATCH_PROBABLE
+  Elegido: Ben 10: Ultimate Alien (TMDB 31109)
+  Estructura: 52 M3U / 52 TMDB
+  Temporadas: 3 M3U / 2 TMDB
+  Score estructural: 61/100 (MIXTA)
+  Temporadas exactas: 1; cercanas: 0; incompatibles: 1; ausentes: 1
+  - La estructura presenta diferencias relevantes
+  Candidatos:
+    TMDB 31109 | Ben 10: Ultimate Alien | estructura 61/100 | MIXTA | 52/52 episodios
+
+[REVISAR] Los Reyes
+  Decisión original: MATCH_PROBABLE
+  Elegido: Los Reyes (TMDB 19505)
+  Estructura: 216 M3U / 250 TMDB
+  Temporadas: 1 M3U / 1 TMDB
+  Score estructural: 61/100 (MIXTA)
+  Temporadas exactas: 0; cercanas: 0; incompatibles: 1; ausentes: 0
+  - La estructura presenta diferencias relevantes
+  Candidatos:
+    TMDB 19505 | Los Reyes | estructura 61/100 | MIXTA | 216/250 episodios
+
+[REVISAR] Re:ZERO -Starting Life in Another World-
+  Decisión original: MATCH_PROBABLE
+  Elegido: Re:ZERO -Starting Life in Another World- (TMDB 65942)
+  Estructura: 73 M3U / 85 TMDB
+  Temporadas: 1 M3U / 1 TMDB
+  Score estructural: 61/100 (MIXTA)
+  Temporadas exactas: 0; cercanas: 0; incompatibles: 1; ausentes: 0
+  - La estructura presenta diferencias relevantes
+  Candidatos:
+    TMDB 65942 | Re:ZERO -Starting Life in Another World- | estructura 61/100 | MIXTA | 73/85 episodios
+
+[REVISAR] El Show de Super Mario Bros
+  Decisión original: MATCH_PROBABLE
+  Elegido: The Super Mario Bros. Super Show! (TMDB 14613)
+  Estructura: 54 M3U / 65 TMDB
+  Temporadas: 1 M3U / 1 TMDB
+  Score estructural: 60/100 (MIXTA)
+  Temporadas exactas: 0; cercanas: 0; incompatibles: 1; ausentes: 0
+  - La estructura presenta diferencias relevantes
+  Candidatos:
+    TMDB 14613 | The Super Mario Bros. Super Show! | estructura 60/100 | MIXTA | 54/65 episodios
+
+[REVISAR] La novicia rebelde
+  Decisión original: MATCH_PROBABLE
+  Elegido: Trapp Family Story (TMDB 43938)
+  Estructura: 33 M3U / 40 TMDB
+  Temporadas: 1 M3U / 1 TMDB
+  Score estructural: 60/100 (MIXTA)
+  Temporadas exactas: 0; cercanas: 0; incompatibles: 1; ausentes: 0
+  - La estructura presenta diferencias relevantes
+  Candidatos:
+    TMDB 43938 | Trapp Family Story | estructura 60/100 | MIXTA | 33/40 episodios
+
+[REVISAR] Tom Y Jerry
+  Decisión original: MATCH_PROBABLE
+  Elegido: The Tom and Jerry Comedy Show (TMDB 14705)
+  Estructura: 38 M3U / 45 TMDB
+  Temporadas: 1 M3U / 1 TMDB
+  Score estructural: 60/100 (MIXTA)
+  Temporadas exactas: 0; cercanas: 0; incompatibles: 1; ausentes: 0
+  - La estructura presenta diferencias relevantes
+  Candidatos:
+    TMDB 14705 | The Tom and Jerry Comedy Show | estructura 60/100 | MIXTA | 38/45 episodios
+    TMDB 217288 | Tom and Jerry | estructura 41/100 | DEBIL | 38/7 episodios
+
+[REVISAR] Two Cops
+  Decisión original: MATCH_PROBABLE
+  Elegido: Two Cops (TMDB 74785)
+  Estructura: 20 M3U / 16 TMDB
+  Temporadas: 1 M3U / 1 TMDB
+  Score estructural: 59/100 (MIXTA)
+  Temporadas exactas: 0; cercanas: 0; incompatibles: 1; ausentes: 0
+  - La estructura presenta diferencias relevantes
+  Candidatos:
+    TMDB 74785 | Two Cops | estructura 59/100 | MIXTA | 20/16 episodios
+
+[REVISAR] El increíble mundo de Gumball
+  Decisión original: MATCH_PROBABLE
+  Elegido: The Amazing World of Gumball (TMDB 37606)
+  Estructura: 146 M3U / 240 TMDB
+  Temporadas: 6 M3U / 6 TMDB
+  Score estructural: 59/100 (MIXTA)
+  Temporadas exactas: 1; cercanas: 0; incompatibles: 5; ausentes: 0
+  - La estructura presenta diferencias relevantes
+  Candidatos:
+    TMDB 37606 | The Amazing World of Gumball | estructura 59/100 | MIXTA | 146/240 episodios
+
+[REVISAR] Como la vida misma
+  Decisión original: MATCH_PROBABLE
+  Elegido: Como la vida misma (TMDB 225554)
+  Estructura: 233 M3U / 286 TMDB
+  Temporadas: 1 M3U / 1 TMDB
+  Score estructural: 59/100 (MIXTA)
+  Temporadas exactas: 0; cercanas: 0; incompatibles: 1; ausentes: 0
+  - La estructura presenta diferencias relevantes
+  Candidatos:
+    TMDB 225554 | Como la vida misma | estructura 59/100 | MIXTA | 233/286 episodios
+
+[REVISAR] fantasma
+  Decisión original: MATCH_PROBABLE
+  Elegido: Ghost (TMDB 45018)
+  Estructura: 16 M3U / 20 TMDB
+  Temporadas: 1 M3U / 1 TMDB
+  Score estructural: 59/100 (MIXTA)
+  Temporadas exactas: 0; cercanas: 0; incompatibles: 1; ausentes: 0
+  - La estructura presenta diferencias relevantes
+  Candidatos:
+    TMDB 45018 | Ghost | estructura 59/100 | MIXTA | 16/20 episodios
+
+[REVISAR] Undead Unluck
+  Decisión original: MATCH_PROBABLE
+  Elegido: Undead Unluck (TMDB 209077)
+  Estructura: 19 M3U / 24 TMDB
+  Temporadas: 1 M3U / 1 TMDB
+  Score estructural: 59/100 (MIXTA)
+  Temporadas exactas: 0; cercanas: 0; incompatibles: 1; ausentes: 0
+  - La estructura presenta diferencias relevantes
+  Candidatos:
+    TMDB 209077 | Undead Unluck | estructura 59/100 | MIXTA | 19/24 episodios
+
+[REVISAR] La Segunda Guerra Mundial A Todo Color
+  Decisión original: MATCH_PROBABLE
+  Elegido: World War II in Colour (TMDB 42154)
+  Estructura: 10 M3U / 13 TMDB
+  Temporadas: 1 M3U / 1 TMDB
+  Score estructural: 58/100 (MIXTA)
+  Temporadas exactas: 0; cercanas: 0; incompatibles: 1; ausentes: 0
+  - La estructura presenta diferencias relevantes
+  Candidatos:
+    TMDB 42154 | World War II in Colour | estructura 58/100 | MIXTA | 10/13 episodios
+
+[REVISAR] Tierra Brava
+  Decisión original: MATCH_PROBABLE
+  Elegido: Tierra Brava (TMDB 236247)
+  Estructura: 105 M3U / 136 TMDB
+  Temporadas: 1 M3U / 1 TMDB
+  Score estructural: 58/100 (MIXTA)
+  Temporadas exactas: 0; cercanas: 0; incompatibles: 1; ausentes: 0
+  - La estructura presenta diferencias relevantes
+  Candidatos:
+    TMDB 236247 | Tierra Brava | estructura 58/100 | MIXTA | 105/136 episodios
+
+[REVISAR] La chica que limpia
+  Decisión original: MATCH_PROBABLE
+  Elegido: The Cleaning Lady (TMDB 73043)
+  Estructura: 10 M3U / 13 TMDB
+  Temporadas: 1 M3U / 1 TMDB
+  Score estructural: 58/100 (MIXTA)
+  Temporadas exactas: 0; cercanas: 0; incompatibles: 1; ausentes: 0
+  - La estructura presenta diferencias relevantes
+  Candidatos:
+    TMDB 73043 | The Cleaning Lady | estructura 58/100 | MIXTA | 10/13 episodios
+
+[REVISAR] Harlem
+  Decisión original: MATCH_PROBABLE
+  Elegido: Harlem (TMDB 138089)
+  Estructura: 12 M3U / 24 TMDB
+  Temporadas: 2 M3U / 3 TMDB
+  Score estructural: 58/100 (MIXTA)
+  Temporadas exactas: 1; cercanas: 0; incompatibles: 1; ausentes: 0
+  - La estructura presenta diferencias relevantes
+  Candidatos:
+    TMDB 138089 | Harlem | estructura 58/100 | MIXTA | 12/24 episodios
+
+[REVISAR] Operación Pacífico
+  Decisión original: MATCH_PROBABLE
+  Elegido: Operación Pacífico (TMDB 99310)
+  Estructura: 44 M3U / 60 TMDB
+  Temporadas: 1 M3U / 1 TMDB
+  Score estructural: 57/100 (MIXTA)
+  Temporadas exactas: 0; cercanas: 0; incompatibles: 1; ausentes: 0
+  - La estructura presenta diferencias relevantes
+  Candidatos:
+    TMDB 99310 | Operación Pacífico | estructura 57/100 | MIXTA | 44/60 episodios
+
+[REVISAR] Amar profundo
+  Decisión original: MATCH_PROBABLE
+  Elegido: Amar profundo (TMDB 138506)
+  Estructura: 116 M3U / 156 TMDB
+  Temporadas: 1 M3U / 1 TMDB
+  Score estructural: 57/100 (MIXTA)
+  Temporadas exactas: 0; cercanas: 0; incompatibles: 1; ausentes: 0
+  - La estructura presenta diferencias relevantes
+  Candidatos:
+    TMDB 138506 | Amar profundo | estructura 57/100 | MIXTA | 116/156 episodios
+
+[REVISAR] Cerro Alegre
+  Decisión original: MATCH_PROBABLE
+  Elegido: Cerro Alegre (TMDB 97517)
+  Estructura: 143 M3U / 100 TMDB
+  Temporadas: 1 M3U / 1 TMDB
+  Score estructural: 56/100 (MIXTA)
+  Temporadas exactas: 0; cercanas: 0; incompatibles: 1; ausentes: 0
+  - La estructura presenta diferencias relevantes
+  Candidatos:
+    TMDB 97517 | Cerro Alegre | estructura 56/100 | MIXTA | 143/100 episodios
+
+[REVISAR] Preso No. 1
+  Decisión original: MATCH_PROBABLE
+  Elegido: Preso No. 1 (TMDB 91242)
+  Estructura: 44 M3U / 64 TMDB
+  Temporadas: 1 M3U / 1 TMDB
+  Score estructural: 56/100 (MIXTA)
+  Temporadas exactas: 0; cercanas: 0; incompatibles: 1; ausentes: 0
+  - La estructura presenta diferencias relevantes
+  Candidatos:
+    TMDB 91242 | Preso No. 1 | estructura 56/100 | MIXTA | 44/64 episodios
+
+[REVISAR] Las Tres Mellizas
+  Decisión original: MATCH_PROBABLE
+  Elegido: The Triplets (TMDB 66695)
+  Estructura: 72 M3U / 104 TMDB
+  Temporadas: 1 M3U / 1 TMDB
+  Score estructural: 56/100 (MIXTA)
+  Temporadas exactas: 0; cercanas: 0; incompatibles: 1; ausentes: 0
+  - La estructura presenta diferencias relevantes
+  Candidatos:
+    TMDB 66695 | The Triplets | estructura 56/100 | MIXTA | 72/104 episodios
+    TMDB 283502 | The Triplets | estructura 47/100 | MIXTA | 72/52 episodios
+
+[REVISAR] Potato Head Kids
+  Decisión original: MATCH_PROBABLE
+  Elegido: Potato Head Kids (TMDB 19527)
+  Estructura: 16 M3U / 23 TMDB
+  Temporadas: 1 M3U / 1 TMDB
+  Score estructural: 56/100 (MIXTA)
+  Temporadas exactas: 0; cercanas: 0; incompatibles: 1; ausentes: 0
+  - La estructura presenta diferencias relevantes
+  Candidatos:
+    TMDB 19527 | Potato Head Kids | estructura 56/100 | MIXTA | 16/23 episodios
+
+[REVISAR] Amor entre líneas
+  Decisión original: MATCH_PROBABLE
+  Elegido: Love Between Lines (TMDB 279136)
+  Estructura: 19 M3U / 28 TMDB
+  Temporadas: 1 M3U / 1 TMDB
+  Score estructural: 55/100 (MIXTA)
+  Temporadas exactas: 0; cercanas: 0; incompatibles: 1; ausentes: 0
+  - La estructura presenta diferencias relevantes
+  Candidatos:
+    TMDB 279136 | Love Between Lines | estructura 55/100 | MIXTA | 19/28 episodios
+
+[REVISAR] El show de Vince Staples
+  Decisión original: MATCH_PROBABLE
+  Elegido: The Vince Staples Show (TMDB 243861)
+  Estructura: 11 M3U / 11 TMDB
+  Temporadas: 1 M3U / 2 TMDB
+  Score estructural: 55/100 (MIXTA)
+  Temporadas exactas: 0; cercanas: 0; incompatibles: 1; ausentes: 0
+  - La estructura presenta diferencias relevantes
+  Candidatos:
+    TMDB 243861 | The Vince Staples Show | estructura 55/100 | MIXTA | 11/11 episodios
+
+[REVISAR] Los Pequeños Looney Tunes
+  Decisión original: MATCH_PROBABLE
+  Elegido: Baby Looney Tunes (TMDB 670)
+  Estructura: 106 M3U / 102 TMDB
+  Temporadas: 1 M3U / 2 TMDB
+  Score estructural: 54/100 (MIXTA)
+  Temporadas exactas: 0; cercanas: 0; incompatibles: 1; ausentes: 0
+  - La estructura presenta diferencias relevantes
+  Candidatos:
+    TMDB 670 | Baby Looney Tunes | estructura 54/100 | MIXTA | 106/102 episodios
+
+[REVISAR] Women at Warː 100 Years of Service
+  Decisión original: MATCH_PROBABLE
+  Elegido: Women at Warː 100 Years of Service (TMDB 214467)
+  Estructura: 8 M3U / 5 TMDB
+  Temporadas: 1 M3U / 1 TMDB
+  Score estructural: 54/100 (MIXTA)
+  Temporadas exactas: 0; cercanas: 0; incompatibles: 1; ausentes: 0
+  - La estructura presenta diferencias relevantes
+  Candidatos:
+    TMDB 214467 | Women at Warː 100 Years of Service | estructura 54/100 | MIXTA | 8/5 episodios
+
+[REVISAR] A Través del Tiempo
+  Decisión original: MATCH_PROBABLE
+  Elegido: Time After Time (TMDB 83595)
+  Estructura: 100 M3U / 161 TMDB
+  Temporadas: 1 M3U / 1 TMDB
+  Score estructural: 54/100 (MIXTA)
+  Temporadas exactas: 0; cercanas: 0; incompatibles: 1; ausentes: 0
+  - La estructura presenta diferencias relevantes
+  Candidatos:
+    TMDB 83595 | Time After Time | estructura 54/100 | MIXTA | 100/161 episodios
+    TMDB 4018 | Quantum Leap | estructura 54/100 | MIXTA | 100/96 episodios
+    TMDB 158527 | A traves del tiempo | estructura 35/100 | DEBIL | 100/1 episodios
+
+[REVISAR] Chicas de Oficina
+  Decisión original: MATCH_PROBABLE
+  Elegido: Office Girls (TMDB 40480)
+  Estructura: 25 M3U / 40 TMDB
+  Temporadas: 1 M3U / 1 TMDB
+  Score estructural: 54/100 (MIXTA)
+  Temporadas exactas: 0; cercanas: 0; incompatibles: 1; ausentes: 0
+  - La estructura presenta diferencias relevantes
+  Candidatos:
+    TMDB 40480 | Office Girls | estructura 54/100 | MIXTA | 25/40 episodios
+
+[REVISAR] The Drop: Una saga de Snowfall
+  Decisión original: MATCH_PROBABLE
+  Elegido: The Drop: A Snowfall Saga (TMDB 304842)
+  Estructura: 5 M3U / 8 TMDB
+  Temporadas: 1 M3U / 1 TMDB
+  Score estructural: 54/100 (MIXTA)
+  Temporadas exactas: 0; cercanas: 0; incompatibles: 1; ausentes: 0
+  - La estructura presenta diferencias relevantes
+  Candidatos:
+    TMDB 304842 | The Drop: A Snowfall Saga | estructura 54/100 | MIXTA | 5/8 episodios
+
+[REVISAR] Call My Agent Berlin
+  Decisión original: MATCH_PROBABLE
+  Elegido: Call My Agent Berlin (TMDB 296527)
+  Estructura: 6 M3U / 10 TMDB
+  Temporadas: 1 M3U / 1 TMDB
+  Score estructural: 53/100 (MIXTA)
+  Temporadas exactas: 0; cercanas: 0; incompatibles: 1; ausentes: 0
+  - La estructura presenta diferencias relevantes
+  Candidatos:
+    TMDB 296527 | Call My Agent Berlin | estructura 53/100 | MIXTA | 6/10 episodios
+
+[REVISAR] Juego de ilusiones
+  Decisión original: MATCH_PROBABLE
+  Elegido: Juego de ilusiones (TMDB 218776)
+  Estructura: 321 M3U / 550 TMDB
+  Temporadas: 1 M3U / 1 TMDB
+  Score estructural: 53/100 (MIXTA)
+  Temporadas exactas: 0; cercanas: 0; incompatibles: 1; ausentes: 0
+  - La estructura presenta diferencias relevantes
+  Candidatos:
+    TMDB 218776 | Juego de ilusiones | estructura 53/100 | MIXTA | 321/550 episodios
+
+[REVISAR] Fatmagul
+  Decisión original: MATCH_PROBABLE
+  Elegido: What is Fatmagul's Fault? (TMDB 44807)
+  Estructura: 75 M3U / 80 TMDB
+  Temporadas: 1 M3U / 2 TMDB
+  Score estructural: 53/100 (MIXTA)
+  Temporadas exactas: 0; cercanas: 0; incompatibles: 1; ausentes: 0
+  - La estructura presenta diferencias relevantes
+  Candidatos:
+    TMDB 44807 | What is Fatmagul's Fault? | estructura 53/100 | MIXTA | 75/80 episodios
+
+[REVISAR] Hasta que la camiseta se seque
+  Decisión original: MATCH_PROBABLE
+  Elegido: Until the T-Shirt Dries (TMDB 322570)
+  Estructura: 6 M3U / 10 TMDB
+  Temporadas: 1 M3U / 1 TMDB
+  Score estructural: 53/100 (MIXTA)
+  Temporadas exactas: 0; cercanas: 0; incompatibles: 1; ausentes: 0
+  - La estructura presenta diferencias relevantes
+  Candidatos:
+    TMDB 322570 | Until the T-Shirt Dries | estructura 53/100 | MIXTA | 6/10 episodios
+
+[REVISAR] Rompiendo el hielo
+  Decisión original: MATCH_PROBABLE
+  Elegido: The Ramparts of Ice (TMDB 283428)
+  Estructura: 16 M3U / 28 TMDB
+  Temporadas: 1 M3U / 1 TMDB
+  Score estructural: 52/100 (MIXTA)
+  Temporadas exactas: 0; cercanas: 0; incompatibles: 1; ausentes: 0
+  - La estructura presenta diferencias relevantes
+  Candidatos:
+    TMDB 283428 | The Ramparts of Ice | estructura 52/100 | MIXTA | 16/28 episodios
+
+[REVISAR] Tiny Toons Looniversity
+  Decisión original: MATCH_PROBABLE
+  Elegido: Tiny Toons Looniversity (TMDB 155779)
+  Estructura: 20 M3U / 23 TMDB
+  Temporadas: 1 M3U / 2 TMDB
+  Score estructural: 51/100 (MIXTA)
+  Temporadas exactas: 0; cercanas: 0; incompatibles: 1; ausentes: 0
+  - La estructura presenta diferencias relevantes
+  Candidatos:
+    TMDB 155779 | Tiny Toons Looniversity | estructura 51/100 | MIXTA | 20/23 episodios
+
+[REVISAR] Ojo por Ojo
+  Decisión original: MATCH_PROBABLE
+  Elegido: Ojo por Ojo (TMDB 135967)
+  Estructura: 196 M3U / 98 TMDB
+  Temporadas: 1 M3U / 1 TMDB
+  Score estructural: 50/100 (MIXTA)
+  Temporadas exactas: 0; cercanas: 0; incompatibles: 1; ausentes: 0
+  - La estructura presenta diferencias relevantes
+  Candidatos:
+    TMDB 135967 | Ojo por Ojo | estructura 50/100 | MIXTA | 196/98 episodios
+    TMDB 33431 | Ull per ull | estructura 35/100 | DEBIL | 196/2 episodios
+
+[REVISAR] Rafael Orozco - El Idolo
+  Decisión original: MATCH_PROBABLE
+  Elegido: Rafael Orozco - El Idolo (TMDB 87944)
+  Estructura: 180 M3U / 90 TMDB
+  Temporadas: 1 M3U / 1 TMDB
+  Score estructural: 50/100 (MIXTA)
+  Temporadas exactas: 0; cercanas: 0; incompatibles: 1; ausentes: 0
+  - La estructura presenta diferencias relevantes
+  Candidatos:
+    TMDB 87944 | Rafael Orozco - El Idolo | estructura 50/100 | MIXTA | 180/90 episodios
+
+[REVISAR] El precio de una confesión
+  Decisión original: MATCH_PROBABLE
+  Elegido: The Price of Confession (TMDB 209110)
+  Estructura: 24 M3U / 12 TMDB
+  Temporadas: 1 M3U / 1 TMDB
+  Score estructural: 50/100 (MIXTA)
+  Temporadas exactas: 0; cercanas: 0; incompatibles: 1; ausentes: 0
+  - La estructura presenta diferencias relevantes
+  Candidatos:
+    TMDB 209110 | The Price of Confession | estructura 50/100 | MIXTA | 24/12 episodios
+
+[REVISAR] 101 Dalmatian Street
+  Decisión original: MATCH_PROBABLE
+  Elegido: 101 Dalmatian Street (TMDB 75523)
+  Estructura: 26 M3U / 52 TMDB
+  Temporadas: 1 M3U / 1 TMDB
+  Score estructural: 50/100 (MIXTA)
+  Temporadas exactas: 0; cercanas: 0; incompatibles: 1; ausentes: 0
+  - La estructura presenta diferencias relevantes
+  Candidatos:
+    TMDB 75523 | 101 Dalmatian Street | estructura 50/100 | MIXTA | 26/52 episodios
+
+[REVISAR] Mi adorable secretaria
+  Decisión original: MATCH_PROBABLE
+  Elegido: The Secret Life of My Secretary (TMDB 88783)
+  Estructura: 16 M3U / 32 TMDB
+  Temporadas: 1 M3U / 1 TMDB
+  Score estructural: 50/100 (MIXTA)
+  Temporadas exactas: 0; cercanas: 0; incompatibles: 1; ausentes: 0
+  - La estructura presenta diferencias relevantes
+  Candidatos:
+    TMDB 88783 | The Secret Life of My Secretary | estructura 50/100 | MIXTA | 16/32 episodios
+
+[REVISAR] Simon Cowell: The Next Act
+  Decisión original: MATCH_PROBABLE
+  Elegido: Simon Cowell: The Next Act (TMDB 299713)
+  Estructura: 12 M3U / 6 TMDB
+  Temporadas: 1 M3U / 1 TMDB
+  Score estructural: 50/100 (MIXTA)
+  Temporadas exactas: 0; cercanas: 0; incompatibles: 1; ausentes: 0
+  - La estructura presenta diferencias relevantes
+  Candidatos:
+    TMDB 299713 | Simon Cowell: The Next Act | estructura 50/100 | MIXTA | 12/6 episodios
+
+[REVISAR] Don Dracula
+  Decisión original: MATCH_PROBABLE
+  Elegido: Don Dracula (TMDB 16576)
+  Estructura: 16 M3U / 8 TMDB
+  Temporadas: 1 M3U / 1 TMDB
+  Score estructural: 50/100 (MIXTA)
+  Temporadas exactas: 0; cercanas: 0; incompatibles: 1; ausentes: 0
+  - La estructura presenta diferencias relevantes
+  Candidatos:
+    TMDB 16576 | Don Dracula | estructura 50/100 | MIXTA | 16/8 episodios
+
+[REVISAR] Don Gato y su Pandilla
+  Decisión original: MATCH_PROBABLE
+  Elegido: Top Cat (TMDB 4232)
+  Estructura: 60 M3U / 30 TMDB
+  Temporadas: 1 M3U / 1 TMDB
+  Score estructural: 50/100 (MIXTA)
+  Temporadas exactas: 0; cercanas: 0; incompatibles: 1; ausentes: 0
+  - La estructura presenta diferencias relevantes
+  Candidatos:
+    TMDB 4232 | Top Cat | estructura 50/100 | MIXTA | 60/30 episodios
+
+[REVISAR] Popeye y su hijo
+  Decisión original: MATCH_PROBABLE
+  Elegido: Popeye and Son (TMDB 10425)
+  Estructura: 13 M3U / 26 TMDB
+  Temporadas: 1 M3U / 1 TMDB
+  Score estructural: 50/100 (MIXTA)
+  Temporadas exactas: 0; cercanas: 0; incompatibles: 1; ausentes: 0
+  - La estructura presenta diferencias relevantes
+  Candidatos:
+    TMDB 10425 | Popeye and Son | estructura 50/100 | MIXTA | 13/26 episodios
+
+[REVISAR] Ariel: Los cuentos de la Sirenita
+  Decisión original: MATCH_PROBABLE
+  Elegido: Disney Junior Ariel (TMDB 228669)
+  Estructura: 39 M3U / 77 TMDB
+  Temporadas: 2 M3U / 2 TMDB
+  Score estructural: 50/100 (MIXTA)
+  Temporadas exactas: 0; cercanas: 0; incompatibles: 2; ausentes: 0
+  - La estructura presenta diferencias relevantes
+  Candidatos:
+    TMDB 228669 | Disney Junior Ariel | estructura 50/100 | MIXTA | 39/77 episodios
+
+[REVISAR] Funny AF with Kevin Hart
+  Decisión original: MATCH_PROBABLE
+  Elegido: Funny AF with Kevin Hart (TMDB 311991)
+  Estructura: 4 M3U / 8 TMDB
+  Temporadas: 1 M3U / 1 TMDB
+  Score estructural: 50/100 (MIXTA)
+  Temporadas exactas: 0; cercanas: 0; incompatibles: 1; ausentes: 0
+  - La estructura presenta diferencias relevantes
+  Candidatos:
+    TMDB 311991 | Funny AF with Kevin Hart | estructura 50/100 | MIXTA | 4/8 episodios
+
+[REVISAR] Melissa: La Niña del Valle Verde
+  Decisión original: MATCH_PROBABLE
+  Elegido: Yeşil Vadi'nin Kızı (TMDB 224344)
+  Estructura: 79 M3U / 146 TMDB
+  Temporadas: 1 M3U / 2 TMDB
+  Score estructural: 41/100 (MIXTA)
+  Temporadas exactas: 0; cercanas: 0; incompatibles: 1; ausentes: 0
+  - La estructura presenta diferencias relevantes
+  Candidatos:
+    TMDB 224344 | Yeşil Vadi'nin Kızı | estructura 41/100 | MIXTA | 79/146 episodios

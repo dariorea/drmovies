@@ -1,0 +1,1126 @@
+AUDITORÍA DE MATCHES — LISTA 6 — VERSIÓN 3
+============================================================================
+
+Total auditado: 1048
+Prioridad alta: 126
+Prioridad media: 19
+Prioridad baja: 903
+Alternativas estructurales plausibles: 0
+
+PRIORIDAD ALTA
+============================================================================
+
+Serie M3U: Juego de ilusiones
+Decisión original: MATCH_PROBABLE
+Estructura M3U: {"1":321}
+Candidato actual: Juego de ilusiones (TMDB 218776) | país=CL | año=2023 | score estructural=35 | exactas=0 | cercanas=0 | incompatibles=1 | ausentes=0
+Mejor alternativa: Sin candidato
+Motivos: Hay diferencias importantes en el número de episodios
+----------------------------------------------------------------------------
+
+Serie M3U: Paw Patrol: Patrulla de Cachorros
+Decisión original: MATCH_PROBABLE
+Estructura M3U: {"1":10,"2":25,"3":25,"4":25,"5":25,"6":25,"7":25,"8":25,"9":18}
+Candidato actual: PAW Patrol (TMDB 57532) | país=US | año=2013 | score estructural=35 | exactas=0 | cercanas=0 | incompatibles=9 | ausentes=0
+Mejor alternativa: Sin candidato
+Motivos: Hay diferencias importantes en el número de episodios; El nombre normalizado difiere del título del candidato
+----------------------------------------------------------------------------
+
+Serie M3U: Madre Luna
+Decisión original: MATCH_PROBABLE
+Estructura M3U: {"1":282}
+Candidato actual: Madre Luna (TMDB 5170) | país=US, CO | año=2007 | score estructural=35 | exactas=0 | cercanas=0 | incompatibles=1 | ausentes=0
+Mejor alternativa: Sin candidato
+Motivos: Hay diferencias importantes en el número de episodios
+----------------------------------------------------------------------------
+
+Serie M3U: BKN
+Decisión original: MATCH_PROBABLE
+Estructura M3U: {"1":12,"2":11,"3":15,"4":11,"5":7,"6":10,"7":10,"8":22,"9":10,"10":8,"11":31}
+Candidato actual: BKN (TMDB 106200) | país=CL | año=2004 | score estructural=53 | exactas=1 | cercanas=3 | incompatibles=7 | ausentes=0
+Mejor alternativa: Sin candidato
+Motivos: Hay diferencias importantes en el número de episodios; Título M3U corto; el título por sí solo es poco discriminante
+----------------------------------------------------------------------------
+
+Serie M3U: el lagarto juancho
+Decisión original: MATCH_PROBABLE
+Estructura M3U: {"1":52}
+Candidato actual: The Hanna-Barbera New Cartoon Series (TMDB 15307) | país=US | año=1962 | score estructural=35 | exactas=0 | cercanas=0 | incompatibles=1 | ausentes=0
+Mejor alternativa: Sin candidato
+Motivos: Hay diferencias importantes en el número de episodios; El nombre normalizado difiere del título del candidato
+----------------------------------------------------------------------------
+
+Serie M3U: Ojo por Ojo
+Decisión original: MATCH_PROBABLE
+Estructura M3U: {"1":196}
+Candidato actual: Ojo por Ojo (TMDB 135967) | país=CO, US | año=2010 | score estructural=35 | exactas=0 | cercanas=0 | incompatibles=1 | ausentes=0
+Mejor alternativa: Ull per ull (TMDB 33431) | país=ES | año=2010 | score estructural=35 | exactas=0 | cercanas=0 | incompatibles=1 | ausentes=0
+Motivos: Hay diferencias importantes en el número de episodios
+----------------------------------------------------------------------------
+
+Serie M3U: La colombiana
+Decisión original: MATCH_PROBABLE
+Estructura M3U: {"1":46}
+Candidato actual: La Colombiana (TMDB 116730) | país=CL | año=2017 | score estructural=35 | exactas=0 | cercanas=0 | incompatibles=1 | ausentes=0
+Mejor alternativa: Sin candidato
+Motivos: Hay diferencias importantes en el número de episodios
+----------------------------------------------------------------------------
+
+Serie M3U: ¿Ganar o servir?
+Decisión original: MATCH_PROBABLE
+Estructura M3U: {"1":45}
+Candidato actual: ¿Ganar o servir? (TMDB 250716) | país=CL | año=2024 | score estructural=35 | exactas=0 | cercanas=0 | incompatibles=1 | ausentes=0
+Mejor alternativa: Sin candidato
+Motivos: Hay diferencias importantes en el número de episodios
+----------------------------------------------------------------------------
+
+Serie M3U: El increíble mundo de Gumball
+Decisión original: MATCH_PROBABLE
+Estructura M3U: {"1":18,"2":21,"3":20,"4":22,"5":21,"6":44}
+Candidato actual: The Amazing World of Gumball (TMDB 37606) | país=US | año=2011 | score estructural=46 | exactas=1 | cercanas=0 | incompatibles=5 | ausentes=0
+Mejor alternativa: Sin candidato
+Motivos: Hay diferencias importantes en el número de episodios; El nombre normalizado difiere del título del candidato
+----------------------------------------------------------------------------
+
+Serie M3U: Rafael Orozco - El Idolo
+Decisión original: MATCH_PROBABLE
+Estructura M3U: {"1":180}
+Candidato actual: Rafael Orozco - El Idolo (TMDB 87944) | país=CO | año=2012 | score estructural=35 | exactas=0 | cercanas=0 | incompatibles=1 | ausentes=0
+Mejor alternativa: Sin candidato
+Motivos: Hay diferencias importantes en el número de episodios
+----------------------------------------------------------------------------
+
+Serie M3U: Robotboy
+Decisión original: MATCH_PROBABLE
+Estructura M3U: {"1":13,"2":12,"3":13,"4":13}
+Candidato actual: Robotboy (TMDB 1534) | país=FR, CA, US, GB | año=2005 | score estructural=68 | exactas=2 | cercanas=0 | incompatibles=2 | ausentes=0
+Mejor alternativa: Sin candidato
+Motivos: Hay diferencias importantes en el número de episodios
+----------------------------------------------------------------------------
+
+Serie M3U: Falsa identidad
+Decisión original: MATCH_PROBABLE
+Estructura M3U: {"1":87,"2":156}
+Candidato actual: False Identity (TMDB 82809) | país=MX, US | año=2018 | score estructural=58 | exactas=0 | cercanas=1 | incompatibles=1 | ausentes=0
+Mejor alternativa: False Flag (TMDB 65312) | país=IL | año=2015 | score estructural=35 | exactas=0 | cercanas=0 | incompatibles=2 | ausentes=0
+Motivos: Hay diferencias importantes en el número de episodios; El nombre normalizado difiere del título del candidato
+----------------------------------------------------------------------------
+
+Serie M3U: Oveja Karateca
+Decisión original: MATCH_PROBABLE
+Estructura M3U: {"1":13}
+Candidato actual: Karate Sheep (TMDB 214091) | país=DE | año=2022 | score estructural=35 | exactas=0 | cercanas=0 | incompatibles=1 | ausentes=0
+Mejor alternativa: Sin candidato
+Motivos: Hay diferencias importantes en el número de episodios; El nombre normalizado difiere del título del candidato
+----------------------------------------------------------------------------
+
+Serie M3U: A Través del Tiempo
+Decisión original: MATCH_PROBABLE
+Estructura M3U: {"1":100}
+Candidato actual: Time After Time (TMDB 83595) | país=BR | año=2015 | score estructural=35 | exactas=0 | cercanas=0 | incompatibles=1 | ausentes=0
+Mejor alternativa: Quantum Leap (TMDB 4018) | país=US | año=1989 | score estructural=35 | exactas=0 | cercanas=0 | incompatibles=1 | ausentes=0
+Motivos: Hay diferencias importantes en el número de episodios; El nombre normalizado difiere del título del candidato
+----------------------------------------------------------------------------
+
+Serie M3U: Empeños a lo bestia
+Decisión original: MATCH_PROBABLE
+Estructura M3U: {"1":8,"2":8,"3":13,"4":13,"5":12,"6":13,"7":13,"8":13,"9":13}
+Candidato actual: Hardcore Pawn (TMDB 33478) | país=US | año=2010 | score estructural=71 | exactas=5 | cercanas=0 | incompatibles=4 | ausentes=0
+Mejor alternativa: Sin candidato
+Motivos: Hay diferencias importantes en el número de episodios; El nombre normalizado difiere del título del candidato
+----------------------------------------------------------------------------
+
+Serie M3U: Como la vida misma
+Decisión original: MATCH_PROBABLE
+Estructura M3U: {"1":233}
+Candidato actual: Como la vida misma (TMDB 225554) | país=CL | año=2023 | score estructural=35 | exactas=0 | cercanas=0 | incompatibles=1 | ausentes=0
+Mejor alternativa: Sin candidato
+Motivos: Hay diferencias importantes en el número de episodios
+----------------------------------------------------------------------------
+
+Serie M3U: Pororo el pequeño pingüino
+Decisión original: MATCH_PROBABLE
+Estructura M3U: {"1":6}
+Candidato actual: Pororo the Little Penguin (TMDB 19845) | país=KR | año=2003 | score estructural=35 | exactas=0 | cercanas=0 | incompatibles=1 | ausentes=0
+Mejor alternativa: Sin candidato
+Motivos: Hay diferencias importantes en el número de episodios; El nombre normalizado difiere del título del candidato
+----------------------------------------------------------------------------
+
+Serie M3U: Cerro Alegre
+Decisión original: MATCH_PROBABLE
+Estructura M3U: {"1":143}
+Candidato actual: Cerro Alegre (TMDB 97517) | país=CL | año=1999 | score estructural=35 | exactas=0 | cercanas=0 | incompatibles=1 | ausentes=0
+Mejor alternativa: Sin candidato
+Motivos: Hay diferencias importantes en el número de episodios
+----------------------------------------------------------------------------
+
+Serie M3U: Angela Anaconda
+Decisión original: MATCH_PROBABLE
+Estructura M3U: {"1":11}
+Candidato actual: Angela Anaconda (TMDB 5373) | país=CA, US | año=1999 | score estructural=35 | exactas=0 | cercanas=0 | incompatibles=1 | ausentes=0
+Mejor alternativa: Sin candidato
+Motivos: Hay diferencias importantes en el número de episodios
+----------------------------------------------------------------------------
+
+Serie M3U: Amar profundo
+Decisión original: MATCH_PROBABLE
+Estructura M3U: {"1":116}
+Candidato actual: Amar profundo (TMDB 138506) | país=CL | año=2021 | score estructural=35 | exactas=0 | cercanas=0 | incompatibles=1 | ausentes=0
+Mejor alternativa: Sin candidato
+Motivos: Hay diferencias importantes en el número de episodios
+----------------------------------------------------------------------------
+
+Serie M3U: Ariel: Los cuentos de la Sirenita
+Decisión original: MATCH_PROBABLE
+Estructura M3U: {"1":30,"2":9}
+Candidato actual: Disney Junior Ariel (TMDB 228669) | país=US | año=2024 | score estructural=35 | exactas=0 | cercanas=0 | incompatibles=2 | ausentes=0
+Mejor alternativa: Sin candidato
+Motivos: Hay diferencias importantes en el número de episodios; El nombre normalizado difiere del título del candidato
+----------------------------------------------------------------------------
+
+Serie M3U: Unidad de Investigacion
+Decisión original: MATCH_PROBABLE
+Estructura M3U: {"1":4,"2":8,"3":20,"4":14,"5":14,"6":10,"7":16,"8":12,"9":12,"10":13,"11":14,"12":42,"13":14}
+Candidato actual: Research Unit (TMDB 65438) | país=FR | año=2006 | score estructural=90 | exactas=11 | cercanas=0 | incompatibles=2 | ausentes=0
+Mejor alternativa: Sin candidato
+Motivos: Hay diferencias importantes en el número de episodios; El nombre normalizado difiere del título del candidato
+----------------------------------------------------------------------------
+
+Serie M3U: Fatmagul
+Decisión original: MATCH_PROBABLE
+Estructura M3U: {"1":75}
+Candidato actual: What is Fatmagul's Fault? (TMDB 44807) | país=TR | año=2010 | score estructural=35 | exactas=0 | cercanas=0 | incompatibles=1 | ausentes=0
+Mejor alternativa: Sin candidato
+Motivos: Hay diferencias importantes en el número de episodios; El nombre normalizado difiere del título del candidato
+----------------------------------------------------------------------------
+
+Serie M3U: Dona Beja
+Decisión original: MATCH_PROBABLE
+Estructura M3U: {"1":5}
+Candidato actual: Madam Beja (TMDB 152401) | país=BR | año=2026 | score estructural=35 | exactas=0 | cercanas=0 | incompatibles=1 | ausentes=0
+Mejor alternativa: Sin candidato
+Motivos: Hay diferencias importantes en el número de episodios; El nombre normalizado difiere del título del candidato
+----------------------------------------------------------------------------
+
+Serie M3U: Los Reyes
+Decisión original: MATCH_PROBABLE
+Estructura M3U: {"1":216}
+Candidato actual: Los Reyes (TMDB 19505) | país=CO | año=2005 | score estructural=35 | exactas=0 | cercanas=0 | incompatibles=1 | ausentes=0
+Mejor alternativa: Sin candidato
+Motivos: Hay diferencias importantes en el número de episodios
+----------------------------------------------------------------------------
+
+Serie M3U: Las Tres Mellizas
+Decisión original: MATCH_PROBABLE
+Estructura M3U: {"1":72}
+Candidato actual: The Triplets (TMDB 66695) | país=ES | año=1995 | score estructural=35 | exactas=0 | cercanas=0 | incompatibles=1 | ausentes=0
+Mejor alternativa: The Triplets (TMDB 283502) | país=ES, IT, PT | año=2027 | score estructural=35 | exactas=0 | cercanas=0 | incompatibles=1 | ausentes=0
+Motivos: Hay diferencias importantes en el número de episodios; El nombre normalizado difiere del título del candidato
+----------------------------------------------------------------------------
+
+Serie M3U: Tierra Brava
+Decisión original: MATCH_PROBABLE
+Estructura M3U: {"1":105}
+Candidato actual: Tierra Brava (TMDB 236247) | país=CL | año=2023 | score estructural=35 | exactas=0 | cercanas=0 | incompatibles=1 | ausentes=0
+Mejor alternativa: Sin candidato
+Motivos: Hay diferencias importantes en el número de episodios
+----------------------------------------------------------------------------
+
+Serie M3U: Don Gato y su Pandilla
+Decisión original: MATCH_PROBABLE
+Estructura M3U: {"1":60}
+Candidato actual: Top Cat (TMDB 4232) | país=US | año=1961 | score estructural=35 | exactas=0 | cercanas=0 | incompatibles=1 | ausentes=0
+Mejor alternativa: Sin candidato
+Motivos: Hay diferencias importantes en el número de episodios; El nombre normalizado difiere del título del candidato
+----------------------------------------------------------------------------
+
+Serie M3U: Los Pequeños Looney Tunes
+Decisión original: MATCH_PROBABLE
+Estructura M3U: {"1":106}
+Candidato actual: Baby Looney Tunes (TMDB 670) | país=CA, US | año=2002 | score estructural=35 | exactas=0 | cercanas=0 | incompatibles=1 | ausentes=0
+Mejor alternativa: Sin candidato
+Motivos: Hay diferencias importantes en el número de episodios; El nombre normalizado difiere del título del candidato
+----------------------------------------------------------------------------
+
+Serie M3U: T.U.F.F. Puppy
+Decisión original: MATCH_PROBABLE
+Estructura M3U: {"1":20}
+Candidato actual: T.U.F.F. Puppy (TMDB 18828) | país=US | año=2010 | score estructural=35 | exactas=0 | cercanas=0 | incompatibles=1 | ausentes=0
+Mejor alternativa: Sin candidato
+Motivos: Hay diferencias importantes en el número de episodios
+----------------------------------------------------------------------------
+
+Serie M3U: 2 Perros Tontos
+Decisión original: MATCH_PROBABLE
+Estructura M3U: {"1":12}
+Candidato actual: 2 Stupid Dogs (TMDB 1916) | país=US | año=1993 | score estructural=35 | exactas=0 | cercanas=0 | incompatibles=1 | ausentes=0
+Mejor alternativa: Sin candidato
+Motivos: Hay diferencias importantes en el número de episodios; El nombre normalizado difiere del título del candidato
+----------------------------------------------------------------------------
+
+Serie M3U: El Chico De Oro
+Decisión original: MATCH_PROBABLE
+Estructura M3U: {"1":9}
+Candidato actual: Yalı Çapkını (TMDB 210865) | país=TR | año=2022 | score estructural=35 | exactas=0 | cercanas=0 | incompatibles=1 | ausentes=0
+Mejor alternativa: Sin candidato
+Motivos: Hay diferencias importantes en el número de episodios; El nombre normalizado difiere del título del candidato
+----------------------------------------------------------------------------
+
+Serie M3U: 101 Dalmatian Street
+Decisión original: MATCH_PROBABLE
+Estructura M3U: {"1":26}
+Candidato actual: 101 Dalmatian Street (TMDB 75523) | país=GB | año=2019 | score estructural=35 | exactas=0 | cercanas=0 | incompatibles=1 | ausentes=0
+Mejor alternativa: Sin candidato
+Motivos: Hay diferencias importantes en el número de episodios
+----------------------------------------------------------------------------
+
+Serie M3U: mi amor
+Decisión original: MATCH_PROBABLE
+Estructura M3U: {"1":12}
+Candidato actual: Go Go Squid 2: Dt.Appledog's Time (TMDB 116133) | país=CN | año=2021 | score estructural=35 | exactas=0 | cercanas=0 | incompatibles=1 | ausentes=0
+Mejor alternativa: Sin candidato
+Motivos: Hay diferencias importantes en el número de episodios; El nombre normalizado difiere del título del candidato
+----------------------------------------------------------------------------
+
+Serie M3U: Colisión
+Decisión original: MATCH_PROBABLE
+Estructura M3U: {"1":14}
+Candidato actual: Collision (TMDB 331033) | país=MX, US | año=2026 | score estructural=35 | exactas=0 | cercanas=0 | incompatibles=1 | ausentes=0
+Mejor alternativa: Sin candidato
+Motivos: Hay diferencias importantes en el número de episodios; El nombre normalizado difiere del título del candidato
+----------------------------------------------------------------------------
+
+Serie M3U: Shin-chan
+Decisión original: MATCH_PROBABLE
+Estructura M3U: {"1":52,"2":52,"3":49,"4":18,"5":42,"6":45,"7":42,"8":43,"9":39,"10":40,"11":35,"12":31,"13":28,"14":36,"15":35,"16":29,"17":37,"18":35,"19":33,"20":34,"21":35,"22":28,"23":29,"24":34,"25":36,"26":33,"27":35,"28":39,"29":52,"30":50,"31":51,"32":21}
+Candidato actual: Shin Chan (TMDB 333589) | país=ES | año=1992 | score estructural=73 | exactas=11 | cercanas=15 | incompatibles=1 | ausentes=5
+Mejor alternativa: Shin Chan (TMDB 262657) | país=US | año=2006 | score estructural=3 | exactas=0 | cercanas=0 | incompatibles=3 | ausentes=29
+Motivos: 5 temporada(s) M3U no encontradas en TMDB; Hay diferencias importantes en el número de episodios
+----------------------------------------------------------------------------
+
+Serie M3U: Catscratch
+Decisión original: MATCH_PROBABLE
+Estructura M3U: {"1":16}
+Candidato actual: Catscratch (TMDB 3805) | país=US | año=2005 | score estructural=35 | exactas=0 | cercanas=0 | incompatibles=1 | ausentes=0
+Mejor alternativa: Sin candidato
+Motivos: Hay diferencias importantes en el número de episodios
+----------------------------------------------------------------------------
+
+Serie M3U: Chicago en llamas
+Decisión original: MATCH_PROBABLE
+Estructura M3U: {"1":24,"2":22,"3":23,"4":23,"5":22,"6":23,"7":22,"8":20,"9":16,"10":22,"11":5,"12":13,"13":15}
+Candidato actual: Chicago Fire (TMDB 44006) | país=US | año=2012 | score estructural=90 | exactas=11 | cercanas=0 | incompatibles=2 | ausentes=0
+Mejor alternativa: Sin candidato
+Motivos: Hay diferencias importantes en el número de episodios; El nombre normalizado difiere del título del candidato
+----------------------------------------------------------------------------
+
+Serie M3U: Mea culpa
+Decisión original: MATCH_PROBABLE
+Estructura M3U: {"1":12,"2":10,"3":11,"4":10,"5":13,"6":8,"7":8,"8":9,"9":9,"10":7,"11":9,"12":11,"13":16,"14":7}
+Candidato actual: Mea culpa (TMDB 99308) | país=CL | año=1993 | score estructural=65 | exactas=3 | cercanas=5 | incompatibles=6 | ausentes=0
+Mejor alternativa: Mea Culpa (TMDB 281291) | país=CA | año=2025 | score estructural=13 | exactas=1 | cercanas=1 | incompatibles=0 | ausentes=12
+Motivos: Hay diferencias importantes en el número de episodios
+----------------------------------------------------------------------------
+
+Serie M3U: El laboratorio de Dexter
+Decisión original: MATCH_PROBABLE
+Estructura M3U: {"1":17}
+Candidato actual: Dexter's Laboratory (TMDB 4229) | país=US | año=1996 | score estructural=35 | exactas=0 | cercanas=0 | incompatibles=1 | ausentes=0
+Mejor alternativa: Sin candidato
+Motivos: Hay diferencias importantes en el número de episodios; El nombre normalizado difiere del título del candidato
+----------------------------------------------------------------------------
+
+Serie M3U: Ben 10: Supremacía Alienígena
+Decisión original: MATCH_PROBABLE
+Estructura M3U: {"1":20,"2":12,"3":20}
+Candidato actual: Ben 10: Ultimate Alien (TMDB 31109) | país=US | año=2010 | score estructural=45 | exactas=1 | cercanas=0 | incompatibles=1 | ausentes=1
+Mejor alternativa: Sin candidato
+Motivos: 1 temporada(s) M3U no encontradas en TMDB; Hay diferencias importantes en el número de episodios; El nombre normalizado difiere del título del candidato
+----------------------------------------------------------------------------
+
+Serie M3U: Power Rangers
+Decisión original: MATCH_PROBABLE
+Estructura M3U: {"1":60,"2":52,"3":33,"4":60,"13":38}
+Candidato actual: Power Rangers (TMDB 2328) | país=US | año=1993 | score estructural=74 | exactas=3 | cercanas=0 | incompatibles=2 | ausentes=0
+Mejor alternativa: Sin candidato
+Motivos: Hay diferencias importantes en el número de episodios
+----------------------------------------------------------------------------
+
+Serie M3U: Preso No. 1
+Decisión original: MATCH_PROBABLE
+Estructura M3U: {"1":44}
+Candidato actual: Preso No. 1 (TMDB 91242) | país=US | año=2019 | score estructural=35 | exactas=0 | cercanas=0 | incompatibles=1 | ausentes=0
+Mejor alternativa: Sin candidato
+Motivos: Hay diferencias importantes en el número de episodios
+----------------------------------------------------------------------------
+
+Serie M3U: El Escuadrón del Tiempo
+Decisión original: MATCH_PROBABLE
+Estructura M3U: {"1":13}
+Candidato actual: Time Squad (TMDB 4314) | país=US | año=2001 | score estructural=35 | exactas=0 | cercanas=0 | incompatibles=1 | ausentes=0
+Mejor alternativa: Sin candidato
+Motivos: Hay diferencias importantes en el número de episodios; El nombre normalizado difiere del título del candidato
+----------------------------------------------------------------------------
+
+Serie M3U: Dinosaurios
+Decisión original: MATCH_PROBABLE
+Estructura M3U: {"1":13,"2":15,"3":22,"4":14}
+Candidato actual: Dinosaurs (TMDB 3763) | país=US | año=1991 | score estructural=68 | exactas=2 | cercanas=0 | incompatibles=2 | ausentes=0
+Mejor alternativa: Sin candidato
+Motivos: Hay diferencias importantes en el número de episodios; El nombre normalizado difiere del título del candidato
+----------------------------------------------------------------------------
+
+Serie M3U: Las Aventuras de Jimmy Neutron: El Niño Genio
+Decisión original: MATCH_PROBABLE
+Estructura M3U: {"1":19,"2":17}
+Candidato actual: The Adventures of Jimmy Neutron: Boy Genius (TMDB 2129) | país=US | año=2002 | score estructural=35 | exactas=0 | cercanas=0 | incompatibles=2 | ausentes=0
+Mejor alternativa: Sin candidato
+Motivos: Hay diferencias importantes en el número de episodios; El nombre normalizado difiere del título del candidato
+----------------------------------------------------------------------------
+
+Serie M3U: mamá?
+Decisión original: MATCH_PROBABLE
+Estructura M3U: {"1":7}
+Candidato actual: Mama (TMDB 63530) | país=KR | año=2014 | score estructural=35 | exactas=0 | cercanas=0 | incompatibles=1 | ausentes=0
+Mejor alternativa: Mama (TMDB 12218) | país=US | año=1949 | score estructural=35 | exactas=0 | cercanas=0 | incompatibles=1 | ausentes=0
+Motivos: Hay diferencias importantes en el número de episodios
+----------------------------------------------------------------------------
+
+Serie M3U: Anatomía según Grey
+Decisión original: MATCH_PROBABLE
+Estructura M3U: {"1":9,"2":27,"3":25,"4":17,"5":24,"6":24,"7":22,"8":24,"9":24,"10":24,"11":27,"12":24,"13":24,"14":24,"15":25,"16":21,"17":17,"18":20,"19":20,"20":10,"21":18,"22":2}
+Candidato actual: Grey's Anatomy (TMDB 1416) | país=US | año=2005 | score estructural=93 | exactas=16 | cercanas=5 | incompatibles=1 | ausentes=0
+Mejor alternativa: Sin candidato
+Motivos: Hay diferencias importantes en el número de episodios; El nombre normalizado difiere del título del candidato
+----------------------------------------------------------------------------
+
+Serie M3U: Kardeslerim
+Decisión original: MATCH_PROBABLE
+Estructura M3U: {"1":18,"2":38,"3":38,"4":22}
+Candidato actual: My Siblings (TMDB 119267) | país=TR | año=2021 | score estructural=84 | exactas=3 | cercanas=0 | incompatibles=1 | ausentes=0
+Mejor alternativa: Sin candidato
+Motivos: Hay diferencias importantes en el número de episodios; El nombre normalizado difiere del título del candidato
+----------------------------------------------------------------------------
+
+Serie M3U: Mi adorable secretaria
+Decisión original: MATCH_PROBABLE
+Estructura M3U: {"1":16}
+Candidato actual: The Secret Life of My Secretary (TMDB 88783) | país=KR | año=2019 | score estructural=35 | exactas=0 | cercanas=0 | incompatibles=1 | ausentes=0
+Mejor alternativa: Sin candidato
+Motivos: Hay diferencias importantes en el número de episodios; El nombre normalizado difiere del título del candidato
+----------------------------------------------------------------------------
+
+Serie M3U: Operación Pacífico
+Decisión original: MATCH_PROBABLE
+Estructura M3U: {"1":44}
+Candidato actual: Operación Pacífico (TMDB 99310) | país=US | año=2020 | score estructural=35 | exactas=0 | cercanas=0 | incompatibles=1 | ausentes=0
+Mejor alternativa: Sin candidato
+Motivos: Hay diferencias importantes en el número de episodios
+----------------------------------------------------------------------------
+
+Serie M3U: Pollo Robot
+Decisión original: MATCH_PROBABLE
+Estructura M3U: {"1":20,"2":16,"3":8}
+Candidato actual: Robot Chicken (TMDB 709) | país=US | año=2005 | score estructural=57 | exactas=1 | cercanas=0 | incompatibles=2 | ausentes=0
+Mejor alternativa: Sin candidato
+Motivos: Hay diferencias importantes en el número de episodios; El nombre normalizado difiere del título del candidato
+----------------------------------------------------------------------------
+
+Serie M3U: Scooby-Doo y ¿quién crees tú?
+Decisión original: MATCH_PROBABLE
+Estructura M3U: {"1":10}
+Candidato actual: Scooby-Doo and Guess Who? (TMDB 88367) | país=US | año=2019 | score estructural=35 | exactas=0 | cercanas=0 | incompatibles=1 | ausentes=0
+Mejor alternativa: Sin candidato
+Motivos: Hay diferencias importantes en el número de episodios; El nombre normalizado difiere del título del candidato
+----------------------------------------------------------------------------
+
+Serie M3U: 90210
+Decisión original: MATCH_FUERTE
+Estructura M3U: {"1":22,"2":28,"3":30,"4":31,"5":32,"6":31,"7":16,"8":31,"9":26,"10":27}
+Candidato actual: Beverly Hills, 90210 (TMDB 2025) | país=US | año=1990 | score estructural=86 | exactas=5 | cercanas=4 | incompatibles=1 | ausentes=0
+Mejor alternativa: 90210 (TMDB 5917) | país=US | año=2008 | score estructural=22 | exactas=0 | cercanas=1 | incompatibles=4 | ausentes=5
+Motivos: Hay diferencias importantes en el número de episodios; El nombre normalizado difiere del título del candidato
+----------------------------------------------------------------------------
+
+Serie M3U: CatDog
+Decisión original: MATCH_PROBABLE
+Estructura M3U: {"1":26}
+Candidato actual: CatDog (TMDB 1567) | país=US | año=1998 | score estructural=35 | exactas=0 | cercanas=0 | incompatibles=1 | ausentes=0
+Mejor alternativa: Sin candidato
+Motivos: Hay diferencias importantes en el número de episodios
+----------------------------------------------------------------------------
+
+Serie M3U: Chicas de Oficina
+Decisión original: MATCH_PROBABLE
+Estructura M3U: {"1":25}
+Candidato actual: Office Girls (TMDB 40480) | país=TW | año=2011 | score estructural=35 | exactas=0 | cercanas=0 | incompatibles=1 | ausentes=0
+Mejor alternativa: Sin candidato
+Motivos: Hay diferencias importantes en el número de episodios; El nombre normalizado difiere del título del candidato
+----------------------------------------------------------------------------
+
+Serie M3U: Yomi no Tsugai: Dúo del Inframundo
+Decisión original: MATCH_PROBABLE
+Estructura M3U: {"1":9}
+Candidato actual: Daemons of the Shadow Realm (TMDB 260463) | país=JP | año=2026 | score estructural=35 | exactas=0 | cercanas=0 | incompatibles=1 | ausentes=0
+Mejor alternativa: Sin candidato
+Motivos: Hay diferencias importantes en el número de episodios; El nombre normalizado difiere del título del candidato
+----------------------------------------------------------------------------
+
+Serie M3U: Aída
+Decisión original: MATCH_PROBABLE
+Estructura M3U: {"1":13,"2":8,"3":14,"4":16,"5":26,"6":27,"7":15,"8":28,"9":38}
+Candidato actual: Aída (TMDB 1032) | país=ES | año=2005 | score estructural=86 | exactas=7 | cercanas=0 | incompatibles=2 | ausentes=0
+Mejor alternativa: Aida (TMDB 84852) | país=PL | año=2012 | score estructural=11 | exactas=1 | cercanas=0 | incompatibles=0 | ausentes=8
+Motivos: Hay diferencias importantes en el número de episodios
+----------------------------------------------------------------------------
+
+Serie M3U: Caballero Negro
+Decisión original: MATCH_PROBABLE
+Estructura M3U: {"1":6}
+Candidato actual: Black Knight (TMDB 75066) | país=KR | año=2017 | score estructural=35 | exactas=0 | cercanas=0 | incompatibles=1 | ausentes=0
+Mejor alternativa: Sin candidato
+Motivos: Hay diferencias importantes en el número de episodios; El nombre normalizado difiere del título del candidato
+----------------------------------------------------------------------------
+
+Serie M3U: Demon Slayer: Kimetsu no Yaiba
+Decisión original: MATCH_PROBABLE
+Estructura M3U: {"1":26,"2":18,"3":11,"4":8}
+Candidato actual: Demon Slayer: Kimetsu no Yaiba (TMDB 85937) | país=JP | año=2019 | score estructural=68 | exactas=2 | cercanas=0 | incompatibles=2 | ausentes=0
+Mejor alternativa: Sin candidato
+Motivos: Hay diferencias importantes en el número de episodios
+----------------------------------------------------------------------------
+
+Serie M3U: Rugrats Crecidos
+Decisión original: MATCH_PROBABLE
+Estructura M3U: {"1":7,"2":7,"3":5,"4":10,"5":9}
+Candidato actual: All Grown Up! (TMDB 130) | país=US | año=2003 | score estructural=53 | exactas=0 | cercanas=2 | incompatibles=3 | ausentes=0
+Mejor alternativa: Sin candidato
+Motivos: Hay diferencias importantes en el número de episodios; El nombre normalizado difiere del título del candidato
+----------------------------------------------------------------------------
+
+Serie M3U: ¿Le Temes a la Oscuridad?
+Decisión original: MATCH_PROBABLE
+Estructura M3U: {"1":13,"2":13,"3":13,"4":13,"5":13,"6":13,"7":26}
+Candidato actual: Are You Afraid of the Dark? (TMDB 2913) | país=CA, US | año=1992 | score estructural=91 | exactas=6 | cercanas=0 | incompatibles=1 | ausentes=0
+Mejor alternativa: Are You Afraid of the Dark? (TMDB 93693) | país=US | año=2019 | score estructural=15 | exactas=0 | cercanas=0 | incompatibles=3 | ausentes=4
+Motivos: Hay diferencias importantes en el número de episodios; El nombre normalizado difiere del título del candidato
+----------------------------------------------------------------------------
+
+Serie M3U: 1000 Maneras de morir
+Decisión original: MATCH_PROBABLE
+Estructura M3U: {"1":12,"2":12,"3":28}
+Candidato actual: 1000 Ways to Die (TMDB 15826) | país=US | año=2009 | score estructural=72 | exactas=1 | cercanas=1 | incompatibles=1 | ausentes=0
+Mejor alternativa: Sin candidato
+Motivos: Hay diferencias importantes en el número de episodios; El nombre normalizado difiere del título del candidato
+----------------------------------------------------------------------------
+
+Serie M3U: Corazones rebeldes
+Decisión original: MATCH_PROBABLE
+Estructura M3U: {"1":10,"2":7}
+Candidato actual: Badly in Love (TMDB 305379) | país=JP | año=2025 | score estructural=68 | exactas=1 | cercanas=0 | incompatibles=1 | ausentes=0
+Mejor alternativa: Sin candidato
+Motivos: Hay diferencias importantes en el número de episodios; El nombre normalizado difiere del título del candidato
+----------------------------------------------------------------------------
+
+Serie M3U: El Espectacular Hombre-Araña
+Decisión original: MATCH_PROBABLE
+Estructura M3U: {"1":13,"2":26}
+Candidato actual: The Spectacular Spider-Man (TMDB 3854) | país=US | año=2008 | score estructural=68 | exactas=1 | cercanas=0 | incompatibles=1 | ausentes=0
+Mejor alternativa: Sin candidato
+Motivos: Hay diferencias importantes en el número de episodios; El nombre normalizado difiere del título del candidato
+----------------------------------------------------------------------------
+
+Serie M3U: La robot adolescente
+Decisión original: MATCH_PROBABLE
+Estructura M3U: {"1":13}
+Candidato actual: My Life as a Teenage Robot (TMDB 178) | país=US | año=2002 | score estructural=35 | exactas=0 | cercanas=0 | incompatibles=1 | ausentes=0
+Mejor alternativa: Sin candidato
+Motivos: Hay diferencias importantes en el número de episodios; El nombre normalizado difiere del título del candidato
+----------------------------------------------------------------------------
+
+Serie M3U: Los Castores Cascarrabias
+Decisión original: MATCH_PROBABLE
+Estructura M3U: {"1":13}
+Candidato actual: The Angry Beavers (TMDB 3579) | país=US | año=1997 | score estructural=35 | exactas=0 | cercanas=0 | incompatibles=1 | ausentes=0
+Mejor alternativa: Sin candidato
+Motivos: Hay diferencias importantes en el número de episodios; El nombre normalizado difiere del título del candidato
+----------------------------------------------------------------------------
+
+Serie M3U: Los jóvenes titanes
+Decisión original: MATCH_PROBABLE
+Estructura M3U: {"1":13,"2":26,"3":13,"4":13,"5":13}
+Candidato actual: Teen Titans (TMDB 604) | país=US | año=2003 | score estructural=87 | exactas=4 | cercanas=0 | incompatibles=1 | ausentes=0
+Mejor alternativa: Sin candidato
+Motivos: Hay diferencias importantes en el número de episodios; El nombre normalizado difiere del título del candidato
+----------------------------------------------------------------------------
+
+Serie M3U: Melissa: La Niña del Valle Verde
+Decisión original: MATCH_PROBABLE
+Estructura M3U: {"1":79}
+Candidato actual: Yeşil Vadi'nin Kızı (TMDB 224344) | país=TR | año=2023 | score estructural=35 | exactas=0 | cercanas=0 | incompatibles=1 | ausentes=0
+Mejor alternativa: Sin candidato
+Motivos: Hay diferencias importantes en el número de episodios; El nombre normalizado difiere del título del candidato
+----------------------------------------------------------------------------
+
+Serie M3U: Popeye y su hijo
+Decisión original: MATCH_PROBABLE
+Estructura M3U: {"1":13}
+Candidato actual: Popeye and Son (TMDB 10425) | país=US | año=1987 | score estructural=35 | exactas=0 | cercanas=0 | incompatibles=1 | ausentes=0
+Mejor alternativa: Sin candidato
+Motivos: Hay diferencias importantes en el número de episodios; El nombre normalizado difiere del título del candidato
+----------------------------------------------------------------------------
+
+Serie M3U: El precio de una confesión
+Decisión original: MATCH_PROBABLE
+Estructura M3U: {"1":24}
+Candidato actual: The Price of Confession (TMDB 209110) | país=KR | año=2025 | score estructural=35 | exactas=0 | cercanas=0 | incompatibles=1 | ausentes=0
+Mejor alternativa: Sin candidato
+Motivos: Hay diferencias importantes en el número de episodios; El nombre normalizado difiere del título del candidato
+----------------------------------------------------------------------------
+
+Serie M3U: Full Metal Panic!
+Decisión original: MATCH_PROBABLE
+Estructura M3U: {"1":12}
+Candidato actual: Full Metal Panic! (TMDB 39379) | país=JP | año=2002 | score estructural=35 | exactas=0 | cercanas=0 | incompatibles=1 | ausentes=0
+Mejor alternativa: Sin candidato
+Motivos: Hay diferencias importantes en el número de episodios
+----------------------------------------------------------------------------
+
+Serie M3U: La Familia del Barrio
+Decisión original: MATCH_PROBABLE
+Estructura M3U: {"1":12,"2":12,"3":10,"4":20}
+Candidato actual: La Familia del Barrio (TMDB 92468) | país=MX | año=2013 | score estructural=79 | exactas=2 | cercanas=1 | incompatibles=1 | ausentes=0
+Mejor alternativa: Sin candidato
+Motivos: Hay diferencias importantes en el número de episodios
+----------------------------------------------------------------------------
+
+Serie M3U: Re:ZERO -Starting Life in Another World-
+Decisión original: MATCH_PROBABLE
+Estructura M3U: {"1":73}
+Candidato actual: Re:ZERO -Starting Life in Another World- (TMDB 65942) | país=JP | año=2016 | score estructural=35 | exactas=0 | cercanas=0 | incompatibles=1 | ausentes=0
+Mejor alternativa: Sin candidato
+Motivos: Hay diferencias importantes en el número de episodios
+----------------------------------------------------------------------------
+
+Serie M3U: Rompiendo el hielo
+Decisión original: MATCH_PROBABLE
+Estructura M3U: {"1":16}
+Candidato actual: The Ramparts of Ice (TMDB 283428) | país=JP | año=2026 | score estructural=35 | exactas=0 | cercanas=0 | incompatibles=1 | ausentes=0
+Mejor alternativa: Sin candidato
+Motivos: Hay diferencias importantes en el número de episodios; El nombre normalizado difiere del título del candidato
+----------------------------------------------------------------------------
+
+Serie M3U: Vampirina: Una Vampirina adolescente
+Decisión original: MATCH_PROBABLE
+Estructura M3U: {"1":4,"2":6}
+Candidato actual: Vampirina: Teenage Vampire (TMDB 275722) | país=US | año=2025 | score estructural=68 | exactas=1 | cercanas=0 | incompatibles=1 | ausentes=0
+Mejor alternativa: Sin candidato
+Motivos: Hay diferencias importantes en el número de episodios; El nombre normalizado difiere del título del candidato
+----------------------------------------------------------------------------
+
+Serie M3U: Coven Academy: El Secreto de las Brujas
+Decisión original: MATCH_PROBABLE
+Estructura M3U: {"1":21}
+Candidato actual: Coven Academy (TMDB 298505) | país=US | año=2026 | score estructural=35 | exactas=0 | cercanas=0 | incompatibles=1 | ausentes=0
+Mejor alternativa: Sin candidato
+Motivos: Hay diferencias importantes en el número de episodios; El nombre normalizado difiere del título del candidato
+----------------------------------------------------------------------------
+
+Serie M3U: Destellos del mañana
+Decisión original: MATCH_PROBABLE
+Estructura M3U: {"1":2}
+Candidato actual: Sparks of Tomorrow (TMDB 153217) | país=JP | año=2026 | score estructural=35 | exactas=0 | cercanas=0 | incompatibles=1 | ausentes=0
+Mejor alternativa: Sin candidato
+Motivos: Hay diferencias importantes en el número de episodios; El nombre normalizado difiere del título del candidato
+----------------------------------------------------------------------------
+
+Serie M3U: El Show de Super Mario Bros
+Decisión original: MATCH_PROBABLE
+Estructura M3U: {"1":54}
+Candidato actual: The Super Mario Bros. Super Show! (TMDB 14613) | país=US | año=1989 | score estructural=35 | exactas=0 | cercanas=0 | incompatibles=1 | ausentes=0
+Mejor alternativa: Sin candidato
+Motivos: Hay diferencias importantes en el número de episodios; El nombre normalizado difiere del título del candidato
+----------------------------------------------------------------------------
+
+Serie M3U: KND: Los chicos del barrio
+Decisión original: MATCH_PROBABLE
+Estructura M3U: {"1":15}
+Candidato actual: Codename: Kids Next Door (TMDB 2660) | país=US | año=2002 | score estructural=35 | exactas=0 | cercanas=0 | incompatibles=1 | ausentes=0
+Mejor alternativa: Sin candidato
+Motivos: Hay diferencias importantes en el número de episodios; El nombre normalizado difiere del título del candidato
+----------------------------------------------------------------------------
+
+Serie M3U: JoJo's Bizarre Adventure
+Decisión original: MATCH_FUERTE
+Estructura M3U: {"1":26,"2":48,"3":39,"4":39,"5":38,"6":2}
+Candidato actual: JoJo's Bizarre Adventure (TMDB 45790) | país=JP | año=2012 | score estructural=89 | exactas=5 | cercanas=0 | incompatibles=1 | ausentes=0
+Mejor alternativa: JoJo's Bizarre Adventure (TMDB 60862) | país=JP | año=1993 | score estructural=12 | exactas=0 | cercanas=0 | incompatibles=2 | ausentes=4
+Motivos: Hay diferencias importantes en el número de episodios
+----------------------------------------------------------------------------
+
+Serie M3U: Piel de otoño
+Decisión original: MATCH_FUERTE
+Estructura M3U: {"1":90}
+Candidato actual: Piel de otoño (TMDB 16291) | país=MX | año=2005 | score estructural=35 | exactas=0 | cercanas=0 | incompatibles=1 | ausentes=0
+Mejor alternativa: Sin candidato
+Motivos: Hay diferencias importantes en el número de episodios
+----------------------------------------------------------------------------
+
+Serie M3U: Amor entre líneas
+Decisión original: MATCH_PROBABLE
+Estructura M3U: {"1":19}
+Candidato actual: Love Between Lines (TMDB 279136) | país=CN | año=2026 | score estructural=35 | exactas=0 | cercanas=0 | incompatibles=1 | ausentes=0
+Mejor alternativa: Sin candidato
+Motivos: Hay diferencias importantes en el número de episodios; El nombre normalizado difiere del título del candidato
+----------------------------------------------------------------------------
+
+Serie M3U: El antídoto
+Decisión original: MATCH_PROBABLE
+Estructura M3U: {"1":5}
+Candidato actual: El antídoto (TMDB 290554) | país=CL | año=2024 | score estructural=35 | exactas=0 | cercanas=0 | incompatibles=1 | ausentes=0
+Mejor alternativa: Sin candidato
+Motivos: Hay diferencias importantes en el número de episodios
+----------------------------------------------------------------------------
+
+Serie M3U: El día menos pensado
+Decisión original: MATCH_PROBABLE
+Estructura M3U: {"1":12,"2":12,"3":15,"4":14,"5":13,"6":11,"7":9,"8":7,"9":14}
+Candidato actual: El día menos pensado (TMDB 99312) | país=CL | año=1999 | score estructural=83 | exactas=6 | cercanas=1 | incompatibles=2 | ausentes=0
+Mejor alternativa: The Least Expected Day: Inside the Movistar Team 2019 (TMDB 101262) | país=ES | año=2020 | score estructural=19 | exactas=0 | cercanas=0 | incompatibles=5 | ausentes=4
+Motivos: Hay diferencias importantes en el número de episodios
+----------------------------------------------------------------------------
+
+Serie M3U: Flash
+Decisión original: MATCH_FUERTE
+Estructura M3U: {"1":23,"2":23,"3":23,"4":23,"5":22,"6":19,"7":18,"8":20,"9":4}
+Candidato actual: The Flash (TMDB 60735) | país=US | año=2014 | score estructural=93 | exactas=8 | cercanas=0 | incompatibles=1 | ausentes=0
+Mejor alternativa: Flash (TMDB 90555) | país=CA | año=1995 | score estructural=40 | exactas=0 | cercanas=1 | incompatibles=8 | ausentes=0
+Motivos: Hay diferencias importantes en el número de episodios; El nombre normalizado difiere del título del candidato
+----------------------------------------------------------------------------
+
+Serie M3U: GATE24: Protección fronteriza
+Decisión original: MATCH_PROBABLE
+Estructura M3U: {"1":1}
+Candidato actual: GATE24: The Border (TMDB 323579) | país=JP | año=2026 | score estructural=35 | exactas=0 | cercanas=0 | incompatibles=1 | ausentes=0
+Mejor alternativa: Sin candidato
+Motivos: Hay diferencias importantes en el número de episodios; El nombre normalizado difiere del título del candidato
+----------------------------------------------------------------------------
+
+Serie M3U: Kung Fu: la leyenda continúa
+Decisión original: MATCH_PROBABLE
+Estructura M3U: {"1":13}
+Candidato actual: Kung Fu: The Legend Continues (TMDB 636) | país=US | año=1993 | score estructural=35 | exactas=0 | cercanas=0 | incompatibles=1 | ausentes=0
+Mejor alternativa: Sin candidato
+Motivos: Hay diferencias importantes en el número de episodios; El nombre normalizado difiere del título del candidato
+----------------------------------------------------------------------------
+
+Serie M3U: Policías de Chicago
+Decisión original: MATCH_PROBABLE
+Estructura M3U: {"1":14,"2":23,"3":23,"4":23,"5":22,"6":22,"7":20,"8":16,"9":22,"10":22,"11":22}
+Candidato actual: Chicago P.D. (TMDB 58841) | país=US | año=2014 | score estructural=92 | exactas=9 | cercanas=1 | incompatibles=1 | ausentes=0
+Mejor alternativa: Sin candidato
+Motivos: Hay diferencias importantes en el número de episodios; El nombre normalizado difiere del título del candidato
+----------------------------------------------------------------------------
+
+Serie M3U: Rivales
+Decisión original: MATCH_PROBABLE
+Estructura M3U: {"1":8,"2":3}
+Candidato actual: Rivals (TMDB 208921) | país=GB | año=2024 | score estructural=68 | exactas=1 | cercanas=0 | incompatibles=1 | ausentes=0
+Mejor alternativa: Magkaribal (TMDB 32566) | país=PH | año=2010 | score estructural=18 | exactas=0 | cercanas=0 | incompatibles=1 | ausentes=1
+Motivos: Hay diferencias importantes en el número de episodios; El nombre normalizado difiere del título del candidato
+----------------------------------------------------------------------------
+
+Serie M3U: Tiny Toons Looniversity
+Decisión original: MATCH_PROBABLE
+Estructura M3U: {"1":20}
+Candidato actual: Tiny Toons Looniversity (TMDB 155779) | país=US | año=2023 | score estructural=35 | exactas=0 | cercanas=0 | incompatibles=1 | ausentes=0
+Mejor alternativa: Sin candidato
+Motivos: Hay diferencias importantes en el número de episodios
+----------------------------------------------------------------------------
+
+Serie M3U: Walker
+Decisión original: MATCH_PROBABLE
+Estructura M3U: {"1":18,"2":11}
+Candidato actual: Walker (TMDB 99121) | país=US | año=2021 | score estructural=68 | exactas=1 | cercanas=0 | incompatibles=1 | ausentes=0
+Mejor alternativa: Sin candidato
+Motivos: Hay diferencias importantes en el número de episodios
+----------------------------------------------------------------------------
+
+Serie M3U: Academia Unicornio: Secretos por descubrir
+Decisión original: MATCH_PROBABLE
+Estructura M3U: {"1":8}
+Candidato actual: Unicorn Academy: Secrets Revealed (TMDB 316945) | país=US | año=2026 | score estructural=35 | exactas=0 | cercanas=0 | incompatibles=1 | ausentes=0
+Mejor alternativa: Sin candidato
+Motivos: Hay diferencias importantes en el número de episodios; El nombre normalizado difiere del título del candidato
+----------------------------------------------------------------------------
+
+Serie M3U: Aguas profundas
+Decisión original: MATCH_PROBABLE
+Estructura M3U: {"1":7}
+Candidato actual: Surface (TMDB 3486) | país=US | año=2005 | score estructural=35 | exactas=0 | cercanas=0 | incompatibles=1 | ausentes=0
+Mejor alternativa: Sin candidato
+Motivos: Hay diferencias importantes en el número de episodios; El nombre normalizado difiere del título del candidato
+----------------------------------------------------------------------------
+
+Serie M3U: Don Dracula
+Decisión original: MATCH_PROBABLE
+Estructura M3U: {"1":16}
+Candidato actual: Don Dracula (TMDB 16576) | país=JP | año=1982 | score estructural=35 | exactas=0 | cercanas=0 | incompatibles=1 | ausentes=0
+Mejor alternativa: Sin candidato
+Motivos: Hay diferencias importantes en el número de episodios
+----------------------------------------------------------------------------
+
+Serie M3U: Gary y sus Demonios
+Decisión original: MATCH_PROBABLE
+Estructura M3U: {"1":8}
+Candidato actual: Gary and His Demons (TMDB 79478) | país=CA, US | año=2018 | score estructural=35 | exactas=0 | cercanas=0 | incompatibles=1 | ausentes=0
+Mejor alternativa: Sin candidato
+Motivos: Hay diferencias importantes en el número de episodios; El nombre normalizado difiere del título del candidato
+----------------------------------------------------------------------------
+
+Serie M3U: La muerte y otros misterios
+Decisión original: MATCH_PROBABLE
+Estructura M3U: {"1":2}
+Candidato actual: Death and Other Details (TMDB 133813) | país=US | año=2024 | score estructural=35 | exactas=0 | cercanas=0 | incompatibles=1 | ausentes=0
+Mejor alternativa: Sin candidato
+Motivos: Hay diferencias importantes en el número de episodios; El nombre normalizado difiere del título del candidato
+----------------------------------------------------------------------------
+
+Serie M3U: Las aventuras de los osos Gummi
+Decisión original: MATCH_PROBABLE
+Estructura M3U: {"1":13}
+Candidato actual: Disney's Adventures of the Gummi Bears (TMDB 1931) | país=US | año=1985 | score estructural=35 | exactas=0 | cercanas=0 | incompatibles=1 | ausentes=0
+Mejor alternativa: Sin candidato
+Motivos: Hay diferencias importantes en el número de episodios; El nombre normalizado difiere del título del candidato
+----------------------------------------------------------------------------
+
+Serie M3U: Romance a lo k-drama
+Decisión original: MATCH_PROBABLE
+Estructura M3U: {"1":4}
+Candidato actual: Love Like a K-Drama (TMDB 232433) | país=JP | año=2023 | score estructural=35 | exactas=0 | cercanas=0 | incompatibles=1 | ausentes=0
+Mejor alternativa: Sin candidato
+Motivos: Hay diferencias importantes en el número de episodios; El nombre normalizado difiere del título del candidato
+----------------------------------------------------------------------------
+
+Serie M3U: Un amor distinto al tuyo
+Decisión original: MATCH_PROBABLE
+Estructura M3U: {"1":6}
+Candidato actual: A Love Other Than Yours (TMDB 314939) | país=KR | año=2026 | score estructural=35 | exactas=0 | cercanas=0 | incompatibles=1 | ausentes=0
+Mejor alternativa: Sin candidato
+Motivos: Hay diferencias importantes en el número de episodios; El nombre normalizado difiere del título del candidato
+----------------------------------------------------------------------------
+
+Serie M3U: Enciclopedia de Estambul
+Decisión original: MATCH_PROBABLE
+Estructura M3U: {"1":1}
+Candidato actual: Istanbul Encyclopedia (TMDB 278004) | país=TR | año=2025 | score estructural=35 | exactas=0 | cercanas=0 | incompatibles=1 | ausentes=0
+Mejor alternativa: Sin candidato
+Motivos: Hay diferencias importantes en el número de episodios; El nombre normalizado difiere del título del candidato
+----------------------------------------------------------------------------
+
+Serie M3U: Encontrados
+Decisión original: MATCH_PROBABLE
+Estructura M3U: {"1":6}
+Candidato actual: Found (TMDB 214160) | país=US | año=2023 | score estructural=35 | exactas=0 | cercanas=0 | incompatibles=1 | ausentes=0
+Mejor alternativa: Sin candidato
+Motivos: Hay diferencias importantes en el número de episodios; El nombre normalizado difiere del título del candidato
+----------------------------------------------------------------------------
+
+Serie M3U: El Chavo Animado
+Decisión original: MATCH_FUERTE
+Estructura M3U: {"1":26,"2":26,"3":26,"4":22,"5":13,"6":14,"7":1}
+Candidato actual: El Chavo: The Animated Series (TMDB 7821) | país=MX | año=2006 | score estructural=85 | exactas=4 | cercanas=2 | incompatibles=1 | ausentes=0
+Mejor alternativa: Sin candidato
+Motivos: Hay diferencias importantes en el número de episodios; El nombre normalizado difiere del título del candidato
+----------------------------------------------------------------------------
+
+Serie M3U: El libro de Boba Fett
+Decisión original: MATCH_PROBABLE
+Estructura M3U: {"1":1}
+Candidato actual: The Book of Boba Fett (TMDB 115036) | país=US | año=2021 | score estructural=35 | exactas=0 | cercanas=0 | incompatibles=1 | ausentes=0
+Mejor alternativa: Sin candidato
+Motivos: Hay diferencias importantes en el número de episodios; El nombre normalizado difiere del título del candidato
+----------------------------------------------------------------------------
+
+Serie M3U: El show de Vince Staples
+Decisión original: MATCH_PROBABLE
+Estructura M3U: {"1":11}
+Candidato actual: The Vince Staples Show (TMDB 243861) | país=US | año=2024 | score estructural=35 | exactas=0 | cercanas=0 | incompatibles=1 | ausentes=0
+Mejor alternativa: Sin candidato
+Motivos: Hay diferencias importantes en el número de episodios; El nombre normalizado difiere del título del candidato
+----------------------------------------------------------------------------
+
+Serie M3U: Harlem
+Decisión original: MATCH_PROBABLE
+Estructura M3U: {"1":10,"2":2}
+Candidato actual: Harlem (TMDB 138089) | país=US | año=2021 | score estructural=68 | exactas=1 | cercanas=0 | incompatibles=1 | ausentes=0
+Mejor alternativa: Sin candidato
+Motivos: Hay diferencias importantes en el número de episodios
+----------------------------------------------------------------------------
+
+Serie M3U: Simon Cowell: The Next Act
+Decisión original: MATCH_PROBABLE
+Estructura M3U: {"1":12}
+Candidato actual: Simon Cowell: The Next Act (TMDB 299713) | país=GB | año=2025 | score estructural=35 | exactas=0 | cercanas=0 | incompatibles=1 | ausentes=0
+Mejor alternativa: Sin candidato
+Motivos: Hay diferencias importantes en el número de episodios
+----------------------------------------------------------------------------
+
+Serie M3U: Alert: Missing Persons Unit
+Decisión original: MATCH_PROBABLE
+Estructura M3U: {"1":4}
+Candidato actual: Alert: Missing Persons Unit (TMDB 202308) | país=US | año=2023 | score estructural=35 | exactas=0 | cercanas=0 | incompatibles=1 | ausentes=0
+Mejor alternativa: Sin candidato
+Motivos: Hay diferencias importantes en el número de episodios
+----------------------------------------------------------------------------
+
+Serie M3U: Crimen de una dinastía: El caso Murdaugh
+Decisión original: MATCH_PROBABLE
+Estructura M3U: {"1":3}
+Candidato actual: Murdaugh: Death in the Family (TMDB 270734) | país=US | año=2025 | score estructural=35 | exactas=0 | cercanas=0 | incompatibles=1 | ausentes=0
+Mejor alternativa: Sin candidato
+Motivos: Hay diferencias importantes en el número de episodios; El nombre normalizado difiere del título del candidato
+----------------------------------------------------------------------------
+
+Serie M3U: Desagertuta
+Decisión original: MATCH_PROBABLE
+Estructura M3U: {"1":3}
+Candidato actual: Disappeared (TMDB 292012) | país=ES | año=2025 | score estructural=35 | exactas=0 | cercanas=0 | incompatibles=1 | ausentes=0
+Mejor alternativa: Sin candidato
+Motivos: Hay diferencias importantes en el número de episodios; El nombre normalizado difiere del título del candidato
+----------------------------------------------------------------------------
+
+Serie M3U: Detective Alex Cross
+Decisión original: MATCH_PROBABLE
+Estructura M3U: {"1":8,"2":3}
+Candidato actual: Cross (TMDB 213306) | país=US | año=2024 | score estructural=68 | exactas=1 | cercanas=0 | incompatibles=1 | ausentes=0
+Mejor alternativa: Sin candidato
+Motivos: Hay diferencias importantes en el número de episodios; El nombre normalizado difiere del título del candidato
+----------------------------------------------------------------------------
+
+Serie M3U: El jurado presenta: Retiro corporativo
+Decisión original: MATCH_PROBABLE
+Estructura M3U: {"1":3}
+Candidato actual: Jury Duty Presents: Company Retreat (TMDB 312697) | país=US | año=2026 | score estructural=35 | exactas=0 | cercanas=0 | incompatibles=1 | ausentes=0
+Mejor alternativa: Sin candidato
+Motivos: Hay diferencias importantes en el número de episodios; El nombre normalizado difiere del título del candidato
+----------------------------------------------------------------------------
+
+Serie M3U: Mujeres con hombreras
+Decisión original: MATCH_PROBABLE
+Estructura M3U: {"1":3}
+Candidato actual: Women Wearing Shoulder Pads (TMDB 237015) | país=US | año=2025 | score estructural=35 | exactas=0 | cercanas=0 | incompatibles=1 | ausentes=0
+Mejor alternativa: Sin candidato
+Motivos: Hay diferencias importantes en el número de episodios; El nombre normalizado difiere del título del candidato
+----------------------------------------------------------------------------
+
+Serie M3U: ¡amor!
+Decisión original: MATCH_PROBABLE
+Estructura M3U: {"1":10}
+Candidato actual: #Love (TMDB 302882) | país=IN | año=2026 | score estructural=35 | exactas=0 | cercanas=0 | incompatibles=1 | ausentes=0
+Mejor alternativa: Sin candidato
+Motivos: Hay diferencias importantes en el número de episodios; El nombre normalizado difiere del título del candidato
+----------------------------------------------------------------------------
+
+Serie M3U: Bajoterra
+Decisión original: MATCH_PROBABLE
+Estructura M3U: {"1":39,"2":3,"3":13,"4":8}
+Candidato actual: Slugterra (TMDB 46994) | país=CA | año=2012 | score estructural=84 | exactas=3 | cercanas=0 | incompatibles=1 | ausentes=0
+Mejor alternativa: Sin candidato
+Motivos: Hay diferencias importantes en el número de episodios; El nombre normalizado difiere del título del candidato
+----------------------------------------------------------------------------
+
+Serie M3U: Bring Back Alice
+Decisión original: MATCH_PROBABLE
+Estructura M3U: {"1":2}
+Candidato actual: #BringBackAlice (TMDB 222892) | país=PL | año=2023 | score estructural=35 | exactas=0 | cercanas=0 | incompatibles=1 | ausentes=0
+Mejor alternativa: Sin candidato
+Motivos: Hay diferencias importantes en el número de episodios; El nombre normalizado difiere del título del candidato
+----------------------------------------------------------------------------
+
+Serie M3U: Call My Agent Berlin
+Decisión original: MATCH_PROBABLE
+Estructura M3U: {"1":6}
+Candidato actual: Call My Agent Berlin (TMDB 296527) | país=DE | año=2025 | score estructural=35 | exactas=0 | cercanas=0 | incompatibles=1 | ausentes=0
+Mejor alternativa: Sin candidato
+Motivos: Hay diferencias importantes en el número de episodios
+----------------------------------------------------------------------------
+
+Serie M3U: Funny AF with Kevin Hart
+Decisión original: MATCH_PROBABLE
+Estructura M3U: {"1":4}
+Candidato actual: Funny AF with Kevin Hart (TMDB 311991) | país=US | año=2026 | score estructural=35 | exactas=0 | cercanas=0 | incompatibles=1 | ausentes=0
+Mejor alternativa: Sin candidato
+Motivos: Hay diferencias importantes en el número de episodios
+----------------------------------------------------------------------------
+
+Serie M3U: Hasta que la camiseta se seque
+Decisión original: MATCH_PROBABLE
+Estructura M3U: {"1":6}
+Candidato actual: Until the T-Shirt Dries (TMDB 322570) | país=JP | año=2026 | score estructural=35 | exactas=0 | cercanas=0 | incompatibles=1 | ausentes=0
+Mejor alternativa: Sin candidato
+Motivos: Hay diferencias importantes en el número de episodios; El nombre normalizado difiere del título del candidato
+----------------------------------------------------------------------------
+
+Serie M3U: Hijos de las estrellas
+Decisión original: MATCH_PROBABLE
+Estructura M3U: {"1":10,"2":10,"3":4}
+Candidato actual: Children Of The Stars (TMDB 77913) | país=CL | año=2014 | score estructural=78 | exactas=2 | cercanas=0 | incompatibles=1 | ausentes=0
+Mejor alternativa: Sin candidato
+Motivos: Hay diferencias importantes en el número de episodios; El nombre normalizado difiere del título del candidato
+----------------------------------------------------------------------------
+
+Serie M3U: The Drop: Una saga de Snowfall
+Decisión original: MATCH_PROBABLE
+Estructura M3U: {"1":5}
+Candidato actual: The Drop: A Snowfall Saga (TMDB 304842) | país=US | año=2026 | score estructural=35 | exactas=0 | cercanas=0 | incompatibles=1 | ausentes=0
+Mejor alternativa: Sin candidato
+Motivos: Hay diferencias importantes en el número de episodios; El nombre normalizado difiere del título del candidato
+----------------------------------------------------------------------------
+
+Serie M3U: Women at Warː 100 Years of Service
+Decisión original: MATCH_PROBABLE
+Estructura M3U: {"1":8}
+Candidato actual: Women at Warː 100 Years of Service (TMDB 214467) | país=GB | año=2017 | score estructural=35 | exactas=0 | cercanas=0 | incompatibles=1 | ausentes=0
+Mejor alternativa: Sin candidato
+Motivos: Hay diferencias importantes en el número de episodios
+----------------------------------------------------------------------------
+
+Serie M3U: Avatar: La leyenda de Aang
+Decisión original: MATCH_PROBABLE
+Estructura M3U: {"1":20,"2":20,"3":21,"4":8}
+Candidato actual: Avatar: The Last Airbender (TMDB 246) | país=US | año=2005 | score estructural=75 | exactas=3 | cercanas=0 | incompatibles=0 | ausentes=1
+Mejor alternativa: Avatar: The Last Airbender (TMDB 82452) | país=US | año=2024 | score estructural=18 | exactas=0 | cercanas=0 | incompatibles=2 | ausentes=2
+Motivos: 1 temporada(s) M3U no encontradas en TMDB; El nombre normalizado difiere del título del candidato
+----------------------------------------------------------------------------
+
+Serie M3U: Drama Total: La venganza de la isla
+Decisión original: MATCH_PROBABLE
+Estructura M3U: {"1":13,"2":1}
+Candidato actual: Total Drama: Revenge of the Island (TMDB 33507) | país=CA | año=2012 | score estructural=50 | exactas=1 | cercanas=0 | incompatibles=0 | ausentes=1
+Mejor alternativa: Sin candidato
+Motivos: 1 temporada(s) M3U no encontradas en TMDB; El nombre normalizado difiere del título del candidato
+----------------------------------------------------------------------------
+
+Serie M3U: Tensei Shitara Slime Datta Ken
+Decisión original: MATCH_PROBABLE
+Estructura M3U: {"0":13,"1":24,"2":24,"3":24,"4":24}
+Candidato actual: That Time I Got Reincarnated as a Slime (TMDB 82684) | país=JP | año=2018 | score estructural=80 | exactas=4 | cercanas=0 | incompatibles=0 | ausentes=1
+Mejor alternativa: Sin candidato
+Motivos: 1 temporada(s) M3U no encontradas en TMDB; El nombre normalizado difiere del título del candidato
+----------------------------------------------------------------------------
+
+Serie M3U: Total Drama Action
+Decisión original: MATCH_PROBABLE
+Estructura M3U: {"1":26,"2":1}
+Candidato actual: Total Drama Action (TMDB 8616) | país=CA | año=2009 | score estructural=40 | exactas=0 | cercanas=1 | incompatibles=0 | ausentes=1
+Mejor alternativa: Sin candidato
+Motivos: 1 temporada(s) M3U no encontradas en TMDB
+----------------------------------------------------------------------------
+
+
+PRIORIDAD MEDIA
+============================================================================
+
+Serie: Johnny Bravo
+Candidato: Johnny Bravo (TMDB 2405) | país=US | año=1997 | score estructural=35 | exactas=0 | cercanas=0 | incompatibles=1 | ausentes=0
+Motivos: Hay discrepancias aisladas de episodios
+----------------------------------------------------------------------------
+
+Serie: La novicia rebelde
+Candidato: Trapp Family Story (TMDB 43938) | país=JP | año=1991 | score estructural=35 | exactas=0 | cercanas=0 | incompatibles=1 | ausentes=0
+Motivos: Hay discrepancias aisladas de episodios; El nombre normalizado difiere del título del candidato
+----------------------------------------------------------------------------
+
+Serie: Los Supersónicos
+Candidato: The Jetsons (TMDB 2362) | país=US | año=1962 | score estructural=35 | exactas=0 | cercanas=0 | incompatibles=1 | ausentes=0
+Motivos: Hay discrepancias aisladas de episodios; El nombre normalizado difiere del título del candidato
+----------------------------------------------------------------------------
+
+Serie: Potato Head Kids
+Candidato: Potato Head Kids (TMDB 19527) | país=US | año=1986 | score estructural=35 | exactas=0 | cercanas=0 | incompatibles=1 | ausentes=0
+Motivos: Hay discrepancias aisladas de episodios
+----------------------------------------------------------------------------
+
+Serie: Tom Y Jerry
+Candidato: The Tom and Jerry Comedy Show (TMDB 14705) | país=US | año=1980 | score estructural=35 | exactas=0 | cercanas=0 | incompatibles=1 | ausentes=0
+Motivos: Hay discrepancias aisladas de episodios; El nombre normalizado difiere del título del candidato
+----------------------------------------------------------------------------
+
+Serie: Transformers: La Chispa de la Tierra
+Candidato: Transformers: EarthSpark (TMDB 157747) | país=US | año=2022 | score estructural=35 | exactas=0 | cercanas=0 | incompatibles=1 | ausentes=0
+Motivos: Hay discrepancias aisladas de episodios; El nombre normalizado difiere del título del candidato
+----------------------------------------------------------------------------
+
+Serie: Georgie y Mandy: Primer matrimonio
+Candidato: Georgie & Mandy's First Marriage (TMDB 243875) | país=US | año=2024 | score estructural=68 | exactas=1 | cercanas=0 | incompatibles=1 | ausentes=0
+Motivos: Hay discrepancias aisladas de episodios; El nombre normalizado difiere del título del candidato
+----------------------------------------------------------------------------
+
+Serie: La vida moderna de Rocko
+Candidato: Rocko's Modern Life (TMDB 657) | país=US | año=1993 | score estructural=35 | exactas=0 | cercanas=0 | incompatibles=1 | ausentes=0
+Motivos: Hay discrepancias aisladas de episodios; El nombre normalizado difiere del título del candidato
+----------------------------------------------------------------------------
+
+Serie: Mansión Foster para amigos imaginarios
+Candidato: Foster's Home for Imaginary Friends (TMDB 1720) | país=US | año=2004 | score estructural=75 | exactas=3 | cercanas=1 | incompatibles=2 | ausentes=0
+Motivos: Hay discrepancias aisladas de episodios; El nombre normalizado difiere del título del candidato
+----------------------------------------------------------------------------
+
+Serie: Tres por tres
+Candidato: Full House (TMDB 4313) | país=US | año=1987 | score estructural=35 | exactas=0 | cercanas=0 | incompatibles=1 | ausentes=0
+Motivos: Hay discrepancias aisladas de episodios; El nombre normalizado difiere del título del candidato
+----------------------------------------------------------------------------
+
+Serie: Undead Unluck
+Candidato: Undead Unluck (TMDB 209077) | país=JP | año=2023 | score estructural=35 | exactas=0 | cercanas=0 | incompatibles=1 | ausentes=0
+Motivos: Hay discrepancias aisladas de episodios
+----------------------------------------------------------------------------
+
+Serie: Arnold
+Candidato: Diff'rent Strokes (TMDB 2410) | país=US | año=1978 | score estructural=35 | exactas=0 | cercanas=0 | incompatibles=1 | ausentes=0
+Motivos: Hay discrepancias aisladas de episodios; El nombre normalizado difiere del título del candidato
+----------------------------------------------------------------------------
+
+Serie: fantasma
+Candidato: Ghost (TMDB 45018) | país=KR | año=2012 | score estructural=35 | exactas=0 | cercanas=0 | incompatibles=1 | ausentes=0
+Motivos: Hay discrepancias aisladas de episodios; El nombre normalizado difiere del título del candidato
+----------------------------------------------------------------------------
+
+Serie: Scissor Seven
+Candidato: Scissor Seven (TMDB 79141) | país=CN | año=2018 | score estructural=87 | exactas=4 | cercanas=0 | incompatibles=1 | ausentes=0
+Motivos: Hay discrepancias aisladas de episodios
+----------------------------------------------------------------------------
+
+Serie: The Eminence in Shadow
+Candidato: The Eminence in Shadow (TMDB 119495) | país=JP | año=2022 | score estructural=68 | exactas=1 | cercanas=0 | incompatibles=1 | ausentes=0
+Motivos: Hay discrepancias aisladas de episodios
+----------------------------------------------------------------------------
+
+Serie: Two Cops
+Candidato: Two Cops (TMDB 74785) | país=KR | año=2017 | score estructural=35 | exactas=0 | cercanas=0 | incompatibles=1 | ausentes=0
+Motivos: Hay discrepancias aisladas de episodios
+----------------------------------------------------------------------------
+
+Serie: ¡Buena suerte Charlie!
+Candidato: Good Luck Charlie (TMDB 21641) | país=US | año=2010 | score estructural=72 | exactas=1 | cercanas=1 | incompatibles=1 | ausentes=0
+Motivos: Hay discrepancias aisladas de episodios; El nombre normalizado difiere del título del candidato
+----------------------------------------------------------------------------
+
+Serie: La chica que limpia
+Candidato: The Cleaning Lady (TMDB 73043) | país=AR | año=2018 | score estructural=35 | exactas=0 | cercanas=0 | incompatibles=1 | ausentes=0
+Motivos: Hay discrepancias aisladas de episodios; El nombre normalizado difiere del título del candidato
+----------------------------------------------------------------------------
+
+Serie: La Segunda Guerra Mundial A Todo Color
+Candidato: World War II in Colour (TMDB 42154) | país=GB | año=2009 | score estructural=35 | exactas=0 | cercanas=0 | incompatibles=1 | ausentes=0
+Motivos: Hay discrepancias aisladas de episodios; El nombre normalizado difiere del título del candidato
+----------------------------------------------------------------------------
+
+
+PRIORIDAD BAJA
+============================================================================
+Los detalles completos de estos casos están disponibles en el JSON.
+
+NOTA: la prioridad indica qué conviene revisar, no confirma un ID incorrecto.
+No se han modificado IDs, archivos de catálogo ni datos de producción.

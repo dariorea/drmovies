@@ -1,0 +1,6208 @@
+{
+  "generatedAt": "2026-10-19T05:25:32.126Z",
+  "source": "lista-1",
+  "total": 1418,
+  "matched": 1216,
+  "ambiguous": 26,
+  "weak": 134,
+  "noResult": 42,
+  "reviews": [
+    {
+      "seriesKey": "9 1 1",
+      "name": "9-1-1",
+      "normalizedName": "9 1 1",
+      "reason": "AMBIGUOUS",
+      "bestCandidate": {
+        "id": 75219,
+        "name": "9-1-1",
+        "originalName": "9-1-1",
+        "score": 100
+      },
+      "candidates": [
+        {
+          "id": 75219,
+          "name": "9-1-1",
+          "originalName": "9-1-1",
+          "firstAirDate": "2018-01-03",
+          "popularity": 152.2955,
+          "score": 100,
+          "matchType": "EXACT"
+        },
+        {
+          "id": 70205,
+          "name": "บางรักซอย 9/1",
+          "originalName": "บางรักซอย 9/1",
+          "firstAirDate": "2016-10-04",
+          "popularity": 3.187,
+          "score": 100,
+          "matchType": "TOKENS"
+        },
+        {
+          "id": 284838,
+          "name": "9-1-1: Nashville",
+          "originalName": "9-1-1: Nashville",
+          "firstAirDate": "2025-10-09",
+          "popularity": 29.7416,
+          "score": 86,
+          "matchType": "TOKENS"
+        },
+        {
+          "id": 104021,
+          "name": "Unexplained 9-1-1",
+          "originalName": "Unexplained 9-1-1",
+          "firstAirDate": "2019-11-22",
+          "popularity": 1.6143,
+          "score": 86,
+          "matchType": "TOKENS"
+        },
+        {
+          "id": 206145,
+          "name": "Panic 9-1-1",
+          "originalName": "Panic 9-1-1",
+          "firstAirDate": "2012-11-29",
+          "popularity": 1.3514,
+          "score": 86,
+          "matchType": "TOKENS"
+        },
+        {
+          "id": 310010,
+          "name": "9-1-1 Collection",
+          "originalName": "9-1-1 Collection",
+          "firstAirDate": "2018-01-03",
+          "popularity": 0.4757,
+          "score": 86,
+          "matchType": "TOKENS"
+        },
+        {
+          "id": 34835,
+          "name": "009-1",
+          "originalName": "ゼロゼロナインワン",
+          "firstAirDate": "2006-10-06",
+          "popularity": 7.2297,
+          "score": 80,
+          "matchType": "TOKENS"
+        },
+        {
+          "id": 89393,
+          "name": "9-1-1: Lone Star",
+          "originalName": "9-1-1: Lone Star",
+          "firstAirDate": "2020-01-19",
+          "popularity": 51.1765,
+          "score": 75,
+          "matchType": "TOKENS"
+        },
+        {
+          "id": 66584,
+          "name": "99.9: Abogado criminal",
+          "originalName": "99.9 -刑事専門弁護士-",
+          "firstAirDate": "2016-04-17",
+          "popularity": 15.1308,
+          "score": 33,
+          "matchType": "TOKENS"
+        },
+        {
+          "id": 131139,
+          "name": "NYC Epicenters 9/11➔2021½",
+          "originalName": "NYC Epicenters 9/11➔2021½",
+          "firstAirDate": "2021-08-22",
+          "popularity": 2.8964,
+          "score": 29,
+          "matchType": "TOKENS"
+        }
+      ]
+    },
+    {
+      "seriesKey": "aaahh monstruos de verdad",
+      "name": "Aaahh!!! Monstruos de verdad",
+      "normalizedName": "aaahh monstruos de verdad",
+      "reason": "WEAK_MATCH",
+      "bestCandidate": {
+        "id": 2429,
+        "name": "Aaahhh!!! Monstruos",
+        "originalName": "Aaahh!!! Real Monsters",
+        "score": 56
+      },
+      "candidates": [
+        {
+          "id": 2429,
+          "name": "Aaahhh!!! Monstruos",
+          "originalName": "Aaahh!!! Real Monsters",
+          "firstAirDate": "1994-10-29",
+          "popularity": 27.1175,
+          "score": 56,
+          "matchType": "STRING"
+        }
+      ]
+    },
+    {
+      "seriesKey": "accused",
+      "name": "Accused",
+      "normalizedName": "accused",
+      "reason": "AMBIGUOUS",
+      "bestCandidate": {
+        "id": 202097,
+        "name": "Acusado",
+        "originalName": "Accused",
+        "score": 100
+      },
+      "candidates": [
+        {
+          "id": 202097,
+          "name": "Acusado",
+          "originalName": "Accused",
+          "firstAirDate": "2023-01-22",
+          "popularity": 19.7172,
+          "score": 100,
+          "matchType": "EXACT"
+        },
+        {
+          "id": 32940,
+          "name": "Accused",
+          "originalName": "Accused",
+          "firstAirDate": "2010-11-15",
+          "popularity": 11.0985,
+          "score": 100,
+          "matchType": "EXACT"
+        },
+        {
+          "id": 328876,
+          "name": "Accused",
+          "originalName": "Accused",
+          "firstAirDate": "1996-11-03",
+          "popularity": 1.7186,
+          "score": 100,
+          "matchType": "EXACT"
+        },
+        {
+          "id": 39062,
+          "name": "Accused",
+          "originalName": "Accused",
+          "firstAirDate": null,
+          "popularity": 0.4798,
+          "score": 100,
+          "matchType": "EXACT"
+        },
+        {
+          "id": 231905,
+          "name": "Wrongly Accused",
+          "originalName": "Wrongly Accused",
+          "firstAirDate": "2023-08-03",
+          "popularity": 1.8714,
+          "score": 67,
+          "matchType": "TOKENS"
+        },
+        {
+          "id": 292885,
+          "name": "The Accused",
+          "originalName": "The Accused",
+          "firstAirDate": "2017-02-06",
+          "popularity": 0.4,
+          "score": 67,
+          "matchType": "TOKENS"
+        },
+        {
+          "id": 68890,
+          "name": "Acusado",
+          "originalName": "피고인",
+          "firstAirDate": "2017-01-23",
+          "popularity": 8.4752,
+          "score": 57,
+          "matchType": "STRING"
+        },
+        {
+          "id": 24164,
+          "name": "We, the Accused",
+          "originalName": "We, the Accused",
+          "firstAirDate": "1980-09-10",
+          "popularity": 1.69,
+          "score": 50,
+          "matchType": "TOKENS"
+        },
+        {
+          "id": 14373,
+          "name": "They Stand Accused",
+          "originalName": "They Stand Accused",
+          "firstAirDate": null,
+          "popularity": 0.4747,
+          "score": 50,
+          "matchType": "TOKENS"
+        },
+        {
+          "id": 102287,
+          "name": "Accused: Guilty or Innocent?",
+          "originalName": "Accused: Guilty or Innocent?",
+          "firstAirDate": "2020-04-20",
+          "popularity": 3.8686,
+          "score": 40,
+          "matchType": "TOKENS"
+        }
+      ]
+    },
+    {
+      "seriesKey": "agatha en todas partes",
+      "name": "Agatha en todas partes",
+      "normalizedName": "agatha en todas partes",
+      "reason": "WEAK_MATCH",
+      "bestCandidate": {
+        "id": 138501,
+        "name": "Agatha, ¿quién si no?",
+        "originalName": "Agatha All Along",
+        "score": 41
+      },
+      "candidates": [
+        {
+          "id": 138501,
+          "name": "Agatha, ¿quién si no?",
+          "originalName": "Agatha All Along",
+          "firstAirDate": "2024-09-18",
+          "popularity": 31.0718,
+          "score": 41,
+          "matchType": "STRING"
+        }
+      ]
+    },
+    {
+      "seriesKey": "agentes de s h i e l d",
+      "name": "Agentes de S.H.I.E.L.D.",
+      "normalizedName": "agentes de s h i e l d",
+      "reason": "AMBIGUOUS",
+      "bestCandidate": {
+        "id": 1403,
+        "name": "Marvel Agentes de S.H.I.E.L.D.",
+        "originalName": "Marvel's Agents of S.H.I.E.L.D.",
+        "score": 94
+      },
+      "candidates": [
+        {
+          "id": 1403,
+          "name": "Marvel Agentes de S.H.I.E.L.D.",
+          "originalName": "Marvel's Agents of S.H.I.E.L.D.",
+          "firstAirDate": "2013-09-24",
+          "popularity": 101.1369,
+          "score": 94,
+          "matchType": "TOKENS"
+        },
+        {
+          "id": 69088,
+          "name": "Agentes de S.H.I.E.L.D.: Slingshot",
+          "originalName": "Marvel's Agents of S.H.I.E.L.D.: Slingshot",
+          "firstAirDate": "2016-12-13",
+          "popularity": 6.5763,
+          "score": 94,
+          "matchType": "TOKENS"
+        }
+      ]
+    },
+    {
+      "seriesKey": "aile lazos de pasion",
+      "name": "Aile:Lazos de Pasion",
+      "normalizedName": "aile lazos de pasion",
+      "reason": "WEAK_MATCH",
+      "bestCandidate": {
+        "id": 219446,
+        "name": "Familia",
+        "originalName": "Aile",
+        "score": 40
+      },
+      "candidates": [
+        {
+          "id": 219446,
+          "name": "Familia",
+          "originalName": "Aile",
+          "firstAirDate": "2023-03-07",
+          "popularity": 13.2368,
+          "score": 40,
+          "matchType": "TOKENS"
+        }
+      ]
+    },
+    {
+      "seriesKey": "amor y muerte",
+      "name": "Amor y Muerte",
+      "normalizedName": "amor y muerte",
+      "reason": "WEAK_MATCH",
+      "bestCandidate": {
+        "id": 124800,
+        "name": "Love & Death",
+        "originalName": "Love & Death",
+        "score": 38
+      },
+      "candidates": [
+        {
+          "id": 124800,
+          "name": "Love & Death",
+          "originalName": "Love & Death",
+          "firstAirDate": "2023-04-27",
+          "popularity": 17.2633,
+          "score": 38,
+          "matchType": "STRING"
+        }
+      ]
+    },
+    {
+      "seriesKey": "and just like that un nuevo capitulo de sex and the city",
+      "name": "And Just Like That… Un nuevo capítulo de Sex and the City",
+      "normalizedName": "and just like that… un nuevo capitulo de sex and the city",
+      "reason": "WEAK_MATCH",
+      "bestCandidate": {
+        "id": 116450,
+        "name": "And Just Like That…",
+        "originalName": "And Just Like That…",
+        "score": 63
+      },
+      "candidates": [
+        {
+          "id": 116450,
+          "name": "And Just Like That…",
+          "originalName": "And Just Like That…",
+          "firstAirDate": "2021-12-09",
+          "popularity": 33.2842,
+          "score": 63,
+          "matchType": "TOKENS"
+        }
+      ]
+    },
+    {
+      "seriesKey": "aquejados",
+      "name": "Aquejados",
+      "normalizedName": "aquejados",
+      "reason": "WEAK_MATCH",
+      "bestCandidate": {
+        "id": 81521,
+        "name": "Enfermedades del Siglo XXI",
+        "originalName": "Afflicted",
+        "score": 15
+      },
+      "candidates": [
+        {
+          "id": 81521,
+          "name": "Enfermedades del Siglo XXI",
+          "originalName": "Afflicted",
+          "firstAirDate": "2018-08-10",
+          "popularity": 1.5535,
+          "score": 15,
+          "matchType": "STRING"
+        }
+      ]
+    },
+    {
+      "seriesKey": "aquellos destinados a morir",
+      "name": "Aquellos destinados a morir",
+      "normalizedName": "aquellos destinados a morir",
+      "reason": "WEAK_MATCH",
+      "bestCandidate": {
+        "id": 218589,
+        "name": "Los que van a morir te saludan",
+        "originalName": "Those About to Die",
+        "score": 36
+      },
+      "candidates": [
+        {
+          "id": 218589,
+          "name": "Los que van a morir te saludan",
+          "originalName": "Those About to Die",
+          "firstAirDate": "2024-07-18",
+          "popularity": 14.5541,
+          "score": 36,
+          "matchType": "TOKENS"
+        }
+      ]
+    },
+    {
+      "seriesKey": "arturo la leyenda de un rey",
+      "name": "Arturo: La Leyenda de un Rey",
+      "normalizedName": "arturo la leyenda de un rey",
+      "reason": "NO_RESULT",
+      "candidates": []
+    },
+    {
+      "seriesKey": "aterrizaje de emergencia en tu corazon",
+      "name": "Aterrizaje de Emergencia en tu Corazon",
+      "normalizedName": "aterrizaje de emergencia en tu corazon",
+      "reason": "WEAK_MATCH",
+      "bestCandidate": {
+        "id": 94796,
+        "name": "Crash Landing on You",
+        "originalName": "사랑의 불시착",
+        "score": 24
+      },
+      "candidates": [
+        {
+          "id": 94796,
+          "name": "Crash Landing on You",
+          "originalName": "사랑의 불시착",
+          "firstAirDate": "2019-12-14",
+          "popularity": 21.5165,
+          "score": 24,
+          "matchType": "STRING"
+        }
+      ]
+    },
+    {
+      "seriesKey": "b franklin",
+      "name": "B Franklin",
+      "normalizedName": "b franklin",
+      "reason": "NO_RESULT",
+      "candidates": []
+    },
+    {
+      "seriesKey": "bad romeo",
+      "name": "Bad Romeo",
+      "normalizedName": "bad romeo",
+      "reason": "WEAK_MATCH",
+      "bestCandidate": {
+        "id": 206384,
+        "name": "Keu Tur - Bad Romeo",
+        "originalName": "คือเธอ",
+        "score": 67
+      },
+      "candidates": [
+        {
+          "id": 206384,
+          "name": "Keu Tur - Bad Romeo",
+          "originalName": "คือเธอ",
+          "firstAirDate": "2022-07-20",
+          "popularity": 3.4156,
+          "score": 67,
+          "matchType": "TOKENS"
+        }
+      ]
+    },
+    {
+      "seriesKey": "batiautos",
+      "name": "Batiautos",
+      "normalizedName": "batiautos",
+      "reason": "WEAK_MATCH",
+      "bestCandidate": {
+        "id": 155780,
+        "name": "Batwheels",
+        "originalName": "Batwheels",
+        "score": 44
+      },
+      "candidates": [
+        {
+          "id": 155780,
+          "name": "Batwheels",
+          "originalName": "Batwheels",
+          "firstAirDate": "2022-10-15",
+          "popularity": 38.0728,
+          "score": 44,
+          "matchType": "STRING"
+        }
+      ]
+    },
+    {
+      "seriesKey": "bebe reno",
+      "name": "Bebé Reno",
+      "normalizedName": "bebe reno",
+      "reason": "WEAK_MATCH",
+      "bestCandidate": {
+        "id": 241259,
+        "name": "Mi reno de peluche",
+        "originalName": "Baby Reindeer",
+        "score": 46
+      },
+      "candidates": [
+        {
+          "id": 241259,
+          "name": "Mi reno de peluche",
+          "originalName": "Baby Reindeer",
+          "firstAirDate": "2024-04-11",
+          "popularity": 24.3352,
+          "score": 46,
+          "matchType": "STRING"
+        }
+      ]
+    },
+    {
+      "seriesKey": "belleza perfecta",
+      "name": "Belleza Perfecta",
+      "normalizedName": "belleza perfecta",
+      "reason": "WEAK_MATCH",
+      "bestCandidate": {
+        "id": 273160,
+        "name": "The Beauty",
+        "originalName": "The Beauty",
+        "score": 25
+      },
+      "candidates": [
+        {
+          "id": 273160,
+          "name": "The Beauty",
+          "originalName": "The Beauty",
+          "firstAirDate": "2026-01-21",
+          "popularity": 37.1631,
+          "score": 25,
+          "matchType": "STRING"
+        }
+      ]
+    },
+    {
+      "seriesKey": "black bird confesiones de un asesino",
+      "name": "Black Bird: confesiones de un asesino",
+      "normalizedName": "black bird confesiones de un asesino",
+      "reason": "WEAK_MATCH",
+      "bestCandidate": {
+        "id": 155537,
+        "name": "Encerrado con el diablo",
+        "originalName": "Black Bird",
+        "score": 50
+      },
+      "candidates": [
+        {
+          "id": 155537,
+          "name": "Encerrado con el diablo",
+          "originalName": "Black Bird",
+          "firstAirDate": "2022-07-07",
+          "popularity": 35.0694,
+          "score": 50,
+          "matchType": "TOKENS"
+        }
+      ]
+    },
+    {
+      "seriesKey": "broken blade",
+      "name": "Broken Blade",
+      "normalizedName": "broken blade",
+      "reason": "WEAK_MATCH",
+      "bestCandidate": {
+        "id": 44163,
+        "name": "Break Blade",
+        "originalName": "ブレイク ブレイド",
+        "score": 67
+      },
+      "candidates": [
+        {
+          "id": 44163,
+          "name": "Break Blade",
+          "originalName": "ブレイク ブレイド",
+          "firstAirDate": "2014-04-06",
+          "popularity": 6.1214,
+          "score": 67,
+          "matchType": "STRING"
+        }
+      ]
+    },
+    {
+      "seriesKey": "buck rogers el aventurero del espacio",
+      "name": "Buck Rogers: El aventurero del espacio",
+      "normalizedName": "buck rogers el aventurero del espacio",
+      "reason": "WEAK_MATCH",
+      "bestCandidate": {
+        "id": 2443,
+        "name": "Buck Rogers, aventuras en el siglo 25",
+        "originalName": "Buck Rogers in the 25th Century",
+        "score": 54
+      },
+      "candidates": [
+        {
+          "id": 2443,
+          "name": "Buck Rogers, aventuras en el siglo 25",
+          "originalName": "Buck Rogers in the 25th Century",
+          "firstAirDate": "1979-09-20",
+          "popularity": 22.3581,
+          "score": 54,
+          "matchType": "STRING"
+        }
+      ]
+    },
+    {
+      "seriesKey": "cabo de miedo",
+      "name": "Cabo de Miedo",
+      "normalizedName": "cabo de miedo",
+      "reason": "WEAK_MATCH",
+      "bestCandidate": {
+        "id": 277439,
+        "name": "Cape Fear",
+        "originalName": "Cape Fear",
+        "score": 38
+      },
+      "candidates": [
+        {
+          "id": 277439,
+          "name": "Cape Fear",
+          "originalName": "Cape Fear",
+          "firstAirDate": "2026-06-04",
+          "popularity": 36.4853,
+          "score": 38,
+          "matchType": "STRING"
+        }
+      ]
+    },
+    {
+      "seriesKey": "cada ano que pase contigo",
+      "name": "Cada Año que pase contigo",
+      "normalizedName": "cada ano que pase contigo",
+      "reason": "WEAK_MATCH",
+      "bestCandidate": {
+        "id": 260592,
+        "name": "Todos nuestros años",
+        "originalName": "Every Year After",
+        "score": 24
+      },
+      "candidates": [
+        {
+          "id": 260592,
+          "name": "Todos nuestros años",
+          "originalName": "Every Year After",
+          "firstAirDate": "2026-06-10",
+          "popularity": 30.1623,
+          "score": 24,
+          "matchType": "STRING"
+        }
+      ]
+    },
+    {
+      "seriesKey": "camino al cielo",
+      "name": "Camino al cielo",
+      "normalizedName": "camino al cielo",
+      "reason": "WEAK_MATCH",
+      "bestCandidate": {
+        "id": 2440,
+        "name": "Autopista hacia el cielo",
+        "originalName": "Highway to Heaven",
+        "score": 42
+      },
+      "candidates": [
+        {
+          "id": 2440,
+          "name": "Autopista hacia el cielo",
+          "originalName": "Highway to Heaven",
+          "firstAirDate": "1984-09-19",
+          "popularity": 49.4232,
+          "score": 42,
+          "matchType": "STRING"
+        }
+      ]
+    },
+    {
+      "seriesKey": "cana en el viento",
+      "name": "Caña en el viento",
+      "normalizedName": "cana en el viento",
+      "reason": "NO_RESULT",
+      "candidates": []
+    },
+    {
+      "seriesKey": "capitan tsubasa super campeones 2018",
+      "name": "Capitán Tsubasa / Super Campeones 2018",
+      "normalizedName": "capitan tsubasa super campeones 2018",
+      "reason": "NO_RESULT",
+      "candidates": []
+    },
+    {
+      "seriesKey": "captain tsubasa",
+      "name": "Captain Tsubasa",
+      "normalizedName": "captain tsubasa",
+      "reason": "AMBIGUOUS",
+      "bestCandidate": {
+        "id": 77240,
+        "name": "Capitán Tsubasa",
+        "originalName": "キャプテン翼",
+        "score": 87
+      },
+      "candidates": [
+        {
+          "id": 77240,
+          "name": "Capitán Tsubasa",
+          "originalName": "キャプテン翼",
+          "firstAirDate": "2018-04-03",
+          "popularity": 27.8506,
+          "score": 87,
+          "matchType": "STRING"
+        },
+        {
+          "id": 63102,
+          "name": "Shin Captain Tsubasa",
+          "originalName": "新・キャプテン翼",
+          "firstAirDate": "1989-07-01",
+          "popularity": 3.3044,
+          "score": 80,
+          "matchType": "TOKENS"
+        },
+        {
+          "id": 25707,
+          "name": "Campeones: Oliver y Benji",
+          "originalName": "キャプテン翼",
+          "firstAirDate": "1983-10-13",
+          "popularity": 25.7417,
+          "score": 21,
+          "matchType": "STRING"
+        },
+        {
+          "id": 24106,
+          "name": "Campeones hacia el Mundial: Oliver y Benji",
+          "originalName": "キャプテン翼",
+          "firstAirDate": "2001-10-07",
+          "popularity": 14.4636,
+          "score": 20,
+          "matchType": "STRING"
+        },
+        {
+          "id": 65835,
+          "name": "Súpercampeones",
+          "originalName": "キャプテン翼J",
+          "firstAirDate": "1994-10-21",
+          "popularity": 10.7141,
+          "score": 13,
+          "matchType": "STRING"
+        }
+      ]
+    },
+    {
+      "seriesKey": "cars aventuras en el camino",
+      "name": "Cars: Aventuras en el camino",
+      "normalizedName": "cars aventuras en el camino",
+      "reason": "WEAK_MATCH",
+      "bestCandidate": {
+        "id": 114502,
+        "name": "Cars: En la carretera",
+        "originalName": "Cars on the Road",
+        "score": 44
+      },
+      "candidates": [
+        {
+          "id": 114502,
+          "name": "Cars: En la carretera",
+          "originalName": "Cars on the Road",
+          "firstAirDate": "2022-09-08",
+          "popularity": 12.5011,
+          "score": 44,
+          "matchType": "TOKENS"
+        }
+      ]
+    },
+    {
+      "seriesKey": "catch the ghost",
+      "name": "Catch The Ghost",
+      "normalizedName": "catch the ghost",
+      "reason": "WEAK_MATCH",
+      "bestCandidate": {
+        "id": 94615,
+        "name": "Un fantasma en el metro",
+        "originalName": "유령을 잡아라",
+        "score": 22
+      },
+      "candidates": [
+        {
+          "id": 94615,
+          "name": "Un fantasma en el metro",
+          "originalName": "유령을 잡아라",
+          "firstAirDate": "2019-10-21",
+          "popularity": 7.5177,
+          "score": 22,
+          "matchType": "STRING"
+        }
+      ]
+    },
+    {
+      "seriesKey": "cazadores de fantasmas",
+      "name": "Cazadores de Fantasmas",
+      "normalizedName": "cazadores de fantasmas",
+      "reason": "WEAK_MATCH",
+      "bestCandidate": {
+        "id": 12396,
+        "name": "Goober y los cazadores de fantasmas",
+        "originalName": "Goober and the Ghost Chasers",
+        "score": 67
+      },
+      "candidates": [
+        {
+          "id": 12396,
+          "name": "Goober y los cazadores de fantasmas",
+          "originalName": "Goober and the Ghost Chasers",
+          "firstAirDate": "1973-09-08",
+          "popularity": 5.5252,
+          "score": 67,
+          "matchType": "TOKENS"
+        }
+      ]
+    },
+    {
+      "seriesKey": "chad powers mariscal de campo",
+      "name": "Chad Powers: Mariscal de campo",
+      "normalizedName": "chad powers mariscal de campo",
+      "reason": "WEAK_MATCH",
+      "bestCandidate": {
+        "id": 247168,
+        "name": "Chad Powers",
+        "originalName": "Chad Powers",
+        "score": 57
+      },
+      "candidates": [
+        {
+          "id": 247168,
+          "name": "Chad Powers",
+          "originalName": "Chad Powers",
+          "firstAirDate": "2025-09-30",
+          "popularity": 28.2663,
+          "score": 57,
+          "matchType": "TOKENS"
+        }
+      ]
+    },
+    {
+      "seriesKey": "ciudad de sangre",
+      "name": "Ciudad de sangre",
+      "normalizedName": "ciudad de sangre",
+      "reason": "WEAK_MATCH",
+      "bestCandidate": {
+        "id": 332401,
+        "name": "City of Blood",
+        "originalName": "City of Blood",
+        "score": 25
+      },
+      "candidates": [
+        {
+          "id": 332401,
+          "name": "City of Blood",
+          "originalName": "City of Blood",
+          "firstAirDate": "2026-09-16",
+          "popularity": 14.5603,
+          "score": 25,
+          "matchType": "STRING"
+        }
+      ]
+    },
+    {
+      "seriesKey": "cold blooded intern",
+      "name": "Cold Blooded Intern",
+      "normalizedName": "cold blooded intern",
+      "reason": "WEAK_MATCH",
+      "bestCandidate": {
+        "id": 157847,
+        "name": "잔혹한 인턴",
+        "originalName": "잔혹한 인턴",
+        "score": 5
+      },
+      "candidates": [
+        {
+          "id": 157847,
+          "name": "잔혹한 인턴",
+          "originalName": "잔혹한 인턴",
+          "firstAirDate": "2023-08-11",
+          "popularity": 3.9553,
+          "score": 5,
+          "matchType": "STRING"
+        }
+      ]
+    },
+    {
+      "seriesKey": "cold case",
+      "name": "Cold Case",
+      "normalizedName": "cold case",
+      "reason": "AMBIGUOUS",
+      "bestCandidate": {
+        "id": 2171,
+        "name": "Caso abierto",
+        "originalName": "Cold Case",
+        "score": 100
+      },
+      "candidates": [
+        {
+          "id": 2171,
+          "name": "Caso abierto",
+          "originalName": "Cold Case",
+          "firstAirDate": "2003-09-28",
+          "popularity": 73.5477,
+          "score": 100,
+          "matchType": "EXACT"
+        },
+        {
+          "id": 93091,
+          "name": "Cold Case",
+          "originalName": "冷案",
+          "firstAirDate": "2019-03-04",
+          "popularity": 3.4195,
+          "score": 100,
+          "matchType": "EXACT"
+        },
+        {
+          "id": 81197,
+          "name": "Cold Case",
+          "originalName": "Cold Case",
+          "firstAirDate": "2018-07-29",
+          "popularity": 0.8375,
+          "score": 100,
+          "matchType": "EXACT"
+        },
+        {
+          "id": 90686,
+          "name": "Casos sin resolver",
+          "originalName": "Cold Case Files",
+          "firstAirDate": "2017-02-27",
+          "popularity": 8.4725,
+          "score": 80,
+          "matchType": "TOKENS"
+        },
+        {
+          "id": 12258,
+          "name": "Cold Case Files",
+          "originalName": "Cold Case Files",
+          "firstAirDate": "1999-01-01",
+          "popularity": 5.9641,
+          "score": 80,
+          "matchType": "TOKENS"
+        },
+        {
+          "id": 211869,
+          "name": "Casos abiertos de la historia",
+          "originalName": "Cold Case Geschichte",
+          "firstAirDate": "2021-03-25",
+          "popularity": 1.674,
+          "score": 80,
+          "matchType": "TOKENS"
+        },
+        {
+          "id": 138521,
+          "name": "Cold Case Killers",
+          "originalName": "Cold Case Killers",
+          "firstAirDate": "2021-10-21",
+          "popularity": 1.6015,
+          "score": 80,
+          "matchType": "TOKENS"
+        },
+        {
+          "id": 299754,
+          "name": "Cold Case UK",
+          "originalName": "Cold Case UK",
+          "firstAirDate": "2025-08-31",
+          "popularity": 1.4898,
+          "score": 80,
+          "matchType": "TOKENS"
+        },
+        {
+          "id": 219554,
+          "name": "Cold Case Forensics",
+          "originalName": "Cold Case Forensics",
+          "firstAirDate": "2023-02-02",
+          "popularity": 1.2667,
+          "score": 80,
+          "matchType": "TOKENS"
+        },
+        {
+          "id": 222449,
+          "name": "Cold Case Detectives",
+          "originalName": "Cold Case Detectives",
+          "firstAirDate": "2023-03-09",
+          "popularity": 0.842,
+          "score": 80,
+          "matchType": "TOKENS"
+        }
+      ]
+    },
+    {
+      "seriesKey": "como la vida misma mega",
+      "name": "Como la vida misma / Mega",
+      "normalizedName": "como la vida misma mega",
+      "reason": "NO_RESULT",
+      "candidates": []
+    },
+    {
+      "seriesKey": "con el agua al cuello",
+      "name": "Con el Agua al Cuello",
+      "normalizedName": "con el agua al cuello",
+      "reason": "NO_RESULT",
+      "candidates": []
+    },
+    {
+      "seriesKey": "conexiones",
+      "name": "Conexiones",
+      "normalizedName": "conexiones",
+      "reason": "WEAK_MATCH",
+      "bestCandidate": {
+        "id": 106525,
+        "name": "Superconectados",
+        "originalName": "Connected",
+        "score": 40
+      },
+      "candidates": [
+        {
+          "id": 106525,
+          "name": "Superconectados",
+          "originalName": "Connected",
+          "firstAirDate": "2020-08-02",
+          "popularity": 3.1189,
+          "score": 40,
+          "matchType": "STRING"
+        },
+        {
+          "id": 7905,
+          "name": "Las conexiones de la ingeniería",
+          "originalName": "Richard Hammond's Engineering Connections",
+          "firstAirDate": "2008-09-08",
+          "popularity": 3.059,
+          "score": 33,
+          "matchType": "TOKENS"
+        },
+        {
+          "id": 128066,
+          "name": "Liaison",
+          "originalName": "Liaison",
+          "firstAirDate": "2023-02-24",
+          "popularity": 14.9869,
+          "score": 20,
+          "matchType": "STRING"
+        }
+      ]
+    },
+    {
+      "seriesKey": "corte nocturna",
+      "name": "Corte Nocturna",
+      "normalizedName": "corte nocturna",
+      "reason": "WEAK_MATCH",
+      "bestCandidate": {
+        "id": 202101,
+        "name": "Juzgado de guardia",
+        "originalName": "Night Court",
+        "score": 29
+      },
+      "candidates": [
+        {
+          "id": 202101,
+          "name": "Juzgado de guardia",
+          "originalName": "Night Court",
+          "firstAirDate": "2023-01-17",
+          "popularity": 22.116,
+          "score": 29,
+          "matchType": "STRING"
+        }
+      ]
+    },
+    {
+      "seriesKey": "crimen de una dinastia",
+      "name": "Crimen de una Dinastia",
+      "normalizedName": "crimen de una dinastia",
+      "reason": "WEAK_MATCH",
+      "bestCandidate": {
+        "id": 270734,
+        "name": "Muerte en la familia Murdaugh",
+        "originalName": "Murdaugh: Death in the Family",
+        "score": 25
+      },
+      "candidates": [
+        {
+          "id": 270734,
+          "name": "Muerte en la familia Murdaugh",
+          "originalName": "Murdaugh: Death in the Family",
+          "firstAirDate": "2025-10-15",
+          "popularity": 8.6922,
+          "score": 25,
+          "matchType": "STRING"
+        }
+      ]
+    },
+    {
+      "seriesKey": "danmachi is it wrong to try to pick up girls in a dungeon",
+      "name": "Danmachi: Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+      "normalizedName": "danmachi is it wrong to try to pick up girls in a dungeon",
+      "reason": "WEAK_MATCH",
+      "bestCandidate": {
+        "id": 70590,
+        "name": "DanMachi Gaiden: Sword Oratoria",
+        "originalName": "ソード・オラトリア ダンジョンに出会いを求めるのは間違っているだろうか外伝",
+        "score": 32
+      },
+      "candidates": [
+        {
+          "id": 70590,
+          "name": "DanMachi Gaiden: Sword Oratoria",
+          "originalName": "ソード・オラトリア ダンジョンに出会いを求めるのは間違っているだろうか外伝",
+          "firstAirDate": "2017-04-15",
+          "popularity": 13.2937,
+          "score": 32,
+          "matchType": "STRING"
+        },
+        {
+          "id": 62745,
+          "name": "DanMachi: ¿Qué tiene de malo intentar ligar en una mazmorra?",
+          "originalName": "ダンジョンに出会いを求めるのは間違っているだろうか",
+          "firstAirDate": "2015-04-04",
+          "popularity": 8.2462,
+          "score": 32,
+          "matchType": "STRING"
+        }
+      ]
+    },
+    {
+      "seriesKey": "day one",
+      "name": "Day One",
+      "normalizedName": "day one",
+      "reason": "AMBIGUOUS",
+      "bestCandidate": {
+        "id": 240667,
+        "name": "Siempre el mismo día",
+        "originalName": "One Day",
+        "score": 100
+      },
+      "candidates": [
+        {
+          "id": 240667,
+          "name": "Siempre el mismo día",
+          "originalName": "One Day",
+          "firstAirDate": "2024-02-08",
+          "popularity": 15.4244,
+          "score": 100,
+          "matchType": "TOKENS"
+        },
+        {
+          "id": 285386,
+          "name": "Day One",
+          "originalName": "Day One",
+          "firstAirDate": "2026-03-13",
+          "popularity": 5.1871,
+          "score": 100,
+          "matchType": "EXACT"
+        },
+        {
+          "id": 21226,
+          "name": "Day One",
+          "originalName": "Day One",
+          "firstAirDate": null,
+          "popularity": 1.9087,
+          "score": 100,
+          "matchType": "EXACT"
+        },
+        {
+          "id": 14088,
+          "name": "Day One",
+          "originalName": "Day One",
+          "firstAirDate": "1993-03-07",
+          "popularity": 0.9046,
+          "score": 100,
+          "matchType": "EXACT"
+        },
+        {
+          "id": 130789,
+          "name": "One Ordinary Day",
+          "originalName": "어느 날",
+          "firstAirDate": "2021-11-27",
+          "popularity": 6.1487,
+          "score": 80,
+          "matchType": "TOKENS"
+        },
+        {
+          "id": 234489,
+          "name": "ONE DAY 〜聖夜のから騒ぎ〜",
+          "originalName": "ONE DAY 〜聖夜のから騒ぎ〜",
+          "firstAirDate": "2023-10-09",
+          "popularity": 5.8614,
+          "score": 80,
+          "matchType": "TOKENS"
+        },
+        {
+          "id": 210272,
+          "name": "One Day Off",
+          "originalName": "박하경 여행기",
+          "firstAirDate": "2023-05-24",
+          "popularity": 4.6958,
+          "score": 80,
+          "matchType": "TOKENS"
+        },
+        {
+          "id": 5711,
+          "name": "One Fine Day",
+          "originalName": "어느 멋진 날",
+          "firstAirDate": "2006-05-31",
+          "popularity": 3.8361,
+          "score": 80,
+          "matchType": "TOKENS"
+        },
+        {
+          "id": 71226,
+          "name": "One Sunny Day",
+          "originalName": "좋은 날",
+          "firstAirDate": "2014-12-19",
+          "popularity": 2.9227,
+          "score": 80,
+          "matchType": "TOKENS"
+        },
+        {
+          "id": 214532,
+          "name": "One Good Day",
+          "originalName": "One Good Day",
+          "firstAirDate": "2022-11-17",
+          "popularity": 1.6524,
+          "score": 80,
+          "matchType": "TOKENS"
+        }
+      ]
+    },
+    {
+      "seriesKey": "de rockstar a asesino",
+      "name": "De Rockstar a Asesino",
+      "normalizedName": "de rockstar a asesino",
+      "reason": "WEAK_MATCH",
+      "bestCandidate": {
+        "id": 287131,
+        "name": "De estrella del rock a asesino",
+        "originalName": "De rockstar à tueur : Le Cas Cantat",
+        "score": 60
+      },
+      "candidates": [
+        {
+          "id": 287131,
+          "name": "De estrella del rock a asesino",
+          "originalName": "De rockstar à tueur : Le Cas Cantat",
+          "firstAirDate": "2025-03-27",
+          "popularity": 8.7659,
+          "score": 60,
+          "matchType": "TOKENS"
+        }
+      ]
+    },
+    {
+      "seriesKey": "defendiendo a jacob",
+      "name": "Defendiendo a Jacob",
+      "normalizedName": "defendiendo a jacob",
+      "reason": "NO_RESULT",
+      "candidates": []
+    },
+    {
+      "seriesKey": "dejame entrar cast",
+      "name": "Déjame entrar (CAST)",
+      "normalizedName": "dejame entrar cast",
+      "reason": "NO_RESULT",
+      "candidates": []
+    },
+    {
+      "seriesKey": "desafio fashionista latinoamerica",
+      "name": "Desafio Fashionista Latinoamerica",
+      "normalizedName": "desafio fashionista latinoamerica",
+      "reason": "NO_RESULT",
+      "candidates": []
+    },
+    {
+      "seriesKey": "detective alex cross",
+      "name": "Detective Alex Cross",
+      "normalizedName": "detective alex cross",
+      "reason": "WEAK_MATCH",
+      "bestCandidate": {
+        "id": 213306,
+        "name": "Cross",
+        "originalName": "Cross",
+        "score": 50
+      },
+      "candidates": [
+        {
+          "id": 213306,
+          "name": "Cross",
+          "originalName": "Cross",
+          "firstAirDate": "2024-11-14",
+          "popularity": 55.7904,
+          "score": 50,
+          "matchType": "TOKENS"
+        }
+      ]
+    },
+    {
+      "seriesKey": "detras de la mascara aileen wuornos",
+      "name": "Detras de la Mascara: Aileen Wuornos",
+      "normalizedName": "detras de la mascara aileen wuornos",
+      "reason": "WEAK_MATCH",
+      "bestCandidate": {
+        "id": 329524,
+        "name": "Unmasking a Monster: Aileen Wuornos",
+        "originalName": "Unmasking a Monster: Aileen Wuornos",
+        "score": 60
+      },
+      "candidates": [
+        {
+          "id": 329524,
+          "name": "Unmasking a Monster: Aileen Wuornos",
+          "originalName": "Unmasking a Monster: Aileen Wuornos",
+          "firstAirDate": "2026-09-30",
+          "popularity": 3.4824,
+          "score": 60,
+          "matchType": "STRING"
+        }
+      ]
+    },
+    {
+      "seriesKey": "digimon adventure tri",
+      "name": "Digimon Adventure Tri",
+      "normalizedName": "digimon adventure tri",
+      "reason": "NO_RESULT",
+      "candidates": []
+    },
+    {
+      "seriesKey": "dime con quien andas chv",
+      "name": "Dime con quién andas / Chv",
+      "normalizedName": "dime con quien andas chv",
+      "reason": "NO_RESULT",
+      "candidates": []
+    },
+    {
+      "seriesKey": "doc un pasado que sanar",
+      "name": "DOC – Un pasado que sanar",
+      "normalizedName": "doc – un pasado que sanar",
+      "reason": "NO_RESULT",
+      "candidates": []
+    },
+    {
+      "seriesKey": "doctor milagro",
+      "name": "Doctor Milagro",
+      "normalizedName": "doctor milagro",
+      "reason": "WEAK_MATCH",
+      "bestCandidate": {
+        "id": 92967,
+        "name": "Doctor Alí",
+        "originalName": "Mucize Doktor",
+        "score": 57
+      },
+      "candidates": [
+        {
+          "id": 92967,
+          "name": "Doctor Alí",
+          "originalName": "Mucize Doktor",
+          "firstAirDate": "2019-09-12",
+          "popularity": 14.5734,
+          "score": 57,
+          "matchType": "STRING"
+        }
+      ]
+    },
+    {
+      "seriesKey": "dr house",
+      "name": "Dr House",
+      "normalizedName": "dr house",
+      "reason": "WEAK_MATCH",
+      "bestCandidate": {
+        "id": 1408,
+        "name": "House",
+        "originalName": "House",
+        "score": 67
+      },
+      "candidates": [
+        {
+          "id": 1408,
+          "name": "House",
+          "originalName": "House",
+          "firstAirDate": "2004-11-16",
+          "popularity": 199.0311,
+          "score": 67,
+          "matchType": "TOKENS"
+        },
+        {
+          "id": 9097,
+          "name": "Dr Terrible's House of Horrible",
+          "originalName": "Dr Terrible's House of Horrible",
+          "firstAirDate": "2001-11-12",
+          "popularity": 4.9492,
+          "score": 57,
+          "matchType": "TOKENS"
+        },
+        {
+          "id": 133802,
+          "name": "House Calls with Dr Phil",
+          "originalName": "House Calls with Dr Phil",
+          "firstAirDate": "2021-08-18",
+          "popularity": 1.8238,
+          "score": 57,
+          "matchType": "TOKENS"
+        },
+        {
+          "id": 223173,
+          "name": "Dr. Seuss Beginner Book Video",
+          "originalName": "Dr. Seuss Beginner Book Video",
+          "firstAirDate": "2002-07-31",
+          "popularity": 2.1684,
+          "score": 29,
+          "matchType": "TOKENS"
+        }
+      ]
+    },
+    {
+      "seriesKey": "dulce hogar",
+      "name": "Dulce hogar",
+      "normalizedName": "dulce hogar",
+      "reason": "WEAK_MATCH",
+      "bestCandidate": {
+        "id": 96648,
+        "name": "Sweet Home",
+        "originalName": "스위트홈",
+        "score": 27
+      },
+      "candidates": [
+        {
+          "id": 96648,
+          "name": "Sweet Home",
+          "originalName": "스위트홈",
+          "firstAirDate": "2020-12-18",
+          "popularity": 27.983,
+          "score": 27,
+          "matchType": "STRING"
+        }
+      ]
+    },
+    {
+      "seriesKey": "efectos colaterales",
+      "name": "Efectos Colaterales",
+      "normalizedName": "efectos colaterales",
+      "reason": "WEAK_MATCH",
+      "bestCandidate": {
+        "id": 228878,
+        "name": "Efectos secundarios",
+        "originalName": "Common Side Effects",
+        "score": 50
+      },
+      "candidates": [
+        {
+          "id": 228878,
+          "name": "Efectos secundarios",
+          "originalName": "Common Side Effects",
+          "firstAirDate": "2025-02-02",
+          "popularity": 24.2369,
+          "score": 50,
+          "matchType": "TOKENS"
+        }
+      ]
+    },
+    {
+      "seriesKey": "egg and stone",
+      "name": "Egg and Stone",
+      "normalizedName": "egg and stone",
+      "reason": "WEAK_MATCH",
+      "bestCandidate": {
+        "id": 233781,
+        "name": "少女闯江湖",
+        "originalName": "少女闯江湖",
+        "score": 0
+      },
+      "candidates": [
+        {
+          "id": 233781,
+          "name": "少女闯江湖",
+          "originalName": "少女闯江湖",
+          "firstAirDate": "2023-08-31",
+          "popularity": 2.6662,
+          "score": 0,
+          "matchType": "NONE"
+        }
+      ]
+    },
+    {
+      "seriesKey": "el amor es ciego mexico",
+      "name": "El Amor es Ciego: México",
+      "normalizedName": "el amor es ciego mexico",
+      "reason": "NO_RESULT",
+      "candidates": []
+    },
+    {
+      "seriesKey": "el amor es ciego reino unido",
+      "name": "El amor es ciego: Reino Unido",
+      "normalizedName": "el amor es ciego reino unido",
+      "reason": "WEAK_MATCH",
+      "bestCandidate": {
+        "id": 237316,
+        "name": "Love is Blind: Reino Unido",
+        "originalName": "Love Is Blind: UK",
+        "score": 57
+      },
+      "candidates": [
+        {
+          "id": 237316,
+          "name": "Love is Blind: Reino Unido",
+          "originalName": "Love Is Blind: UK",
+          "firstAirDate": "2024-08-07",
+          "popularity": 7.8566,
+          "score": 57,
+          "matchType": "STRING"
+        }
+      ]
+    },
+    {
+      "seriesKey": "el ascenso de un imperio otomano",
+      "name": "El Ascenso de un Imperio: Otomano",
+      "normalizedName": "el ascenso de un imperio otomano",
+      "reason": "WEAK_MATCH",
+      "bestCandidate": {
+        "id": 96481,
+        "name": "El gran Imperio otomano",
+        "originalName": "Rise of Empires: Ottoman",
+        "score": 63
+      },
+      "candidates": [
+        {
+          "id": 96481,
+          "name": "El gran Imperio otomano",
+          "originalName": "Rise of Empires: Ottoman",
+          "firstAirDate": "2020-01-24",
+          "popularity": 13.6764,
+          "score": 63,
+          "matchType": "STRING"
+        }
+      ]
+    },
+    {
+      "seriesKey": "el beso del destino",
+      "name": "el beso del destino",
+      "normalizedName": "el beso del destino",
+      "reason": "WEAK_MATCH",
+      "bestCandidate": {
+        "id": 135895,
+        "name": "Besos y presagios",
+        "originalName": "키스 식스 센스",
+        "score": 32
+      },
+      "candidates": [
+        {
+          "id": 135895,
+          "name": "Besos y presagios",
+          "originalName": "키스 식스 센스",
+          "firstAirDate": "2022-05-25",
+          "popularity": 9.9015,
+          "score": 32,
+          "matchType": "STRING"
+        }
+      ]
+    },
+    {
+      "seriesKey": "el camino estrecho al norte profundo",
+      "name": "El Camino Estrecho al Norte Profundo",
+      "normalizedName": "el camino estrecho al norte profundo",
+      "reason": "WEAK_MATCH",
+      "bestCandidate": {
+        "id": 238339,
+        "name": "El camino estrecho",
+        "originalName": "The Narrow Road to the Deep North",
+        "score": 67
+      },
+      "candidates": [
+        {
+          "id": 238339,
+          "name": "El camino estrecho",
+          "originalName": "The Narrow Road to the Deep North",
+          "firstAirDate": "2025-04-18",
+          "popularity": 9.5734,
+          "score": 67,
+          "matchType": "TOKENS"
+        }
+      ]
+    },
+    {
+      "seriesKey": "el chacal",
+      "name": "El Chacal",
+      "normalizedName": "el chacal",
+      "reason": "WEAK_MATCH",
+      "bestCandidate": {
+        "id": 222766,
+        "name": "Chacal",
+        "originalName": "The Day of the Jackal",
+        "score": 67
+      },
+      "candidates": [
+        {
+          "id": 222766,
+          "name": "Chacal",
+          "originalName": "The Day of the Jackal",
+          "firstAirDate": "2024-11-07",
+          "popularity": 45.0616,
+          "score": 67,
+          "matchType": "STRING"
+        },
+        {
+          "id": 213263,
+          "name": "Chacalón: El Ángel del pueblo",
+          "originalName": "Chacalón: El Ángel del pueblo",
+          "firstAirDate": null,
+          "popularity": 0.4621,
+          "score": 29,
+          "matchType": "TOKENS"
+        },
+        {
+          "id": 41693,
+          "name": "Carlos",
+          "originalName": "Carlos",
+          "firstAirDate": "2010-05-19",
+          "popularity": 8.9842,
+          "score": 11,
+          "matchType": "STRING"
+        }
+      ]
+    },
+    {
+      "seriesKey": "el estudio",
+      "name": "El Estudio",
+      "normalizedName": "el estudio",
+      "reason": "WEAK_MATCH",
+      "bestCandidate": {
+        "id": 52935,
+        "name": "Encuentro en el Estudio",
+        "originalName": "Encuentro en el Estudio",
+        "score": 67
+      },
+      "candidates": [
+        {
+          "id": 52935,
+          "name": "Encuentro en el Estudio",
+          "originalName": "Encuentro en el Estudio",
+          "firstAirDate": "2009-10-05",
+          "popularity": 0.4779,
+          "score": 67,
+          "matchType": "TOKENS"
+        },
+        {
+          "id": 247767,
+          "name": "The Studio",
+          "originalName": "The Studio",
+          "firstAirDate": "2025-03-25",
+          "popularity": 40.8535,
+          "score": 60,
+          "matchType": "STRING"
+        }
+      ]
+    },
+    {
+      "seriesKey": "el imperio de la mafia",
+      "name": "El Imperio de la Mafia",
+      "normalizedName": "el imperio de la mafia",
+      "reason": "NO_RESULT",
+      "candidates": []
+    },
+    {
+      "seriesKey": "el jefe de kingstown",
+      "name": "El Jefe de Kingstown",
+      "normalizedName": "el jefe de kingstown",
+      "reason": "WEAK_MATCH",
+      "bestCandidate": {
+        "id": 97951,
+        "name": "Mayor of Kingstown",
+        "originalName": "Mayor of Kingstown",
+        "score": 55
+      },
+      "candidates": [
+        {
+          "id": 97951,
+          "name": "Mayor of Kingstown",
+          "originalName": "Mayor of Kingstown",
+          "firstAirDate": "2021-11-14",
+          "popularity": 82.4842,
+          "score": 55,
+          "matchType": "STRING"
+        }
+      ]
+    },
+    {
+      "seriesKey": "el lado oscuro de playboy",
+      "name": "El Lado Oscuro de Playboy",
+      "normalizedName": "el lado oscuro de playboy",
+      "reason": "WEAK_MATCH",
+      "bestCandidate": {
+        "id": 218982,
+        "name": "The Playboy Murders",
+        "originalName": "The Playboy Murders",
+        "score": 25
+      },
+      "candidates": [
+        {
+          "id": 218982,
+          "name": "The Playboy Murders",
+          "originalName": "The Playboy Murders",
+          "firstAirDate": "2023-01-23",
+          "popularity": 6.8359,
+          "score": 25,
+          "matchType": "TOKENS"
+        }
+      ]
+    },
+    {
+      "seriesKey": "el narrador de cuentos",
+      "name": "El Narrador de Cuentos",
+      "normalizedName": "el narrador de cuentos",
+      "reason": "WEAK_MATCH",
+      "bestCandidate": {
+        "id": 5303,
+        "name": "El Cuentacuentos",
+        "originalName": "The Storyteller",
+        "score": 45
+      },
+      "candidates": [
+        {
+          "id": 5303,
+          "name": "El Cuentacuentos",
+          "originalName": "The Storyteller",
+          "firstAirDate": "1988-05-15",
+          "popularity": 12.0678,
+          "score": 45,
+          "matchType": "STRING"
+        },
+        {
+          "id": 95712,
+          "name": "El Cuentacuentos: Mitos griegos",
+          "originalName": "The Storyteller: Greek Myths",
+          "firstAirDate": "1991-12-01",
+          "popularity": 4.9527,
+          "score": 33,
+          "matchType": "STRING"
+        }
+      ]
+    },
+    {
+      "seriesKey": "el narrador de cuentos mitos griegos",
+      "name": "El Narrador de Cuentos: Mitos griegos",
+      "normalizedName": "el narrador de cuentos mitos griegos",
+      "reason": "WEAK_MATCH",
+      "bestCandidate": {
+        "id": 95712,
+        "name": "El Cuentacuentos: Mitos griegos",
+        "originalName": "The Storyteller: Greek Myths",
+        "score": 67
+      },
+      "candidates": [
+        {
+          "id": 95712,
+          "name": "El Cuentacuentos: Mitos griegos",
+          "originalName": "The Storyteller: Greek Myths",
+          "firstAirDate": "1991-12-01",
+          "popularity": 4.9527,
+          "score": 67,
+          "matchType": "STRING"
+        }
+      ]
+    },
+    {
+      "seriesKey": "el negocio de las drogas",
+      "name": "El negocio de las drogas",
+      "normalizedName": "el negocio de las drogas",
+      "reason": "WEAK_MATCH",
+      "bestCandidate": {
+        "id": 105305,
+        "name": "El negocio de los estupefacientes",
+        "originalName": "The Business of Drugs",
+        "score": 60
+      },
+      "candidates": [
+        {
+          "id": 105305,
+          "name": "El negocio de los estupefacientes",
+          "originalName": "The Business of Drugs",
+          "firstAirDate": "2020-07-14",
+          "popularity": 2.3701,
+          "score": 60,
+          "matchType": "TOKENS"
+        }
+      ]
+    },
+    {
+      "seriesKey": "el nivel secreto",
+      "name": "El Nivel Secreto",
+      "normalizedName": "el nivel secreto",
+      "reason": "WEAK_MATCH",
+      "bestCandidate": {
+        "id": 261579,
+        "name": "Secret Level",
+        "originalName": "Secret Level",
+        "score": 25
+      },
+      "candidates": [
+        {
+          "id": 261579,
+          "name": "Secret Level",
+          "originalName": "Secret Level",
+          "firstAirDate": "2024-12-10",
+          "popularity": 38.9857,
+          "score": 25,
+          "matchType": "STRING"
+        }
+      ]
+    },
+    {
+      "seriesKey": "el nuevo show de la pantera rosa",
+      "name": "El Nuevo Show de la Pantera Rosa",
+      "normalizedName": "el nuevo show de la pantera rosa",
+      "reason": "NO_RESULT",
+      "candidates": []
+    },
+    {
+      "seriesKey": "el oro",
+      "name": "El Oro",
+      "normalizedName": "el oro",
+      "reason": "WEAK_MATCH",
+      "bestCandidate": {
+        "id": 236086,
+        "name": "El Gallo de Oro",
+        "originalName": "El Gallo de Oro",
+        "score": 67
+      },
+      "candidates": [
+        {
+          "id": 236086,
+          "name": "El Gallo de Oro",
+          "originalName": "El Gallo de Oro",
+          "firstAirDate": "2023-10-20",
+          "popularity": 6.6111,
+          "score": 67,
+          "matchType": "TOKENS"
+        },
+        {
+          "id": 39245,
+          "name": "El Dorado y el templo del sol",
+          "originalName": "El Dorado",
+          "firstAirDate": "2010-08-25",
+          "popularity": 3.973,
+          "score": 67,
+          "matchType": "STRING"
+        },
+        {
+          "id": 228355,
+          "name": "El niño de oro",
+          "originalName": "The Golden Boy",
+          "firstAirDate": "2023-07-24",
+          "popularity": 3.0363,
+          "score": 67,
+          "matchType": "TOKENS"
+        },
+        {
+          "id": 128489,
+          "name": "El oro de Hitler",
+          "originalName": "Hitler's Gold",
+          "firstAirDate": "2020-10-09",
+          "popularity": 0.5682,
+          "score": 67,
+          "matchType": "TOKENS"
+        },
+        {
+          "id": 317918,
+          "name": "El hombre de oro",
+          "originalName": "El hombre de oro",
+          "firstAirDate": "1960-01-01",
+          "popularity": 0.4941,
+          "score": 67,
+          "matchType": "TOKENS"
+        },
+        {
+          "id": 139566,
+          "name": "Orange: El condado de oro",
+          "originalName": "Selling the OC",
+          "firstAirDate": "2022-08-24",
+          "popularity": 3.0019,
+          "score": 57,
+          "matchType": "TOKENS"
+        },
+        {
+          "id": 212553,
+          "name": "El legado",
+          "originalName": "선산",
+          "firstAirDate": "2024-01-19",
+          "popularity": 7.5717,
+          "score": 50,
+          "matchType": "TOKENS"
+        },
+        {
+          "id": 59671,
+          "name": "La pesca del oro:Bajo el hielo",
+          "originalName": "Bering Sea Gold: Under the Ice",
+          "firstAirDate": "2012-08-24",
+          "popularity": 2.5345,
+          "score": 44,
+          "matchType": "TOKENS"
+        },
+        {
+          "id": 14051,
+          "name": "El Profesor Poopsnagle",
+          "originalName": "Professor Poopsnagle's Steam Zeppelin",
+          "firstAirDate": "1987-07-18",
+          "popularity": 3.4446,
+          "score": 40,
+          "matchType": "TOKENS"
+        },
+        {
+          "id": 204416,
+          "name": "El oro pirata de la isla de Adak",
+          "originalName": "Pirate Gold of Adak Island",
+          "firstAirDate": "2022-06-29",
+          "popularity": 1.6746,
+          "score": 40,
+          "matchType": "TOKENS"
+        }
+      ]
+    },
+    {
+      "seriesKey": "el que no gana no ama",
+      "name": "El que no gana no ama",
+      "normalizedName": "el que no gana no ama",
+      "reason": "WEAK_MATCH",
+      "bestCandidate": {
+        "id": 229480,
+        "name": "No hay amor desinteresado",
+        "originalName": "손해 보기 싫어서",
+        "score": 40
+      },
+      "candidates": [
+        {
+          "id": 229480,
+          "name": "No hay amor desinteresado",
+          "originalName": "손해 보기 싫어서",
+          "firstAirDate": "2024-08-26",
+          "popularity": 19.3292,
+          "score": 40,
+          "matchType": "TOKENS"
+        }
+      ]
+    },
+    {
+      "seriesKey": "el senuelo",
+      "name": "El Señuelo",
+      "normalizedName": "el senuelo",
+      "reason": "WEAK_MATCH",
+      "bestCandidate": {
+        "id": 257519,
+        "name": "Bait",
+        "originalName": "Bait",
+        "score": 0
+      },
+      "candidates": [
+        {
+          "id": 257519,
+          "name": "Bait",
+          "originalName": "Bait",
+          "firstAirDate": "2026-03-25",
+          "popularity": 11.4138,
+          "score": 0,
+          "matchType": "NONE"
+        }
+      ]
+    },
+    {
+      "seriesKey": "el show de patricio estrella",
+      "name": "El show de Patricio Estrella",
+      "normalizedName": "el show de patricio estrella",
+      "reason": "WEAK_MATCH",
+      "bestCandidate": {
+        "id": 126824,
+        "name": "Patricio es la estrella",
+        "originalName": "The Patrick Star Show",
+        "score": 44
+      },
+      "candidates": [
+        {
+          "id": 126824,
+          "name": "Patricio es la estrella",
+          "originalName": "The Patrick Star Show",
+          "firstAirDate": "2021-07-09",
+          "popularity": 63.1128,
+          "score": 44,
+          "matchType": "TOKENS"
+        }
+      ]
+    },
+    {
+      "seriesKey": "el ultimo reino",
+      "name": "El Ultimo Reino",
+      "normalizedName": "el ultimo reino",
+      "reason": "WEAK_MATCH",
+      "bestCandidate": {
+        "id": 63333,
+        "name": "The Last Kingdom",
+        "originalName": "The Last Kingdom",
+        "score": 19
+      },
+      "candidates": [
+        {
+          "id": 63333,
+          "name": "The Last Kingdom",
+          "originalName": "The Last Kingdom",
+          "firstAirDate": "2015-10-10",
+          "popularity": 50.7729,
+          "score": 19,
+          "matchType": "STRING"
+        }
+      ]
+    },
+    {
+      "seriesKey": "elle legalmente rubia",
+      "name": "Elle: Legalmente rubia",
+      "normalizedName": "elle legalmente rubia",
+      "reason": "WEAK_MATCH",
+      "bestCandidate": {
+        "id": 254420,
+        "name": "Elle",
+        "originalName": "Elle",
+        "score": 50
+      },
+      "candidates": [
+        {
+          "id": 254420,
+          "name": "Elle",
+          "originalName": "Elle",
+          "firstAirDate": "2026-07-01",
+          "popularity": 31.2525,
+          "score": 50,
+          "matchType": "TOKENS"
+        }
+      ]
+    },
+    {
+      "seriesKey": "enamorados aoonimos",
+      "name": "Enamorados Aoónimos",
+      "normalizedName": "enamorados aoonimos",
+      "reason": "NO_RESULT",
+      "candidates": []
+    },
+    {
+      "seriesKey": "escalofrios",
+      "name": "Escalofrios",
+      "normalizedName": "escalofrios",
+      "reason": "WEAK_MATCH",
+      "bestCandidate": {
+        "id": 5835,
+        "name": "Pesadillas",
+        "originalName": "Goosebumps",
+        "score": 27
+      },
+      "candidates": [
+        {
+          "id": 5835,
+          "name": "Pesadillas",
+          "originalName": "Goosebumps",
+          "firstAirDate": "1995-10-27",
+          "popularity": 41.3595,
+          "score": 27,
+          "matchType": "STRING"
+        },
+        {
+          "id": 157004,
+          "name": "Pesadillas",
+          "originalName": "Goosebumps",
+          "firstAirDate": "2023-10-13",
+          "popularity": 40.4053,
+          "score": 27,
+          "matchType": "STRING"
+        }
+      ]
+    },
+    {
+      "seriesKey": "escandalositos",
+      "name": "Escandalositos",
+      "normalizedName": "escandalositos",
+      "reason": "WEAK_MATCH",
+      "bestCandidate": {
+        "id": 117030,
+        "name": "Somos Ositos",
+        "originalName": "We Baby Bears",
+        "score": 50
+      },
+      "candidates": [
+        {
+          "id": 117030,
+          "name": "Somos Ositos",
+          "originalName": "We Baby Bears",
+          "firstAirDate": "2022-01-01",
+          "popularity": 34.8283,
+          "score": 50,
+          "matchType": "STRING"
+        }
+      ]
+    },
+    {
+      "seriesKey": "escandalosos",
+      "name": "Escandalosos",
+      "normalizedName": "escandalosos",
+      "reason": "WEAK_MATCH",
+      "bestCandidate": {
+        "id": 63401,
+        "name": "Somos osos",
+        "originalName": "We Bare Bears",
+        "score": 42
+      },
+      "candidates": [
+        {
+          "id": 63401,
+          "name": "Somos osos",
+          "originalName": "We Bare Bears",
+          "firstAirDate": "2015-08-24",
+          "popularity": 84.5562,
+          "score": 42,
+          "matchType": "STRING"
+        }
+      ]
+    },
+    {
+      "seriesKey": "franklin",
+      "name": "Franklin",
+      "normalizedName": "franklin",
+      "reason": "AMBIGUOUS",
+      "bestCandidate": {
+        "id": 1458,
+        "name": "Franklin",
+        "originalName": "Franklin",
+        "score": 100
+      },
+      "candidates": [
+        {
+          "id": 1458,
+          "name": "Franklin",
+          "originalName": "Franklin",
+          "firstAirDate": "1997-11-03",
+          "popularity": 24.9769,
+          "score": 100,
+          "matchType": "EXACT"
+        },
+        {
+          "id": 197591,
+          "name": "Benjamin Franklin",
+          "originalName": "Franklin",
+          "firstAirDate": "2024-04-11",
+          "popularity": 22.1265,
+          "score": 100,
+          "matchType": "EXACT"
+        },
+        {
+          "id": 288913,
+          "name": "Franklin",
+          "originalName": "فرانكلين",
+          "firstAirDate": "2025-05-15",
+          "popularity": 2.6339,
+          "score": 100,
+          "matchType": "EXACT"
+        },
+        {
+          "id": 156138,
+          "name": "Benjamin Franklin",
+          "originalName": "Benjamin Franklin",
+          "firstAirDate": "2022-04-04",
+          "popularity": 6.6372,
+          "score": 67,
+          "matchType": "TOKENS"
+        },
+        {
+          "id": 49075,
+          "name": "Benjamin Franklin",
+          "originalName": "Benjamin Franklin",
+          "firstAirDate": "2002-11-19",
+          "popularity": 6.2993,
+          "score": 67,
+          "matchType": "TOKENS"
+        },
+        {
+          "id": 33301,
+          "name": "Franklin & Bash",
+          "originalName": "Franklin & Bash",
+          "firstAirDate": "2011-06-01",
+          "popularity": 32.7031,
+          "score": 53,
+          "matchType": "STRING"
+        },
+        {
+          "id": 46358,
+          "name": "Franklin and Friends",
+          "originalName": "Franklin and Friends",
+          "firstAirDate": "2011-02-14",
+          "popularity": 6.5946,
+          "score": 50,
+          "matchType": "TOKENS"
+        },
+        {
+          "id": 78663,
+          "name": "BBQ with Franklin",
+          "originalName": "BBQ with Franklin",
+          "firstAirDate": "2015-05-22",
+          "popularity": 3.1153,
+          "score": 50,
+          "matchType": "TOKENS"
+        },
+        {
+          "id": 74367,
+          "name": "Eleanor and Franklin",
+          "originalName": "Eleanor and Franklin",
+          "firstAirDate": "1976-01-11",
+          "popularity": 2.4437,
+          "score": 50,
+          "matchType": "TOKENS"
+        },
+        {
+          "id": 99075,
+          "name": "La reina de Franklin",
+          "originalName": "La reina de Franklin",
+          "firstAirDate": "2018-11-19",
+          "popularity": 6.7821,
+          "score": 40,
+          "matchType": "TOKENS"
+        }
+      ]
+    },
+    {
+      "seriesKey": "fuerza g",
+      "name": "Fuerza-G",
+      "normalizedName": "fuerza g",
+      "reason": "WEAK_MATCH",
+      "bestCandidate": {
+        "id": 14917,
+        "name": "Fuerza G: Guardianes del Espacio",
+        "originalName": "G-Force: Guardians of Space",
+        "score": 57
+      },
+      "candidates": [
+        {
+          "id": 14917,
+          "name": "Fuerza G: Guardianes del Espacio",
+          "originalName": "G-Force: Guardians of Space",
+          "firstAirDate": "1986-09-08",
+          "popularity": 7.7298,
+          "score": 57,
+          "matchType": "TOKENS"
+        },
+        {
+          "id": 4695,
+          "name": "Comando G",
+          "originalName": "Battle of the Planets",
+          "firstAirDate": "1978-09-18",
+          "popularity": 15.8501,
+          "score": 50,
+          "matchType": "TOKENS"
+        },
+        {
+          "id": 139142,
+          "name": "La Fuerza del Grupo",
+          "originalName": "La Fuerza del Grupo",
+          "firstAirDate": "2021-10-19",
+          "popularity": 2.1775,
+          "score": 42,
+          "matchType": "STRING"
+        },
+        {
+          "id": 284753,
+          "name": "Operación Safed Sagar",
+          "originalName": "ऑपरेशन सफ़ेद सागर: कारगिल युद्ध की अनकही कहानी",
+          "firstAirDate": "2026-08-07",
+          "popularity": 7.2064,
+          "score": 24,
+          "matchType": "STRING"
+        },
+        {
+          "id": 96061,
+          "name": "Grupo Especial Gorila",
+          "originalName": "亜空大作戦 スラングル",
+          "firstAirDate": "1983-01-21",
+          "popularity": 6.9142,
+          "score": 24,
+          "matchType": "STRING"
+        },
+        {
+          "id": 70779,
+          "name": "LEGO Friends: La fuerza de la amistad",
+          "originalName": "LEGO Friends: The Power of Friendship",
+          "firstAirDate": "2016-03-04",
+          "popularity": 2.1114,
+          "score": 22,
+          "matchType": "TOKENS"
+        },
+        {
+          "id": 4929,
+          "name": "The Great Grape Ape Show",
+          "originalName": "The Great Grape Ape Show",
+          "firstAirDate": "1975-09-06",
+          "popularity": 7.0023,
+          "score": 21,
+          "matchType": "STRING"
+        },
+        {
+          "id": 260566,
+          "name": "La fuerza del rugby: Todo por la victoria",
+          "originalName": "최강럭비: 죽거나 승리하거나",
+          "firstAirDate": "2024-12-10",
+          "popularity": 1.2141,
+          "score": 20,
+          "matchType": "TOKENS"
+        },
+        {
+          "id": 3428,
+          "name": "Super Robot Monkey Team Hyperforce Go!",
+          "originalName": "Super Robot Monkey Team Hyperforce Go!",
+          "firstAirDate": "2004-09-18",
+          "popularity": 9.1083,
+          "score": 16,
+          "matchType": "STRING"
+        },
+        {
+          "id": 6040,
+          "name": "Ben 10: Alien Force",
+          "originalName": "Ben 10: Alien Force",
+          "firstAirDate": "2008-04-18",
+          "popularity": 34.206,
+          "score": 11,
+          "matchType": "STRING"
+        }
+      ]
+    },
+    {
+      "seriesKey": "furia",
+      "name": "Furia",
+      "normalizedName": "furia",
+      "reason": "AMBIGUOUS",
+      "bestCandidate": {
+        "id": 280880,
+        "name": "Furia",
+        "originalName": "Furia",
+        "score": 100
+      },
+      "candidates": [
+        {
+          "id": 280880,
+          "name": "Furia",
+          "originalName": "Furia",
+          "firstAirDate": "2025-07-11",
+          "popularity": 15.4485,
+          "score": 100,
+          "matchType": "EXACT"
+        },
+        {
+          "id": 292533,
+          "name": "Furioso",
+          "originalName": "Fúria",
+          "firstAirDate": "2026-07-29",
+          "popularity": 10.6279,
+          "score": 100,
+          "matchType": "EXACT"
+        },
+        {
+          "id": 130219,
+          "name": "Furia",
+          "originalName": "Furia",
+          "firstAirDate": "2021-09-26",
+          "popularity": 8.7674,
+          "score": 100,
+          "matchType": "EXACT"
+        },
+        {
+          "id": 153811,
+          "name": "Furia",
+          "originalName": "Fúria",
+          "firstAirDate": "2021-12-19",
+          "popularity": 1.8074,
+          "score": 100,
+          "matchType": "EXACT"
+        },
+        {
+          "id": 212588,
+          "name": "Furias",
+          "originalName": "Furies",
+          "firstAirDate": "2024-03-01",
+          "popularity": 9.0088,
+          "score": 83,
+          "matchType": "STRING"
+        },
+        {
+          "id": 136293,
+          "name": "Niña Furia",
+          "originalName": "Niña Furia",
+          "firstAirDate": "2021-10-01",
+          "popularity": 0.5083,
+          "score": 67,
+          "matchType": "TOKENS"
+        },
+        {
+          "id": 11371,
+          "name": "Furia MTV",
+          "originalName": "Furia MTV",
+          "firstAirDate": null,
+          "popularity": 0.4052,
+          "score": 67,
+          "matchType": "TOKENS"
+        },
+        {
+          "id": 3232,
+          "name": "Fury",
+          "originalName": "Fury",
+          "firstAirDate": "1955-10-15",
+          "popularity": 11.0492,
+          "score": 60,
+          "matchType": "STRING"
+        },
+        {
+          "id": 287238,
+          "name": "Furious",
+          "originalName": "Furious",
+          "firstAirDate": "2026-07-27",
+          "popularity": 25.1772,
+          "score": 57,
+          "matchType": "STRING"
+        },
+        {
+          "id": 87264,
+          "name": "Som & Fúria",
+          "originalName": "Som & Fúria",
+          "firstAirDate": "2009-07-07",
+          "popularity": 4.7757,
+          "score": 50,
+          "matchType": "TOKENS"
+        }
+      ]
+    },
+    {
+      "seriesKey": "gaddar sin piedad",
+      "name": "Gaddar: Sin piedad",
+      "normalizedName": "gaddar sin piedad",
+      "reason": "NO_RESULT",
+      "candidates": []
+    },
+    {
+      "seriesKey": "gemelas transgenero",
+      "name": "Gemelas Transgenero",
+      "normalizedName": "gemelas transgenero",
+      "reason": "WEAK_MATCH",
+      "bestCandidate": {
+        "id": 227239,
+        "name": "Gêmeas Trans: Uma Nova Vida",
+        "originalName": "Gêmeas Trans: Uma Nova Vida",
+        "score": 46
+      },
+      "candidates": [
+        {
+          "id": 227239,
+          "name": "Gêmeas Trans: Uma Nova Vida",
+          "originalName": "Gêmeas Trans: Uma Nova Vida",
+          "firstAirDate": "2023-06-01",
+          "popularity": 1.1889,
+          "score": 46,
+          "matchType": "STRING"
+        }
+      ]
+    },
+    {
+      "seriesKey": "generacion 98 mega",
+      "name": "Generación 98' / Mega",
+      "normalizedName": "generacion 98 mega",
+      "reason": "NO_RESULT",
+      "candidates": []
+    },
+    {
+      "seriesKey": "haunted",
+      "name": "Haunted",
+      "normalizedName": "haunted",
+      "reason": "AMBIGUOUS",
+      "bestCandidate": {
+        "id": 3830,
+        "name": "Haunted",
+        "originalName": "Haunted",
+        "score": 100
+      },
+      "candidates": [
+        {
+          "id": 3830,
+          "name": "Haunted",
+          "originalName": "Haunted",
+          "firstAirDate": "2002-09-24",
+          "popularity": 5.4586,
+          "score": 100,
+          "matchType": "EXACT"
+        },
+        {
+          "id": 83247,
+          "name": "Al borde de la realidad",
+          "originalName": "Haunted",
+          "firstAirDate": "2018-10-19",
+          "popularity": 4.5274,
+          "score": 100,
+          "matchType": "EXACT"
+        },
+        {
+          "id": 19471,
+          "name": "Haunted",
+          "originalName": "Haunted",
+          "firstAirDate": "1967-08-19",
+          "popularity": 1.4476,
+          "score": 100,
+          "matchType": "EXACT"
+        },
+        {
+          "id": 255752,
+          "name": "El hotel embrujado",
+          "originalName": "Haunted Hotel",
+          "firstAirDate": "2025-09-19",
+          "popularity": 36.0514,
+          "score": 67,
+          "matchType": "TOKENS"
+        },
+        {
+          "id": 462,
+          "name": "Most Haunted",
+          "originalName": "Most Haunted",
+          "firstAirDate": "2002-05-25",
+          "popularity": 8.9974,
+          "score": 67,
+          "matchType": "TOKENS"
+        },
+        {
+          "id": 46445,
+          "name": "Haunted Nights",
+          "originalName": "Haunted Nights",
+          "firstAirDate": "2012-02-20",
+          "popularity": 8.3348,
+          "score": 67,
+          "matchType": "TOKENS"
+        },
+        {
+          "id": 34125,
+          "name": "Haunted Junction",
+          "originalName": "HAUNTED じゃんくしょん",
+          "firstAirDate": "1997-04-02",
+          "popularity": 5.3374,
+          "score": 67,
+          "matchType": "TOKENS"
+        },
+        {
+          "id": 84549,
+          "name": "Hospital paranormal",
+          "originalName": "Haunted Hospitals",
+          "firstAirDate": "2018-10-12",
+          "popularity": 5.0493,
+          "score": 67,
+          "matchType": "TOKENS"
+        },
+        {
+          "id": 275818,
+          "name": "Haunted Hearts",
+          "originalName": "Haunted Hearts",
+          "firstAirDate": "2024-11-02",
+          "popularity": 3.5526,
+          "score": 67,
+          "matchType": "TOKENS"
+        },
+        {
+          "id": 39404,
+          "name": "Haunted Collector",
+          "originalName": "Haunted Collector",
+          "firstAirDate": "2011-06-01",
+          "popularity": 3.5396,
+          "score": 67,
+          "matchType": "TOKENS"
+        }
+      ]
+    },
+    {
+      "seriesKey": "high potential detective inesperada",
+      "name": "High Potential: Detective Inesperada",
+      "normalizedName": "high potential detective inesperada",
+      "reason": "WEAK_MATCH",
+      "bestCandidate": {
+        "id": 226637,
+        "name": "High Potential",
+        "originalName": "High Potential",
+        "score": 67
+      },
+      "candidates": [
+        {
+          "id": 226637,
+          "name": "High Potential",
+          "originalName": "High Potential",
+          "firstAirDate": "2024-09-17",
+          "popularity": 85.0861,
+          "score": 67,
+          "matchType": "TOKENS"
+        }
+      ]
+    },
+    {
+      "seriesKey": "hijos del desierto mega",
+      "name": "Hijos del desierto / Mega",
+      "normalizedName": "hijos del desierto mega",
+      "reason": "NO_RESULT",
+      "candidates": []
+    },
+    {
+      "seriesKey": "hirochi y raponchi",
+      "name": "Hirochi y Raponchi",
+      "normalizedName": "hirochi y raponchi",
+      "reason": "NO_RESULT",
+      "candidates": []
+    },
+    {
+      "seriesKey": "historial criminal",
+      "name": "Historial criminal",
+      "normalizedName": "historial criminal",
+      "reason": "WEAK_MATCH",
+      "bestCandidate": {
+        "id": 204490,
+        "name": "Historial delictivo",
+        "originalName": "Criminal Record",
+        "score": 58
+      },
+      "candidates": [
+        {
+          "id": 204490,
+          "name": "Historial delictivo",
+          "originalName": "Criminal Record",
+          "firstAirDate": "2024-01-10",
+          "popularity": 26.286,
+          "score": 58,
+          "matchType": "STRING"
+        }
+      ]
+    },
+    {
+      "seriesKey": "hit viral",
+      "name": "Hit viral",
+      "normalizedName": "hit viral",
+      "reason": "AMBIGUOUS",
+      "bestCandidate": {
+        "id": 246029,
+        "name": "Viral Hit",
+        "originalName": "喧嘩独学",
+        "score": 100
+      },
+      "candidates": [
+        {
+          "id": 246029,
+          "name": "Viral Hit",
+          "originalName": "喧嘩独学",
+          "firstAirDate": "2024-04-11",
+          "popularity": 8.9848,
+          "score": 100,
+          "matchType": "TOKENS"
+        },
+        {
+          "id": 312493,
+          "name": "Hit viral",
+          "originalName": "喧嘩独学",
+          "firstAirDate": "2026-06-11",
+          "popularity": 8.8799,
+          "score": 100,
+          "matchType": "EXACT"
+        }
+      ]
+    },
+    {
+      "seriesKey": "hombre a medias",
+      "name": "Hombre a medias",
+      "normalizedName": "hombre a medias",
+      "reason": "WEAK_MATCH",
+      "bestCandidate": {
+        "id": 257994,
+        "name": "Half Man",
+        "originalName": "Half Man",
+        "score": 27
+      },
+      "candidates": [
+        {
+          "id": 257994,
+          "name": "Half Man",
+          "originalName": "Half Man",
+          "firstAirDate": "2026-04-28",
+          "popularity": 10.9125,
+          "score": 27,
+          "matchType": "STRING"
+        }
+      ]
+    },
+    {
+      "seriesKey": "hombre cometa oh si",
+      "name": "Hombre Cometa: Oh, si",
+      "normalizedName": "hombre cometa oh si",
+      "reason": "WEAK_MATCH",
+      "bestCandidate": {
+        "id": 200753,
+        "name": "Hombre Cometa",
+        "originalName": "Kite Man: Hell Yeah!",
+        "score": 68
+      },
+      "candidates": [
+        {
+          "id": 200753,
+          "name": "Hombre Cometa",
+          "originalName": "Kite Man: Hell Yeah!",
+          "firstAirDate": "2024-07-18",
+          "popularity": 18.2453,
+          "score": 68,
+          "matchType": "STRING"
+        }
+      ]
+    },
+    {
+      "seriesKey": "house of cards",
+      "name": "House of Cards",
+      "normalizedName": "house of cards",
+      "reason": "AMBIGUOUS",
+      "bestCandidate": {
+        "id": 1425,
+        "name": "House of Cards",
+        "originalName": "House of Cards",
+        "score": 100
+      },
+      "candidates": [
+        {
+          "id": 1425,
+          "name": "House of Cards",
+          "originalName": "House of Cards",
+          "firstAirDate": "2013-02-01",
+          "popularity": 74.7398,
+          "score": 100,
+          "matchType": "EXACT"
+        },
+        {
+          "id": 21720,
+          "name": "House of cards I (Castillo de naipes)",
+          "originalName": "House of Cards",
+          "firstAirDate": "1990-11-18",
+          "popularity": 7.0653,
+          "score": 100,
+          "matchType": "EXACT"
+        },
+        {
+          "id": 77041,
+          "name": "House of cards III (The final cut)",
+          "originalName": "The Final Cut",
+          "firstAirDate": "1995-11-05",
+          "popularity": 5.6419,
+          "score": 60,
+          "matchType": "TOKENS"
+        },
+        {
+          "id": 13868,
+          "name": "House of cards II (To play the king)",
+          "originalName": "To Play the King",
+          "firstAirDate": "1993-11-21",
+          "popularity": 4.3002,
+          "score": 55,
+          "matchType": "TOKENS"
+        }
+      ]
+    },
+    {
+      "seriesKey": "humo",
+      "name": "Humo",
+      "normalizedName": "humo",
+      "reason": "WEAK_MATCH",
+      "bestCandidate": {
+        "id": 223315,
+        "name": "Detrás del humo",
+        "originalName": "Detrás del humo",
+        "score": 50
+      },
+      "candidates": [
+        {
+          "id": 223315,
+          "name": "Detrás del humo",
+          "originalName": "Detrás del humo",
+          "firstAirDate": "2021-01-02",
+          "popularity": 0.9957,
+          "score": 50,
+          "matchType": "TOKENS"
+        },
+        {
+          "id": 68062,
+          "name": "Humornieu",
+          "originalName": "Humornieu",
+          "firstAirDate": "2016-08-22",
+          "popularity": 2.2719,
+          "score": 44,
+          "matchType": "STRING"
+        },
+        {
+          "id": 260268,
+          "name": "La nube de humo",
+          "originalName": "La nube de humo",
+          "firstAirDate": "2017-09-01",
+          "popularity": 1.819,
+          "score": 40,
+          "matchType": "TOKENS"
+        },
+        {
+          "id": 326453,
+          "name": "Humor Livre",
+          "originalName": "Humor Livre",
+          "firstAirDate": "1984-03-25",
+          "popularity": 4.4303,
+          "score": 36,
+          "matchType": "STRING"
+        },
+        {
+          "id": 280774,
+          "name": "Humoretaten",
+          "originalName": "Humoretaten",
+          "firstAirDate": "2025-01-10",
+          "popularity": 2.1689,
+          "score": 36,
+          "matchType": "STRING"
+        },
+        {
+          "id": 105898,
+          "name": "Svensk humor",
+          "originalName": "Svensk humor",
+          "firstAirDate": "2013-10-19",
+          "popularity": 2.8657,
+          "score": 33,
+          "matchType": "STRING"
+        },
+        {
+          "id": 93855,
+          "name": "Trait d'humour",
+          "originalName": "Trait d'humour",
+          "firstAirDate": "2016-09-09",
+          "popularity": 5.9537,
+          "score": 31,
+          "matchType": "STRING"
+        },
+        {
+          "id": 224883,
+          "name": "Humoristinhas",
+          "originalName": "Humoristinhas",
+          "firstAirDate": "2017-09-25",
+          "popularity": 3.504,
+          "score": 31,
+          "matchType": "STRING"
+        },
+        {
+          "id": 68965,
+          "name": "Humorkalender",
+          "originalName": "Humorkalender",
+          "firstAirDate": "2016-12-01",
+          "popularity": 2.689,
+          "score": 31,
+          "matchType": "STRING"
+        },
+        {
+          "id": 106964,
+          "name": "Humor Amarillo",
+          "originalName": "風雲! たけし城",
+          "firstAirDate": "1986-05-02",
+          "popularity": 6.163,
+          "score": 29,
+          "matchType": "STRING"
+        }
+      ]
+    },
+    {
+      "seriesKey": "hunter hunter",
+      "name": "Hunter × Hunter",
+      "normalizedName": "hunter × hunter",
+      "reason": "AMBIGUOUS",
+      "bestCandidate": {
+        "id": 46298,
+        "name": "Hunter × Hunter",
+        "originalName": "HUNTER×HUNTER",
+        "score": 100
+      },
+      "candidates": [
+        {
+          "id": 46298,
+          "name": "Hunter × Hunter",
+          "originalName": "HUNTER×HUNTER",
+          "firstAirDate": "2011-10-02",
+          "popularity": 105.1465,
+          "score": 100,
+          "matchType": "EXACT"
+        },
+        {
+          "id": 4571,
+          "name": "Hunter",
+          "originalName": "Hunter",
+          "firstAirDate": "1984-09-18",
+          "popularity": 37.8413,
+          "score": 100,
+          "matchType": "TOKENS"
+        },
+        {
+          "id": 28682,
+          "name": "Hunter",
+          "originalName": "Hunter",
+          "firstAirDate": "1977-02-18",
+          "popularity": 5.356,
+          "score": 100,
+          "matchType": "TOKENS"
+        },
+        {
+          "id": 11602,
+          "name": "Hunter",
+          "originalName": "Hunter",
+          "firstAirDate": "1967-07-05",
+          "popularity": 2.6095,
+          "score": 100,
+          "matchType": "TOKENS"
+        },
+        {
+          "id": 45377,
+          "name": "Hunter",
+          "originalName": "Hunter",
+          "firstAirDate": "2003-04-19",
+          "popularity": 2.4652,
+          "score": 100,
+          "matchType": "TOKENS"
+        },
+        {
+          "id": 197945,
+          "name": "Hunter",
+          "originalName": "Hunter",
+          "firstAirDate": "2013-01-01",
+          "popularity": 2.2158,
+          "score": 100,
+          "matchType": "TOKENS"
+        },
+        {
+          "id": 16270,
+          "name": "Hunter",
+          "originalName": "Hunter",
+          "firstAirDate": "2009-01-18",
+          "popularity": 1.8711,
+          "score": 100,
+          "matchType": "TOKENS"
+        },
+        {
+          "id": 45952,
+          "name": "HunterxHunter",
+          "originalName": "HUNTER×HUNTER",
+          "firstAirDate": "1999-10-16",
+          "popularity": 40.7067,
+          "score": 87,
+          "matchType": "STRING"
+        },
+        {
+          "id": 2855,
+          "name": "Cazatesoros",
+          "originalName": "Relic Hunter",
+          "firstAirDate": "1999-09-25",
+          "popularity": 37.823,
+          "score": 80,
+          "matchType": "TOKENS"
+        },
+        {
+          "id": 36046,
+          "name": "City Hunter",
+          "originalName": "シティーハンター",
+          "firstAirDate": "1987-04-06",
+          "popularity": 31.8088,
+          "score": 80,
+          "matchType": "TOKENS"
+        }
+      ]
+    },
+    {
+      "seriesKey": "isla esperanza ada masal",
+      "name": "Isla Esperanza / Ada Masalı",
+      "normalizedName": "isla esperanza ada masalı",
+      "reason": "NO_RESULT",
+      "candidates": []
+    },
+    {
+      "seriesKey": "its an adventure charlie brown",
+      "name": "It's an Adventure, Charlie Brown",
+      "normalizedName": "its an adventure charlie brown",
+      "reason": "NO_RESULT",
+      "candidates": []
+    },
+    {
+      "seriesKey": "jack ryan",
+      "name": "Jack Ryan",
+      "normalizedName": "jack ryan",
+      "reason": "WEAK_MATCH",
+      "bestCandidate": {
+        "id": 73375,
+        "name": "Jack Ryan de Tom Clancy",
+        "originalName": "Tom Clancy's Jack Ryan",
+        "score": 67
+      },
+      "candidates": [
+        {
+          "id": 73375,
+          "name": "Jack Ryan de Tom Clancy",
+          "originalName": "Tom Clancy's Jack Ryan",
+          "firstAirDate": "2018-08-30",
+          "popularity": 45.4175,
+          "score": 67,
+          "matchType": "TOKENS"
+        }
+      ]
+    },
+    {
+      "seriesKey": "jet marte",
+      "name": "Jet Marte",
+      "normalizedName": "jet marte",
+      "reason": "WEAK_MATCH",
+      "bestCandidate": {
+        "id": 45448,
+        "name": "ジェッターマルス",
+        "originalName": "ジェッターマルス",
+        "score": 0
+      },
+      "candidates": [
+        {
+          "id": 45448,
+          "name": "ジェッターマルス",
+          "originalName": "ジェッターマルス",
+          "firstAirDate": "1977-02-03",
+          "popularity": 5.2666,
+          "score": 0,
+          "matchType": "NONE"
+        }
+      ]
+    },
+    {
+      "seriesKey": "juego de ilusiones mega",
+      "name": "Juego de ilusiones / Mega",
+      "normalizedName": "juego de ilusiones mega",
+      "reason": "NO_RESULT",
+      "candidates": []
+    },
+    {
+      "seriesKey": "juego de tronos game of thrones",
+      "name": "Juego de tronos / Game of Thrones",
+      "normalizedName": "juego de tronos game of thrones",
+      "reason": "WEAK_MATCH",
+      "bestCandidate": {
+        "id": 1399,
+        "name": "Juego de tronos",
+        "originalName": "Game of Thrones",
+        "score": 67
+      },
+      "candidates": [
+        {
+          "id": 1399,
+          "name": "Juego de tronos",
+          "originalName": "Game of Thrones",
+          "firstAirDate": "2011-04-17",
+          "popularity": 246.1416,
+          "score": 67,
+          "matchType": "TOKENS"
+        }
+      ]
+    },
+    {
+      "seriesKey": "kilos mortales",
+      "name": "kilos mortales",
+      "normalizedName": "kilos mortales",
+      "reason": "AMBIGUOUS",
+      "bestCandidate": {
+        "id": 255590,
+        "name": "Kilos Mortales México",
+        "originalName": "Kilos Mortales México",
+        "score": 80
+      },
+      "candidates": [
+        {
+          "id": 255590,
+          "name": "Kilos Mortales México",
+          "originalName": "Kilos Mortales México",
+          "firstAirDate": "2024-05-27",
+          "popularity": 0.8135,
+          "score": 80,
+          "matchType": "TOKENS"
+        },
+        {
+          "id": 296704,
+          "name": "Kilos Mortales: Adolescentes",
+          "originalName": "Kilos Mortales: Adolescentes",
+          "firstAirDate": "2024-04-22",
+          "popularity": 0.6244,
+          "score": 80,
+          "matchType": "TOKENS"
+        },
+        {
+          "id": 66014,
+          "name": "Mi vida con 300 kilos",
+          "originalName": "My 600-lb Life",
+          "firstAirDate": "2012-02-01",
+          "popularity": 12.5912,
+          "score": 29,
+          "matchType": "TOKENS"
+        },
+        {
+          "id": 98410,
+          "name": "Las hermanas de 300 kilos",
+          "originalName": "1000-lb Sisters",
+          "firstAirDate": "2020-01-01",
+          "popularity": 6.9688,
+          "score": 29,
+          "matchType": "TOKENS"
+        },
+        {
+          "id": 291934,
+          "name": "1000-lb Roomies",
+          "originalName": "1000-lb Roomies",
+          "firstAirDate": "2025-06-03",
+          "popularity": 4.3703,
+          "score": 20,
+          "matchType": "STRING"
+        },
+        {
+          "id": 103742,
+          "name": "My 600-lb Life: Where Are They Now?",
+          "originalName": "My 600-lb Life: Where Are They Now?",
+          "firstAirDate": "2015-01-07",
+          "popularity": 2.3931,
+          "score": 15,
+          "matchType": "STRING"
+        }
+      ]
+    },
+    {
+      "seriesKey": "kim el doctor romantico sub",
+      "name": "Kim, El Doctor Romántico (SUB)",
+      "normalizedName": "kim el doctor romantico sub",
+      "reason": "NO_RESULT",
+      "candidates": []
+    },
+    {
+      "seriesKey": "kimetsu no yaiba demon slayer",
+      "name": "Kimetsu no Yaiba / Demon Slayer",
+      "normalizedName": "kimetsu no yaiba demon slayer",
+      "reason": "WEAK_MATCH",
+      "bestCandidate": {
+        "id": 85937,
+        "name": "Kimetsu no Yaiba: Guardianes de la Noche",
+        "originalName": "鬼滅の刃",
+        "score": 54
+      },
+      "candidates": [
+        {
+          "id": 85937,
+          "name": "Kimetsu no Yaiba: Guardianes de la Noche",
+          "originalName": "鬼滅の刃",
+          "firstAirDate": "2019-04-06",
+          "popularity": 26.1153,
+          "score": 54,
+          "matchType": "STRING"
+        }
+      ]
+    },
+    {
+      "seriesKey": "kobayashi san chi no maid dragon",
+      "name": "Kobayashi san Chi no Maid Dragon",
+      "normalizedName": "kobayashi san chi no maid dragon",
+      "reason": "WEAK_MATCH",
+      "bestCandidate": {
+        "id": 69291,
+        "name": "La sirvienta dragón de Kobayashi-san",
+        "originalName": "小林さんちのメイドラゴン",
+        "score": 50
+      },
+      "candidates": [
+        {
+          "id": 69291,
+          "name": "La sirvienta dragón de Kobayashi-san",
+          "originalName": "小林さんちのメイドラゴン",
+          "firstAirDate": "2017-01-12",
+          "popularity": 34.1224,
+          "score": 50,
+          "matchType": "TOKENS"
+        }
+      ]
+    },
+    {
+      "seriesKey": "la captura",
+      "name": "La Captura",
+      "normalizedName": "la captura",
+      "reason": "WEAK_MATCH",
+      "bestCandidate": {
+        "id": 93166,
+        "name": "The Capture",
+        "originalName": "The Capture",
+        "score": 64
+      },
+      "candidates": [
+        {
+          "id": 93166,
+          "name": "The Capture",
+          "originalName": "The Capture",
+          "firstAirDate": "2019-09-03",
+          "popularity": 23.3516,
+          "score": 64,
+          "matchType": "STRING"
+        },
+        {
+          "id": 221181,
+          "name": "Jared: La captura de un depredador",
+          "originalName": "Jared from Subway: Catching a Monster",
+          "firstAirDate": "2023-03-06",
+          "popularity": 2.4414,
+          "score": 50,
+          "matchType": "TOKENS"
+        }
+      ]
+    },
+    {
+      "seriesKey": "la casa de modas",
+      "name": "La Casa de Modas",
+      "normalizedName": "la casa de modas",
+      "reason": "WEAK_MATCH",
+      "bestCandidate": {
+        "id": 231000,
+        "name": "La Maison",
+        "originalName": "La Maison",
+        "score": 33
+      },
+      "candidates": [
+        {
+          "id": 231000,
+          "name": "La Maison",
+          "originalName": "La Maison",
+          "firstAirDate": "2024-09-19",
+          "popularity": 13.8703,
+          "score": 33,
+          "matchType": "TOKENS"
+        }
+      ]
+    },
+    {
+      "seriesKey": "la casa del mal",
+      "name": "La Casa del Mal",
+      "normalizedName": "la casa del mal",
+      "reason": "WEAK_MATCH",
+      "bestCandidate": {
+        "id": 236054,
+        "name": "Viviendo con un asesino: Toda la verdad",
+        "originalName": "Evil Lives Here: The Killer Speaks",
+        "score": 24
+      },
+      "candidates": [
+        {
+          "id": 236054,
+          "name": "Viviendo con un asesino: Toda la verdad",
+          "originalName": "Evil Lives Here: The Killer Speaks",
+          "firstAirDate": "2023-10-01",
+          "popularity": 3.0607,
+          "score": 24,
+          "matchType": "STRING"
+        }
+      ]
+    },
+    {
+      "seriesKey": "la desaparicion de kimmy diore",
+      "name": "La desaparición de Kimmy Diore",
+      "normalizedName": "la desaparicion de kimmy diore",
+      "reason": "WEAK_MATCH",
+      "bestCandidate": {
+        "id": 222807,
+        "name": "Los reyes de la casa",
+        "originalName": "Les Enfants sont rois",
+        "score": 40
+      },
+      "candidates": [
+        {
+          "id": 222807,
+          "name": "Los reyes de la casa",
+          "originalName": "Les Enfants sont rois",
+          "firstAirDate": "2024-10-23",
+          "popularity": 6.8937,
+          "score": 40,
+          "matchType": "TOKENS"
+        }
+      ]
+    },
+    {
+      "seriesKey": "la jugada maestra de reebook",
+      "name": "la jugada maestra de Reebook",
+      "normalizedName": "la jugada maestra de reebook",
+      "reason": "NO_RESULT",
+      "candidates": []
+    },
+    {
+      "seriesKey": "la leyenda del zorro de 9 colas",
+      "name": "La Leyenda del Zorro de 9 colas",
+      "normalizedName": "la leyenda del zorro de 9 colas",
+      "reason": "NO_RESULT",
+      "candidates": []
+    },
+    {
+      "seriesKey": "la mujer en el lago",
+      "name": "La mujer en el lago",
+      "normalizedName": "la mujer en el lago",
+      "reason": "WEAK_MATCH",
+      "bestCandidate": {
+        "id": 120549,
+        "name": "La dama del lago",
+        "originalName": "Lady in the Lake",
+        "score": 58
+      },
+      "candidates": [
+        {
+          "id": 120549,
+          "name": "La dama del lago",
+          "originalName": "Lady in the Lake",
+          "firstAirDate": "2024-07-18",
+          "popularity": 35.6948,
+          "score": 58,
+          "matchType": "STRING"
+        }
+      ]
+    },
+    {
+      "seriesKey": "la nina robada",
+      "name": "La Niña Robada",
+      "normalizedName": "la nina robada",
+      "reason": "WEAK_MATCH",
+      "bestCandidate": {
+        "id": 233256,
+        "name": "The Stolen Girl",
+        "originalName": "The Stolen Girl",
+        "score": 7
+      },
+      "candidates": [
+        {
+          "id": 233256,
+          "name": "The Stolen Girl",
+          "originalName": "The Stolen Girl",
+          "firstAirDate": "2025-04-16",
+          "popularity": 17.2517,
+          "score": 7,
+          "matchType": "STRING"
+        }
+      ]
+    },
+    {
+      "seriesKey": "la periferia conexion al futuro",
+      "name": "La Periferia: Conexión al Futuro",
+      "normalizedName": "la periferia conexion al futuro",
+      "reason": "WEAK_MATCH",
+      "bestCandidate": {
+        "id": 95403,
+        "name": "The Peripheral",
+        "originalName": "The Peripheral",
+        "score": 23
+      },
+      "candidates": [
+        {
+          "id": 95403,
+          "name": "The Peripheral",
+          "originalName": "The Peripheral",
+          "firstAirDate": "2022-10-20",
+          "popularity": 36.0215,
+          "score": 23,
+          "matchType": "STRING"
+        }
+      ]
+    },
+    {
+      "seriesKey": "la suerte una serie de casualidades",
+      "name": "La Suerte. Una serie de casualidades",
+      "normalizedName": "la suerte una serie de casualidades",
+      "reason": "WEAK_MATCH",
+      "bestCandidate": {
+        "id": 242907,
+        "name": "La suerte",
+        "originalName": "La suerte",
+        "score": 50
+      },
+      "candidates": [
+        {
+          "id": 242907,
+          "name": "La suerte",
+          "originalName": "La suerte",
+          "firstAirDate": "2025-10-08",
+          "popularity": 2.9129,
+          "score": 50,
+          "matchType": "TOKENS"
+        }
+      ]
+    },
+    {
+      "seriesKey": "la voz",
+      "name": "La Voz",
+      "normalizedName": "la voz",
+      "reason": "AMBIGUOUS",
+      "bestCandidate": {
+        "id": 60216,
+        "name": "La voz",
+        "originalName": "La voz",
+        "score": 100
+      },
+      "candidates": [
+        {
+          "id": 60216,
+          "name": "La voz",
+          "originalName": "La voz",
+          "firstAirDate": "2012-09-19",
+          "popularity": 11.8404,
+          "score": 100,
+          "matchType": "EXACT"
+        },
+        {
+          "id": 46884,
+          "name": "La voz (México)",
+          "originalName": "La Voz",
+          "firstAirDate": "2011-09-11",
+          "popularity": 3.3145,
+          "score": 100,
+          "matchType": "EXACT"
+        },
+        {
+          "id": 86236,
+          "name": "La voz: en español (Estados Unidos)",
+          "originalName": "La Voz",
+          "firstAirDate": "2019-01-13",
+          "popularity": 2.5842,
+          "score": 100,
+          "matchType": "EXACT"
+        },
+        {
+          "id": 70329,
+          "name": "La voz (Francia)",
+          "originalName": "The Voice : La Plus Belle Voix",
+          "firstAirDate": "2012-02-25",
+          "popularity": 23.5674,
+          "score": 80,
+          "matchType": "TOKENS"
+        },
+        {
+          "id": 39845,
+          "name": "La voz (Australia)",
+          "originalName": "The Voice",
+          "firstAirDate": "2012-04-15",
+          "popularity": 20.0136,
+          "score": 80,
+          "matchType": "TOKENS"
+        },
+        {
+          "id": 93530,
+          "name": "La voz kids",
+          "originalName": "La voz kids",
+          "firstAirDate": "2014-02-06",
+          "popularity": 8.7917,
+          "score": 80,
+          "matchType": "TOKENS"
+        },
+        {
+          "id": 294528,
+          "name": "La Voz Argentina",
+          "originalName": "La Voz Argentina",
+          "firstAirDate": "2012-07-01",
+          "popularity": 8.635,
+          "score": 80,
+          "matchType": "TOKENS"
+        },
+        {
+          "id": 260877,
+          "name": "La voz ausente",
+          "originalName": "La voz ausente",
+          "firstAirDate": "2024-08-21",
+          "popularity": 5.2118,
+          "score": 80,
+          "matchType": "TOKENS"
+        },
+        {
+          "id": 89230,
+          "name": "La voz sénior",
+          "originalName": "La voz sénior",
+          "firstAirDate": "2019-05-08",
+          "popularity": 2.9611,
+          "score": 80,
+          "matchType": "TOKENS"
+        },
+        {
+          "id": 83243,
+          "name": "La voz kids (Colombia)",
+          "originalName": "La voz kids",
+          "firstAirDate": "2014-09-23",
+          "popularity": 0.4825,
+          "score": 80,
+          "matchType": "TOKENS"
+        }
+      ]
+    },
+    {
+      "seriesKey": "las chicas de chapel croft",
+      "name": "Las Chicas de Chapel Croft",
+      "normalizedName": "las chicas de chapel croft",
+      "reason": "WEAK_MATCH",
+      "bestCandidate": {
+        "id": 234787,
+        "name": "Las chicas en llamas",
+        "originalName": "The Burning Girls",
+        "score": 50
+      },
+      "candidates": [
+        {
+          "id": 234787,
+          "name": "Las chicas en llamas",
+          "originalName": "The Burning Girls",
+          "firstAirDate": "2023-10-19",
+          "popularity": 6.1352,
+          "score": 50,
+          "matchType": "STRING"
+        }
+      ]
+    },
+    {
+      "seriesKey": "las fieles",
+      "name": "Las Fieles",
+      "normalizedName": "las fieles",
+      "reason": "WEAK_MATCH",
+      "bestCandidate": {
+        "id": 291100,
+        "name": "The Faithful",
+        "originalName": "The Faithful",
+        "score": 25
+      },
+      "candidates": [
+        {
+          "id": 291100,
+          "name": "The Faithful",
+          "originalName": "The Faithful",
+          "firstAirDate": "2026-03-22",
+          "popularity": 6.9981,
+          "score": 25,
+          "matchType": "STRING"
+        }
+      ]
+    },
+    {
+      "seriesKey": "lego pixar animaventuras",
+      "name": "LEGO Pixar: Animaventuras",
+      "normalizedName": "lego pixar animaventuras",
+      "reason": "WEAK_MATCH",
+      "bestCandidate": {
+        "id": 262153,
+        "name": "LEGO Pixar: BrickToons",
+        "originalName": "LEGO Pixar: BrickToons",
+        "score": 67
+      },
+      "candidates": [
+        {
+          "id": 262153,
+          "name": "LEGO Pixar: BrickToons",
+          "originalName": "LEGO Pixar: BrickToons",
+          "firstAirDate": "2024-09-04",
+          "popularity": 15.6786,
+          "score": 67,
+          "matchType": "TOKENS"
+        }
+      ]
+    },
+    {
+      "seriesKey": "leyendas urbanas",
+      "name": "Leyendas Urbanas",
+      "normalizedName": "leyendas urbanas",
+      "reason": "WEAK_MATCH",
+      "bestCandidate": {
+        "id": 6512,
+        "name": "Mostly True Stories: Urban Legends Revealed",
+        "originalName": "Mostly True Stories: Urban Legends Revealed",
+        "score": 24
+      },
+      "candidates": [
+        {
+          "id": 6512,
+          "name": "Mostly True Stories: Urban Legends Revealed",
+          "originalName": "Mostly True Stories: Urban Legends Revealed",
+          "firstAirDate": "2002-03-19",
+          "popularity": 3.8308,
+          "score": 24,
+          "matchType": "STRING"
+        }
+      ]
+    },
+    {
+      "seriesKey": "los anos maravillosos",
+      "name": "Los años maravillosos",
+      "normalizedName": "los anos maravillosos",
+      "reason": "WEAK_MATCH",
+      "bestCandidate": {
+        "id": 4500,
+        "name": "Aquellos maravillosos años",
+        "originalName": "The Wonder Years",
+        "score": 67
+      },
+      "candidates": [
+        {
+          "id": 4500,
+          "name": "Aquellos maravillosos años",
+          "originalName": "The Wonder Years",
+          "firstAirDate": "1988-01-31",
+          "popularity": 55.0558,
+          "score": 67,
+          "matchType": "TOKENS"
+        },
+        {
+          "id": 126164,
+          "name": "Aquellos maravillosos años",
+          "originalName": "The Wonder Years",
+          "firstAirDate": "2021-09-22",
+          "popularity": 16.9563,
+          "score": 67,
+          "matchType": "TOKENS"
+        },
+        {
+          "id": 52,
+          "name": "Aquellos maravillosos 70",
+          "originalName": "That '70s Show",
+          "firstAirDate": "1998-08-23",
+          "popularity": 68.9541,
+          "score": 63,
+          "matchType": "STRING"
+        }
+      ]
+    },
+    {
+      "seriesKey": "los bandidos del oro",
+      "name": "Los bandidos del oro",
+      "normalizedName": "los bandidos del oro",
+      "reason": "WEAK_MATCH",
+      "bestCandidate": {
+        "id": 235779,
+        "name": "Bandoleros",
+        "originalName": "Briganti",
+        "score": 35
+      },
+      "candidates": [
+        {
+          "id": 235779,
+          "name": "Bandoleros",
+          "originalName": "Briganti",
+          "firstAirDate": "2024-04-23",
+          "popularity": 5.8798,
+          "score": 35,
+          "matchType": "STRING"
+        }
+      ]
+    },
+    {
+      "seriesKey": "los caballeros",
+      "name": "Los caballeros",
+      "normalizedName": "los caballeros",
+      "reason": "AMBIGUOUS",
+      "bestCandidate": {
+        "id": 34100,
+        "name": "Los Caballeros Blancos",
+        "originalName": "赤い光弾ジリオン",
+        "score": 80
+      },
+      "candidates": [
+        {
+          "id": 34100,
+          "name": "Los Caballeros Blancos",
+          "originalName": "赤い光弾ジリオン",
+          "firstAirDate": "1987-04-12",
+          "popularity": 10.601,
+          "score": 80,
+          "matchType": "TOKENS"
+        },
+        {
+          "id": 11190,
+          "name": "Los caballeros árabes",
+          "originalName": "Arabian Knights",
+          "firstAirDate": "1968-09-07",
+          "popularity": 2.9835,
+          "score": 80,
+          "matchType": "TOKENS"
+        },
+        {
+          "id": 42444,
+          "name": "Los Caballeros del Zodiaco",
+          "originalName": "聖闘士星矢",
+          "firstAirDate": "1986-10-11",
+          "popularity": 38.8848,
+          "score": 67,
+          "matchType": "TOKENS"
+        },
+        {
+          "id": 111442,
+          "name": "Los caballeros de Castelcorvo",
+          "originalName": "I Cavalieri di Castelcorvo",
+          "firstAirDate": "2020-11-06",
+          "popularity": 3.578,
+          "score": 67,
+          "matchType": "TOKENS"
+        },
+        {
+          "id": 88421,
+          "name": "Los Caballeros de Lamune",
+          "originalName": "Los Caballeros de Lamune",
+          "firstAirDate": "1990-08-30",
+          "popularity": 0.4542,
+          "score": 67,
+          "matchType": "TOKENS"
+        },
+        {
+          "id": 44317,
+          "name": "Los Caballeros del Zodiaco: Omega",
+          "originalName": "聖闘士星矢Ω",
+          "firstAirDate": "2012-04-01",
+          "popularity": 38.3325,
+          "score": 57,
+          "matchType": "TOKENS"
+        },
+        {
+          "id": 80522,
+          "name": "Los Caballeros de Lamune: Fuego",
+          "originalName": "VS騎士ラムネ&40炎",
+          "firstAirDate": "1996-04-03",
+          "popularity": 6.8297,
+          "score": 57,
+          "matchType": "TOKENS"
+        },
+        {
+          "id": 82863,
+          "name": "Los caballeros las prefieren brutas",
+          "originalName": "Los caballeros las prefieren brutas",
+          "firstAirDate": "2010-01-22",
+          "popularity": 3.0526,
+          "score": 57,
+          "matchType": "TOKENS"
+        },
+        {
+          "id": 289438,
+          "name": "Misterios de los caballeros templarios",
+          "originalName": "Mysteries of the Knights Templar",
+          "firstAirDate": "2024-01-08",
+          "popularity": 0.6543,
+          "score": 57,
+          "matchType": "TOKENS"
+        },
+        {
+          "id": 232495,
+          "name": "Grau Caballeros de los Mares",
+          "originalName": "Grau Caballeros de los Mares",
+          "firstAirDate": "2023-08-25",
+          "popularity": 0.5548,
+          "score": 57,
+          "matchType": "TOKENS"
+        }
+      ]
+    },
+    {
+      "seriesKey": "los demonios de da vinci",
+      "name": "Los demonios de Da Vinci",
+      "normalizedName": "los demonios de da vinci",
+      "reason": "WEAK_MATCH",
+      "bestCandidate": {
+        "id": 40293,
+        "name": "Da Vinci's Demons",
+        "originalName": "Da Vinci's Demons",
+        "score": 29
+      },
+      "candidates": [
+        {
+          "id": 40293,
+          "name": "Da Vinci's Demons",
+          "originalName": "Da Vinci's Demons",
+          "firstAirDate": "2013-04-12",
+          "popularity": 13.5244,
+          "score": 29,
+          "matchType": "STRING"
+        }
+      ]
+    },
+    {
+      "seriesKey": "los hechiceros de waverly place",
+      "name": "Los Hechiceros de Waverly Place",
+      "normalizedName": "los hechiceros de waverly place",
+      "reason": "AMBIGUOUS",
+      "bestCandidate": {
+        "id": 3498,
+        "name": "Los magos de Waverly Place",
+        "originalName": "Wizards of Waverly Place",
+        "score": 80
+      },
+      "candidates": [
+        {
+          "id": 3498,
+          "name": "Los magos de Waverly Place",
+          "originalName": "Wizards of Waverly Place",
+          "firstAirDate": "2007-10-12",
+          "popularity": 39.8304,
+          "score": 80,
+          "matchType": "TOKENS"
+        },
+        {
+          "id": 245026,
+          "name": "Vuelven los magos de Waverly Place",
+          "originalName": "Wizards Beyond Waverly Place",
+          "firstAirDate": "2024-10-29",
+          "popularity": 25.5922,
+          "score": 73,
+          "matchType": "TOKENS"
+        }
+      ]
+    },
+    {
+      "seriesKey": "los peores companeros de casa del mundo",
+      "name": "Los peores compañeros de casa del mundo",
+      "normalizedName": "los peores companeros de casa del mundo",
+      "reason": "WEAK_MATCH",
+      "bestCandidate": {
+        "id": 156595,
+        "name": "El peor compañero de piso imaginable",
+        "originalName": "Worst Roommate Ever",
+        "score": 51
+      },
+      "candidates": [
+        {
+          "id": 156595,
+          "name": "El peor compañero de piso imaginable",
+          "originalName": "Worst Roommate Ever",
+          "firstAirDate": "2022-03-01",
+          "popularity": 5.1894,
+          "score": 51,
+          "matchType": "STRING"
+        }
+      ]
+    },
+    {
+      "seriesKey": "los testamentos de las hijas de gilead",
+      "name": "Los testamentos: De las hijas de Gilead",
+      "normalizedName": "los testamentos de las hijas de gilead",
+      "reason": "WEAK_MATCH",
+      "bestCandidate": {
+        "id": 287527,
+        "name": "Los testamentos",
+        "originalName": "The Testaments",
+        "score": 44
+      },
+      "candidates": [
+        {
+          "id": 287527,
+          "name": "Los testamentos",
+          "originalName": "The Testaments",
+          "firstAirDate": "2026-04-08",
+          "popularity": 20.0747,
+          "score": 44,
+          "matchType": "TOKENS"
+        }
+      ]
+    },
+    {
+      "seriesKey": "los vecinos green",
+      "name": "Los vecinos Green",
+      "normalizedName": "los vecinos green",
+      "reason": "WEAK_MATCH",
+      "bestCandidate": {
+        "id": 80587,
+        "name": "Los Green en la gran ciudad",
+        "originalName": "Big City Greens",
+        "score": 47
+      },
+      "candidates": [
+        {
+          "id": 80587,
+          "name": "Los Green en la gran ciudad",
+          "originalName": "Big City Greens",
+          "firstAirDate": "2018-06-18",
+          "popularity": 55.3273,
+          "score": 47,
+          "matchType": "STRING"
+        }
+      ]
+    },
+    {
+      "seriesKey": "malcolm in the middle la vida sigue siendo injusta",
+      "name": "Malcolm in the Middle: La vida sigue siendo injusta",
+      "normalizedName": "malcolm in the middle la vida sigue siendo injusta",
+      "reason": "WEAK_MATCH",
+      "bestCandidate": {
+        "id": 279471,
+        "name": "Malcolm: De mal en peor",
+        "originalName": "Malcolm in the Middle: Life's Still Unfair",
+        "score": 58
+      },
+      "candidates": [
+        {
+          "id": 279471,
+          "name": "Malcolm: De mal en peor",
+          "originalName": "Malcolm in the Middle: Life's Still Unfair",
+          "firstAirDate": "2026-04-10",
+          "popularity": 14.665,
+          "score": 58,
+          "matchType": "STRING"
+        }
+      ]
+    },
+    {
+      "seriesKey": "manhunt unabomber",
+      "name": "Manhunt: Unabomber",
+      "normalizedName": "manhunt unabomber",
+      "reason": "WEAK_MATCH",
+      "bestCandidate": {
+        "id": 72597,
+        "name": "Manhunt",
+        "originalName": "Manhunt",
+        "score": 67
+      },
+      "candidates": [
+        {
+          "id": 72597,
+          "name": "Manhunt",
+          "originalName": "Manhunt",
+          "firstAirDate": "2017-08-01",
+          "popularity": 22.5188,
+          "score": 67,
+          "matchType": "TOKENS"
+        }
+      ]
+    },
+    {
+      "seriesKey": "mashle",
+      "name": "MASHLE",
+      "normalizedName": "mashle",
+      "reason": "WEAK_MATCH",
+      "bestCandidate": {
+        "id": 204832,
+        "name": "MASHLE: MAGIC AND MUSCLES",
+        "originalName": "マッシュル-MASHLE-",
+        "score": 67
+      },
+      "candidates": [
+        {
+          "id": 204832,
+          "name": "MASHLE: MAGIC AND MUSCLES",
+          "originalName": "マッシュル-MASHLE-",
+          "firstAirDate": "2023-04-08",
+          "popularity": 38.389,
+          "score": 67,
+          "matchType": "TOKENS"
+        }
+      ]
+    },
+    {
+      "seriesKey": "mentes extraordinarias",
+      "name": "Mentes Extraordinarias",
+      "normalizedName": "mentes extraordinarias",
+      "reason": "WEAK_MATCH",
+      "bestCandidate": {
+        "id": 237748,
+        "name": "Mentes brillantes",
+        "originalName": "Brilliant Minds",
+        "score": 50
+      },
+      "candidates": [
+        {
+          "id": 237748,
+          "name": "Mentes brillantes",
+          "originalName": "Brilliant Minds",
+          "firstAirDate": "2024-09-23",
+          "popularity": 22.1094,
+          "score": 50,
+          "matchType": "TOKENS"
+        }
+      ]
+    },
+    {
+      "seriesKey": "mi extrana adiccion",
+      "name": "Mi Extraña Adiccion",
+      "normalizedName": "mi extrana adiccion",
+      "reason": "WEAK_MATCH",
+      "bestCandidate": {
+        "id": 231019,
+        "name": "Mi extraña adicción: ¿qué pasó después?",
+        "originalName": "My Strange Addiction: Still Addicted?",
+        "score": 67
+      },
+      "candidates": [
+        {
+          "id": 231019,
+          "name": "Mi extraña adicción: ¿qué pasó después?",
+          "originalName": "My Strange Addiction: Still Addicted?",
+          "firstAirDate": "2023-07-19",
+          "popularity": 0.925,
+          "score": 67,
+          "matchType": "TOKENS"
+        }
+      ]
+    },
+    {
+      "seriesKey": "mi hijo jeffrey",
+      "name": "Mi Hijo Jeffrey",
+      "normalizedName": "mi hijo jeffrey",
+      "reason": "NO_RESULT",
+      "candidates": []
+    },
+    {
+      "seriesKey": "mickey y sus cuentos espeluznantes",
+      "name": "Mickey y sus Cuentos Espeluznantes",
+      "normalizedName": "mickey y sus cuentos espeluznantes",
+      "reason": "NO_RESULT",
+      "candidates": []
+    },
+    {
+      "seriesKey": "morir de placer",
+      "name": "Morir de Placer",
+      "normalizedName": "morir de placer",
+      "reason": "WEAK_MATCH",
+      "bestCandidate": {
+        "id": 241405,
+        "name": "Dying for Sex",
+        "originalName": "Dying for Sex",
+        "score": 13
+      },
+      "candidates": [
+        {
+          "id": 241405,
+          "name": "Dying for Sex",
+          "originalName": "Dying for Sex",
+          "firstAirDate": "2025-04-04",
+          "popularity": 25.9466,
+          "score": 13,
+          "matchType": "STRING"
+        }
+      ]
+    },
+    {
+      "seriesKey": "my strange hero",
+      "name": "My Strange Hero",
+      "normalizedName": "my strange hero",
+      "reason": "WEAK_MATCH",
+      "bestCandidate": {
+        "id": 84464,
+        "name": "Mi Extraño Héroe (My Strange Hero)",
+        "originalName": "복수가 돌아왔다",
+        "score": 67
+      },
+      "candidates": [
+        {
+          "id": 84464,
+          "name": "Mi Extraño Héroe (My Strange Hero)",
+          "originalName": "복수가 돌아왔다",
+          "firstAirDate": "2018-12-10",
+          "popularity": 11.2198,
+          "score": 67,
+          "matchType": "TOKENS"
+        }
+      ]
+    },
+    {
+      "seriesKey": "nacion z",
+      "name": "Nacion Z",
+      "normalizedName": "nacion z",
+      "reason": "WEAK_MATCH",
+      "bestCandidate": {
+        "id": 106359,
+        "name": "Nación de inmigración",
+        "originalName": "Immigration Nation",
+        "score": 40
+      },
+      "candidates": [
+        {
+          "id": 106359,
+          "name": "Nación de inmigración",
+          "originalName": "Immigration Nation",
+          "firstAirDate": "2020-08-03",
+          "popularity": 4.9702,
+          "score": 40,
+          "matchType": "TOKENS"
+        },
+        {
+          "id": 290261,
+          "name": "Vietnam – Geburt einer Nation",
+          "originalName": "Vietnam – Geburt einer Nation",
+          "firstAirDate": "2025-04-29",
+          "popularity": 1.7809,
+          "score": 14,
+          "matchType": "STRING"
+        }
+      ]
+    },
+    {
+      "seriesKey": "ncis europe",
+      "name": "NCIS: Europe",
+      "normalizedName": "ncis europe",
+      "reason": "WEAK_MATCH",
+      "bestCandidate": {
+        "id": 247732,
+        "name": "NCIS: Tony & Ziva",
+        "originalName": "NCIS: Tony & Ziva",
+        "score": 33
+      },
+      "candidates": [
+        {
+          "id": 247732,
+          "name": "NCIS: Tony & Ziva",
+          "originalName": "NCIS: Tony & Ziva",
+          "firstAirDate": "2025-09-04",
+          "popularity": 8.8909,
+          "score": 33,
+          "matchType": "TOKENS"
+        }
+      ]
+    },
+    {
+      "seriesKey": "negocios turbios",
+      "name": "Negocios Turbios",
+      "normalizedName": "negocios turbios",
+      "reason": "WEAK_MATCH",
+      "bestCandidate": {
+        "id": 130853,
+        "name": "Mono malo",
+        "originalName": "Bad Monkey",
+        "score": 25
+      },
+      "candidates": [
+        {
+          "id": 130853,
+          "name": "Mono malo",
+          "originalName": "Bad Monkey",
+          "firstAirDate": "2024-08-13",
+          "popularity": 35.8768,
+          "score": 25,
+          "matchType": "STRING"
+        }
+      ]
+    },
+    {
+      "seriesKey": "nivel secreto",
+      "name": "Nivel Secreto",
+      "normalizedName": "nivel secreto",
+      "reason": "WEAK_MATCH",
+      "bestCandidate": {
+        "id": 261579,
+        "name": "Secret Level",
+        "originalName": "Secret Level",
+        "score": 23
+      },
+      "candidates": [
+        {
+          "id": 261579,
+          "name": "Secret Level",
+          "originalName": "Secret Level",
+          "firstAirDate": "2024-12-10",
+          "popularity": 38.9857,
+          "score": 23,
+          "matchType": "STRING"
+        }
+      ]
+    },
+    {
+      "seriesKey": "nombre aristico charlie sheen",
+      "name": "Nombre Aristico: Charlie Sheen",
+      "normalizedName": "nombre aristico charlie sheen",
+      "reason": "NO_RESULT",
+      "candidates": []
+    },
+    {
+      "seriesKey": "one piece live action lat",
+      "name": "ONE PIECE Live Action (Lat)",
+      "normalizedName": "one piece live action lat",
+      "reason": "NO_RESULT",
+      "candidates": []
+    },
+    {
+      "seriesKey": "one piece live action sub",
+      "name": "ONE PIECE Live Action (Sub)",
+      "normalizedName": "one piece live action sub",
+      "reason": "NO_RESULT",
+      "candidates": []
+    },
+    {
+      "seriesKey": "operaciones especiales leona",
+      "name": "Operaciones especiales: Leona",
+      "normalizedName": "operaciones especiales leona",
+      "reason": "NO_RESULT",
+      "candidates": []
+    },
+    {
+      "seriesKey": "partners in crime",
+      "name": "Partners in Crime",
+      "normalizedName": "partners in crime",
+      "reason": "AMBIGUOUS",
+      "bestCandidate": {
+        "id": 62478,
+        "name": "Agatha Christie: Matrimonio de sabuesos",
+        "originalName": "Partners in Crime",
+        "score": 100
+      },
+      "candidates": [
+        {
+          "id": 62478,
+          "name": "Agatha Christie: Matrimonio de sabuesos",
+          "originalName": "Partners in Crime",
+          "firstAirDate": "2015-07-26",
+          "popularity": 7.1427,
+          "score": 100,
+          "matchType": "EXACT"
+        },
+        {
+          "id": 31205,
+          "name": "Partners in Crime",
+          "originalName": "Partners in Crime",
+          "firstAirDate": "1984-09-27",
+          "popularity": 4.9937,
+          "score": 100,
+          "matchType": "EXACT"
+        },
+        {
+          "id": 71554,
+          "name": "Partners in Crime",
+          "originalName": "Partners in Crime",
+          "firstAirDate": "2014-10-15",
+          "popularity": 0.6869,
+          "score": 100,
+          "matchType": "EXACT"
+        },
+        {
+          "id": 81155,
+          "name": "Partners in Crime",
+          "originalName": "Partners in Crime",
+          "firstAirDate": "2010-12-31",
+          "popularity": 0.5109,
+          "score": 100,
+          "matchType": "EXACT"
+        },
+        {
+          "id": 219347,
+          "name": "Drift - Partners in Crime",
+          "originalName": "Drift - Partners in Crime",
+          "firstAirDate": "2023-02-24",
+          "popularity": 2.9205,
+          "score": 86,
+          "matchType": "TOKENS"
+        },
+        {
+          "id": 328473,
+          "name": "Partners in (True) Crime",
+          "originalName": "Partners in (True) Crime",
+          "firstAirDate": "2025-03-07",
+          "popularity": 1.4906,
+          "score": 86,
+          "matchType": "TOKENS"
+        },
+        {
+          "id": 14777,
+          "name": "Matrimonio de Sabuesos de Agatha Christie",
+          "originalName": "Agatha Christie's Partners in Crime",
+          "firstAirDate": "1983-10-09",
+          "popularity": 10.5972,
+          "score": 75,
+          "matchType": "TOKENS"
+        },
+        {
+          "id": 82549,
+          "name": "SOKO Potsdam",
+          "originalName": "SOKO Potsdam",
+          "firstAirDate": "2018-09-24",
+          "popularity": 10.9998,
+          "score": 12,
+          "matchType": "STRING"
+        }
+      ]
+    },
+    {
+      "seriesKey": "pequenas maravillas",
+      "name": "Pequeñas maravillas",
+      "normalizedName": "pequenas maravillas",
+      "reason": "WEAK_MATCH",
+      "bestCandidate": {
+        "id": 108303,
+        "name": "Micromundos",
+        "originalName": "Tiny World",
+        "score": 21
+      },
+      "candidates": [
+        {
+          "id": 108303,
+          "name": "Micromundos",
+          "originalName": "Tiny World",
+          "firstAirDate": "2020-10-02",
+          "popularity": 19.9614,
+          "score": 21,
+          "matchType": "STRING"
+        }
+      ]
+    },
+    {
+      "seriesKey": "perdidos lost",
+      "name": "Perdidos / LOST",
+      "normalizedName": "perdidos lost",
+      "reason": "WEAK_MATCH",
+      "bestCandidate": {
+        "id": 4607,
+        "name": "Perdidos",
+        "originalName": "Lost",
+        "score": 67
+      },
+      "candidates": [
+        {
+          "id": 4607,
+          "name": "Perdidos",
+          "originalName": "Lost",
+          "firstAirDate": "2004-09-22",
+          "popularity": 137.5154,
+          "score": 67,
+          "matchType": "TOKENS"
+        },
+        {
+          "id": 69756,
+          "name": "Perdidos en el Oeste",
+          "originalName": "Lost In The West",
+          "firstAirDate": "2016-05-28",
+          "popularity": 3.0027,
+          "score": 65,
+          "matchType": "STRING"
+        },
+        {
+          "id": 63054,
+          "name": "Perdidos en Oz",
+          "originalName": "Lost in Oz",
+          "firstAirDate": "2015-06-26",
+          "popularity": 8.7553,
+          "score": 64,
+          "matchType": "STRING"
+        },
+        {
+          "id": 76432,
+          "name": "Perdidos en China",
+          "originalName": "Lost in China",
+          "firstAirDate": "2009-01-10",
+          "popularity": 1.1152,
+          "score": 53,
+          "matchType": "STRING"
+        },
+        {
+          "id": 3051,
+          "name": "Perdidos en el espacio",
+          "originalName": "Lost in Space",
+          "firstAirDate": "1965-09-15",
+          "popularity": 34.46,
+          "score": 50,
+          "matchType": "STRING"
+        },
+        {
+          "id": 201886,
+          "name": "Perdido y encontrado",
+          "originalName": "拾われた男",
+          "firstAirDate": "2022-06-26",
+          "popularity": 8.5951,
+          "score": 50,
+          "matchType": "STRING"
+        },
+        {
+          "id": 7634,
+          "name": "Mundos perdidos",
+          "originalName": "Lost Worlds",
+          "firstAirDate": "2006-07-10",
+          "popularity": 4.9581,
+          "score": 50,
+          "matchType": "TOKENS"
+        },
+        {
+          "id": 75758,
+          "name": "Lost in Space",
+          "originalName": "Lost in Space",
+          "firstAirDate": "2018-04-13",
+          "popularity": 36.6994,
+          "score": 40,
+          "matchType": "TOKENS"
+        },
+        {
+          "id": 39380,
+          "name": "Los Dioses Perdidos",
+          "originalName": "The Lost Gods",
+          "firstAirDate": "2005-01-01",
+          "popularity": 1.0169,
+          "score": 40,
+          "matchType": "TOKENS"
+        },
+        {
+          "id": 272717,
+          "name": "Monstruos: archivos perdidos",
+          "originalName": "Lost Monster Files",
+          "firstAirDate": "2024-10-09",
+          "popularity": 0.8996,
+          "score": 40,
+          "matchType": "TOKENS"
+        }
+      ]
+    },
+    {
+      "seriesKey": "pesadillas y ensonaciones",
+      "name": "Pesadillas y Ensoñaciones",
+      "normalizedName": "pesadillas y ensonaciones",
+      "reason": "WEAK_MATCH",
+      "bestCandidate": {
+        "id": 228958,
+        "name": "Pesadillas y ensoñaciones de Joko Anwar",
+        "originalName": "Joko Anwar's Nightmares and Daydreams",
+        "score": 67
+      },
+      "candidates": [
+        {
+          "id": 228958,
+          "name": "Pesadillas y ensoñaciones de Joko Anwar",
+          "originalName": "Joko Anwar's Nightmares and Daydreams",
+          "firstAirDate": "2024-06-14",
+          "popularity": 6.4465,
+          "score": 67,
+          "matchType": "TOKENS"
+        }
+      ]
+    },
+    {
+      "seriesKey": "popeye el marino",
+      "name": "Popeye el marino",
+      "normalizedName": "popeye el marino",
+      "reason": "WEAK_MATCH",
+      "bestCandidate": {
+        "id": 8392,
+        "name": "Popeye",
+        "originalName": "Popeye the Sailor",
+        "score": 59
+      },
+      "candidates": [
+        {
+          "id": 8392,
+          "name": "Popeye",
+          "originalName": "Popeye the Sailor",
+          "firstAirDate": "1960-06-10",
+          "popularity": 28.0562,
+          "score": 59,
+          "matchType": "STRING"
+        }
+      ]
+    },
+    {
+      "seriesKey": "prision de mentiras",
+      "name": "Prision de Mentiras",
+      "normalizedName": "prision de mentiras",
+      "reason": "WEAK_MATCH",
+      "bestCandidate": {
+        "id": 153515,
+        "name": "Verdad oculta",
+        "originalName": "Mahkum",
+        "score": 16
+      },
+      "candidates": [
+        {
+          "id": 153515,
+          "name": "Verdad oculta",
+          "originalName": "Mahkum",
+          "firstAirDate": "2021-12-14",
+          "popularity": 5.9218,
+          "score": 16,
+          "matchType": "STRING"
+        }
+      ]
+    },
+    {
+      "seriesKey": "proyecto libro azul",
+      "name": "Proyecto Libro Azul",
+      "normalizedName": "proyecto libro azul",
+      "reason": "WEAK_MATCH",
+      "bestCandidate": {
+        "id": 79649,
+        "name": "Proyecto Blue Book",
+        "originalName": "Project Blue Book",
+        "score": 53
+      },
+      "candidates": [
+        {
+          "id": 79649,
+          "name": "Proyecto Blue Book",
+          "originalName": "Project Blue Book",
+          "firstAirDate": "2019-01-08",
+          "popularity": 19.3521,
+          "score": 53,
+          "matchType": "STRING"
+        }
+      ]
+    },
+    {
+      "seriesKey": "proyecto ourika",
+      "name": "Proyecto Ourika",
+      "normalizedName": "proyecto ourika",
+      "reason": "WEAK_MATCH",
+      "bestCandidate": {
+        "id": 197460,
+        "name": "Ourika",
+        "originalName": "Ourika",
+        "score": 67
+      },
+      "candidates": [
+        {
+          "id": 197460,
+          "name": "Ourika",
+          "originalName": "Ourika",
+          "firstAirDate": "2024-03-28",
+          "popularity": 4.2007,
+          "score": 67,
+          "matchType": "TOKENS"
+        }
+      ]
+    },
+    {
+      "seriesKey": "punto ciego",
+      "name": "Punto ciego",
+      "normalizedName": "punto ciego",
+      "reason": "WEAK_MATCH",
+      "bestCandidate": {
+        "id": 109373,
+        "name": "Blindspotting",
+        "originalName": "Blindspotting",
+        "score": 23
+      },
+      "candidates": [
+        {
+          "id": 109373,
+          "name": "Blindspotting",
+          "originalName": "Blindspotting",
+          "firstAirDate": "2021-06-13",
+          "popularity": 6.9298,
+          "score": 23,
+          "matchType": "STRING"
+        },
+        {
+          "id": 62710,
+          "name": "Blindspot",
+          "originalName": "Blindspot",
+          "firstAirDate": "2015-09-21",
+          "popularity": 58.6617,
+          "score": 0,
+          "matchType": "NONE"
+        }
+      ]
+    },
+    {
+      "seriesKey": "querido edward",
+      "name": "Querido Edward",
+      "normalizedName": "querido edward",
+      "reason": "WEAK_MATCH",
+      "bestCandidate": {
+        "id": 156820,
+        "name": "Un lugar en el cielo",
+        "originalName": "Dear Edward",
+        "score": 57
+      },
+      "candidates": [
+        {
+          "id": 156820,
+          "name": "Un lugar en el cielo",
+          "originalName": "Dear Edward",
+          "firstAirDate": "2023-02-02",
+          "popularity": 16.8107,
+          "score": 57,
+          "matchType": "STRING"
+        }
+      ]
+    },
+    {
+      "seriesKey": "refugio de harlan coben",
+      "name": "Refugio de Harlan Coben",
+      "normalizedName": "refugio de harlan coben",
+      "reason": "WEAK_MATCH",
+      "bestCandidate": {
+        "id": 210787,
+        "name": "Refugio",
+        "originalName": "Harlan Coben's Shelter",
+        "score": 40
+      },
+      "candidates": [
+        {
+          "id": 210787,
+          "name": "Refugio",
+          "originalName": "Harlan Coben's Shelter",
+          "firstAirDate": "2023-08-17",
+          "popularity": 21.8164,
+          "score": 40,
+          "matchType": "TOKENS"
+        }
+      ]
+    },
+    {
+      "seriesKey": "resurrection cast",
+      "name": "Resurrection CAST",
+      "normalizedName": "resurrection cast",
+      "reason": "NO_RESULT",
+      "candidates": []
+    },
+    {
+      "seriesKey": "robin hood",
+      "name": "Robin Hood",
+      "normalizedName": "robin hood",
+      "reason": "AMBIGUOUS",
+      "bestCandidate": {
+        "id": 272418,
+        "name": "Robin Hood",
+        "originalName": "Robin Hood",
+        "score": 100
+      },
+      "candidates": [
+        {
+          "id": 272418,
+          "name": "Robin Hood",
+          "originalName": "Robin Hood",
+          "firstAirDate": "2025-11-02",
+          "popularity": 17.3435,
+          "score": 100,
+          "matchType": "EXACT"
+        },
+        {
+          "id": 4600,
+          "name": "The Robin Hood",
+          "originalName": "Robin Hood",
+          "firstAirDate": "2006-10-07",
+          "popularity": 17.0224,
+          "score": 100,
+          "matchType": "EXACT"
+        },
+        {
+          "id": 14203,
+          "name": "Robin Hood",
+          "originalName": "Robin Hood",
+          "firstAirDate": "1953-03-17",
+          "popularity": 2.3167,
+          "score": 100,
+          "matchType": "EXACT"
+        },
+        {
+          "id": 26706,
+          "name": "Robin's Hoods",
+          "originalName": "Robin's Hoods",
+          "firstAirDate": "1994-08-22",
+          "popularity": 4.1518,
+          "score": 83,
+          "matchType": "STRING"
+        },
+        {
+          "id": 219208,
+          "name": "Alyas Robin Hood",
+          "originalName": "Alyas Robin Hood",
+          "firstAirDate": "2016-09-19",
+          "popularity": 7.6191,
+          "score": 80,
+          "matchType": "TOKENS"
+        },
+        {
+          "id": 13794,
+          "name": "Rocket Robin Hood",
+          "originalName": "Rocket Robin Hood",
+          "firstAirDate": "1966-10-09",
+          "popularity": 5.3538,
+          "score": 80,
+          "matchType": "TOKENS"
+        },
+        {
+          "id": 9798,
+          "name": "Young Robin Hood",
+          "originalName": "Young Robin Hood",
+          "firstAirDate": "1991-09-15",
+          "popularity": 3.2557,
+          "score": 80,
+          "matchType": "TOKENS"
+        },
+        {
+          "id": 4488,
+          "name": "Robin of Sherwood",
+          "originalName": "Robin of Sherwood",
+          "firstAirDate": "1984-04-28",
+          "popularity": 13.9306,
+          "score": 59,
+          "matchType": "STRING"
+        },
+        {
+          "id": 10393,
+          "name": "The Adventures of Robin Hood",
+          "originalName": "The Adventures of Robin Hood",
+          "firstAirDate": "1955-09-26",
+          "popularity": 27.5125,
+          "score": 57,
+          "matchType": "TOKENS"
+        },
+        {
+          "id": 14190,
+          "name": "The Legend of Robin Hood",
+          "originalName": "The Legend of Robin Hood",
+          "firstAirDate": "1975-11-23",
+          "popularity": 4.2307,
+          "score": 57,
+          "matchType": "TOKENS"
+        }
+      ]
+    },
+    {
+      "seriesKey": "rumble garanndoll",
+      "name": "Rumble Garanndoll",
+      "normalizedName": "rumble garanndoll",
+      "reason": "WEAK_MATCH",
+      "bestCandidate": {
+        "id": 122286,
+        "name": "Gyakuten Sekai no Denchi Shoujo",
+        "originalName": "逆転世界ノ電池少女",
+        "score": 19
+      },
+      "candidates": [
+        {
+          "id": 122286,
+          "name": "Gyakuten Sekai no Denchi Shoujo",
+          "originalName": "逆転世界ノ電池少女",
+          "firstAirDate": "2021-10-11",
+          "popularity": 9.4778,
+          "score": 19,
+          "matchType": "STRING"
+        }
+      ]
+    },
+    {
+      "seriesKey": "sabrina la bruja adolescente",
+      "name": "Sabrina, la bruja adolescente",
+      "normalizedName": "sabrina la bruja adolescente",
+      "reason": "WEAK_MATCH",
+      "bestCandidate": {
+        "id": 605,
+        "name": "Sabrina, cosas de brujas",
+        "originalName": "Sabrina, the Teenage Witch",
+        "score": 36
+      },
+      "candidates": [
+        {
+          "id": 605,
+          "name": "Sabrina, cosas de brujas",
+          "originalName": "Sabrina, the Teenage Witch",
+          "firstAirDate": "1996-09-27",
+          "popularity": 76.132,
+          "score": 36,
+          "matchType": "STRING"
+        }
+      ]
+    },
+    {
+      "seriesKey": "sandokan",
+      "name": "Sandokan",
+      "normalizedName": "sandokan",
+      "reason": "AMBIGUOUS",
+      "bestCandidate": {
+        "id": 271855,
+        "name": "Sandokan",
+        "originalName": "Sandokan",
+        "score": 100
+      },
+      "candidates": [
+        {
+          "id": 271855,
+          "name": "Sandokan",
+          "originalName": "Sandokan",
+          "firstAirDate": "2025-12-01",
+          "popularity": 15.744,
+          "score": 100,
+          "matchType": "EXACT"
+        },
+        {
+          "id": 43966,
+          "name": "Sandokan, el tigre de Malasia",
+          "originalName": "Sandokan",
+          "firstAirDate": "1976-01-06",
+          "popularity": 7.5419,
+          "score": 100,
+          "matchType": "EXACT"
+        },
+        {
+          "id": 81085,
+          "name": "Sandokan",
+          "originalName": "Sandokan",
+          "firstAirDate": "1992-10-04",
+          "popularity": 3.9891,
+          "score": 100,
+          "matchType": "EXACT"
+        },
+        {
+          "id": 40808,
+          "name": "Il Ritorno di Sandokan",
+          "originalName": "Il Ritorno di Sandokan",
+          "firstAirDate": "1996-10-06",
+          "popularity": 2.8629,
+          "score": 40,
+          "matchType": "TOKENS"
+        },
+        {
+          "id": 96437,
+          "name": "Sandokan - Le due tigri",
+          "originalName": "Sandokan - Le due tigri",
+          "firstAirDate": "2008-12-24",
+          "popularity": 2.4216,
+          "score": 40,
+          "matchType": "TOKENS"
+        },
+        {
+          "id": 23505,
+          "name": "Il Figlio di Sandokan",
+          "originalName": "Il Figlio di Sandokan",
+          "firstAirDate": "1998-01-01",
+          "popularity": 0.4623,
+          "score": 40,
+          "matchType": "TOKENS"
+        },
+        {
+          "id": 96435,
+          "name": "Sandokan - La tigre ruggisce ancora",
+          "originalName": "Sandokan - La tigre ruggisce ancora",
+          "firstAirDate": "2001-11-06",
+          "popularity": 2.1359,
+          "score": 33,
+          "matchType": "TOKENS"
+        },
+        {
+          "id": 91191,
+          "name": "Sandokan, la tigre della Malesia",
+          "originalName": "Sandokan, la tigre della Malesia",
+          "firstAirDate": "1998-11-18",
+          "popularity": 1.8637,
+          "score": 33,
+          "matchType": "TOKENS"
+        }
+      ]
+    },
+    {
+      "seriesKey": "sangre azul",
+      "name": "Sangre Azul",
+      "normalizedName": "sangre azul",
+      "reason": "WEAK_MATCH",
+      "bestCandidate": {
+        "id": 107158,
+        "name": "Hilo de Sangre Azul",
+        "originalName": "Hilo de Sangre Azul",
+        "score": 67
+      },
+      "candidates": [
+        {
+          "id": 107158,
+          "name": "Hilo de Sangre Azul",
+          "originalName": "Hilo de Sangre Azul",
+          "firstAirDate": null,
+          "popularity": 0.4447,
+          "score": 67,
+          "matchType": "TOKENS"
+        },
+        {
+          "id": 275189,
+          "name": "Melissa De La Cruz's Blue Bloods",
+          "originalName": "Melissa De La Cruz's Blue Bloods",
+          "firstAirDate": null,
+          "popularity": 0.5186,
+          "score": 23,
+          "matchType": "STRING"
+        },
+        {
+          "id": 32692,
+          "name": "Familia de policías",
+          "originalName": "Blue Bloods",
+          "firstAirDate": "2010-09-24",
+          "popularity": 152.5205,
+          "score": 16,
+          "matchType": "STRING"
+        }
+      ]
+    },
+    {
+      "seriesKey": "scarpetta medico forense",
+      "name": "Scarpetta: Medico forense",
+      "normalizedName": "scarpetta medico forense",
+      "reason": "WEAK_MATCH",
+      "bestCandidate": {
+        "id": 240740,
+        "name": "Scarpetta",
+        "originalName": "Scarpetta",
+        "score": 50
+      },
+      "candidates": [
+        {
+          "id": 240740,
+          "name": "Scarpetta",
+          "originalName": "Scarpetta",
+          "firstAirDate": "2026-03-11",
+          "popularity": 21.7042,
+          "score": 50,
+          "matchType": "TOKENS"
+        }
+      ]
+    },
+    {
+      "seriesKey": "se presume inocente",
+      "name": "Se presume inocente",
+      "normalizedName": "se presume inocente",
+      "reason": "WEAK_MATCH",
+      "bestCandidate": {
+        "id": 156933,
+        "name": "Presunto inocente",
+        "originalName": "Presumed Innocent",
+        "score": 68
+      },
+      "candidates": [
+        {
+          "id": 156933,
+          "name": "Presunto inocente",
+          "originalName": "Presumed Innocent",
+          "firstAirDate": "2024-06-11",
+          "popularity": 34.0046,
+          "score": 68,
+          "matchType": "STRING"
+        }
+      ]
+    },
+    {
+      "seriesKey": "secretos del matrimonio nada es para siempre",
+      "name": "Secretos del matrimonio: Nada es para siempre",
+      "normalizedName": "secretos del matrimonio nada es para siempre",
+      "reason": "WEAK_MATCH",
+      "bestCandidate": {
+        "id": 134155,
+        "name": "La ley del amor",
+        "originalName": "Evlilik Hakkında Her Şey",
+        "score": 25
+      },
+      "candidates": [
+        {
+          "id": 134155,
+          "name": "La ley del amor",
+          "originalName": "Evlilik Hakkında Her Şey",
+          "firstAirDate": "2021-09-21",
+          "popularity": 7.5258,
+          "score": 25,
+          "matchType": "STRING"
+        }
+      ]
+    },
+    {
+      "seriesKey": "secretos prohibidos",
+      "name": "Secretos Prohibidos",
+      "normalizedName": "secretos prohibidos",
+      "reason": "NO_RESULT",
+      "candidates": []
+    },
+    {
+      "seriesKey": "seducido dentro del culto nxivm",
+      "name": "Seducido: dentro del culto NXIVM",
+      "normalizedName": "seducido dentro del culto nxivm",
+      "reason": "WEAK_MATCH",
+      "bestCandidate": {
+        "id": 111647,
+        "name": "Seduced: Inside the NXIVM Cult",
+        "originalName": "Seduced: Inside the NXIVM Cult",
+        "score": 39
+      },
+      "candidates": [
+        {
+          "id": 111647,
+          "name": "Seduced: Inside the NXIVM Cult",
+          "originalName": "Seduced: Inside the NXIVM Cult",
+          "firstAirDate": "2020-10-18",
+          "popularity": 2.458,
+          "score": 39,
+          "matchType": "STRING"
+        }
+      ]
+    },
+    {
+      "seriesKey": "selena yolanda los secretos entre ellas",
+      "name": "Selena & Yolanda: Los Secretos entre Ellas",
+      "normalizedName": "selena y yolanda los secretos entre ellas",
+      "reason": "WEAK_MATCH",
+      "bestCandidate": {
+        "id": 245525,
+        "name": "Selena & Yolanda: The Secrets Between Them",
+        "originalName": "Selena & Yolanda: The Secrets Between Them",
+        "score": 66
+      },
+      "candidates": [
+        {
+          "id": 245525,
+          "name": "Selena & Yolanda: The Secrets Between Them",
+          "originalName": "Selena & Yolanda: The Secrets Between Them",
+          "firstAirDate": "2024-02-17",
+          "popularity": 1.9931,
+          "score": 66,
+          "matchType": "STRING"
+        }
+      ]
+    },
+    {
+      "seriesKey": "she hulk defensora de heroes",
+      "name": "She-Hulk: Defensora de héroes",
+      "normalizedName": "she hulk defensora de heroes",
+      "reason": "WEAK_MATCH",
+      "bestCandidate": {
+        "id": 92783,
+        "name": "She-Hulk: abogada Hulka",
+        "originalName": "She-Hulk: Attorney at Law",
+        "score": 50
+      },
+      "candidates": [
+        {
+          "id": 92783,
+          "name": "She-Hulk: abogada Hulka",
+          "originalName": "She-Hulk: Attorney at Law",
+          "firstAirDate": "2022-08-18",
+          "popularity": 33.8442,
+          "score": 50,
+          "matchType": "STRING"
+        }
+      ]
+    },
+    {
+      "seriesKey": "socorro",
+      "name": "Socorro",
+      "normalizedName": "socorro",
+      "reason": "WEAK_MATCH",
+      "bestCandidate": {
+        "id": 124326,
+        "name": "Socorro Imediato",
+        "originalName": "Socorro Imediato",
+        "score": 67
+      },
+      "candidates": [
+        {
+          "id": 124326,
+          "name": "Socorro Imediato",
+          "originalName": "Socorro Imediato",
+          "firstAirDate": "2018-08-10",
+          "popularity": 0.5747,
+          "score": 67,
+          "matchType": "TOKENS"
+        },
+        {
+          "id": 338770,
+          "name": "Socorro (2026)",
+          "originalName": "Socorro (2026)",
+          "firstAirDate": "2026-10-16",
+          "popularity": 0.5539,
+          "score": 67,
+          "matchType": "TOKENS"
+        },
+        {
+          "id": 108496,
+          "name": "Estrella, señal de socorro",
+          "originalName": "Военная разведка. Первый удар",
+          "firstAirDate": "2012-05-07",
+          "popularity": 2.4876,
+          "score": 40,
+          "matchType": "TOKENS"
+        },
+        {
+          "id": 268,
+          "name": "Untold Stories of the ER",
+          "originalName": "Untold Stories of the ER",
+          "firstAirDate": "2004-04-26",
+          "popularity": 12.216,
+          "score": 17,
+          "matchType": "STRING"
+        },
+        {
+          "id": 211261,
+          "name": "Unidad de Primera Intervención",
+          "originalName": "소방서 옆 경찰서",
+          "firstAirDate": "2022-11-12",
+          "popularity": 15.3781,
+          "score": 10,
+          "matchType": "STRING"
+        },
+        {
+          "id": 547,
+          "name": "Medical Investigation",
+          "originalName": "Medical Investigation",
+          "firstAirDate": "2004-09-09",
+          "popularity": 12.5093,
+          "score": 10,
+          "matchType": "STRING"
+        },
+        {
+          "id": 56317,
+          "name": "Animal ER",
+          "originalName": "Animal ER",
+          "firstAirDate": "2016-09-10",
+          "popularity": 2.4138,
+          "score": 0,
+          "matchType": "NONE"
+        }
+      ]
+    },
+    {
+      "seriesKey": "sonando con un maldito cuento de hadas",
+      "name": "Soñando con un Maldito Cuento de Hadas",
+      "normalizedName": "sonando con un maldito cuento de hadas",
+      "reason": "WEAK_MATCH",
+      "bestCandidate": {
+        "id": 234061,
+        "name": "Otro típico cuento de hadas",
+        "originalName": "나는 대놓고 신데렐라를 꿈꾼다",
+        "score": 55
+      },
+      "candidates": [
+        {
+          "id": 234061,
+          "name": "Otro típico cuento de hadas",
+          "originalName": "나는 대놓고 신데렐라를 꿈꾼다",
+          "firstAirDate": "2024-05-31",
+          "popularity": 6.296,
+          "score": 55,
+          "matchType": "STRING"
+        }
+      ]
+    },
+    {
+      "seriesKey": "spidey y sus sorprendentes amigos",
+      "name": "Spidey y sus Sorprendentes Amigos",
+      "normalizedName": "spidey y sus sorprendentes amigos",
+      "reason": "WEAK_MATCH",
+      "bestCandidate": {
+        "id": 127635,
+        "name": "Spidey y su Superequipo",
+        "originalName": "Spidey and His Amazing Friends",
+        "score": 55
+      },
+      "candidates": [
+        {
+          "id": 127635,
+          "name": "Spidey y su Superequipo",
+          "originalName": "Spidey and His Amazing Friends",
+          "firstAirDate": "2021-08-06",
+          "popularity": 48.0779,
+          "score": 55,
+          "matchType": "STRING"
+        }
+      ]
+    },
+    {
+      "seriesKey": "star trek",
+      "name": "Star Trek",
+      "normalizedName": "star trek",
+      "reason": "AMBIGUOUS",
+      "bestCandidate": {
+        "id": 253,
+        "name": "Star Trek",
+        "originalName": "Star Trek",
+        "score": 100
+      },
+      "candidates": [
+        {
+          "id": 253,
+          "name": "Star Trek",
+          "originalName": "Star Trek",
+          "firstAirDate": "1966-09-08",
+          "popularity": 81.9158,
+          "score": 100,
+          "matchType": "EXACT"
+        },
+        {
+          "id": 1992,
+          "name": "Star Trek: La serie animada",
+          "originalName": "Star Trek",
+          "firstAirDate": "1973-09-08",
+          "popularity": 12.0501,
+          "score": 100,
+          "matchType": "EXACT"
+        },
+        {
+          "id": 1855,
+          "name": "Star Trek: Voyager",
+          "originalName": "Star Trek: Voyager",
+          "firstAirDate": "1995-01-16",
+          "popularity": 108.2467,
+          "score": 80,
+          "matchType": "TOKENS"
+        },
+        {
+          "id": 314,
+          "name": "Star Trek: Enterprise",
+          "originalName": "Star Trek: Enterprise",
+          "firstAirDate": "2001-09-26",
+          "popularity": 78.0678,
+          "score": 80,
+          "matchType": "TOKENS"
+        },
+        {
+          "id": 67198,
+          "name": "Star Trek: Discovery",
+          "originalName": "Star Trek: Discovery",
+          "firstAirDate": "2017-09-24",
+          "popularity": 74.7877,
+          "score": 80,
+          "matchType": "TOKENS"
+        },
+        {
+          "id": 85949,
+          "name": "Star Trek: Picard",
+          "originalName": "Star Trek: Picard",
+          "firstAirDate": "2020-01-23",
+          "popularity": 43.3584,
+          "score": 80,
+          "matchType": "TOKENS"
+        },
+        {
+          "id": 106393,
+          "name": "Star Trek: Prodigy",
+          "originalName": "Star Trek: Prodigy",
+          "firstAirDate": "2021-10-28",
+          "popularity": 27.2939,
+          "score": 80,
+          "matchType": "TOKENS"
+        },
+        {
+          "id": 334622,
+          "name": "Star Trek: Legenden",
+          "originalName": "Star Trek: Legenden",
+          "firstAirDate": "2026-09-08",
+          "popularity": 4.8093,
+          "score": 80,
+          "matchType": "TOKENS"
+        },
+        {
+          "id": 234469,
+          "name": "Star Trek Day",
+          "originalName": "Star Trek Day",
+          "firstAirDate": "2020-09-08",
+          "popularity": 3.9163,
+          "score": 80,
+          "matchType": "TOKENS"
+        },
+        {
+          "id": 300355,
+          "name": "Star Trek: Scouts",
+          "originalName": "Star Trek: Scouts",
+          "firstAirDate": "2025-09-08",
+          "popularity": 2.3398,
+          "score": 80,
+          "matchType": "TOKENS"
+        }
+      ]
+    },
+    {
+      "seriesKey": "star wars andor",
+      "name": "Star Wars: Andor",
+      "normalizedName": "star wars andor",
+      "reason": "WEAK_MATCH",
+      "bestCandidate": {
+        "id": 83867,
+        "name": "Andor",
+        "originalName": "Andor",
+        "score": 50
+      },
+      "candidates": [
+        {
+          "id": 83867,
+          "name": "Andor",
+          "originalName": "Andor",
+          "firstAirDate": "2022-09-21",
+          "popularity": 50.8277,
+          "score": 50,
+          "matchType": "TOKENS"
+        }
+      ]
+    },
+    {
+      "seriesKey": "star wars el libro de boba fett",
+      "name": "Star Wars: El libro de Boba Fett",
+      "normalizedName": "star wars el libro de boba fett",
+      "reason": "AMBIGUOUS",
+      "bestCandidate": {
+        "id": 198109,
+        "name": "Galería Disney / Star Wars: El libro de Boba Fett",
+        "originalName": "Disney Gallery / Star Wars: The Book of Boba Fett",
+        "score": 88
+      },
+      "candidates": [
+        {
+          "id": 198109,
+          "name": "Galería Disney / Star Wars: El libro de Boba Fett",
+          "originalName": "Disney Gallery / Star Wars: The Book of Boba Fett",
+          "firstAirDate": "2022-05-04",
+          "popularity": 6.6753,
+          "score": 88,
+          "matchType": "TOKENS"
+        },
+        {
+          "id": 115036,
+          "name": "El libro de Boba Fett",
+          "originalName": "The Book of Boba Fett",
+          "firstAirDate": "2021-12-29",
+          "popularity": 23.6504,
+          "score": 83,
+          "matchType": "TOKENS"
+        }
+      ]
+    },
+    {
+      "seriesKey": "star wars historias de los jedi",
+      "name": "Star Wars: Historias de los Jedi",
+      "normalizedName": "star wars historias de los jedi",
+      "reason": "WEAK_MATCH",
+      "bestCandidate": {
+        "id": 203085,
+        "name": "Star Wars: Las crónicas jedi",
+        "originalName": "Star Wars: Tales of the Jedi",
+        "score": 61
+      },
+      "candidates": [
+        {
+          "id": 203085,
+          "name": "Star Wars: Las crónicas jedi",
+          "originalName": "Star Wars: Tales of the Jedi",
+          "firstAirDate": "2022-10-26",
+          "popularity": 13.1941,
+          "score": 61,
+          "matchType": "STRING"
+        }
+      ]
+    },
+    {
+      "seriesKey": "star wars visions presenta la jedi numero 9",
+      "name": "Star Wars: Visions presenta - La Jedi número 9",
+      "normalizedName": "star wars visions presenta la jedi numero 9",
+      "reason": "NO_RESULT",
+      "candidates": []
+    },
+    {
+      "seriesKey": "strong girl nam soon",
+      "name": "Strong Girl Nam-soon",
+      "normalizedName": "strong girl nam soon",
+      "reason": "WEAK_MATCH",
+      "bestCandidate": {
+        "id": 203164,
+        "name": "Nam-soon, una chica superfuerte",
+        "originalName": "힘쎈여자 강남순",
+        "score": 44
+      },
+      "candidates": [
+        {
+          "id": 203164,
+          "name": "Nam-soon, una chica superfuerte",
+          "originalName": "힘쎈여자 강남순",
+          "firstAirDate": "2023-10-07",
+          "popularity": 11.6581,
+          "score": 44,
+          "matchType": "TOKENS"
+        }
+      ]
+    },
+    {
+      "seriesKey": "super campeones rumbo al mundial 2002",
+      "name": "Super Campeones: Rumbo al mundial 2002",
+      "normalizedName": "super campeones rumbo al mundial 2002",
+      "reason": "WEAK_MATCH",
+      "bestCandidate": {
+        "id": 24106,
+        "name": "Campeones hacia el Mundial: Oliver y Benji",
+        "originalName": "キャプテン翼",
+        "score": 37
+      },
+      "candidates": [
+        {
+          "id": 24106,
+          "name": "Campeones hacia el Mundial: Oliver y Benji",
+          "originalName": "キャプテン翼",
+          "firstAirDate": "2001-10-07",
+          "popularity": 15.2208,
+          "score": 37,
+          "matchType": "STRING"
+        }
+      ]
+    },
+    {
+      "seriesKey": "supernatural",
+      "name": "Supernatural",
+      "normalizedName": "supernatural",
+      "reason": "AMBIGUOUS",
+      "bestCandidate": {
+        "id": 1622,
+        "name": "Sobrenatural",
+        "originalName": "Supernatural",
+        "score": 100
+      },
+      "candidates": [
+        {
+          "id": 1622,
+          "name": "Sobrenatural",
+          "originalName": "Supernatural",
+          "firstAirDate": "2005-09-13",
+          "popularity": 306.5449,
+          "score": 100,
+          "matchType": "EXACT"
+        },
+        {
+          "id": 13836,
+          "name": "Supernatural",
+          "originalName": "Supernatural",
+          "firstAirDate": "1977-06-11",
+          "popularity": 5.8359,
+          "score": 100,
+          "matchType": "EXACT"
+        },
+        {
+          "id": 2967,
+          "name": "Super Natural",
+          "originalName": "Unfabulous",
+          "firstAirDate": "2004-09-12",
+          "popularity": 7.2146,
+          "score": 92,
+          "matchType": "STRING"
+        },
+        {
+          "id": 153268,
+          "name": "Supernatural Academy",
+          "originalName": "Supernatural Academy",
+          "firstAirDate": "2022-01-20",
+          "popularity": 4.9475,
+          "score": 67,
+          "matchType": "TOKENS"
+        },
+        {
+          "id": 6926,
+          "name": "Enigmas de la Humanidad",
+          "originalName": "Supernatural Science",
+          "firstAirDate": "1999-02-08",
+          "popularity": 1.8838,
+          "score": 67,
+          "matchType": "TOKENS"
+        },
+        {
+          "id": 333643,
+          "name": "Supernatural Powers",
+          "originalName": "Supernatural Powers",
+          "firstAirDate": "2026-06-26",
+          "popularity": 0.6468,
+          "score": 67,
+          "matchType": "TOKENS"
+        },
+        {
+          "id": 86964,
+          "name": "Supernatural GenderSWAP",
+          "originalName": "Supernatural GenderSWAP",
+          "firstAirDate": "2013-09-29",
+          "popularity": 0.5396,
+          "score": 67,
+          "matchType": "TOKENS"
+        },
+        {
+          "id": 73756,
+          "name": "American Super\\Natural",
+          "originalName": "American Super\\Natural",
+          "firstAirDate": "2014-10-05",
+          "popularity": 1.9748,
+          "score": 55,
+          "matchType": "STRING"
+        },
+        {
+          "id": 32871,
+          "name": "Supernatural The Animation",
+          "originalName": "SUPERNATURAL：THE ANIMATION",
+          "firstAirDate": "2011-01-12",
+          "popularity": 8.3501,
+          "score": 50,
+          "matchType": "TOKENS"
+        },
+        {
+          "id": 80044,
+          "name": "Buzzfeed Unsolved: Supernatural",
+          "originalName": "Buzzfeed Unsolved: Supernatural",
+          "firstAirDate": "2016-04-29",
+          "popularity": 7.8411,
+          "score": 50,
+          "matchType": "TOKENS"
+        }
+      ]
+    },
+    {
+      "seriesKey": "supervivencia al desnudo amor al natural",
+      "name": "Supervivencia al desnudo: Amor al Natural",
+      "normalizedName": "supervivencia al desnudo amor al natural",
+      "reason": "NO_RESULT",
+      "candidates": []
+    },
+    {
+      "seriesKey": "supervivencia al desnudo edicion extrema",
+      "name": "Supervivencia al Desnudo: edicion extrema",
+      "normalizedName": "supervivencia al desnudo edicion extrema",
+      "reason": "WEAK_MATCH",
+      "bestCandidate": {
+        "id": 63451,
+        "name": "Aventura en pelotas XL",
+        "originalName": "Naked and Afraid XL",
+        "score": 25
+      },
+      "candidates": [
+        {
+          "id": 63451,
+          "name": "Aventura en pelotas XL",
+          "originalName": "Naked and Afraid XL",
+          "firstAirDate": "2015-11-08",
+          "popularity": 14.7869,
+          "score": 25,
+          "matchType": "STRING"
+        }
+      ]
+    },
+    {
+      "seriesKey": "swat",
+      "name": "SWAT",
+      "normalizedName": "swat",
+      "reason": "WEAK_MATCH",
+      "bestCandidate": {
+        "id": 10638,
+        "name": "Dallas SWAT",
+        "originalName": "Dallas SWAT",
+        "score": 67
+      },
+      "candidates": [
+        {
+          "id": 10638,
+          "name": "Dallas SWAT",
+          "originalName": "Dallas SWAT",
+          "firstAirDate": "2006-01-05",
+          "popularity": 2.2772,
+          "score": 67,
+          "matchType": "TOKENS"
+        },
+        {
+          "id": 35835,
+          "name": "SWAT Police",
+          "originalName": "SWAT Police",
+          "firstAirDate": "2000-07-19",
+          "popularity": 1.6897,
+          "score": 67,
+          "matchType": "TOKENS"
+        },
+        {
+          "id": 37074,
+          "name": "Detroit SWAT",
+          "originalName": "Detroit SWAT",
+          "firstAirDate": null,
+          "popularity": 0.5257,
+          "score": 67,
+          "matchType": "TOKENS"
+        },
+        {
+          "id": 93922,
+          "name": "Miami Swat",
+          "originalName": "Miami Swat",
+          "firstAirDate": "2009-06-08",
+          "popularity": 0.5155,
+          "score": 67,
+          "matchType": "TOKENS"
+        },
+        {
+          "id": 71790,
+          "name": "S.W.A.T.: Los hombres de Harrelson",
+          "originalName": "S.W.A.T.",
+          "firstAirDate": "2017-11-02",
+          "popularity": 146.3276,
+          "score": 57,
+          "matchType": "STRING"
+        },
+        {
+          "id": 11129,
+          "name": "Los hombres de Harrelson",
+          "originalName": "S.W.A.T.",
+          "firstAirDate": "1975-02-24",
+          "popularity": 8.7167,
+          "score": 57,
+          "matchType": "STRING"
+        },
+        {
+          "id": 299,
+          "name": "SWAT: Virus Hunters",
+          "originalName": "SWAT: Virus Hunters",
+          "firstAirDate": null,
+          "popularity": 0.5204,
+          "score": 50,
+          "matchType": "TOKENS"
+        },
+        {
+          "id": 37114,
+          "name": "Kansas City SWAT",
+          "originalName": "Kansas City SWAT",
+          "firstAirDate": "2006-11-16",
+          "popularity": 0.5016,
+          "score": 50,
+          "matchType": "TOKENS"
+        },
+        {
+          "id": 38359,
+          "name": "SWAT: Miami-Dade",
+          "originalName": "SWAT: Miami-Dade",
+          "firstAirDate": "2011-01-05",
+          "popularity": 0.485,
+          "score": 50,
+          "matchType": "TOKENS"
+        },
+        {
+          "id": 29194,
+          "name": "S.W.A.T. USA",
+          "originalName": "S.W.A.T. USA",
+          "firstAirDate": "2006-09-11",
+          "popularity": 0.7357,
+          "score": 36,
+          "matchType": "STRING"
+        }
+      ]
+    },
+    {
+      "seriesKey": "tale of the nine tailed an unfinished story",
+      "name": "Tale of the Nine Tailed: An Unfinished Story",
+      "normalizedName": "tale of the nine tailed an unfinished story",
+      "reason": "WEAK_MATCH",
+      "bestCandidate": {
+        "id": 137195,
+        "name": "구미호뎐 못다한 이야기",
+        "originalName": "구미호뎐 못다한 이야기",
+        "score": 5
+      },
+      "candidates": [
+        {
+          "id": 137195,
+          "name": "구미호뎐 못다한 이야기",
+          "originalName": "구미호뎐 못다한 이야기",
+          "firstAirDate": "2020-10-26",
+          "popularity": 1.8059,
+          "score": 5,
+          "matchType": "STRING"
+        }
+      ]
+    },
+    {
+      "seriesKey": "the borgias",
+      "name": "The Borgias",
+      "normalizedName": "the borgias",
+      "reason": "AMBIGUOUS",
+      "bestCandidate": {
+        "id": 33025,
+        "name": "Los Borgia",
+        "originalName": "The Borgias",
+        "score": 100
+      },
+      "candidates": [
+        {
+          "id": 33025,
+          "name": "Los Borgia",
+          "originalName": "The Borgias",
+          "firstAirDate": "2011-04-03",
+          "popularity": 24.6286,
+          "score": 100,
+          "matchType": "EXACT"
+        },
+        {
+          "id": 13495,
+          "name": "The Borgias",
+          "originalName": "The Borgias",
+          "firstAirDate": "1981-10-14",
+          "popularity": 3.4129,
+          "score": 100,
+          "matchType": "EXACT"
+        }
+      ]
+    },
+    {
+      "seriesKey": "the veil",
+      "name": "The Veil",
+      "normalizedName": "the veil",
+      "reason": "AMBIGUOUS",
+      "bestCandidate": {
+        "id": 207334,
+        "name": "The Veil: red de mentiras",
+        "originalName": "The Veil",
+        "score": 100
+      },
+      "candidates": [
+        {
+          "id": 207334,
+          "name": "The Veil: red de mentiras",
+          "originalName": "The Veil",
+          "firstAirDate": "2024-04-30",
+          "popularity": 14.1843,
+          "score": 100,
+          "matchType": "EXACT"
+        },
+        {
+          "id": 127358,
+          "name": "The Veil",
+          "originalName": "검은 태양",
+          "firstAirDate": "2021-09-17",
+          "popularity": 6.9702,
+          "score": 100,
+          "matchType": "EXACT"
+        },
+        {
+          "id": 13773,
+          "name": "El velo",
+          "originalName": "The Veil",
+          "firstAirDate": "1958-01-01",
+          "popularity": 6.4817,
+          "score": 100,
+          "matchType": "EXACT"
+        },
+        {
+          "id": 251794,
+          "name": "The Green Veil",
+          "originalName": "The Green Veil",
+          "firstAirDate": "2024-04-30",
+          "popularity": 3.2415,
+          "score": 80,
+          "matchType": "TOKENS"
+        },
+        {
+          "id": 223656,
+          "name": "Beyond the Veil",
+          "originalName": "Beyond the Veil",
+          "firstAirDate": "2022-09-12",
+          "popularity": 1.4387,
+          "score": 80,
+          "matchType": "TOKENS"
+        },
+        {
+          "id": 224714,
+          "name": "The Fox's Veil",
+          "originalName": "The Fox's Veil",
+          "firstAirDate": "2022-03-21",
+          "popularity": 0.5148,
+          "score": 80,
+          "matchType": "TOKENS"
+        },
+        {
+          "id": 194717,
+          "name": "Beyond the Veil",
+          "originalName": "Beyond the Veil",
+          "firstAirDate": "2022-03-07",
+          "popularity": 0.4853,
+          "score": 80,
+          "matchType": "TOKENS"
+        },
+        {
+          "id": 124642,
+          "name": "'Lifting the Veil'",
+          "originalName": "'Lifting the Veil'",
+          "firstAirDate": null,
+          "popularity": 0.4307,
+          "score": 80,
+          "matchType": "TOKENS"
+        },
+        {
+          "id": 328576,
+          "name": "The Winter Veil",
+          "originalName": "The Winter Veil",
+          "firstAirDate": null,
+          "popularity": 0.4257,
+          "score": 80,
+          "matchType": "TOKENS"
+        },
+        {
+          "id": 65243,
+          "name": "All Hail the Veil",
+          "originalName": "All Hail the Veil",
+          "firstAirDate": "2016-01-11",
+          "popularity": 0.4307,
+          "score": 67,
+          "matchType": "TOKENS"
+        }
+      ]
+    },
+    {
+      "seriesKey": "the walking dead los que viven",
+      "name": "The Walking Dead: Los que viven",
+      "normalizedName": "the walking dead los que viven",
+      "reason": "NO_RESULT",
+      "candidates": []
+    },
+    {
+      "seriesKey": "the wonderfools",
+      "name": "The WONDERfools",
+      "normalizedName": "the wonderfools",
+      "reason": "WEAK_MATCH",
+      "bestCandidate": {
+        "id": 259837,
+        "name": "Los SUPERfrikis",
+        "originalName": "원더풀스",
+        "score": 27
+      },
+      "candidates": [
+        {
+          "id": 259837,
+          "name": "Los SUPERfrikis",
+          "originalName": "원더풀스",
+          "firstAirDate": "2026-05-15",
+          "popularity": 22.2832,
+          "score": 27,
+          "matchType": "STRING"
+        }
+      ]
+    },
+    {
+      "seriesKey": "tio grandpa",
+      "name": "Tio Grandpa",
+      "normalizedName": "tio grandpa",
+      "reason": "WEAK_MATCH",
+      "bestCandidate": {
+        "id": 47035,
+        "name": "Tito Yayo",
+        "originalName": "Uncle Grandpa",
+        "score": 62
+      },
+      "candidates": [
+        {
+          "id": 47035,
+          "name": "Tito Yayo",
+          "originalName": "Uncle Grandpa",
+          "firstAirDate": "2013-09-02",
+          "popularity": 53.9981,
+          "score": 62,
+          "matchType": "STRING"
+        }
+      ]
+    },
+    {
+      "seriesKey": "todos odian a chris",
+      "name": "Todos Odian a Chris",
+      "normalizedName": "todos odian a chris",
+      "reason": "WEAK_MATCH",
+      "bestCandidate": {
+        "id": 252,
+        "name": "Todo el mundo odia a Chris",
+        "originalName": "Everybody Hates Chris",
+        "score": 62
+      },
+      "candidates": [
+        {
+          "id": 252,
+          "name": "Todo el mundo odia a Chris",
+          "originalName": "Everybody Hates Chris",
+          "firstAirDate": "2005-09-22",
+          "popularity": 41.0823,
+          "score": 62,
+          "matchType": "STRING"
+        }
+      ]
+    },
+    {
+      "seriesKey": "toriko x one piece x dragon ball z collaboration",
+      "name": "Toriko x One Piece x Dragon Ball Z Collaboration",
+      "normalizedName": "toriko x one piece x dragon ball z collaboration",
+      "reason": "NO_RESULT",
+      "candidates": []
+    },
+    {
+      "seriesKey": "traicionada",
+      "name": "Traicionada",
+      "normalizedName": "traicionada",
+      "reason": "WEAK_MATCH",
+      "bestCandidate": {
+        "id": 110562,
+        "name": "Infiel",
+        "originalName": "Sadakatsiz",
+        "score": 9
+      },
+      "candidates": [
+        {
+          "id": 110562,
+          "name": "Infiel",
+          "originalName": "Sadakatsiz",
+          "firstAirDate": "2020-10-07",
+          "popularity": 22.9038,
+          "score": 9,
+          "matchType": "STRING"
+        }
+      ]
+    },
+    {
+      "seriesKey": "trapped in a dating sim the world of otome games is tough for mobs",
+      "name": "Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs",
+      "normalizedName": "trapped in a dating sim the world of otome games is tough for mobs",
+      "reason": "WEAK_MATCH",
+      "bestCandidate": {
+        "id": 139512,
+        "name": "Otome Game Sekai wa Mob ni Kibishii Sekai desu",
+        "originalName": "乙女ゲー世界はモブに厳しい世界です",
+        "score": 21
+      },
+      "candidates": [
+        {
+          "id": 139512,
+          "name": "Otome Game Sekai wa Mob ni Kibishii Sekai desu",
+          "originalName": "乙女ゲー世界はモブに厳しい世界です",
+          "firstAirDate": "2022-04-03",
+          "popularity": 17.2061,
+          "score": 21,
+          "matchType": "STRING"
+        }
+      ]
+    },
+    {
+      "seriesKey": "true detective",
+      "name": "True Detective",
+      "normalizedName": "true detective",
+      "reason": "AMBIGUOUS",
+      "bestCandidate": {
+        "id": 46648,
+        "name": "True Detective",
+        "originalName": "True Detective",
+        "score": 100
+      },
+      "candidates": [
+        {
+          "id": 46648,
+          "name": "True Detective",
+          "originalName": "True Detective",
+          "firstAirDate": "2014-01-12",
+          "popularity": 93.4641,
+          "score": 100,
+          "matchType": "EXACT"
+        },
+        {
+          "id": 245712,
+          "name": "True Detectives",
+          "originalName": "True Detectives",
+          "firstAirDate": "1990-12-28",
+          "popularity": 0.5259,
+          "score": 93,
+          "matchType": "STRING"
+        },
+        {
+          "id": 234994,
+          "name": "True Crime Story: Citizen Detective",
+          "originalName": "True Crime Story: Citizen Detective",
+          "firstAirDate": "2023-10-12",
+          "popularity": 2.1445,
+          "score": 57,
+          "matchType": "TOKENS"
+        },
+        {
+          "id": 248248,
+          "name": "真探秦先生",
+          "originalName": "真探秦先生",
+          "firstAirDate": "2023-04-04",
+          "popularity": 3.1489,
+          "score": 0,
+          "matchType": "NONE"
+        }
+      ]
+    },
+    {
+      "seriesKey": "ufc fight night",
+      "name": "UFC Fight Night",
+      "normalizedName": "ufc fight night",
+      "reason": "NO_RESULT",
+      "candidates": []
+    },
+    {
+      "seriesKey": "ufc white house",
+      "name": "UFC White House",
+      "normalizedName": "ufc white house",
+      "reason": "NO_RESULT",
+      "candidates": []
+    },
+    {
+      "seriesKey": "vientre funcional",
+      "name": "Vientre Funcional",
+      "normalizedName": "vientre funcional",
+      "reason": "NO_RESULT",
+      "candidates": []
+    },
+    {
+      "seriesKey": "what if",
+      "name": "What If?",
+      "normalizedName": "what if",
+      "reason": "AMBIGUOUS",
+      "bestCandidate": {
+        "id": 91363,
+        "name": "¿Qué pasaría si...?",
+        "originalName": "What If...?",
+        "score": 100
+      },
+      "candidates": [
+        {
+          "id": 91363,
+          "name": "¿Qué pasaría si...?",
+          "originalName": "What If...?",
+          "firstAirDate": "2021-08-11",
+          "popularity": 61.1482,
+          "score": 100,
+          "matchType": "EXACT"
+        },
+        {
+          "id": 81940,
+          "name": "Dilema",
+          "originalName": "WHAT / IF",
+          "firstAirDate": "2019-05-24",
+          "popularity": 10.483,
+          "score": 100,
+          "matchType": "EXACT"
+        },
+        {
+          "id": 235614,
+          "name": "What If",
+          "originalName": "生活在别处的我",
+          "firstAirDate": "2024-05-06",
+          "popularity": 3.6056,
+          "score": 100,
+          "matchType": "EXACT"
+        },
+        {
+          "id": 66565,
+          "name": "What If",
+          "originalName": "Tänk om",
+          "firstAirDate": "2016-05-15",
+          "popularity": 2.5141,
+          "score": 100,
+          "matchType": "EXACT"
+        },
+        {
+          "id": 155386,
+          "name": "What If?",
+          "originalName": "ماذا لو؟",
+          "firstAirDate": "2019-05-07",
+          "popularity": 1.6785,
+          "score": 100,
+          "matchType": "EXACT"
+        },
+        {
+          "id": 224311,
+          "name": "What If",
+          "originalName": "假如这样",
+          "firstAirDate": "2021-11-10",
+          "popularity": 1.0162,
+          "score": 100,
+          "matchType": "EXACT"
+        },
+        {
+          "id": 203255,
+          "name": "What If",
+          "originalName": "What If",
+          "firstAirDate": "2018-02-14",
+          "popularity": 0.8154,
+          "score": 100,
+          "matchType": "EXACT"
+        },
+        {
+          "id": 208452,
+          "name": "What If",
+          "originalName": "สมมติว่า",
+          "firstAirDate": "2022-08-22",
+          "popularity": 0.7372,
+          "score": 100,
+          "matchType": "EXACT"
+        },
+        {
+          "id": 94655,
+          "name": "What If?",
+          "originalName": "What If?",
+          "firstAirDate": "2019-10-18",
+          "popularity": 0.4532,
+          "score": 100,
+          "matchType": "EXACT"
+        },
+        {
+          "id": 332530,
+          "name": "What if ...?",
+          "originalName": "What if ...?",
+          "firstAirDate": "2021-08-11",
+          "popularity": 0.419,
+          "score": 100,
+          "matchType": "EXACT"
+        }
+      ]
+    },
+    {
+      "seriesKey": "yal capk n seyran y ferit",
+      "name": "Yalı Çapkını (Seyran y Ferit)",
+      "normalizedName": "yalı capkını seyran y ferit",
+      "reason": "WEAK_MATCH",
+      "bestCandidate": {
+        "id": 210865,
+        "name": "Una nueva vida",
+        "originalName": "Yalı Çapkını",
+        "score": 57
+      },
+      "candidates": [
+        {
+          "id": 210865,
+          "name": "Una nueva vida",
+          "originalName": "Yalı Çapkını",
+          "firstAirDate": "2022-09-23",
+          "popularity": 38.8065,
+          "score": 57,
+          "matchType": "TOKENS"
+        }
+      ]
+    },
+    {
+      "seriesKey": "yo",
+      "name": "Yo",
+      "normalizedName": "yo",
+      "reason": "WEAK_MATCH",
+      "bestCandidate": {
+        "id": 100883,
+        "name": "Yo nunca",
+        "originalName": "Never Have I Ever",
+        "score": 67
+      },
+      "candidates": [
+        {
+          "id": 100883,
+          "name": "Yo nunca",
+          "originalName": "Never Have I Ever",
+          "firstAirDate": "2020-04-27",
+          "popularity": 33.9088,
+          "score": 67,
+          "matchType": "TOKENS"
+        },
+        {
+          "id": 5487,
+          "name": "Yo Claudio",
+          "originalName": "I, Claudius",
+          "firstAirDate": "1976-09-20",
+          "popularity": 11.3027,
+          "score": 67,
+          "matchType": "TOKENS"
+        },
+        {
+          "id": 120631,
+          "name": "Yo soy",
+          "originalName": "Yo soy",
+          "firstAirDate": "2019-05-12",
+          "popularity": 11.1096,
+          "score": 67,
+          "matchType": "TOKENS"
+        },
+        {
+          "id": 226071,
+          "name": "Yo, adicto",
+          "originalName": "Yo, adicto",
+          "firstAirDate": "2024-10-30",
+          "popularity": 10.0655,
+          "score": 67,
+          "matchType": "TOKENS"
+        },
+        {
+          "id": 64251,
+          "name": "Yo quisiera",
+          "originalName": "Yo quisiera",
+          "firstAirDate": "2015-11-09",
+          "popularity": 6.5792,
+          "score": 67,
+          "matchType": "TOKENS"
+        },
+        {
+          "id": 10442,
+          "name": "Yo Yogi!",
+          "originalName": "Yo Yogi!",
+          "firstAirDate": "1991-09-14",
+          "popularity": 5.103,
+          "score": 67,
+          "matchType": "TOKENS"
+        },
+        {
+          "id": 1367,
+          "name": "Yo Momma",
+          "originalName": "Yo Momma",
+          "firstAirDate": "2006-04-03",
+          "popularity": 4.5005,
+          "score": 67,
+          "matchType": "TOKENS"
+        },
+        {
+          "id": 7769,
+          "name": "Yo soy Bea",
+          "originalName": "Yo soy Bea",
+          "firstAirDate": "2006-07-10",
+          "popularity": 28.8089,
+          "score": 50,
+          "matchType": "TOKENS"
+        },
+        {
+          "id": 277,
+          "name": "Pangako Sa ’Yo",
+          "originalName": "Pangako Sa ’Yo",
+          "firstAirDate": "2000-11-13",
+          "popularity": 28.2242,
+          "score": 50,
+          "matchType": "TOKENS"
+        },
+        {
+          "id": 207141,
+          "name": "Haru yo koi",
+          "originalName": "春よ、来い",
+          "firstAirDate": "1994-10-03",
+          "popularity": 21.9441,
+          "score": 50,
+          "matchType": "TOKENS"
+        }
+      ]
+    },
+    {
+      "seriesKey": "zorro 2024",
+      "name": "Zorro (2024)",
+      "normalizedName": "zorro 2024",
+      "reason": "NO_RESULT",
+      "candidates": []
+    }
+  ]
+}

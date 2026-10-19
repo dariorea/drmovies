@@ -1,0 +1,3359 @@
+AUDITORÍA MATCH_PROBABLE — LISTA 6
+==================================
+
+{
+  "modo": "SOLO LECTURA",
+  "archivoAnalizado": "/home/estudiante/Escritorio/zonaweb/backend/data/series-lista-6-clean-matches.json",
+  "catalogoConsultado": "/home/estudiante/Escritorio/zonaweb/backend/data/series-streams-combined.json",
+  "probablesAnalizados": 371,
+  "clasificaciones": {
+    "ALTA_ESTRUCTURA": 71,
+    "REVISAR_CATALOGO": 10,
+    "REVISAR": 89,
+    "BAJA_COINCIDENCIA": 201
+  },
+  "existentesEnCatalogo": 66,
+  "noExistentesEnCatalogo": 305,
+  "estructurasExactasConCandidato": 52,
+  "estructurasExactasConCatalogo": 17,
+  "candidatosAmbiguos": 0
+}
+
+[ALTA_ESTRUCTURA] Herederos
+  TMDB: 48462 — The Heirs
+  Puntuación: 105 | Segundo candidato: Herederos
+  Episodios lista/candidato: 20/20
+  Similitud estructura: 1
+  Estructura exacta: true
+  Existe en catálogo: false
+  Motivo: Coinciden exactamente las cantidades por temporada.
+
+[ALTA_ESTRUCTURA] Cain and Abel
+  TMDB: 38971 — Cain and Abel
+  Puntuación: 105 | Segundo candidato: Cain and Abel
+  Episodios lista/candidato: 20/20
+  Similitud estructura: 1
+  Estructura exacta: true
+  Existe en catálogo: false
+  Motivo: Coinciden exactamente las cantidades por temporada.
+
+[ALTA_ESTRUCTURA] Cielo rojo
+  TMDB: 117896 — Lovers of the Red Sky
+  Puntuación: 105 | Segundo candidato: Under A Red Sky
+  Episodios lista/candidato: 16/16
+  Similitud estructura: 1
+  Estructura exacta: true
+  Existe en catálogo: false
+  Motivo: Coinciden exactamente las cantidades por temporada.
+
+[ALTA_ESTRUCTURA] Revival
+  TMDB: 254013 — Revival
+  Puntuación: 105 | Segundo candidato: Revival
+  Episodios lista/candidato: 10/10
+  Similitud estructura: 1
+  Estructura exacta: true
+  Existe en catálogo: false
+  Motivo: Coinciden exactamente las cantidades por temporada.
+
+[ALTA_ESTRUCTURA] Ben 10
+  TMDB: 4686 — Ben 10
+  Puntuación: 105 | Segundo candidato: Ben 10
+  Episodios lista/candidato: 52/52
+  Similitud estructura: 1
+  Estructura exacta: true
+  Existe en catálogo: false
+  Motivo: Coinciden exactamente las cantidades por temporada.
+
+[ALTA_ESTRUCTURA] La Venganza
+  TMDB: 14794 — La Venganza
+  Puntuación: 105 | Segundo candidato: La venganza
+  Episodios lista/candidato: 127/127
+  Similitud estructura: 1
+  Estructura exacta: true
+  Existe en catálogo: false
+  Motivo: Coinciden exactamente las cantidades por temporada.
+
+[ALTA_ESTRUCTURA] Akuma-kun
+  TMDB: 120241 — Akuma Kun
+  Puntuación: 105 | Segundo candidato: Akuma-kun
+  Episodios lista/candidato: 12/12
+  Similitud estructura: 1
+  Estructura exacta: true
+  Existe en catálogo: false
+  Motivo: Coinciden exactamente las cantidades por temporada.
+
+[ALTA_ESTRUCTURA] Bienvenidos a la familia
+  TMDB: 285042 — Welcome to the Family
+  Puntuación: 105 | Segundo candidato: Welcome to the Family
+  Episodios lista/candidato: 8/8
+  Similitud estructura: 1
+  Estructura exacta: true
+  Existe en catálogo: false
+  Motivo: Coinciden exactamente las cantidades por temporada.
+
+[ALTA_ESTRUCTURA] De cita en cita: Brasil
+  TMDB: 105846 — Dating Around: Brazil
+  Puntuación: 105 | Segundo candidato: Dating Around
+  Episodios lista/candidato: 6/6
+  Similitud estructura: 1
+  Estructura exacta: true
+  Existe en catálogo: false
+  Motivo: Coinciden exactamente las cantidades por temporada.
+
+[ALTA_ESTRUCTURA] 4Ever
+  TMDB: 156929 — 4Ever
+  Puntuación: 105 | Segundo candidato: 4eVeR
+  Episodios lista/candidato: 5/5
+  Similitud estructura: 1
+  Estructura exacta: true
+  Existe en catálogo: false
+  Motivo: Coinciden exactamente las cantidades por temporada.
+
+[ALTA_ESTRUCTURA] Golden Kamuy
+  TMDB: 259882 — Golden Kamuy -The Hunt of Prisoners in Hokkaido-
+  Puntuación: 105 | Segundo candidato: Golden Kamuy
+  Episodios lista/candidato: 9/9
+  Similitud estructura: 1
+  Estructura exacta: true
+  Existe en catálogo: true
+  Motivo: Coinciden exactamente las cantidades por temporada.
+
+[ALTA_ESTRUCTURA] Infamia
+  TMDB: 230371 — Infamy
+  Puntuación: 105 | Segundo candidato: Infamia
+  Episodios lista/candidato: 8/8
+  Similitud estructura: 1
+  Estructura exacta: true
+  Existe en catálogo: false
+  Motivo: Coinciden exactamente las cantidades por temporada.
+
+[ALTA_ESTRUCTURA] Jusqu'ici tout va bien
+  TMDB: 222559 — Thicker Than Water
+  Puntuación: 105 | Segundo candidato: Jusqu'ici tout va bien
+  Episodios lista/candidato: 8/8
+  Similitud estructura: 1
+  Estructura exacta: true
+  Existe en catálogo: false
+  Motivo: Coinciden exactamente las cantidades por temporada.
+
+[ALTA_ESTRUCTURA] Doctor Who
+  TMDB: 239770 — Doctor Who
+  Puntuación: 105 | Segundo candidato: Doctor Who
+  Episodios lista/candidato: 16/16
+  Similitud estructura: 1
+  Estructura exacta: true
+  Existe en catálogo: false
+  Motivo: Coinciden exactamente las cantidades por temporada.
+
+[ALTA_ESTRUCTURA] Lobo
+  TMDB: 75365 — Wolf
+  Puntuación: 105 | Segundo candidato: Lobo
+  Episodios lista/candidato: 6/6
+  Similitud estructura: 1
+  Estructura exacta: true
+  Existe en catálogo: false
+  Motivo: Coinciden exactamente las cantidades por temporada.
+
+[ALTA_ESTRUCTURA] Long Story Short
+  TMDB: 262375 — Long Story Short
+  Puntuación: 105 | Segundo candidato: Long Story Short
+  Episodios lista/candidato: 10/10
+  Similitud estructura: 1
+  Estructura exacta: true
+  Existe en catálogo: false
+  Motivo: Coinciden exactamente las cantidades por temporada.
+
+[ALTA_ESTRUCTURA] Lookism
+  TMDB: 210942 — Lookism
+  Puntuación: 105 | Segundo candidato: Lookism
+  Episodios lista/candidato: 8/8
+  Similitud estructura: 1
+  Estructura exacta: true
+  Existe en catálogo: true
+  Motivo: Coinciden exactamente las cantidades por temporada.
+
+[ALTA_ESTRUCTURA] Make My Day
+  TMDB: 217710 — MAKE MY DAY
+  Puntuación: 105 | Segundo candidato: Make My Day
+  Episodios lista/candidato: 8/8
+  Similitud estructura: 1
+  Estructura exacta: true
+  Existe en catálogo: false
+  Motivo: Coinciden exactamente las cantidades por temporada.
+
+[ALTA_ESTRUCTURA] Mentiras verdaderas
+  TMDB: 202099 — True Lies
+  Puntuación: 105 | Segundo candidato: Mentiras verdaderas
+  Episodios lista/candidato: 13/13
+  Similitud estructura: 1
+  Estructura exacta: true
+  Existe en catálogo: true
+  Motivo: Coinciden exactamente las cantidades por temporada.
+
+[ALTA_ESTRUCTURA] Secretos de familia
+  TMDB: 207642 — Family Secrets
+  Puntuación: 105 | Segundo candidato: My Father and His Family
+  Episodios lista/candidato: 8/8
+  Similitud estructura: 1
+  Estructura exacta: true
+  Existe en catálogo: false
+  Motivo: Coinciden exactamente las cantidades por temporada.
+
+[ALTA_ESTRUCTURA] Subteran
+  TMDB: 277805 — Subteran
+  Puntuación: 105 | Segundo candidato: Underground
+  Episodios lista/candidato: 6/6
+  Similitud estructura: 1
+  Estructura exacta: true
+  Existe en catálogo: true
+  Motivo: Coinciden exactamente las cantidades por temporada.
+
+[ALTA_ESTRUCTURA] Teletubbies
+  TMDB: 211069 — Teletubbies
+  Puntuación: 105 | Segundo candidato: Teletubbies
+  Episodios lista/candidato: 26/26
+  Similitud estructura: 1
+  Estructura exacta: true
+  Existe en catálogo: false
+  Motivo: Coinciden exactamente las cantidades por temporada.
+
+[ALTA_ESTRUCTURA] The Days
+  TMDB: 216228 — THE DAYS
+  Puntuación: 105 | Segundo candidato: The Days
+  Episodios lista/candidato: 8/8
+  Similitud estructura: 1
+  Estructura exacta: true
+  Existe en catálogo: false
+  Motivo: Coinciden exactamente las cantidades por temporada.
+
+[ALTA_ESTRUCTURA] Boys Over Flowers
+  TMDB: 16420 — Boys Over Flowers
+  Puntuación: 105 | Segundo candidato: Boys Over Flowers
+  Episodios lista/candidato: 25/25
+  Similitud estructura: 1
+  Estructura exacta: true
+  Existe en catálogo: true
+  Motivo: Coinciden exactamente las cantidades por temporada.
+
+[ALTA_ESTRUCTURA] Floribella
+  TMDB: 34057 — Floribella
+  Puntuación: 105 | Segundo candidato: Floribella
+  Episodios lista/candidato: 106/106
+  Similitud estructura: 1
+  Estructura exacta: true
+  Existe en catálogo: false
+  Motivo: Coinciden exactamente las cantidades por temporada.
+
+[ALTA_ESTRUCTURA] Oro verde
+  TMDB: 98224 — Oro verde
+  Puntuación: 105 | Segundo candidato: Ouro Verde
+  Episodios lista/candidato: 104/104
+  Similitud estructura: 1
+  Estructura exacta: true
+  Existe en catálogo: false
+  Motivo: Coinciden exactamente las cantidades por temporada.
+
+[ALTA_ESTRUCTURA] Apagón
+  TMDB: 136365 — Blackout: Tomorrow Is Too Late
+  Puntuación: 105 | Segundo candidato: Offworld
+  Episodios lista/candidato: 6/6
+  Similitud estructura: 1
+  Estructura exacta: true
+  Existe en catálogo: false
+  Motivo: Coinciden exactamente las cantidades por temporada.
+
+[ALTA_ESTRUCTURA] Búnker
+  TMDB: 124791 — Bunker
+  Puntuación: 105 | Segundo candidato: The Bunker
+  Episodios lista/candidato: 8/8
+  Similitud estructura: 1
+  Estructura exacta: true
+  Existe en catálogo: false
+  Motivo: Coinciden exactamente las cantidades por temporada.
+
+[ALTA_ESTRUCTURA] Naomi
+  TMDB: 125474 — Naomi
+  Puntuación: 105 | Segundo candidato: Naomi
+  Episodios lista/candidato: 13/13
+  Similitud estructura: 1
+  Estructura exacta: true
+  Existe en catálogo: false
+  Motivo: Coinciden exactamente las cantidades por temporada.
+
+[ALTA_ESTRUCTURA] Tiger
+  TMDB: 116455 — Tiger
+  Puntuación: 105 | Segundo candidato: Tiger
+  Episodios lista/candidato: 2/2
+  Similitud estructura: 1
+  Estructura exacta: true
+  Existe en catálogo: false
+  Motivo: Coinciden exactamente las cantidades por temporada.
+
+[ALTA_ESTRUCTURA] Young Love
+  TMDB: 62672 — Young Love
+  Puntuación: 105 | Segundo candidato: Young Love
+  Episodios lista/candidato: 8/8
+  Similitud estructura: 1
+  Estructura exacta: true
+  Existe en catálogo: false
+  Motivo: Coinciden exactamente las cantidades por temporada.
+
+[ALTA_ESTRUCTURA] Amor secreto
+  TMDB: 57278 — Secret Love
+  Puntuación: 105 | Segundo candidato: Amor secreto
+  Episodios lista/candidato: 16/16
+  Similitud estructura: 1
+  Estructura exacta: true
+  Existe en catálogo: false
+  Motivo: Coinciden exactamente las cantidades por temporada.
+
+[ALTA_ESTRUCTURA] Vecinos
+  TMDB: 109014 — Vecinos
+  Puntuación: 105 | Segundo candidato: Neighbors
+  Episodios lista/candidato: 1/1
+  Similitud estructura: 1
+  Estructura exacta: true
+  Existe en catálogo: false
+  Motivo: Coinciden exactamente las cantidades por temporada.
+
+[ALTA_ESTRUCTURA] A Galaxy Next Door
+  TMDB: 200732 — A Galaxy Next Door
+  Puntuación: 105 | Segundo candidato: A Galaxy Next Door
+  Episodios lista/candidato: 12/12
+  Similitud estructura: 1
+  Estructura exacta: true
+  Existe en catálogo: false
+  Motivo: Coinciden exactamente las cantidades por temporada.
+
+[ALTA_ESTRUCTURA] A.D. Police
+  TMDB: 67818 — A.D. Police Files
+  Puntuación: 105 | Segundo candidato: A.D. Police
+  Episodios lista/candidato: 3/3
+  Similitud estructura: 1
+  Estructura exacta: true
+  Existe en catálogo: false
+  Motivo: Coinciden exactamente las cantidades por temporada.
+
+[ALTA_ESTRUCTURA] Do It Yourself!!
+  TMDB: 121702 — Do It Yourself!!
+  Puntuación: 105 | Segundo candidato: DIY!!: Do It Yourself
+  Episodios lista/candidato: 12/12
+  Similitud estructura: 1
+  Estructura exacta: true
+  Existe en catálogo: false
+  Motivo: Coinciden exactamente las cantidades por temporada.
+
+[ALTA_ESTRUCTURA] Fate/Zero
+  TMDB: 72304 — Fate/Apocrypha
+  Puntuación: 105 | Segundo candidato: Zoids Wild Zero
+  Episodios lista/candidato: 25/25
+  Similitud estructura: 1
+  Estructura exacta: true
+  Existe en catálogo: false
+  Motivo: Coinciden exactamente las cantidades por temporada.
+
+[ALTA_ESTRUCTURA] My Home Hero
+  TMDB: 204412 — My Home Hero
+  Puntuación: 105 | Segundo candidato: My Home Hero
+  Episodios lista/candidato: 12/12
+  Similitud estructura: 1
+  Estructura exacta: true
+  Existe en catálogo: false
+  Motivo: Coinciden exactamente las cantidades por temporada.
+
+[ALTA_ESTRUCTURA] Pluto
+  TMDB: 91997 — PLUTO
+  Puntuación: 105 | Segundo candidato: Pluto
+  Episodios lista/candidato: 8/8
+  Similitud estructura: 1
+  Estructura exacta: true
+  Existe en catálogo: false
+  Motivo: Coinciden exactamente las cantidades por temporada.
+
+[ALTA_ESTRUCTURA] Shaman King
+  TMDB: 40143 — Shaman King
+  Puntuación: 105 | Segundo candidato: SHAMAN KING
+  Episodios lista/candidato: 64/64
+  Similitud estructura: 1
+  Estructura exacta: true
+  Existe en catálogo: false
+  Motivo: Coinciden exactamente las cantidades por temporada.
+
+[ALTA_ESTRUCTURA] Fate/Apocrypha
+  TMDB: 72304 — Fate/Apocrypha
+  Puntuación: 105 | Segundo candidato: Fate
+  Episodios lista/candidato: 25/25
+  Similitud estructura: 1
+  Estructura exacta: true
+  Existe en catálogo: false
+  Motivo: Coinciden exactamente las cantidades por temporada.
+
+[ALTA_ESTRUCTURA] Doménica Montero
+  TMDB: 307423 — Doménica Montero
+  Puntuación: 105 | Segundo candidato: Doménica Montero
+  Episodios lista/candidato: 50/50
+  Similitud estructura: 1
+  Estructura exacta: true
+  Existe en catálogo: false
+  Motivo: Coinciden exactamente las cantidades por temporada.
+
+[ALTA_ESTRUCTURA] La Carrera de Los Autos Locos
+  TMDB: 985 — Wacky Races
+  Puntuación: 105 | Segundo candidato: Wacky Races
+  Episodios lista/candidato: 34/34
+  Similitud estructura: 1
+  Estructura exacta: true
+  Existe en catálogo: false
+  Motivo: Coinciden exactamente las cantidades por temporada.
+
+[ALTA_ESTRUCTURA] Aprendiendo a vivir
+  TMDB: 158154 — Heartbreak High
+  Puntuación: 105 | Segundo candidato: Boy Meets World
+  Episodios lista/candidato: 24/24
+  Similitud estructura: 1
+  Estructura exacta: true
+  Existe en catálogo: false
+  Motivo: Coinciden exactamente las cantidades por temporada.
+
+[ALTA_ESTRUCTURA] Homicidio
+  TMDB: 248126 — Homicide
+  Puntuación: 105 | Segundo candidato: Homicide: Life on the Street
+  Episodios lista/candidato: 15/15
+  Similitud estructura: 1
+  Estructura exacta: true
+  Existe en catálogo: false
+  Motivo: Coinciden exactamente las cantidades por temporada.
+
+[ALTA_ESTRUCTURA] Madison
+  TMDB: 225891 — The Madison
+  Puntuación: 105 | Segundo candidato: Madison
+  Episodios lista/candidato: 6/6
+  Similitud estructura: 1
+  Estructura exacta: true
+  Existe en catálogo: true
+  Motivo: Coinciden exactamente las cantidades por temporada.
+
+[ALTA_ESTRUCTURA] Kiss Me
+  TMDB: 273240 — Off Campus
+  Puntuación: 105 | Segundo candidato: Kiss Me
+  Episodios lista/candidato: 8/8
+  Similitud estructura: 1
+  Estructura exacta: true
+  Existe en catálogo: true
+  Motivo: Coinciden exactamente las cantidades por temporada.
+
+[ALTA_ESTRUCTURA] Teresa
+  TMDB: 12926 — Teresa
+  Puntuación: 105 | Segundo candidato: Teresa
+  Episodios lista/candidato: 151/151
+  Similitud estructura: 1
+  Estructura exacta: true
+  Existe en catálogo: false
+  Motivo: Coinciden exactamente las cantidades por temporada.
+
+[ALTA_ESTRUCTURA] El rostro de la venganza
+  TMDB: 316205 — Deep Revenge
+  Puntuación: 105 | Segundo candidato: Facing Destiny
+  Episodios lista/candidato: 11/11
+  Similitud estructura: 1
+  Estructura exacta: true
+  Existe en catálogo: false
+  Motivo: Coinciden exactamente las cantidades por temporada.
+
+[ALTA_ESTRUCTURA] Isabel
+  TMDB: 98518 — Isabel
+  Puntuación: 105 | Segundo candidato: Isabel
+  Episodios lista/candidato: 3/3
+  Similitud estructura: 1
+  Estructura exacta: true
+  Existe en catálogo: false
+  Motivo: Coinciden exactamente las cantidades por temporada.
+
+[ALTA_ESTRUCTURA] Carrie
+  TMDB: 288673 — Carrie
+  Puntuación: 105 | Segundo candidato: The Carrie Diaries
+  Episodios lista/candidato: 8/8
+  Similitud estructura: 1
+  Estructura exacta: true
+  Existe en catálogo: false
+  Motivo: Coinciden exactamente las cantidades por temporada.
+
+[ALTA_ESTRUCTURA] Bajo la superficie
+  TMDB: 285322 — Below
+  Puntuación: 105 | Segundo candidato: Below the Surface
+  Episodios lista/candidato: 6/6
+  Similitud estructura: 1
+  Estructura exacta: true
+  Existe en catálogo: false
+  Motivo: Coinciden exactamente las cantidades por temporada.
+
+[ALTA_ESTRUCTURA] 16
+  TMDB: 106302 — 16
+  Puntuación: 95 | Segundo candidato: Club Friday Season 16: Hot Love Issue
+  Episodios lista/candidato: 99/98
+  Similitud estructura: 0.9899
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: Coinciden las temporadas y las cantidades son muy similares.
+
+[ALTA_ESTRUCTURA] Elfen Lied
+  TMDB: 42671 — Elfen Lied
+  Puntuación: 94 | Segundo candidato: N/D
+  Episodios lista/candidato: 14/13
+  Similitud estructura: 0.9286
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: Coinciden las temporadas y las cantidades son muy similares.
+
+[ALTA_ESTRUCTURA] Mirai Nikki
+  TMDB: 46671 — The Future Diary
+  Puntuación: 94 | Segundo candidato: N/D
+  Episodios lista/candidato: 28/26
+  Similitud estructura: 0.9286
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: Coinciden las temporadas y las cantidades son muy similares.
+
+[ALTA_ESTRUCTURA] Unforgettable love
+  TMDB: 128926 — Unforgettable Love
+  Puntuación: 94 | Segundo candidato: Unforgettable Love
+  Episodios lista/candidato: 25/24
+  Similitud estructura: 0.96
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: Coinciden las temporadas y las cantidades son muy similares.
+
+[ALTA_ESTRUCTURA] Los Backyardigans
+  TMDB: 1878 — The Backyardigans
+  Puntuación: 94 | Segundo candidato: N/D
+  Episodios lista/candidato: 80/79
+  Similitud estructura: 0.9625
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: Coinciden las temporadas y las cantidades son muy similares.
+
+[ALTA_ESTRUCTURA] Bloque de búsqueda
+  TMDB: 102918 — Bloque de búsqueda
+  Puntuación: 94 | Segundo candidato: N/D
+  Episodios lista/candidato: 74/71
+  Similitud estructura: 0.9595
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: Coinciden las temporadas y las cantidades son muy similares.
+
+[ALTA_ESTRUCTURA] El sabor del destino
+  TMDB: 197107 — Delicacies Destiny
+  Puntuación: 94 | Segundo candidato: N/D
+  Episodios lista/candidato: 17/16
+  Similitud estructura: 0.9412
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: Coinciden las temporadas y las cantidades son muy similares.
+
+[ALTA_ESTRUCTURA] Scissor Seven
+  TMDB: 79141 — Scissor Seven
+  Puntuación: 94 | Segundo candidato: N/D
+  Episodios lista/candidato: 54/50
+  Similitud estructura: 0.9259
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: Coinciden las temporadas y las cantidades son muy similares.
+
+[ALTA_ESTRUCTURA] Una nueva jugada
+  TMDB: 244623 — Running Point
+  Puntuación: 94 | Segundo candidato: N/D
+  Episodios lista/candidato: 21/20
+  Similitud estructura: 0.9524
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: Coinciden las temporadas y las cantidades son muy similares.
+
+[ALTA_ESTRUCTURA] Machos
+  TMDB: 76649 — Machos
+  Puntuación: 94 | Segundo candidato: N/D
+  Episodios lista/candidato: 169/163
+  Similitud estructura: 0.9645
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: Coinciden las temporadas y las cantidades son muy similares.
+
+[ALTA_ESTRUCTURA] Playa salvaje
+  TMDB: 32774 — Playa salvaje
+  Puntuación: 94 | Segundo candidato: N/D
+  Episodios lista/candidato: 108/105
+  Similitud estructura: 0.9722
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: Coinciden las temporadas y las cantidades son muy similares.
+
+[ALTA_ESTRUCTURA] DC's Stargirl
+  TMDB: 80986 — DC's Stargirl
+  Puntuación: 94 | Segundo candidato: N/D
+  Episodios lista/candidato: 39/39
+  Similitud estructura: 0.9744
+  Estructura exacta: false
+  Existe en catálogo: true
+  Motivo: Coinciden las temporadas y las cantidades son muy similares.
+
+[ALTA_ESTRUCTURA] Bajoterra
+  TMDB: 46994 — Slugterra
+  Puntuación: 94 | Segundo candidato: N/D
+  Episodios lista/candidato: 63/59
+  Similitud estructura: 0.9365
+  Estructura exacta: false
+  Existe en catálogo: true
+  Motivo: Coinciden las temporadas y las cantidades son muy similares.
+
+[ALTA_ESTRUCTURA] Operativo: Lioness
+  TMDB: 113962 — Lioness
+  Puntuación: 93 | Segundo candidato: N/D
+  Episodios lista/candidato: 26/24
+  Similitud estructura: 0.9231
+  Estructura exacta: false
+  Existe en catálogo: true
+  Motivo: Coinciden las temporadas y las cantidades son muy similares.
+
+[ALTA_ESTRUCTURA] Deadman Wonderland
+  TMDB: 42503 — Deadman Wonderland
+  Puntuación: 93 | Segundo candidato: N/D
+  Episodios lista/candidato: 13/12
+  Similitud estructura: 0.9231
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: Coinciden las temporadas y las cantidades son muy similares.
+
+[ALTA_ESTRUCTURA] Highschool of the Dead
+  TMDB: 56998 — High School of the Dead
+  Puntuación: 93 | Segundo candidato: N/D
+  Episodios lista/candidato: 13/12
+  Similitud estructura: 0.9231
+  Estructura exacta: false
+  Existe en catálogo: true
+  Motivo: Coinciden las temporadas y las cantidades son muy similares.
+
+[ALTA_ESTRUCTURA] Hombre vs. Abeja
+  TMDB: 197588 — Man vs Bee
+  Puntuación: 93 | Segundo candidato: N/D
+  Episodios lista/candidato: 10/9
+  Similitud estructura: 0.9
+  Estructura exacta: false
+  Existe en catálogo: true
+  Motivo: Coinciden las temporadas y las cantidades son muy similares.
+
+[ALTA_ESTRUCTURA] Dime quién fue
+  TMDB: 95832 — Dime quién fue
+  Puntuación: 93 | Segundo candidato: N/D
+  Episodios lista/candidato: 105/97
+  Similitud estructura: 0.9238
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: Coinciden las temporadas y las cantidades son muy similares.
+
+[ALTA_ESTRUCTURA] Little Margo Stories
+  TMDB: 252512 — Little Margo Stories
+  Puntuación: 93 | Segundo candidato: N/D
+  Episodios lista/candidato: 11/10
+  Similitud estructura: 0.9091
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: Coinciden las temporadas y las cantidades son muy similares.
+
+[REVISAR_CATALOGO] Bridgerton
+  TMDB: 91239 — Bridgerton
+  Puntuación: 93 | Segundo candidato: N/D
+  Episodios lista/candidato: 32/32
+  Similitud estructura: 1
+  Estructura exacta: false
+  Existe en catálogo: true
+  Motivo: La estructura de la lista coincide con la del catálogo actual.
+
+[REVISAR_CATALOGO] Task: Unidad especial
+  TMDB: 228305 — Task
+  Puntuación: 93 | Segundo candidato: N/D
+  Episodios lista/candidato: 7/7
+  Similitud estructura: 1
+  Estructura exacta: false
+  Existe en catálogo: true
+  Motivo: La estructura de la lista coincide con la del catálogo actual.
+
+[REVISAR_CATALOGO] Ballard: Casos sin resolver
+  TMDB: 239826 — Ballard
+  Puntuación: 93 | Segundo candidato: N/D
+  Episodios lista/candidato: 10/10
+  Similitud estructura: 1
+  Estructura exacta: false
+  Existe en catálogo: true
+  Motivo: La estructura de la lista coincide con la del catálogo actual.
+
+[REVISAR_CATALOGO] La maldición de Widow's Bay
+  TMDB: 270476 — Widow's Bay
+  Puntuación: 93 | Segundo candidato: N/D
+  Episodios lista/candidato: 10/10
+  Similitud estructura: 1
+  Estructura exacta: false
+  Existe en catálogo: true
+  Motivo: La estructura de la lista coincide con la del catálogo actual.
+
+[REVISAR_CATALOGO] el lagarto juancho
+  TMDB: 15307 — The Hanna-Barbera New Cartoon Series
+  Puntuación: 92 | Segundo candidato: N/D
+  Episodios lista/candidato: 52/156
+  Similitud estructura: 0.3333
+  Estructura exacta: false
+  Existe en catálogo: true
+  Motivo: La estructura de la lista coincide con la del catálogo actual.
+
+[REVISAR_CATALOGO] Los elegidos
+  TMDB: 85077 — The Chosen
+  Puntuación: 92 | Segundo candidato: Los Elegidos
+  Episodios lista/candidato: 40/47
+  Similitud estructura: 0.8511
+  Estructura exacta: false
+  Existe en catálogo: true
+  Motivo: La estructura de la lista coincide con la del catálogo actual.
+
+[REVISAR_CATALOGO] Stick: El swing perfecto
+  TMDB: 248830 — Stick
+  Puntuación: 91 | Segundo candidato: N/D
+  Episodios lista/candidato: 10/20
+  Similitud estructura: 0.5
+  Estructura exacta: false
+  Existe en catálogo: true
+  Motivo: La estructura de la lista coincide con la del catálogo actual.
+
+[REVISAR_CATALOGO] El pantano
+  TMDB: 81686 — The Mire
+  Puntuación: 91 | Segundo candidato: El pantano
+  Episodios lista/candidato: 11/17
+  Similitud estructura: 0.6471
+  Estructura exacta: false
+  Existe en catálogo: true
+  Motivo: La estructura de la lista coincide con la del catálogo actual.
+
+[REVISAR_CATALOGO] La lista terminal
+  TMDB: 120911 — The Terminal List
+  Puntuación: 91 | Segundo candidato: N/D
+  Episodios lista/candidato: 8/16
+  Similitud estructura: 0.5
+  Estructura exacta: false
+  Existe en catálogo: true
+  Motivo: La estructura de la lista coincide con la del catálogo actual.
+
+[REVISAR_CATALOGO] El Pequeño Bheem
+  TMDB: 88393 — Mighty Little Bheem
+  Puntuación: 90 | Segundo candidato: N/D
+  Episodios lista/candidato: 21/64
+  Similitud estructura: 0.3281
+  Estructura exacta: false
+  Existe en catálogo: true
+  Motivo: La estructura de la lista coincide con la del catálogo actual.
+
+[REVISAR] La formación de Isabel
+  TMDB: 198085 — Becoming Elizabeth
+  Puntuación: 94 | Segundo candidato: N/D
+  Episodios lista/candidato: 7/8
+  Similitud estructura: 0.875
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: Hay similitud estructural, pero faltan comprobaciones.
+
+[REVISAR] Lawmen: Bass Reeves
+  TMDB: 157732 — Lawmen: Bass Reeves
+  Puntuación: 94 | Segundo candidato: N/D
+  Episodios lista/candidato: 7/8
+  Similitud estructura: 0.875
+  Estructura exacta: false
+  Existe en catálogo: true
+  Motivo: Hay similitud estructural, pero faltan comprobaciones.
+
+[REVISAR] Operación Pacífico
+  TMDB: 99310 — Operación Pacífico
+  Puntuación: 94 | Segundo candidato: N/D
+  Episodios lista/candidato: 44/60
+  Similitud estructura: 0.7333
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: Hay similitud estructural, pero faltan comprobaciones.
+
+[REVISAR] Kardeslerim
+  TMDB: 119267 — My Siblings
+  Puntuación: 94 | Segundo candidato: N/D
+  Episodios lista/candidato: 116/132
+  Similitud estructura: 0.8788
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: Hay similitud estructural, pero faltan comprobaciones.
+
+[REVISAR] Hijos de las estrellas
+  TMDB: 77913 — Children Of The Stars
+  Puntuación: 94 | Segundo candidato: N/D
+  Episodios lista/candidato: 24/28
+  Similitud estructura: 0.8571
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: Hay similitud estructural, pero faltan comprobaciones.
+
+[REVISAR] Los Reyes
+  TMDB: 19505 — Los Reyes
+  Puntuación: 94 | Segundo candidato: N/D
+  Episodios lista/candidato: 216/250
+  Similitud estructura: 0.864
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: Hay similitud estructural, pero faltan comprobaciones.
+
+[REVISAR] Bitch
+  TMDB: 74083 — My Girlfriend Is Shobitch
+  Puntuación: 94 | Segundo candidato: Yarichin Bitch Club
+  Episodios lista/candidato: 8/10
+  Similitud estructura: 0.8
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: Hay similitud estructural, pero faltan comprobaciones.
+
+[REVISAR] La Segunda Guerra Mundial A Todo Color
+  TMDB: 42154 — World War II in Colour
+  Puntuación: 94 | Segundo candidato: N/D
+  Episodios lista/candidato: 10/13
+  Similitud estructura: 0.7692
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: Hay similitud estructural, pero faltan comprobaciones.
+
+[REVISAR] El Mantequilla: Maestro de la estafa
+  TMDB: 206966 — Butter Man: The Slickest Mexican Thief
+  Puntuación: 94 | Segundo candidato: N/D
+  Episodios lista/candidato: 7/8
+  Similitud estructura: 0.875
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: Hay similitud estructural, pero faltan comprobaciones.
+
+[REVISAR] Amar profundo
+  TMDB: 138506 — Amar profundo
+  Puntuación: 94 | Segundo candidato: N/D
+  Episodios lista/candidato: 116/156
+  Similitud estructura: 0.7436
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: Hay similitud estructural, pero faltan comprobaciones.
+
+[REVISAR] Como la vida misma
+  TMDB: 225554 — Como la vida misma
+  Puntuación: 94 | Segundo candidato: N/D
+  Episodios lista/candidato: 233/286
+  Similitud estructura: 0.8147
+  Estructura exacta: false
+  Existe en catálogo: true
+  Motivo: Hay similitud estructural, pero faltan comprobaciones.
+
+[REVISAR] Mea culpa
+  TMDB: 99308 — Mea culpa
+  Puntuación: 94 | Segundo candidato: Sino ang Maysala?: Mea Culpa
+  Episodios lista/candidato: 140/168
+  Similitud estructura: 0.8333
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: Hay similitud estructural, pero faltan comprobaciones.
+
+[REVISAR] Tierra Brava
+  TMDB: 236247 — Tierra Brava
+  Puntuación: 94 | Segundo candidato: N/D
+  Episodios lista/candidato: 105/136
+  Similitud estructura: 0.7721
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: Hay similitud estructural, pero faltan comprobaciones.
+
+[REVISAR] El Hacker Adolescente Más Buscado
+  TMDB: 293298 — Most Wanted: Teen Hacker
+  Puntuación: 94 | Segundo candidato: N/D
+  Episodios lista/candidato: 3/4
+  Similitud estructura: 0.75
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: Hay similitud estructural, pero faltan comprobaciones.
+
+[REVISAR] La chica que limpia
+  TMDB: 73043 — The Cleaning Lady
+  Puntuación: 94 | Segundo candidato: N/D
+  Episodios lista/candidato: 10/13
+  Similitud estructura: 0.7692
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: Hay similitud estructural, pero faltan comprobaciones.
+
+[REVISAR] Years & Years
+  TMDB: 87104 — Years and Years
+  Puntuación: 94 | Segundo candidato: N/D
+  Episodios lista/candidato: 5/6
+  Similitud estructura: 0.8333
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: Hay similitud estructural, pero faltan comprobaciones.
+
+[REVISAR] fantasma
+  TMDB: 45018 — Ghost
+  Puntuación: 94 | Segundo candidato: N/D
+  Episodios lista/candidato: 16/20
+  Similitud estructura: 0.8
+  Estructura exacta: false
+  Existe en catálogo: true
+  Motivo: Hay similitud estructural, pero faltan comprobaciones.
+
+[REVISAR] Aventura en pelotas: España
+  TMDB: 279908 — Naked and Afraid: Spain
+  Puntuación: 94 | Segundo candidato: N/D
+  Episodios lista/candidato: 5/7
+  Similitud estructura: 0.7143
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: Hay similitud estructural, pero faltan comprobaciones.
+
+[REVISAR] The Eminence in Shadow
+  TMDB: 119495 — The Eminence in Shadow
+  Puntuación: 94 | Segundo candidato: N/D
+  Episodios lista/candidato: 28/32
+  Similitud estructura: 0.875
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: Hay similitud estructural, pero faltan comprobaciones.
+
+[REVISAR] Undead Unluck
+  TMDB: 209077 — Undead Unluck
+  Puntuación: 94 | Segundo candidato: N/D
+  Episodios lista/candidato: 19/24
+  Similitud estructura: 0.7917
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: Hay similitud estructural, pero faltan comprobaciones.
+
+[REVISAR] La chica nueva: El reinicio
+  TMDB: 310935 — Girl from Nowhere: The Reset
+  Puntuación: 94 | Segundo candidato: N/D
+  Episodios lista/candidato: 5/6
+  Similitud estructura: 0.8333
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: Hay similitud estructural, pero faltan comprobaciones.
+
+[REVISAR] El Show de Super Mario Bros
+  TMDB: 14613 — The Super Mario Bros. Super Show!
+  Puntuación: 94 | Segundo candidato: N/D
+  Episodios lista/candidato: 54/65
+  Similitud estructura: 0.8308
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: Hay similitud estructural, pero faltan comprobaciones.
+
+[REVISAR] La novicia rebelde
+  TMDB: 43938 — Trapp Family Story
+  Puntuación: 94 | Segundo candidato: N/D
+  Episodios lista/candidato: 33/40
+  Similitud estructura: 0.825
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: Hay similitud estructural, pero faltan comprobaciones.
+
+[REVISAR] Tom Y Jerry
+  TMDB: 14705 — The Tom and Jerry Comedy Show
+  Puntuación: 94 | Segundo candidato: Tom and Jerry
+  Episodios lista/candidato: 38/45
+  Similitud estructura: 0.8444
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: Hay similitud estructural, pero faltan comprobaciones.
+
+[REVISAR] Re:ZERO -Starting Life in Another World-
+  TMDB: 65942 — Re:ZERO -Starting Life in Another World-
+  Puntuación: 94 | Segundo candidato: N/D
+  Episodios lista/candidato: 73/85
+  Similitud estructura: 0.8588
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: Hay similitud estructural, pero faltan comprobaciones.
+
+[REVISAR] Empeños a lo bestia
+  TMDB: 33478 — Hardcore Pawn
+  Puntuación: 93 | Segundo candidato: N/D
+  Episodios lista/candidato: 106/160
+  Similitud estructura: 0.6625
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: Hay similitud estructural, pero faltan comprobaciones.
+
+[REVISAR] Amor entre líneas
+  TMDB: 279136 — Love Between Lines
+  Puntuación: 93 | Segundo candidato: N/D
+  Episodios lista/candidato: 19/28
+  Similitud estructura: 0.6786
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: Hay similitud estructural, pero faltan comprobaciones.
+
+[REVISAR] Rugrats Crecidos
+  TMDB: 130 — All Grown Up!
+  Puntuación: 93 | Segundo candidato: N/D
+  Episodios lista/candidato: 38/52
+  Similitud estructura: 0.7115
+  Estructura exacta: false
+  Existe en catálogo: true
+  Motivo: Hay similitud estructural, pero faltan comprobaciones.
+
+[REVISAR] Un papá soltero
+  TMDB: 292625 — Single Papa
+  Puntuación: 93 | Segundo candidato: N/D
+  Episodios lista/candidato: 6/6
+  Similitud estructura: 1
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: Hay similitud estructural, pero faltan comprobaciones.
+
+[REVISAR] El sinuoso camino del derecho
+  TMDB: 281004 — Beyond the Bar
+  Puntuación: 93 | Segundo candidato: N/D
+  Episodios lista/candidato: 12/12
+  Similitud estructura: 1
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: Hay similitud estructural, pero faltan comprobaciones.
+
+[REVISAR] Gallitos
+  TMDB: 253736 — Roosters
+  Puntuación: 93 | Segundo candidato: N/D
+  Episodios lista/candidato: 14/14
+  Similitud estructura: 1
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: Hay similitud estructural, pero faltan comprobaciones.
+
+[REVISAR] Futbol en familia
+  TMDB: 261009 — Football Parents
+  Puntuación: 93 | Segundo candidato: N/D
+  Episodios lista/candidato: 6/6
+  Similitud estructura: 1
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: Hay similitud estructural, pero faltan comprobaciones.
+
+[REVISAR] Anatomía según Grey
+  TMDB: 1416 — Grey's Anatomy
+  Puntuación: 93 | Segundo candidato: N/D
+  Episodios lista/candidato: 452/466
+  Similitud estructura: 0.9528
+  Estructura exacta: false
+  Existe en catálogo: true
+  Motivo: Hay similitud estructural, pero faltan comprobaciones.
+
+[REVISAR] La paz de Marsella
+  TMDB: 216985 — Blood Coast
+  Puntuación: 93 | Segundo candidato: N/D
+  Episodios lista/candidato: 12/12
+  Similitud estructura: 1
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: Hay similitud estructural, pero faltan comprobaciones.
+
+[REVISAR] La Realeza
+  TMDB: 261545 — The Royals
+  Puntuación: 93 | Segundo candidato: N/D
+  Episodios lista/candidato: 8/8
+  Similitud estructura: 1
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: Hay similitud estructural, pero faltan comprobaciones.
+
+[REVISAR] Las olas del poder
+  TMDB: 221869 — Wave Makers
+  Puntuación: 93 | Segundo candidato: N/D
+  Episodios lista/candidato: 8/8
+  Similitud estructura: 1
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: Hay similitud estructural, pero faltan comprobaciones.
+
+[REVISAR] Más vale tarde que solteros
+  TMDB: 288912 — Better Late Than Single
+  Puntuación: 93 | Segundo candidato: N/D
+  Episodios lista/candidato: 20/20
+  Similitud estructura: 1
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: Hay similitud estructural, pero faltan comprobaciones.
+
+[REVISAR] El hijo zurdo
+  TMDB: 222193 — El hijo zurdo
+  Puntuación: 93 | Segundo candidato: N/D
+  Episodios lista/candidato: 4/6
+  Similitud estructura: 0.6667
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: Hay similitud estructural, pero faltan comprobaciones.
+
+[REVISAR] Preso No. 1
+  TMDB: 91242 — Preso No. 1
+  Puntuación: 93 | Segundo candidato: N/D
+  Episodios lista/candidato: 44/64
+  Similitud estructura: 0.6875
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: Hay similitud estructural, pero faltan comprobaciones.
+
+[REVISAR] Konosuba: God's Blessing on this Wonderful World!
+  TMDB: 65844 — KONOSUBA - God's blessing on this wonderful world!
+  Puntuación: 93 | Segundo candidato: N/D
+  Episodios lista/candidato: 31/31
+  Similitud estructura: 1
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: Hay similitud estructural, pero faltan comprobaciones.
+
+[REVISAR] Sentenced to Be a Hero
+  TMDB: 249907 — Sentenced to Be a Hero
+  Puntuación: 93 | Segundo candidato: N/D
+  Episodios lista/candidato: 12/12
+  Similitud estructura: 1
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: Hay similitud estructural, pero faltan comprobaciones.
+
+[REVISAR] Hazbin Hotel
+  TMDB: 94954 — Hazbin Hotel
+  Puntuación: 93 | Segundo candidato: N/D
+  Episodios lista/candidato: 16/16
+  Similitud estructura: 1
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: Hay similitud estructural, pero faltan comprobaciones.
+
+[REVISAR] Las Tres Mellizas
+  TMDB: 66695 — The Triplets
+  Puntuación: 93 | Segundo candidato: The Triplets
+  Episodios lista/candidato: 72/104
+  Similitud estructura: 0.6923
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: Hay similitud estructural, pero faltan comprobaciones.
+
+[REVISAR] Potato Head Kids
+  TMDB: 19527 — Potato Head Kids
+  Puntuación: 93 | Segundo candidato: N/D
+  Episodios lista/candidato: 16/23
+  Similitud estructura: 0.6957
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: Hay similitud estructural, pero faltan comprobaciones.
+
+[REVISAR] Grupo de estudio
+  TMDB: 233347 — Study Group
+  Puntuación: 93 | Segundo candidato: N/D
+  Episodios lista/candidato: 10/11
+  Similitud estructura: 0.9091
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: Hay similitud estructural, pero faltan comprobaciones.
+
+[REVISAR] Dinosaurios
+  TMDB: 3763 — Dinosaurs
+  Puntuación: 93 | Segundo candidato: N/D
+  Episodios lista/candidato: 64/65
+  Similitud estructura: 0.8615
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: Hay similitud estructural, pero faltan comprobaciones.
+
+[REVISAR] Dragon Striker
+  TMDB: 204135 — Dragon Striker
+  Puntuación: 93 | Segundo candidato: N/D
+  Episodios lista/candidato: 11/11
+  Similitud estructura: 1
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: Hay similitud estructural, pero faltan comprobaciones.
+
+[REVISAR] Ultras. Pasión y Muerte
+  TMDB: 325858 — Ultras: Passion and Death
+  Puntuación: 93 | Segundo candidato: N/D
+  Episodios lista/candidato: 2/3
+  Similitud estructura: 0.6667
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: Hay similitud estructural, pero faltan comprobaciones.
+
+[REVISAR] Stuart no logra salvar el Universo
+  TMDB: 287620 — Stuart Fails to Save the Universe
+  Puntuación: 93 | Segundo candidato: N/D
+  Episodios lista/candidato: 10/10
+  Similitud estructura: 1
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: Hay similitud estructural, pero faltan comprobaciones.
+
+[REVISAR] Aída
+  TMDB: 1032 — Aída
+  Puntuación: 92 | Segundo candidato: Aida
+  Episodios lista/candidato: 185/237
+  Similitud estructura: 0.7806
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: Hay similitud estructural, pero faltan comprobaciones.
+
+[REVISAR] Otoño en mi corazón
+  TMDB: 14807 — Autumn in My Heart
+  Puntuación: 92 | Segundo candidato: N/D
+  Episodios lista/candidato: 18/16
+  Similitud estructura: 0.8889
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: Hay similitud estructural, pero faltan comprobaciones.
+
+[REVISAR] ¿Le Temes a la Oscuridad?
+  TMDB: 2913 — Are You Afraid of the Dark?
+  Puntuación: 92 | Segundo candidato: Are You Afraid of the Dark?
+  Episodios lista/candidato: 104/91
+  Similitud estructura: 0.875
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: Hay similitud estructural, pero faltan comprobaciones.
+
+[REVISAR] Lago tranquilo
+  TMDB: 111834 — Stillwater
+  Puntuación: 92 | Segundo candidato: N/D
+  Episodios lista/candidato: 35/40
+  Similitud estructura: 0.875
+  Estructura exacta: false
+  Existe en catálogo: true
+  Motivo: Hay similitud estructural, pero faltan comprobaciones.
+
+[REVISAR] American Dad: Un Agente de Familia
+  TMDB: 1433 — American Dad!
+  Puntuación: 92 | Segundo candidato: N/D
+  Episodios lista/candidato: 345/401
+  Similitud estructura: 0.8579
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: Hay similitud estructural, pero faltan comprobaciones.
+
+[REVISAR] ¡Buena suerte Charlie!
+  TMDB: 21641 — Good Luck Charlie
+  Puntuación: 92 | Segundo candidato: N/D
+  Episodios lista/candidato: 75/99
+  Similitud estructura: 0.7576
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: Hay similitud estructural, pero faltan comprobaciones.
+
+[REVISAR] El día menos pensado
+  TMDB: 99312 — El día menos pensado
+  Puntuación: 92 | Segundo candidato: The Least Expected Day: Inside the Movistar Team 2019
+  Episodios lista/candidato: 107/149
+  Similitud estructura: 0.7181
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: Hay similitud estructural, pero faltan comprobaciones.
+
+[REVISAR] Georgie y Mandy: Primer matrimonio
+  TMDB: 243875 — Georgie & Mandy's First Marriage
+  Puntuación: 92 | Segundo candidato: N/D
+  Episodios lista/candidato: 38/46
+  Similitud estructura: 0.8261
+  Estructura exacta: false
+  Existe en catálogo: true
+  Motivo: Hay similitud estructural, pero faltan comprobaciones.
+
+[REVISAR] La Frontera Oriental
+  TMDB: 253370 — The Eastern Gate
+  Puntuación: 92 | Segundo candidato: N/D
+  Episodios lista/candidato: 6/7
+  Similitud estructura: 0.8571
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: Hay similitud estructural, pero faltan comprobaciones.
+
+[REVISAR] Sexo en la Ciudad
+  TMDB: 105 — Sex and the City
+  Puntuación: 92 | Segundo candidato: N/D
+  Episodios lista/candidato: 66/94
+  Similitud estructura: 0.7021
+  Estructura exacta: false
+  Existe en catálogo: true
+  Motivo: Hay similitud estructural, pero faltan comprobaciones.
+
+[REVISAR] Detective Alex Cross
+  TMDB: 213306 — Cross
+  Puntuación: 92 | Segundo candidato: N/D
+  Episodios lista/candidato: 11/16
+  Similitud estructura: 0.6875
+  Estructura exacta: false
+  Existe en catálogo: true
+  Motivo: Hay similitud estructural, pero faltan comprobaciones.
+
+[REVISAR] Chicago en llamas
+  TMDB: 44006 — Chicago Fire
+  Puntuación: 92 | Segundo candidato: N/D
+  Episodios lista/candidato: 250/299
+  Similitud estructura: 0.8361
+  Estructura exacta: false
+  Existe en catálogo: true
+  Motivo: Hay similitud estructural, pero faltan comprobaciones.
+
+[REVISAR] Sakura Card Captor
+  TMDB: 35790 — Cardcaptor Sakura
+  Puntuación: 92 | Segundo candidato: N/D
+  Episodios lista/candidato: 70/92
+  Similitud estructura: 0.7609
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: Hay similitud estructural, pero faltan comprobaciones.
+
+[REVISAR] SPY×FAMILY
+  TMDB: 120089 — SPY x FAMILY
+  Puntuación: 92 | Segundo candidato: N/D
+  Episodios lista/candidato: 37/50
+  Similitud estructura: 0.74
+  Estructura exacta: false
+  Existe en catálogo: true
+  Motivo: Hay similitud estructural, pero faltan comprobaciones.
+
+[REVISAR] El show de Charlie Brown y Snoopy
+  TMDB: 6670 — The Charlie Brown and Snoopy Show
+  Puntuación: 92 | Segundo candidato: N/D
+  Episodios lista/candidato: 13/18
+  Similitud estructura: 0.7222
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: Hay similitud estructural, pero faltan comprobaciones.
+
+[REVISAR] Banshee
+  TMDB: 41727 — Banshee
+  Puntuación: 92 | Segundo candidato: N/D
+  Episodios lista/candidato: 30/38
+  Similitud estructura: 0.7895
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: Hay similitud estructural, pero faltan comprobaciones.
+
+[REVISAR] Lost
+  TMDB: 4607 — Lost
+  Puntuación: 92 | Segundo candidato: Lost
+  Episodios lista/candidato: 86/118
+  Similitud estructura: 0.7119
+  Estructura exacta: false
+  Existe en catálogo: true
+  Motivo: Hay similitud estructural, pero faltan comprobaciones.
+
+[REVISAR] 1000 Maneras de morir
+  TMDB: 15826 — 1000 Ways to Die
+  Puntuación: 91 | Segundo candidato: N/D
+  Episodios lista/candidato: 52/71
+  Similitud estructura: 0.7042
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: Hay similitud estructural, pero faltan comprobaciones.
+
+[REVISAR] Grandes héroes y leyendas de La Biblia
+  TMDB: 67880 — Greatest Heroes & Legends of Bible
+  Puntuación: 91 | Segundo candidato: N/D
+  Episodios lista/candidato: 15/13
+  Similitud estructura: 0.8667
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: Hay similitud estructural, pero faltan comprobaciones.
+
+[REVISAR] Los jóvenes titanes
+  TMDB: 604 — Teen Titans
+  Puntuación: 91 | Segundo candidato: N/D
+  Episodios lista/candidato: 78/65
+  Similitud estructura: 0.8333
+  Estructura exacta: false
+  Existe en catálogo: true
+  Motivo: Hay similitud estructural, pero faltan comprobaciones.
+
+[REVISAR] Clase
+  TMDB: 211116 — Class
+  Puntuación: 91 | Segundo candidato: N/D
+  Episodios lista/candidato: 8/8
+  Similitud estructura: 1
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: Hay similitud estructural, pero faltan comprobaciones.
+
+[REVISAR] Kid Cosmic
+  TMDB: 116249 — Kid Cosmic
+  Puntuación: 91 | Segundo candidato: N/D
+  Episodios lista/candidato: 18/24
+  Similitud estructura: 0.75
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: Hay similitud estructural, pero faltan comprobaciones.
+
+[REVISAR] A tres metros sobre el cielo
+  TMDB: 100333 — Summertime
+  Puntuación: 91 | Segundo candidato: N/D
+  Episodios lista/candidato: 16/24
+  Similitud estructura: 0.6667
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: Hay similitud estructural, pero faltan comprobaciones.
+
+[REVISAR] Kipo y la era de los magnimales
+  TMDB: 95599 — Kipo and the Age of Wonderbeasts
+  Puntuación: 91 | Segundo candidato: N/D
+  Episodios lista/candidato: 20/30
+  Similitud estructura: 0.6667
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: Hay similitud estructural, pero faltan comprobaciones.
+
+[REVISAR] Policías de Chicago
+  TMDB: 58841 — Chicago P.D.
+  Puntuación: 91 | Segundo candidato: N/D
+  Episodios lista/candidato: 229/268
+  Similitud estructura: 0.8209
+  Estructura exacta: false
+  Existe en catálogo: true
+  Motivo: Hay similitud estructural, pero faltan comprobaciones.
+
+[REVISAR] Fire Force
+  TMDB: 88046 — Fire Force
+  Puntuación: 91 | Segundo candidato: N/D
+  Episodios lista/candidato: 48/73
+  Similitud estructura: 0.6575
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: Hay similitud estructural, pero faltan comprobaciones.
+
+[REVISAR] Corpse Party: Tortured Souls
+  TMDB: 61178 — Corpse Party: Tortured Souls
+  Puntuación: 90 | Segundo candidato: N/D
+  Episodios lista/candidato: 5/4
+  Similitud estructura: 0.8
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: Hay similitud estructural, pero faltan comprobaciones.
+
+[REVISAR] Two Cops
+  TMDB: 74785 — Two Cops
+  Puntuación: 90 | Segundo candidato: N/D
+  Episodios lista/candidato: 20/16
+  Similitud estructura: 0.8
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: Hay similitud estructural, pero faltan comprobaciones.
+
+[REVISAR] Demon Slayer: Kimetsu no Yaiba
+  TMDB: 85937 — Demon Slayer: Kimetsu no Yaiba
+  Puntuación: 90 | Segundo candidato: N/D
+  Episodios lista/candidato: 63/63
+  Similitud estructura: 0.8254
+  Estructura exacta: false
+  Existe en catálogo: true
+  Motivo: Hay similitud estructural, pero faltan comprobaciones.
+
+[REVISAR] La canción del samurái
+  TMDB: 320340 — Song of the Samurai - Chapter: Fateful Showdown in Kyoto
+  Puntuación: 89 | Segundo candidato: Song of the Samurai - Chapter: Youthful Days in Edo
+  Episodios lista/candidato: 8/6
+  Similitud estructura: 0.75
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: Hay similitud estructural, pero faltan comprobaciones.
+
+[REVISAR] Unidad de Investigacion
+  TMDB: 65438 — Research Unit
+  Puntuación: 88 | Segundo candidato: N/D
+  Episodios lista/candidato: 193/171
+  Similitud estructura: 0.8031
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: Hay similitud estructural, pero faltan comprobaciones.
+
+[REVISAR] Falsa identidad
+  TMDB: 82809 — False Identity
+  Puntuación: 88 | Segundo candidato: False Flag
+  Episodios lista/candidato: 243/171
+  Similitud estructura: 0.6872
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: Hay similitud estructural, pero faltan comprobaciones.
+
+[REVISAR] Avatar: La leyenda de Aang
+  TMDB: 246 — Avatar: The Last Airbender
+  Puntuación: 88 | Segundo candidato: Avatar: The Last Airbender
+  Episodios lista/candidato: 69/61
+  Similitud estructura: 0.8841
+  Estructura exacta: false
+  Existe en catálogo: true
+  Motivo: Hay similitud estructural, pero faltan comprobaciones.
+
+[REVISAR] Drama Total: La venganza de la isla
+  TMDB: 33507 — Total Drama: Revenge of the Island
+  Puntuación: 88 | Segundo candidato: N/D
+  Episodios lista/candidato: 14/13
+  Similitud estructura: 0.9286
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: Hay similitud estructural, pero faltan comprobaciones.
+
+[REVISAR] Total Drama Action
+  TMDB: 8616 — Total Drama Action
+  Puntuación: 88 | Segundo candidato: N/D
+  Episodios lista/candidato: 27/27
+  Similitud estructura: 0.963
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: Hay similitud estructural, pero faltan comprobaciones.
+
+[REVISAR] Tensei Shitara Slime Datta Ken
+  TMDB: 82684 — That Time I Got Reincarnated as a Slime
+  Puntuación: 88 | Segundo candidato: N/D
+  Episodios lista/candidato: 109/96
+  Similitud estructura: 0.8807
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: Hay similitud estructural, pero faltan comprobaciones.
+
+[REVISAR] Los Pequeños Looney Tunes
+  TMDB: 670 — Baby Looney Tunes
+  Puntuación: 87 | Segundo candidato: N/D
+  Episodios lista/candidato: 106/102
+  Similitud estructura: 0.717
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: Hay similitud estructural, pero faltan comprobaciones.
+
+[REVISAR] Cerro Alegre
+  TMDB: 97517 — Cerro Alegre
+  Puntuación: 87 | Segundo candidato: N/D
+  Episodios lista/candidato: 143/100
+  Similitud estructura: 0.6993
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: Hay similitud estructural, pero faltan comprobaciones.
+
+[REVISAR] Shin-chan
+  TMDB: 333589 — Shin Chan
+  Puntuación: 87 | Segundo candidato: Shin Chan
+  Episodios lista/candidato: 1198/981
+  Similitud estructura: 0.7972
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: Hay similitud estructural, pero faltan comprobaciones.
+
+[REVISAR] El Espectacular Hombre-Araña
+  TMDB: 3854 — The Spectacular Spider-Man
+  Puntuación: 86 | Segundo candidato: N/D
+  Episodios lista/candidato: 39/26
+  Similitud estructura: 0.6667
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: Hay similitud estructural, pero faltan comprobaciones.
+
+[BAJA_COINCIDENCIA] El increíble mundo de Gumball
+  TMDB: 37606 — The Amazing World of Gumball
+  Puntuación: 93 | Segundo candidato: N/D
+  Episodios lista/candidato: 146/240
+  Similitud estructura: 0.6083
+  Estructura exacta: false
+  Existe en catálogo: true
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] Call My Agent Berlin
+  TMDB: 296527 — Call My Agent Berlin
+  Puntuación: 93 | Segundo candidato: N/D
+  Episodios lista/candidato: 6/10
+  Similitud estructura: 0.6
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] 101 Dalmatian Street
+  TMDB: 75523 — 101 Dalmatian Street
+  Puntuación: 93 | Segundo candidato: N/D
+  Episodios lista/candidato: 26/52
+  Similitud estructura: 0.5
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] Mi adorable secretaria
+  TMDB: 88783 — The Secret Life of My Secretary
+  Puntuación: 93 | Segundo candidato: N/D
+  Episodios lista/candidato: 16/32
+  Similitud estructura: 0.5
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] Juego de ilusiones
+  TMDB: 218776 — Juego de ilusiones
+  Puntuación: 93 | Segundo candidato: N/D
+  Episodios lista/candidato: 321/550
+  Similitud estructura: 0.5836
+  Estructura exacta: false
+  Existe en catálogo: true
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] Popeye y su hijo
+  TMDB: 10425 — Popeye and Son
+  Puntuación: 93 | Segundo candidato: N/D
+  Episodios lista/candidato: 13/26
+  Similitud estructura: 0.5
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] Ariel: Los cuentos de la Sirenita
+  TMDB: 228669 — Disney Junior Ariel
+  Puntuación: 93 | Segundo candidato: N/D
+  Episodios lista/candidato: 39/77
+  Similitud estructura: 0.5065
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] A Través del Tiempo
+  TMDB: 83595 — Time After Time
+  Puntuación: 93 | Segundo candidato: Quantum Leap
+  Episodios lista/candidato: 100/161
+  Similitud estructura: 0.6211
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] Rompiendo el hielo
+  TMDB: 283428 — The Ramparts of Ice
+  Puntuación: 93 | Segundo candidato: N/D
+  Episodios lista/candidato: 16/28
+  Similitud estructura: 0.5714
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] Funny AF with Kevin Hart
+  TMDB: 311991 — Funny AF with Kevin Hart
+  Puntuación: 93 | Segundo candidato: N/D
+  Episodios lista/candidato: 4/8
+  Similitud estructura: 0.5
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] Rivales
+  TMDB: 208921 — Rivals
+  Puntuación: 93 | Segundo candidato: Magkaribal
+  Episodios lista/candidato: 11/20
+  Similitud estructura: 0.55
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] Chicas de Oficina
+  TMDB: 40480 — Office Girls
+  Puntuación: 93 | Segundo candidato: N/D
+  Episodios lista/candidato: 25/40
+  Similitud estructura: 0.625
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] Hasta que la camiseta se seque
+  TMDB: 322570 — Until the T-Shirt Dries
+  Puntuación: 93 | Segundo candidato: N/D
+  Episodios lista/candidato: 6/10
+  Similitud estructura: 0.6
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] Corazones rebeldes
+  TMDB: 305379 — Badly in Love
+  Puntuación: 93 | Segundo candidato: N/D
+  Episodios lista/candidato: 17/30
+  Similitud estructura: 0.5667
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] The Drop: Una saga de Snowfall
+  TMDB: 304842 — The Drop: A Snowfall Saga
+  Puntuación: 93 | Segundo candidato: N/D
+  Episodios lista/candidato: 5/8
+  Similitud estructura: 0.625
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] Catscratch
+  TMDB: 3805 — Catscratch
+  Puntuación: 92 | Segundo candidato: N/D
+  Episodios lista/candidato: 16/40
+  Similitud estructura: 0.4
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] Robotboy
+  TMDB: 1534 — Robotboy
+  Puntuación: 92 | Segundo candidato: N/D
+  Episodios lista/candidato: 51/130
+  Similitud estructura: 0.3923
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] Aguas profundas
+  TMDB: 3486 — Surface
+  Puntuación: 92 | Segundo candidato: N/D
+  Episodios lista/candidato: 7/15
+  Similitud estructura: 0.4667
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] Caballero Negro
+  TMDB: 75066 — Black Knight
+  Puntuación: 92 | Segundo candidato: N/D
+  Episodios lista/candidato: 6/20
+  Similitud estructura: 0.3
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] Crimen de una dinastía: El caso Murdaugh
+  TMDB: 270734 — Murdaugh: Death in the Family
+  Puntuación: 92 | Segundo candidato: N/D
+  Episodios lista/candidato: 3/8
+  Similitud estructura: 0.375
+  Estructura exacta: false
+  Existe en catálogo: true
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] Romance a lo k-drama
+  TMDB: 232433 — Love Like a K-Drama
+  Puntuación: 92 | Segundo candidato: N/D
+  Episodios lista/candidato: 4/12
+  Similitud estructura: 0.3333
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] mi amor
+  TMDB: 116133 — Go Go Squid 2: Dt.Appledog's Time
+  Puntuación: 92 | Segundo candidato: N/D
+  Episodios lista/candidato: 12/38
+  Similitud estructura: 0.3158
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] BKN
+  TMDB: 106200 — BKN
+  Puntuación: 92 | Segundo candidato: N/D
+  Episodios lista/candidato: 147/282
+  Similitud estructura: 0.5071
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] El antídoto
+  TMDB: 290554 — El antídoto
+  Puntuación: 92 | Segundo candidato: N/D
+  Episodios lista/candidato: 5/14
+  Similitud estructura: 0.3571
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] ¿Ganar o servir?
+  TMDB: 250716 — ¿Ganar o servir?
+  Puntuación: 92 | Segundo candidato: N/D
+  Episodios lista/candidato: 45/139
+  Similitud estructura: 0.3237
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] La colombiana
+  TMDB: 116730 — La Colombiana
+  Puntuación: 92 | Segundo candidato: N/D
+  Episodios lista/candidato: 46/143
+  Similitud estructura: 0.3217
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] Bring Back Alice
+  TMDB: 222892 — #BringBackAlice
+  Puntuación: 92 | Segundo candidato: N/D
+  Episodios lista/candidato: 2/6
+  Similitud estructura: 0.3333
+  Estructura exacta: false
+  Existe en catálogo: true
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] Mujeres con hombreras
+  TMDB: 237015 — Women Wearing Shoulder Pads
+  Puntuación: 92 | Segundo candidato: N/D
+  Episodios lista/candidato: 3/8
+  Similitud estructura: 0.375
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] El jurado presenta: Retiro corporativo
+  TMDB: 312697 — Jury Duty Presents: Company Retreat
+  Puntuación: 92 | Segundo candidato: N/D
+  Episodios lista/candidato: 3/8
+  Similitud estructura: 0.375
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] Colisión
+  TMDB: 331033 — Collision
+  Puntuación: 92 | Segundo candidato: N/D
+  Episodios lista/candidato: 14/39
+  Similitud estructura: 0.359
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] Un amor distinto al tuyo
+  TMDB: 314939 — A Love Other Than Yours
+  Puntuación: 92 | Segundo candidato: N/D
+  Episodios lista/candidato: 6/14
+  Similitud estructura: 0.4286
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] Vampirina: Una Vampirina adolescente
+  TMDB: 275722 — Vampirina: Teenage Vampire
+  Puntuación: 92 | Segundo candidato: N/D
+  Episodios lista/candidato: 10/22
+  Similitud estructura: 0.4545
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] Educar a un superhéroe
+  TMDB: 93392 — Raising Dion
+  Puntuación: 91 | Segundo candidato: N/D
+  Episodios lista/candidato: 9/17
+  Similitud estructura: 0.5294
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] Almost Paradise
+  TMDB: 100383 — Almost Paradise
+  Puntuación: 91 | Segundo candidato: N/D
+  Episodios lista/candidato: 10/20
+  Similitud estructura: 0.5
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] The Gold
+  TMDB: 218351 — The Gold
+  Puntuación: 91 | Segundo candidato: N/D
+  Episodios lista/candidato: 6/12
+  Similitud estructura: 0.5
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] Señorita 89
+  TMDB: 155645 — Señorita 89
+  Puntuación: 91 | Segundo candidato: N/D
+  Episodios lista/candidato: 8/16
+  Similitud estructura: 0.5
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] Dr. Death
+  TMDB: 93749 — Dr. Death
+  Puntuación: 91 | Segundo candidato: N/D
+  Episodios lista/candidato: 8/16
+  Similitud estructura: 0.5
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] Sálvame
+  TMDB: 72690 — Save Me
+  Puntuación: 91 | Segundo candidato: Sálvame
+  Episodios lista/candidato: 16/32
+  Similitud estructura: 0.5
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] The Boss Baby: Back in Business
+  TMDB: 77606 — The Boss Baby: Back in Business
+  Puntuación: 91 | Segundo candidato: N/D
+  Episodios lista/candidato: 25/49
+  Similitud estructura: 0.5102
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] Avatar: La Leyenda de Korra
+  TMDB: 33880 — The Legend of Korra
+  Puntuación: 91 | Segundo candidato: N/D
+  Episodios lista/candidato: 26/52
+  Similitud estructura: 0.5
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] Amor 101
+  TMDB: 100897 — Love 101
+  Puntuación: 91 | Segundo candidato: N/D
+  Episodios lista/candidato: 8/16
+  Similitud estructura: 0.5
+  Estructura exacta: false
+  Existe en catálogo: true
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] Barracuda Queens
+  TMDB: 225152 — Barracuda Queens
+  Puntuación: 91 | Segundo candidato: N/D
+  Episodios lista/candidato: 6/12
+  Similitud estructura: 0.5
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] mamá?
+  TMDB: 63530 — Mama
+  Puntuación: 91 | Segundo candidato: Mama
+  Episodios lista/candidato: 7/24
+  Similitud estructura: 0.2917
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] Dr. Seuss's Horton!
+  TMDB: 293205 — Dr. Seuss's Horton!
+  Puntuación: 91 | Segundo candidato: N/D
+  Episodios lista/candidato: 7/13
+  Similitud estructura: 0.5385
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] El hotel embrujado
+  TMDB: 255752 — Haunted Hotel
+  Puntuación: 91 | Segundo candidato: N/D
+  Episodios lista/candidato: 10/18
+  Similitud estructura: 0.5556
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] Enciclopedia de Estambul
+  TMDB: 278004 — Istanbul Encyclopedia
+  Puntuación: 91 | Segundo candidato: N/D
+  Episodios lista/candidato: 1/8
+  Similitud estructura: 0.125
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] Estos ojos negros
+  TMDB: 153950 — Yeh Kaali Kaali Ankhein
+  Puntuación: 91 | Segundo candidato: N/D
+  Episodios lista/candidato: 8/14
+  Similitud estructura: 0.5714
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] El libro de Boba Fett
+  TMDB: 115036 — The Book of Boba Fett
+  Puntuación: 91 | Segundo candidato: N/D
+  Episodios lista/candidato: 1/7
+  Similitud estructura: 0.1429
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] Historia: Nivel 1
+  TMDB: 102905 — History 101
+  Puntuación: 91 | Segundo candidato: N/D
+  Episodios lista/candidato: 10/20
+  Similitud estructura: 0.5
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] Hellbound
+  TMDB: 106651 — Hellbound
+  Puntuación: 91 | Segundo candidato: N/D
+  Episodios lista/candidato: 6/12
+  Similitud estructura: 0.5
+  Estructura exacta: false
+  Existe en catálogo: true
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] Hacia el lago
+  TMDB: 95202 — To the Lake
+  Puntuación: 91 | Segundo candidato: N/D
+  Episodios lista/candidato: 8/16
+  Similitud estructura: 0.5
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] Inestable
+  TMDB: 219788 — Unstable
+  Puntuación: 91 | Segundo candidato: N/D
+  Episodios lista/candidato: 8/16
+  Similitud estructura: 0.5
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] Kung Fu Panda: El Guerrero Dragón
+  TMDB: 129959 — Kung Fu Panda: The Dragon Knight
+  Puntuación: 91 | Segundo candidato: N/D
+  Episodios lista/candidato: 23/42
+  Similitud estructura: 0.5476
+  Estructura exacta: false
+  Existe en catálogo: true
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] No estoy muerta todavía
+  TMDB: 203178 — Not Dead Yet
+  Puntuación: 91 | Segundo candidato: N/D
+  Episodios lista/candidato: 13/23
+  Similitud estructura: 0.5652
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] Soy extraordinaria
+  TMDB: 47907 — Extraordinary
+  Puntuación: 91 | Segundo candidato: N/D
+  Episodios lista/candidato: 8/16
+  Similitud estructura: 0.5
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] Fin de semana en familia
+  TMDB: 118904 — Weekend Family
+  Puntuación: 91 | Segundo candidato: N/D
+  Episodios lista/candidato: 8/16
+  Similitud estructura: 0.5
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] Malos pensamientos
+  TMDB: 251608 — Bad Thoughts
+  Puntuación: 91 | Segundo candidato: N/D
+  Episodios lista/candidato: 6/12
+  Similitud estructura: 0.5
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] La muerte y otros misterios
+  TMDB: 133813 — Death and Other Details
+  Puntuación: 91 | Segundo candidato: N/D
+  Episodios lista/candidato: 2/10
+  Similitud estructura: 0.2
+  Estructura exacta: false
+  Existe en catálogo: true
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] Murdaugh Murders: A Southern Scandal
+  TMDB: 218530 — Murdaugh Murders: A Southern Scandal
+  Puntuación: 91 | Segundo candidato: N/D
+  Episodios lista/candidato: 3/6
+  Similitud estructura: 0.5
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] Ojitos de huevo
+  TMDB: 237983 — Nothing to See Here
+  Puntuación: 91 | Segundo candidato: N/D
+  Episodios lista/candidato: 8/16
+  Similitud estructura: 0.5
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] Perros de caza
+  TMDB: 127529 — Bloodhounds
+  Puntuación: 91 | Segundo candidato: N/D
+  Episodios lista/candidato: 8/15
+  Similitud estructura: 0.5333
+  Estructura exacta: false
+  Existe en catálogo: true
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] Presidente por accidente
+  TMDB: 194899 — Represent
+  Puntuación: 91 | Segundo candidato: N/D
+  Episodios lista/candidato: 6/12
+  Similitud estructura: 0.5
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] Perros en el espacio
+  TMDB: 136752 — Dogs in Space
+  Puntuación: 91 | Segundo candidato: N/D
+  Episodios lista/candidato: 10/20
+  Similitud estructura: 0.5
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] Rey Tigre
+  TMDB: 100698 — Tiger King
+  Puntuación: 91 | Segundo candidato: N/D
+  Episodios lista/candidato: 7/13
+  Similitud estructura: 0.5385
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] Si no hubiera visto el sol
+  TMDB: 241576 — Had I Not Seen the Sun
+  Puntuación: 91 | Segundo candidato: N/D
+  Episodios lista/candidato: 10/20
+  Similitud estructura: 0.5
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] Siempre Reinas
+  TMDB: 211664 — Siempre Reinas
+  Puntuación: 91 | Segundo candidato: N/D
+  Episodios lista/candidato: 6/12
+  Similitud estructura: 0.5
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] Todos quieren salvarse
+  TMDB: 134057 — Everything Calls for Salvation
+  Puntuación: 91 | Segundo candidato: N/D
+  Episodios lista/candidato: 7/12
+  Similitud estructura: 0.5833
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] Zombiverso
+  TMDB: 217945 — Zombieverse
+  Puntuación: 91 | Segundo candidato: N/D
+  Episodios lista/candidato: 8/15
+  Similitud estructura: 0.5333
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] Amor y anarquía
+  TMDB: 111743 — Love & Anarchy
+  Puntuación: 91 | Segundo candidato: N/D
+  Episodios lista/candidato: 8/16
+  Similitud estructura: 0.5
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] Ciudades invisibles
+  TMDB: 110529 — Invisible City
+  Puntuación: 91 | Segundo candidato: N/D
+  Episodios lista/candidato: 7/12
+  Similitud estructura: 0.5833
+  Estructura exacta: false
+  Existe en catálogo: true
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] Centaurworld
+  TMDB: 93233 — Centaurworld
+  Puntuación: 91 | Segundo candidato: N/D
+  Episodios lista/candidato: 10/18
+  Similitud estructura: 0.5556
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] Dona Beja
+  TMDB: 152401 — Madam Beja
+  Puntuación: 91 | Segundo candidato: N/D
+  Episodios lista/candidato: 5/40
+  Similitud estructura: 0.125
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] Hora de Aventura con Fionna & Cake
+  TMDB: 131378 — Adventure Time: Fionna and Cake
+  Puntuación: 91 | Segundo candidato: N/D
+  Episodios lista/candidato: 10/20
+  Similitud estructura: 0.5
+  Estructura exacta: false
+  Existe en catálogo: true
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] Delete Me
+  TMDB: 119039 — Delete Me
+  Puntuación: 91 | Segundo candidato: N/D
+  Episodios lista/candidato: 7/13
+  Similitud estructura: 0.5385
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] Maldito Rap
+  TMDB: 155772 — Rap Sh!t
+  Puntuación: 91 | Segundo candidato: N/D
+  Episodios lista/candidato: 8/16
+  Similitud estructura: 0.5
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] Mi niñera es una vampira
+  TMDB: 39518 — My Babysitter's a Vampire
+  Puntuación: 91 | Segundo candidato: N/D
+  Episodios lista/candidato: 13/26
+  Similitud estructura: 0.5
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] Momma Named Me Sheriff
+  TMDB: 96372 — Momma Named Me Sheriff
+  Puntuación: 91 | Segundo candidato: N/D
+  Episodios lista/candidato: 9/18
+  Similitud estructura: 0.5
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] En busca de Ola
+  TMDB: 154810 — Finding Ola
+  Puntuación: 91 | Segundo candidato: N/D
+  Episodios lista/candidato: 6/12
+  Similitud estructura: 0.5
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] The Tourist
+  TMDB: 120909 — The Tourist
+  Puntuación: 91 | Segundo candidato: N/D
+  Episodios lista/candidato: 6/12
+  Similitud estructura: 0.5
+  Estructura exacta: false
+  Existe en catálogo: true
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] The Vow: Una historia sobre NXIVM
+  TMDB: 49920 — The Vow
+  Puntuación: 91 | Segundo candidato: N/D
+  Episodios lista/candidato: 9/15
+  Similitud estructura: 0.6
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] Vgly
+  TMDB: 226241 — Vgly
+  Puntuación: 91 | Segundo candidato: N/D
+  Episodios lista/candidato: 13/23
+  Similitud estructura: 0.5652
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] Alias Us
+  TMDB: 2046 — Alias
+  Puntuación: 91 | Segundo candidato: N/D
+  Episodios lista/candidato: 66/105
+  Similitud estructura: 0.6286
+  Estructura exacta: false
+  Existe en catálogo: true
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] Aharen Is Indecipherable
+  TMDB: 130237 — Aharen-san wa Hakarenai
+  Puntuación: 91 | Segundo candidato: N/D
+  Episodios lista/candidato: 12/24
+  Similitud estructura: 0.5
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] Basilisk
+  TMDB: 9410 — Basilisk
+  Puntuación: 91 | Segundo candidato: N/D
+  Episodios lista/candidato: 24/48
+  Similitud estructura: 0.5
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] Code Geass: La Rebelión de Lelouch
+  TMDB: 31724 — Code Geass: Lelouch of the Rebellion
+  Puntuación: 91 | Segundo candidato: N/D
+  Episodios lista/candidato: 25/50
+  Similitud estructura: 0.5
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] Grappler Baki
+  TMDB: 56425 — Baki the Grappler
+  Puntuación: 91 | Segundo candidato: N/D
+  Episodios lista/candidato: 24/48
+  Similitud estructura: 0.5
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] Saga of Tanya The Evil
+  TMDB: 69346 — Saga of Tanya the Evil
+  Puntuación: 91 | Segundo candidato: N/D
+  Episodios lista/candidato: 12/24
+  Similitud estructura: 0.5
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] Seirei Gensouki: Spirit Chronicles
+  TMDB: 113808 — Seirei Gensouki: Spirit Chronicles
+  Puntuación: 91 | Segundo candidato: N/D
+  Episodios lista/candidato: 12/24
+  Similitud estructura: 0.5
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] The Iceblade Sorcerer Shall Rule the World
+  TMDB: 200777 — The Iceblade Sorcerer Shall Rule the World
+  Puntuación: 91 | Segundo candidato: N/D
+  Episodios lista/candidato: 12/24
+  Similitud estructura: 0.5
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] Pataclaun
+  TMDB: 79868 — Pataclaun
+  Puntuación: 91 | Segundo candidato: N/D
+  Episodios lista/candidato: 54/91
+  Similitud estructura: 0.5934
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] Capitán Tsubasa
+  TMDB: 77240 — Captain Tsubasa
+  Puntuación: 91 | Segundo candidato: N/D
+  Episodios lista/candidato: 52/91
+  Similitud estructura: 0.5714
+  Estructura exacta: false
+  Existe en catálogo: true
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] Melissa: La Niña del Valle Verde
+  TMDB: 224344 — Yeşil Vadi'nin Kızı
+  Puntuación: 91 | Segundo candidato: N/D
+  Episodios lista/candidato: 79/146
+  Similitud estructura: 0.5411
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] Sueña Sin Limites
+  TMDB: 37722 — Dream High
+  Puntuación: 91 | Segundo candidato: N/D
+  Episodios lista/candidato: 16/32
+  Similitud estructura: 0.5
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] Patito feo
+  TMDB: 7282 — Patty's World
+  Puntuación: 91 | Segundo candidato: N/D
+  Episodios lista/candidato: 155/304
+  Similitud estructura: 0.5099
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] Destellos del mañana
+  TMDB: 153217 — Sparks of Tomorrow
+  Puntuación: 91 | Segundo candidato: N/D
+  Episodios lista/candidato: 2/13
+  Similitud estructura: 0.1538
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] GATE24: Protección fronteriza
+  TMDB: 323579 — GATE24: The Border
+  Puntuación: 91 | Segundo candidato: N/D
+  Episodios lista/candidato: 1/10
+  Similitud estructura: 0.1
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] La Gran Sangre
+  TMDB: 6698 — La Gran Sangre
+  Puntuación: 91 | Segundo candidato: N/D
+  Episodios lista/candidato: 64/106
+  Similitud estructura: 0.6038
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] Doc - Una nueva vida
+  TMDB: 101048 — Doc
+  Puntuación: 91 | Segundo candidato: N/D
+  Episodios lista/candidato: 32/64
+  Similitud estructura: 0.5
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] Ellos
+  TMDB: 120462 — Them
+  Puntuación: 91 | Segundo candidato: N/D
+  Episodios lista/candidato: 10/18
+  Similitud estructura: 0.5556
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] La Familia del Barrio
+  TMDB: 92468 — La Familia del Barrio
+  Puntuación: 91 | Segundo candidato: N/D
+  Episodios lista/candidato: 54/95
+  Similitud estructura: 0.5684
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] Harlem
+  TMDB: 138089 — Harlem
+  Puntuación: 91 | Segundo candidato: N/D
+  Episodios lista/candidato: 12/24
+  Similitud estructura: 0.5
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] Jalas o Te Rajas
+  TMDB: 228820 — Prank or Tank
+  Puntuación: 91 | Segundo candidato: N/D
+  Episodios lista/candidato: 6/12
+  Similitud estructura: 0.5
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] The Family Stallone
+  TMDB: 222236 — The Family Stallone
+  Puntuación: 90 | Segundo candidato: N/D
+  Episodios lista/candidato: 8/18
+  Similitud estructura: 0.4444
+  Estructura exacta: false
+  Existe en catálogo: true
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] Transformers: La Chispa de la Tierra
+  TMDB: 157747 — Transformers: EarthSpark
+  Puntuación: 90 | Segundo candidato: N/D
+  Episodios lista/candidato: 15/40
+  Similitud estructura: 0.375
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] Dulce amargura
+  TMDB: 77032 — Sweetbitter
+  Puntuación: 90 | Segundo candidato: N/D
+  Episodios lista/candidato: 6/14
+  Similitud estructura: 0.4286
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] Gary y sus Demonios
+  TMDB: 79478 — Gary and His Demons
+  Puntuación: 90 | Segundo candidato: N/D
+  Episodios lista/candidato: 8/26
+  Similitud estructura: 0.3077
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] Happy Tree Friends
+  TMDB: 1126 — Happy Tree Friends
+  Puntuación: 90 | Segundo candidato: Happy Tree Friends
+  Episodios lista/candidato: 89/180
+  Similitud estructura: 0.4944
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] Las Aventuras de Jimmy Neutron: El Niño Genio
+  TMDB: 2129 — The Adventures of Jimmy Neutron: Boy Genius
+  Puntuación: 90 | Segundo candidato: N/D
+  Episodios lista/candidato: 36/76
+  Similitud estructura: 0.4737
+  Estructura exacta: false
+  Existe en catálogo: true
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] Paw Patrol: Patrulla de Cachorros
+  TMDB: 57532 — PAW Patrol
+  Puntuación: 90 | Segundo candidato: N/D
+  Episodios lista/candidato: 203/578
+  Similitud estructura: 0.3512
+  Estructura exacta: false
+  Existe en catálogo: true
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] Aquellos maravillosos 90
+  TMDB: 135959 — That '90s Show
+  Puntuación: 90 | Segundo candidato: N/D
+  Episodios lista/candidato: 10/26
+  Similitud estructura: 0.3846
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] El niñero
+  TMDB: 241373 — The Manny
+  Puntuación: 90 | Segundo candidato: N/D
+  Episodios lista/candidato: 10/26
+  Similitud estructura: 0.3846
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] El plan del diablo
+  TMDB: 214582 — The Devil's Plan
+  Puntuación: 90 | Segundo candidato: N/D
+  Episodios lista/candidato: 12/26
+  Similitud estructura: 0.4615
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] 3Hz
+  TMDB: 208427 — 3Hz
+  Puntuación: 90 | Segundo candidato: N/D
+  Episodios lista/candidato: 13/39
+  Similitud estructura: 0.3333
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] Familia en reparación
+  TMDB: 260471 — Shifting Gears
+  Puntuación: 90 | Segundo candidato: N/D
+  Episodios lista/candidato: 10/23
+  Similitud estructura: 0.4348
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] Como atrapé a mi asesino
+  TMDB: 217448 — How I Caught My Killer
+  Puntuación: 90 | Segundo candidato: N/D
+  Episodios lista/candidato: 9/19
+  Similitud estructura: 0.4737
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] En busca de pruebas
+  TMDB: 205272 — Reasonable Doubt
+  Puntuación: 90 | Segundo candidato: N/D
+  Episodios lista/candidato: 17/39
+  Similitud estructura: 0.4359
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] Caníbal
+  TMDB: 210213 — Gannibal
+  Puntuación: 90 | Segundo candidato: N/D
+  Episodios lista/candidato: 6/15
+  Similitud estructura: 0.4
+  Estructura exacta: false
+  Existe en catálogo: true
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] The Closer
+  TMDB: 1450 — The Closer
+  Puntuación: 90 | Segundo candidato: The Closer
+  Episodios lista/candidato: 41/109
+  Similitud estructura: 0.3761
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] Tour de Francia: En el corazón del pelotón
+  TMDB: 225335 — Tour de France: Unchained
+  Puntuación: 90 | Segundo candidato: N/D
+  Episodios lista/candidato: 8/24
+  Similitud estructura: 0.3333
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] Criminal: Reino Unido
+  TMDB: 92926 — Criminal: UK
+  Puntuación: 90 | Segundo candidato: N/D
+  Episodios lista/candidato: 3/7
+  Similitud estructura: 0.4286
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] Glitch Techs
+  TMDB: 98494 — Glitch Techs
+  Puntuación: 90 | Segundo candidato: N/D
+  Episodios lista/candidato: 9/19
+  Similitud estructura: 0.4737
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] Bookie
+  TMDB: 221486 — Bookie
+  Puntuación: 90 | Segundo candidato: N/D
+  Episodios lista/candidato: 6/16
+  Similitud estructura: 0.375
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] The Curious Case of Natalia Grace
+  TMDB: 226706 — The Curious Case of Natalia Grace
+  Puntuación: 90 | Segundo candidato: N/D
+  Episodios lista/candidato: 6/16
+  Similitud estructura: 0.375
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] Las Bravas F.C.
+  TMDB: 197549 — Las Bravas F.C.
+  Puntuación: 90 | Segundo candidato: N/D
+  Episodios lista/candidato: 6/16
+  Similitud estructura: 0.375
+  Estructura exacta: false
+  Existe en catálogo: true
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] Manayek
+  TMDB: 107013 — Manayek
+  Puntuación: 90 | Segundo candidato: N/D
+  Episodios lista/candidato: 10/30
+  Similitud estructura: 0.3333
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] Menor de edad infiltrada
+  TMDB: 137527 — Undercover Underage
+  Puntuación: 90 | Segundo candidato: N/D
+  Episodios lista/candidato: 6/14
+  Similitud estructura: 0.4286
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] Mr. Pickles
+  TMDB: 61593 — Mr. Pickles
+  Puntuación: 90 | Segundo candidato: N/D
+  Episodios lista/candidato: 10/31
+  Similitud estructura: 0.3226
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] Lakers: Tiempo de ganar
+  TMDB: 124067 — Winning Time: The Rise of the Lakers Dynasty
+  Puntuación: 90 | Segundo candidato: N/D
+  Episodios lista/candidato: 8/17
+  Similitud estructura: 0.4706
+  Estructura exacta: false
+  Existe en catálogo: true
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] Vilma
+  TMDB: 126725 — Velma
+  Puntuación: 90 | Segundo candidato: Vilma!
+  Episodios lista/candidato: 10/21
+  Similitud estructura: 0.4762
+  Estructura exacta: false
+  Existe en catálogo: true
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] Walker
+  TMDB: 99121 — Walker
+  Puntuación: 90 | Segundo candidato: N/D
+  Episodios lista/candidato: 29/69
+  Similitud estructura: 0.4203
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] Al Fondo Hay Sitio
+  TMDB: 32209 — Al Fondo Hay Sitio
+  Puntuación: 90 | Segundo candidato: N/D
+  Episodios lista/candidato: 991/2327
+  Similitud estructura: 0.4259
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] Bajo la Red
+  TMDB: 82364 — Bajo la Red
+  Puntuación: 90 | Segundo candidato: N/D
+  Episodios lista/candidato: 6/13
+  Similitud estructura: 0.4615
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] Súper Once
+  TMDB: 42912 — Inazuma Eleven
+  Puntuación: 90 | Segundo candidato: N/D
+  Episodios lista/candidato: 127/268
+  Similitud estructura: 0.4739
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] Initial D
+  TMDB: 40424 — Initial D
+  Puntuación: 90 | Segundo candidato: N/D
+  Episodios lista/candidato: 26/81
+  Similitud estructura: 0.321
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] Seraph of the End
+  TMDB: 62255 — Seraph of the End
+  Puntuación: 90 | Segundo candidato: N/D
+  Episodios lista/candidato: 11/24
+  Similitud estructura: 0.4583
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] The Misfit of Demon King Academy
+  TMDB: 97617 — The Misfit of Demon King Academy
+  Puntuación: 90 | Segundo candidato: N/D
+  Episodios lista/candidato: 12/37
+  Similitud estructura: 0.3243
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] BeyBlade
+  TMDB: 54728 — Beyblade
+  Puntuación: 90 | Segundo candidato: N/D
+  Episodios lista/candidato: 48/154
+  Similitud estructura: 0.3117
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] Martin Mystery
+  TMDB: 140 — Martin Mystery
+  Puntuación: 90 | Segundo candidato: N/D
+  Episodios lista/candidato: 26/66
+  Similitud estructura: 0.3939
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] Pixie and Dixie and Mr. Jinks
+  TMDB: 21471 — Pixie and Dixie and Mr. Jinks
+  Puntuación: 90 | Segundo candidato: N/D
+  Episodios lista/candidato: 20/57
+  Similitud estructura: 0.3509
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] Academia Unicornio: Secretos por descubrir
+  TMDB: 316945 — Unicorn Academy: Secrets Revealed
+  Puntuación: 90 | Segundo candidato: N/D
+  Episodios lista/candidato: 8/20
+  Similitud estructura: 0.4
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] Salish & Jordan Matter
+  TMDB: 318906 — Salish & Jordan Matter
+  Puntuación: 90 | Segundo candidato: N/D
+  Episodios lista/candidato: 7/21
+  Similitud estructura: 0.3333
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] Yomi no Tsugai: Dúo del Inframundo
+  TMDB: 260463 — Daemons of the Shadow Realm
+  Puntuación: 90 | Segundo candidato: N/D
+  Episodios lista/candidato: 9/24
+  Similitud estructura: 0.375
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] Alert: Missing Persons Unit
+  TMDB: 202308 — Alert: Missing Persons Unit
+  Puntuación: 89 | Segundo candidato: N/D
+  Episodios lista/candidato: 4/29
+  Similitud estructura: 0.1379
+  Estructura exacta: false
+  Existe en catálogo: true
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] Tal para cual
+  TMDB: 212361 — Tal para cual
+  Puntuación: 89 | Segundo candidato: N/D
+  Episodios lista/candidato: 12/57
+  Similitud estructura: 0.2105
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] Pollo Robot
+  TMDB: 709 — Robot Chicken
+  Puntuación: 89 | Segundo candidato: N/D
+  Episodios lista/candidato: 44/218
+  Similitud estructura: 0.2018
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] Enfermeras
+  TMDB: 122623 — Enfermeras
+  Puntuación: 89 | Segundo candidato: N/D
+  Episodios lista/candidato: 100/428
+  Similitud estructura: 0.2336
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] Arnold
+  TMDB: 2410 — Diff'rent Strokes
+  Puntuación: 89 | Segundo candidato: Arnold
+  Episodios lista/candidato: 20/189
+  Similitud estructura: 0.1058
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] Desagertuta
+  TMDB: 292012 — Disappeared
+  Puntuación: 89 | Segundo candidato: N/D
+  Episodios lista/candidato: 3/12
+  Similitud estructura: 0.25
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] Chibiverse
+  TMDB: 205683 — Chibiverse
+  Puntuación: 89 | Segundo candidato: N/D
+  Episodios lista/candidato: 4/31
+  Similitud estructura: 0.129
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] Oveja Karateca
+  TMDB: 214091 — Karate Sheep
+  Puntuación: 89 | Segundo candidato: N/D
+  Episodios lista/candidato: 13/91
+  Similitud estructura: 0.1429
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] 2 Perros Tontos
+  TMDB: 1916 — 2 Stupid Dogs
+  Puntuación: 89 | Segundo candidato: N/D
+  Episodios lista/candidato: 12/52
+  Similitud estructura: 0.2308
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] Call Me Kat
+  TMDB: 113627 — Call Me Kat
+  Puntuación: 89 | Segundo candidato: N/D
+  Episodios lista/candidato: 13/53
+  Similitud estructura: 0.2453
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] Diarios de Vampiros
+  TMDB: 18165 — The Vampire Diaries
+  Puntuación: 89 | Segundo candidato: N/D
+  Episodios lista/candidato: 22/171
+  Similitud estructura: 0.1287
+  Estructura exacta: false
+  Existe en catálogo: true
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] Encontrados
+  TMDB: 214160 — Found
+  Puntuación: 89 | Segundo candidato: N/D
+  Episodios lista/candidato: 6/35
+  Similitud estructura: 0.1714
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] Kung Fu: la leyenda continúa
+  TMDB: 636 — Kung Fu: The Legend Continues
+  Puntuación: 89 | Segundo candidato: N/D
+  Episodios lista/candidato: 13/88
+  Similitud estructura: 0.1477
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] KND: Los chicos del barrio
+  TMDB: 2660 — Codename: Kids Next Door
+  Puntuación: 89 | Segundo candidato: N/D
+  Episodios lista/candidato: 15/139
+  Similitud estructura: 0.1079
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] Scooby-Doo y ¿quién crees tú?
+  TMDB: 88367 — Scooby-Doo and Guess Who?
+  Puntuación: 89 | Segundo candidato: N/D
+  Episodios lista/candidato: 10/52
+  Similitud estructura: 0.1923
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] Piratas: Velas Negras
+  TMDB: 47665 — Black Sails
+  Puntuación: 89 | Segundo candidato: N/D
+  Episodios lista/candidato: 8/38
+  Similitud estructura: 0.2105
+  Estructura exacta: false
+  Existe en catálogo: true
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] Full Metal Panic!
+  TMDB: 39379 — Full Metal Panic!
+  Puntuación: 89 | Segundo candidato: N/D
+  Episodios lista/candidato: 12/60
+  Similitud estructura: 0.2
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] CatDog
+  TMDB: 1567 — CatDog
+  Puntuación: 89 | Segundo candidato: N/D
+  Episodios lista/candidato: 26/132
+  Similitud estructura: 0.197
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] Cuentos de Hadas Fracturados
+  TMDB: 86564 — Fractured Fairy Tales
+  Puntuación: 89 | Segundo candidato: N/D
+  Episodios lista/candidato: 20/91
+  Similitud estructura: 0.2198
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] El Escuadrón del Tiempo
+  TMDB: 4314 — Time Squad
+  Puntuación: 89 | Segundo candidato: N/D
+  Episodios lista/candidato: 13/53
+  Similitud estructura: 0.2453
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] Félix el gato
+  TMDB: 101512 — Felix the Cat
+  Puntuación: 89 | Segundo candidato: N/D
+  Episodios lista/candidato: 31/132
+  Similitud estructura: 0.2348
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] Garfield y sus Amigos
+  TMDB: 4606 — Garfield and Friends
+  Puntuación: 89 | Segundo candidato: N/D
+  Episodios lista/candidato: 39/363
+  Similitud estructura: 0.1074
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] Ginger
+  TMDB: 1760 — As Told by Ginger
+  Puntuación: 89 | Segundo candidato: N/D
+  Episodios lista/candidato: 13/44
+  Similitud estructura: 0.2955
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] Johnny Bravo
+  TMDB: 2405 — Johnny Bravo
+  Puntuación: 89 | Segundo candidato: N/D
+  Episodios lista/candidato: 31/181
+  Similitud estructura: 0.1713
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] La vida moderna de Rocko
+  TMDB: 657 — Rocko's Modern Life
+  Puntuación: 89 | Segundo candidato: N/D
+  Episodios lista/candidato: 20/100
+  Similitud estructura: 0.2
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] Las aventuras de los osos Gummi
+  TMDB: 1931 — Disney's Adventures of the Gummi Bears
+  Puntuación: 89 | Segundo candidato: N/D
+  Episodios lista/candidato: 13/95
+  Similitud estructura: 0.1368
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] Locos Dieciseis
+  TMDB: 4355 — 6teen
+  Puntuación: 89 | Segundo candidato: N/D
+  Episodios lista/candidato: 27/94
+  Similitud estructura: 0.2872
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] Los Castores Cascarrabias
+  TMDB: 3579 — The Angry Beavers
+  Puntuación: 89 | Segundo candidato: N/D
+  Episodios lista/candidato: 13/123
+  Similitud estructura: 0.1057
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] Los Supersónicos
+  TMDB: 2362 — The Jetsons
+  Puntuación: 89 | Segundo candidato: N/D
+  Episodios lista/candidato: 17/75
+  Similitud estructura: 0.2267
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] Pinky y Cerebro
+  TMDB: 2228 — Pinky and the Brain
+  Puntuación: 89 | Segundo candidato: N/D
+  Episodios lista/candidato: 19/95
+  Similitud estructura: 0.2
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] Las Pistas de Blue
+  TMDB: 10821 — Blue's Clues
+  Puntuación: 89 | Segundo candidato: N/D
+  Episodios lista/candidato: 18/159
+  Similitud estructura: 0.1132
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] La robot adolescente
+  TMDB: 178 — My Life as a Teenage Robot
+  Puntuación: 89 | Segundo candidato: N/D
+  Episodios lista/candidato: 13/76
+  Similitud estructura: 0.1711
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] Sailor Moon
+  TMDB: 3570 — Sailor Moon
+  Puntuación: 89 | Segundo candidato: N/D
+  Episodios lista/candidato: 46/200
+  Similitud estructura: 0.23
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] Magic School Bus
+  TMDB: 7248 — The Magic School Bus
+  Puntuación: 89 | Segundo candidato: N/D
+  Episodios lista/candidato: 13/52
+  Similitud estructura: 0.25
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] T.U.F.F. Puppy
+  TMDB: 18828 — T.U.F.F. Puppy
+  Puntuación: 89 | Segundo candidato: N/D
+  Episodios lista/candidato: 20/115
+  Similitud estructura: 0.1739
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] Lindas Mentirosas
+  TMDB: 31917 — Pretty Little Liars
+  Puntuación: 89 | Segundo candidato: N/D
+  Episodios lista/candidato: 22/161
+  Similitud estructura: 0.1366
+  Estructura exacta: false
+  Existe en catálogo: true
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] Tres por tres
+  TMDB: 4313 — Full House
+  Puntuación: 88 | Segundo candidato: N/D
+  Episodios lista/candidato: 16/192
+  Similitud estructura: 0.0833
+  Estructura exacta: false
+  Existe en catálogo: true
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] Pororo el pequeño pingüino
+  TMDB: 19845 — Pororo the Little Penguin
+  Puntuación: 88 | Segundo candidato: N/D
+  Episodios lista/candidato: 6/312
+  Similitud estructura: 0.0192
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] El Chico De Oro
+  TMDB: 210865 — Yalı Çapkını
+  Puntuación: 88 | Segundo candidato: N/D
+  Episodios lista/candidato: 9/101
+  Similitud estructura: 0.0891
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] Yowamushi Pedal
+  TMDB: 61441 — Yowamushi Pedal
+  Puntuación: 88 | Segundo candidato: Yowamushi Pedal
+  Episodios lista/candidato: 39/137
+  Similitud estructura: 0.2774
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] Angela Anaconda
+  TMDB: 5373 — Angela Anaconda
+  Puntuación: 88 | Segundo candidato: N/D
+  Episodios lista/candidato: 11/130
+  Similitud estructura: 0.0846
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] El laboratorio de Dexter
+  TMDB: 4229 — Dexter's Laboratory
+  Puntuación: 88 | Segundo candidato: N/D
+  Episodios lista/candidato: 17/220
+  Similitud estructura: 0.0773
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] La familia Ingalls
+  TMDB: 1781 — Little House on the Prairie
+  Puntuación: 88 | Segundo candidato: Little House on the Prairie
+  Episodios lista/candidato: 24/200
+  Similitud estructura: 0.115
+  Estructura exacta: false
+  Existe en catálogo: true
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] Power Rangers
+  TMDB: 2328 — Power Rangers
+  Puntuación: 88 | Segundo candidato: N/D
+  Episodios lista/candidato: 243/973
+  Similitud estructura: 0.2395
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] Women at Warː 100 Years of Service
+  TMDB: 214467 — Women at Warː 100 Years of Service
+  Puntuación: 86 | Segundo candidato: N/D
+  Episodios lista/candidato: 8/5
+  Similitud estructura: 0.625
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] Amor a primera bestia
+  TMDB: 128250 — Sexy Beasts
+  Puntuación: 86 | Segundo candidato: N/D
+  Episodios lista/candidato: 8/12
+  Similitud estructura: 0.5
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] ¡amor!
+  TMDB: 302882 — #Love
+  Puntuación: 84 | Segundo candidato: N/D
+  Episodios lista/candidato: 10/6
+  Similitud estructura: 0.6
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] Ojo por Ojo
+  TMDB: 135967 — Ojo por Ojo
+  Puntuación: 83 | Segundo candidato: Ull per ull
+  Episodios lista/candidato: 196/98
+  Similitud estructura: 0.5
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] Rafael Orozco - El Idolo
+  TMDB: 87944 — Rafael Orozco - El Idolo
+  Puntuación: 83 | Segundo candidato: N/D
+  Episodios lista/candidato: 180/90
+  Similitud estructura: 0.5
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] El precio de una confesión
+  TMDB: 209110 — The Price of Confession
+  Puntuación: 83 | Segundo candidato: N/D
+  Episodios lista/candidato: 24/12
+  Similitud estructura: 0.5
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] Simon Cowell: The Next Act
+  TMDB: 299713 — Simon Cowell: The Next Act
+  Puntuación: 83 | Segundo candidato: N/D
+  Episodios lista/candidato: 12/6
+  Similitud estructura: 0.5
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] Tiny Toons Looniversity
+  TMDB: 155779 — Tiny Toons Looniversity
+  Puntuación: 83 | Segundo candidato: N/D
+  Episodios lista/candidato: 20/23
+  Similitud estructura: 0.4783
+  Estructura exacta: false
+  Existe en catálogo: true
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] Don Dracula
+  TMDB: 16576 — Don Dracula
+  Puntuación: 83 | Segundo candidato: N/D
+  Episodios lista/candidato: 16/8
+  Similitud estructura: 0.5
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] Don Gato y su Pandilla
+  TMDB: 4232 — Top Cat
+  Puntuación: 83 | Segundo candidato: N/D
+  Episodios lista/candidato: 60/30
+  Similitud estructura: 0.5
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] Fatmagul
+  TMDB: 44807 — What is Fatmagul's Fault?
+  Puntuación: 83 | Segundo candidato: N/D
+  Episodios lista/candidato: 75/80
+  Similitud estructura: 0.4875
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] Ben 10: Supremacía Alienígena
+  TMDB: 31109 — Ben 10: Ultimate Alien
+  Puntuación: 82 | Segundo candidato: N/D
+  Episodios lista/candidato: 52/52
+  Similitud estructura: 0.6154
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] Madre Luna
+  TMDB: 5170 — Madre Luna
+  Puntuación: 82 | Segundo candidato: N/D
+  Episodios lista/candidato: 282/139
+  Similitud estructura: 0.4929
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] El show de Vince Staples
+  TMDB: 243861 — The Vince Staples Show
+  Puntuación: 82 | Segundo candidato: N/D
+  Episodios lista/candidato: 11/11
+  Similitud estructura: 0.4545
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.
+
+[BAJA_COINCIDENCIA] Coven Academy: El Secreto de las Brujas
+  TMDB: 298505 — Coven Academy
+  Puntuación: 82 | Segundo candidato: N/D
+  Episodios lista/candidato: 21/10
+  Similitud estructura: 0.4762
+  Estructura exacta: false
+  Existe en catálogo: false
+  Motivo: La estructura no ofrece suficiente respaldo.

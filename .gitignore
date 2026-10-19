@@ -47,3 +47,16 @@ docker-compose.override.yml
 
 # 🔐 claves privadas (por las dudas)
 *.pem
+# Cachés de importación y auditoría de series
+/backend/data/series-import-cache-lista-*.json
+/backend/data/series-lista-6-audit-cache*.json
+
+# Backups del catálogo combinado
+/backend/data/series-streams-combined.json.*backup*.json
+
+# Backups del catálogo de series
+/backend/data/series-streams-combined*.json
+!/backend/data/series-streams-combined.json
+
+# Caché de importación de lista 6
+/backend/data/series-import-cache-lista-6/

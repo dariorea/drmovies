@@ -1,0 +1,379 @@
+
+import fs from "node:fs";
+import path from "node:path";
+
+const DATA_DIR = path.resolve("data");
+const MATCHES_FILE = path.join(
+  DATA_DIR,
+  "series-lista-6-clean-matches-reviewed.json"
+);
+const UNMATCHED_FILE = path.join(
+  DATA_DIR,
+  "unmatched-series-lista-6.json"
+);
+const CATALOG_FILE = path.join(
+  DATA_DIR,
+  "series-streams-combined.json"
+);
+
+const APPLY = process.argv.includes("--apply");
+const SOURCE = "lista-6";
+
+function readJson(file) {
+  return JSON.parse(fs.readFileSync(file, "utf8"));
+}
+
+function normalizeName(value) {
+  return String(value ?? "")
+    .normalize("NFD")
+    .replace(/[\u0300-\u036f]/g, "")
+    .toLowerCase()
+    .replace(/[^a-z0-9]+/g, " ")
+    .trim();
+}
+
+function getId(match) {
+  const value = match?.bestMatch?.tmdbId ?? match?.bestMatch?.id;
+  const id = Number(value);
+
+  return Number.isSafeInteger(id) && id > 0 ? String(id) : null;
+}
+
+function getEpisodeUrl(source) {
+  if (typeof source === "string") return source.trim();
+
+  return String(
+    source?.url ?? source?.streamUrl ?? source?.stream_url ?? ""
+  ).trim();
+}
+
+function getSourceName(source) {
+  return typeof source === "object" && source
+    ? String(source.source ?? SOURCE)
+    : SOURCE;
+}
+
+function episodeSources(episode) {
+  const result = [];
+  const seen = new Set();
+
+  function add(source, url) {
+    if (!url) return;
+    const key = `${source}\0${url}`;
+
+    if (seen.has(key)) return;
+    seen.add(key);
+    result.push({ source, url });
+  }
+
+  for (const source of Array.isArray(episode?.sources) ? episode.sources : []) {
+    add(getSourceName(source), getEpisodeUrl(source));
+  }
+
+  if (episode?.streamUrl) {
+    add(SOURCE, String(episode.streamUrl).trim());
+  }
+
+  return result;
+}
+
+function makeKey(season, episode) {
+  return `${Number(season)}:${Number(episode)}`;
+}
+
+function main() {
+  for (const file of [MATCHES_FILE, UNMATCHED_FILE, CATALOG_FILE]) {
+    if (!fs.existsSync(file)) throw new Error(`No existe: ${file}`);
+  }
+
+  const matches = readJson(MATCHES_FILE);
+  const unmatched = readJson(UNMATCHED_FILE);
+  const catalog = readJson(CATALOG_FILE);
+
+  if (!Array.isArray(matches) || !unmatched || !catalog) {
+    throw new Error("Formato inesperado en los archivos JSON.");
+  }
+
+  const report = {
+    modo: APPLY ? "APLICAR" : "SIMULACIÓN",
+    coincidenciasFuertes: 0,
+    seriesExistentesCandidatas: 0,
+    seriesNuevasIgnoradas: 0,
+    originalesNoEncontrados: 0,
+    episodiosOriginalesInvalidos: 0,
+    idsDuplicadosEnMatches: 0,
+    episodiosExistentesEncontrados: 0,
+    episodiosNuevos: 0,
+    fuentesNuevas: 0,
+    fuentesDuplicadas: 0,
+    seriesConCambios: 0,
+    errores: [],
+    cambios: [],
+  };
+
+  const plans = [];
+  const seenIds = new Set();
+
+  for (const match of matches) {
+    if (match?.decision !== "MATCH_FUERTE") continue;
+
+    report.coincidenciasFuertes++;
+
+    const id = getId(match);
+    if (!id) {
+      report.errores.push(
+        `ID TMDB inválido: ${match?.seriesName ?? "(sin nombre)"}`
+      );
+      continue;
+    }
+
+    if (seenIds.has(id)) {
+      report.idsDuplicadosEnMatches++;
+      continue;
+    }
+    seenIds.add(id);
+
+    // Este script recupera exclusivamente series que ya existen.
+    if (!catalog[id]) {
+      report.seriesNuevasIgnoradas++;
+      continue;
+    }
+
+    report.seriesExistentesCandidatas++;
+
+    const originalName = normalizeName(
+      match.seriesName ?? match.normalizedSeriesName
+    );
+    const entry = unmatched[originalName] ??
+      Object.values(unmatched).find(item =>
+        normalizeName(item?.seriesName ?? item?.normalizedSeriesName) ===
+        originalName
+      );
+
+    if (!entry || !Array.isArray(entry.episodes) || !entry.episodes.length) {
+      report.originalesNoEncontrados++;
+      report.errores.push(
+        `Sin episodios originales: ${match.seriesName} (TMDB ${id})`
+      );
+      continue;
+    }
+
+    const existingSeries = catalog[id];
+    const seasonPlans = new Map();
+    let invalid = false;
+
+    for (const item of entry.episodes) {
+      const season = Number(item?.season);
+      const episodeNumber = Number(item?.episode);
+      const url = String(item?.url ?? "").trim();
+
+      if (
+        !Number.isInteger(season) || season < 1 ||
+        !Number.isInteger(episodeNumber) || episodeNumber < 1 ||
+        !url
+      ) {
+        invalid = true;
+        break;
+      }
+
+      const seasonKey = String(season);
+      const episodeKey = String(episodeNumber);
+      const key = makeKey(season, episodeNumber);
+
+      if (!seasonPlans.has(key)) {
+        seasonPlans.set(key, {
+          season,
+          episode: episodeNumber,
+          name: String(item?.name ?? "").trim(),
+          url,
+        });
+      } else if (seasonPlans.get(key).url !== url) {
+        // Se permiten URLs alternativas para el mismo episodio;
+        // se procesan individualmente abajo.
+      }
+
+      // El plan conserva todas las URLs por episodio.
+      const plan = seasonPlans.get(key);
+      if (!plan.urls) plan.urls = new Set([plan.url]);
+      plan.urls.add(url);
+    }
+
+    if (invalid) {
+      report.episodiosOriginalesInvalidos++;
+      report.errores.push(
+        `Episodios inválidos: ${match.seriesName} (TMDB ${id})`
+      );
+      continue;
+    }
+
+    let newEpisodes = 0;
+    let newSources = 0;
+    let existingEpisodes = 0;
+    const changes = [];
+
+    for (const plan of seasonPlans.values()) {
+      const seasonKey = String(plan.season);
+      const episodeKey = String(plan.episode);
+
+      const existingSeason = existingSeries.seasons?.[seasonKey];
+      const existingEpisode = existingSeason?.episodes?.[episodeKey];
+
+      if (!existingEpisode) {
+        newEpisodes++;
+      } else {
+        existingEpisodes++;
+      }
+
+      const existingSourceKeys = new Set(
+        episodeSources(existingEpisode).map(source =>
+          `${source.source}\0${source.url}`
+        )
+      );
+
+      for (const url of plan.urls) {
+        const key = `${SOURCE}\0${url}`;
+
+        if (existingSourceKeys.has(key)) {
+          report.fuentesDuplicadas++;
+        } else {
+          newSources++;
+          existingSourceKeys.add(key);
+        }
+      }
+
+      changes.push({
+        season: plan.season,
+        episode: plan.episode,
+        name: plan.name,
+        urls: [...plan.urls],
+      });
+    }
+
+    report.episodiosOriginalesInvalidos += 0;
+    report.episodiosExistentesEncontrados += existingEpisodes;
+    report.episodiosNuevos += newEpisodes;
+    report.fuentesNuevas += newSources;
+
+    if (newEpisodes || newSources) {
+      report.seriesConCambios++;
+      plans.push({
+        id,
+        name: existingSeries.name,
+        changes,
+      });
+
+      report.cambios.push({
+        id,
+        nombre: existingSeries.name,
+        episodiosNuevos: newEpisodes,
+        fuentesNuevas: newSources,
+        episodiosYaExistentes: existingEpisodes,
+      });
+    }
+  }
+
+  console.log("\n======================================");
+  console.log(" RECUPERAR SERIES EXISTENTES — LISTA 6");
+  console.log("======================================\n");
+  console.log(JSON.stringify(report, null, 2));
+
+  if (report.errores.length) {
+    console.error("\nHay errores; no se modificó el catálogo.");
+    process.exitCode = 1;
+    return;
+  }
+
+  if (!APPLY) {
+    console.log("\nSIMULACIÓN: no se modificó ningún archivo.");
+    console.log("Si los cambios son correctos, ejecutá con --apply.");
+    return;
+  }
+
+  // Volver a leer el catálogo para evitar sobrescribir cambios externos.
+  const originalText = fs.readFileSync(CATALOG_FILE, "utf8");
+  const current = JSON.parse(originalText);
+
+  for (const plan of plans) {
+    if (!current[plan.id]) {
+      throw new Error(
+        `La serie ${plan.id} desapareció del catálogo. Se cancela.`
+      );
+    }
+  }
+
+  // Aplicar los cambios solo sobre una copia en memoria.
+  for (const plan of plans) {
+    const series = current[plan.id];
+
+    for (const change of plan.changes) {
+      const seasonKey = String(change.season);
+      const episodeKey = String(change.episode);
+
+      series.seasons ??= {};
+      series.seasons[seasonKey] ??= {
+        season: change.season,
+        episodes: {},
+      };
+      series.seasons[seasonKey].episodes ??= {};
+
+      let episode = series.seasons[seasonKey].episodes[episodeKey];
+
+      if (!episode) {
+        episode = {
+          episode: change.episode,
+          name: change.name ||
+            `${series.name} S${String(change.season).padStart(2, "0")} E${String(change.episode).padStart(2, "0")}`,
+          sources: [],
+        };
+        series.seasons[seasonKey].episodes[episodeKey] = episode;
+      }
+
+      episode.sources ??= [];
+
+      const known = new Set(
+        episode.sources.map(source =>
+          `${String(source?.source ?? SOURCE)}\0${getEpisodeUrl(source)}`
+        )
+      );
+
+      for (const url of change.urls) {
+        const key = `${SOURCE}\0${url}`;
+        if (known.has(key)) continue;
+
+        episode.sources.push({ source: SOURCE, url });
+        known.add(key);
+      }
+
+      // No reemplazar la fuente principal si ya existe.
+      if (!episode.streamUrl) {
+        episode.streamUrl =
+          episode.sources.find(source => source.url)?.url ??
+          change.urls[0];
+      }
+    }
+  }
+
+  const tempFile = `${CATALOG_FILE}.tmp-${process.pid}`;
+  const backupFile =
+    `${CATALOG_FILE}.backup-recuperar-lista-6-${Date.now()}`;
+
+  fs.copyFileSync(CATALOG_FILE, backupFile);
+
+  try {
+    fs.writeFileSync(
+      tempFile,
+      JSON.stringify(current, null, 2) + "\n",
+      "utf8"
+    );
+    fs.renameSync(tempFile, CATALOG_FILE);
+  } catch (error) {
+    if (fs.existsSync(tempFile)) fs.unlinkSync(tempFile);
+    throw error;
+  }
+
+  console.log("\nImportación completada.");
+  console.log(`Series actualizadas: ${plans.length}`);
+  console.log(`Backup: ${backupFile}`);
+}
+
+main();

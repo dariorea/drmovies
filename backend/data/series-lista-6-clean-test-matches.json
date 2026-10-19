@@ -1,0 +1,1385 @@
+[
+  {
+    "seriesName": "16",
+    "groupTitle": "lista-6",
+    "logo": null,
+    "m3uStructure": {
+      "1": 99
+    },
+    "m3uTotal": 99,
+    "m3uYear": null,
+    "decision": "MATCH_PROBABLE",
+    "bestMatch": {
+      "tmdbId": 106302,
+      "name": "16",
+      "originalName": "16",
+      "firstAirDate": "2003-06-09",
+      "originCountry": [
+        "CL"
+      ],
+      "numberOfSeasons": 1,
+      "numberOfEpisodes": 98,
+      "titleMatch": true,
+      "titleMatches": [
+        "16"
+      ],
+      "score": 95,
+      "m3uStructure": {
+        "1": 99
+      },
+      "tmdbStructure": {
+        "1": 98
+      },
+      "m3uTotal": 99,
+      "tmdbTotal": 98,
+      "episodeRatio": 0.98989898989899,
+      "seasonRatio": 1,
+      "sameSeasonSet": true,
+      "exactStructure": false,
+      "posterPath": "/vTLSEghIpumaqFWALNruKPIYIZN.jpg"
+    },
+    "secondMatch": {
+      "tmdbId": 243175,
+      "name": "Club Friday Season 16: Hot Love Issue",
+      "originalName": "คลับฟรายเดย์เดอะซีรีส์ 16 เรื่องรัก เรื่องร้อน",
+      "firstAirDate": "2024-01-07",
+      "originCountry": [
+        "TH"
+      ],
+      "numberOfSeasons": 1,
+      "numberOfEpisodes": 43,
+      "titleMatch": true,
+      "titleMatches": [
+        "16"
+      ],
+      "score": 81,
+      "m3uStructure": {
+        "1": 99
+      },
+      "tmdbStructure": {
+        "1": 43
+      },
+      "m3uTotal": 99,
+      "tmdbTotal": 43,
+      "episodeRatio": 0.43434343434343436,
+      "seasonRatio": 1,
+      "sameSeasonSet": true,
+      "exactStructure": false,
+      "posterPath": "/xbRyUACaDnRCLOfYIjAIWmcJitB.jpg"
+    },
+    "candidates": [
+      {
+        "tmdbId": 106302,
+        "name": "16",
+        "originalName": "16",
+        "firstAirDate": "2003-06-09",
+        "originCountry": [
+          "CL"
+        ],
+        "numberOfSeasons": 1,
+        "numberOfEpisodes": 98,
+        "titleMatch": true,
+        "titleMatches": [
+          "16"
+        ],
+        "score": 95,
+        "m3uStructure": {
+          "1": 99
+        },
+        "tmdbStructure": {
+          "1": 98
+        },
+        "m3uTotal": 99,
+        "tmdbTotal": 98,
+        "episodeRatio": 0.98989898989899,
+        "seasonRatio": 1,
+        "sameSeasonSet": true,
+        "exactStructure": false,
+        "posterPath": "/vTLSEghIpumaqFWALNruKPIYIZN.jpg"
+      },
+      {
+        "tmdbId": 243175,
+        "name": "Club Friday Season 16: Hot Love Issue",
+        "originalName": "คลับฟรายเดย์เดอะซีรีส์ 16 เรื่องรัก เรื่องร้อน",
+        "firstAirDate": "2024-01-07",
+        "originCountry": [
+          "TH"
+        ],
+        "numberOfSeasons": 1,
+        "numberOfEpisodes": 43,
+        "titleMatch": true,
+        "titleMatches": [
+          "16"
+        ],
+        "score": 81,
+        "m3uStructure": {
+          "1": 99
+        },
+        "tmdbStructure": {
+          "1": 43
+        },
+        "m3uTotal": 99,
+        "tmdbTotal": 43,
+        "episodeRatio": 0.43434343434343436,
+        "seasonRatio": 1,
+        "sameSeasonSet": true,
+        "exactStructure": false,
+        "posterPath": "/xbRyUACaDnRCLOfYIjAIWmcJitB.jpg"
+      },
+      {
+        "tmdbId": 31673,
+        "name": "16 and Pregnant",
+        "originalName": "16 and Pregnant",
+        "firstAirDate": "2009-06-11",
+        "originCountry": [
+          "US"
+        ],
+        "numberOfSeasons": 6,
+        "numberOfEpisodes": 84,
+        "titleMatch": true,
+        "titleMatches": [
+          "16"
+        ],
+        "score": 74,
+        "m3uStructure": {
+          "1": 99
+        },
+        "tmdbStructure": {
+          "1": 8,
+          "2": 23,
+          "3": 14,
+          "4": 13,
+          "5": 15,
+          "6": 11
+        },
+        "m3uTotal": 99,
+        "tmdbTotal": 84,
+        "episodeRatio": 0.08080808080808081,
+        "seasonRatio": 1,
+        "sameSeasonSet": false,
+        "exactStructure": false,
+        "posterPath": "/pNNHlx6ySP9Xyfx7RetkI4hV5x1.jpg"
+      },
+      {
+        "tmdbId": 23279,
+        "name": "The Way We Were",
+        "originalName": "16個夏天",
+        "firstAirDate": "2014-07-19",
+        "originCountry": [
+          "TW"
+        ],
+        "numberOfSeasons": 1,
+        "numberOfEpisodes": 16,
+        "titleMatch": true,
+        "titleMatches": [
+          "16"
+        ],
+        "score": 74,
+        "m3uStructure": {
+          "1": 99
+        },
+        "tmdbStructure": {
+          "1": 16
+        },
+        "m3uTotal": 99,
+        "tmdbTotal": 16,
+        "episodeRatio": 0.16161616161616163,
+        "seasonRatio": 1,
+        "sameSeasonSet": true,
+        "exactStructure": false,
+        "posterPath": "/9FuzFTC8jy3ZrhcC9MgWxCfmaVg.jpg"
+      },
+      {
+        "tmdbId": 214911,
+        "name": "Pregnant at 16",
+        "originalName": "Беременна в 16",
+        "firstAirDate": "2019-02-27",
+        "originCountry": [
+          "RU"
+        ],
+        "numberOfSeasons": 11,
+        "numberOfEpisodes": 82,
+        "titleMatch": true,
+        "titleMatches": [
+          "16"
+        ],
+        "score": 74,
+        "m3uStructure": {
+          "1": 99
+        },
+        "tmdbStructure": {
+          "1": 10,
+          "2": 8,
+          "3": 6,
+          "4": 8,
+          "5": 7,
+          "6": 6,
+          "7": 8,
+          "8": 6,
+          "9": 10,
+          "10": 7,
+          "11": 6
+        },
+        "m3uTotal": 99,
+        "tmdbTotal": 82,
+        "episodeRatio": 0.10101010101010101,
+        "seasonRatio": 1,
+        "sameSeasonSet": false,
+        "exactStructure": false,
+        "posterPath": "/jTQxhplTOnExxN5wqmBtu8ByghZ.jpg"
+      }
+    ]
+  },
+  {
+    "seriesName": "17",
+    "groupTitle": "lista-6",
+    "logo": null,
+    "m3uStructure": {
+      "1": 93
+    },
+    "m3uTotal": 93,
+    "m3uYear": null,
+    "decision": "MATCH_FUERTE",
+    "bestMatch": {
+      "tmdbId": 114935,
+      "name": "17",
+      "originalName": "17",
+      "firstAirDate": "2005-01-03",
+      "originCountry": [
+        "CL"
+      ],
+      "numberOfSeasons": 1,
+      "numberOfEpisodes": 93,
+      "titleMatch": true,
+      "titleMatches": [
+        "17"
+      ],
+      "score": 105,
+      "m3uStructure": {
+        "1": 93
+      },
+      "tmdbStructure": {
+        "1": 93
+      },
+      "m3uTotal": 93,
+      "tmdbTotal": 93,
+      "episodeRatio": 1,
+      "seasonRatio": 1,
+      "sameSeasonSet": true,
+      "exactStructure": true,
+      "posterPath": "/xcqKz9JxXh1Ar0WZPf6MZstd5d4.jpg"
+    },
+    "secondMatch": {
+      "tmdbId": 19228,
+      "name": "Daitetsujin 17",
+      "originalName": "大鉄人１７",
+      "firstAirDate": "1977-03-18",
+      "originCountry": [
+        "JP"
+      ],
+      "numberOfSeasons": 1,
+      "numberOfEpisodes": 35,
+      "titleMatch": true,
+      "titleMatches": [
+        "17"
+      ],
+      "score": 80,
+      "m3uStructure": {
+        "1": 93
+      },
+      "tmdbStructure": {
+        "1": 35
+      },
+      "m3uTotal": 93,
+      "tmdbTotal": 35,
+      "episodeRatio": 0.3763440860215054,
+      "seasonRatio": 1,
+      "sameSeasonSet": true,
+      "exactStructure": false,
+      "posterPath": "/bRKQmxL2LvtIq0al8pFmPjmfM5U.jpg"
+    },
+    "candidates": [
+      {
+        "tmdbId": 114935,
+        "name": "17",
+        "originalName": "17",
+        "firstAirDate": "2005-01-03",
+        "originCountry": [
+          "CL"
+        ],
+        "numberOfSeasons": 1,
+        "numberOfEpisodes": 93,
+        "titleMatch": true,
+        "titleMatches": [
+          "17"
+        ],
+        "score": 105,
+        "m3uStructure": {
+          "1": 93
+        },
+        "tmdbStructure": {
+          "1": 93
+        },
+        "m3uTotal": 93,
+        "tmdbTotal": 93,
+        "episodeRatio": 1,
+        "seasonRatio": 1,
+        "sameSeasonSet": true,
+        "exactStructure": true,
+        "posterPath": "/xcqKz9JxXh1Ar0WZPf6MZstd5d4.jpg"
+      },
+      {
+        "tmdbId": 19228,
+        "name": "Daitetsujin 17",
+        "originalName": "大鉄人１７",
+        "firstAirDate": "1977-03-18",
+        "originCountry": [
+          "JP"
+        ],
+        "numberOfSeasons": 1,
+        "numberOfEpisodes": 35,
+        "titleMatch": true,
+        "titleMatches": [
+          "17"
+        ],
+        "score": 80,
+        "m3uStructure": {
+          "1": 93
+        },
+        "tmdbStructure": {
+          "1": 35
+        },
+        "m3uTotal": 93,
+        "tmdbTotal": 35,
+        "episodeRatio": 0.3763440860215054,
+        "seasonRatio": 1,
+        "sameSeasonSet": true,
+        "exactStructure": false,
+        "posterPath": "/bRKQmxL2LvtIq0al8pFmPjmfM5U.jpg"
+      },
+      {
+        "tmdbId": 80919,
+        "name": "Still 17",
+        "originalName": "서른이지만 열일곱입니다",
+        "firstAirDate": "2018-07-23",
+        "originCountry": [
+          "KR"
+        ],
+        "numberOfSeasons": 1,
+        "numberOfEpisodes": 32,
+        "titleMatch": true,
+        "titleMatches": [
+          "17"
+        ],
+        "score": 79,
+        "m3uStructure": {
+          "1": 93
+        },
+        "tmdbStructure": {
+          "1": 32
+        },
+        "m3uTotal": 93,
+        "tmdbTotal": 32,
+        "episodeRatio": 0.34408602150537637,
+        "seasonRatio": 1,
+        "sameSeasonSet": true,
+        "exactStructure": false,
+        "posterPath": "/rufDz8f0SD86RyFwDNSQUROK51s.jpg"
+      },
+      {
+        "tmdbId": 83312,
+        "name": "17",
+        "originalName": "17",
+        "firstAirDate": "2018-09-09",
+        "originCountry": [
+          "NO"
+        ],
+        "numberOfSeasons": 4,
+        "numberOfEpisodes": 71,
+        "titleMatch": true,
+        "titleMatches": [
+          "17"
+        ],
+        "score": 76,
+        "m3uStructure": {
+          "1": 93
+        },
+        "tmdbStructure": {
+          "1": 18,
+          "2": 18,
+          "3": 16,
+          "4": 19
+        },
+        "m3uTotal": 93,
+        "tmdbTotal": 71,
+        "episodeRatio": 0.1935483870967742,
+        "seasonRatio": 1,
+        "sameSeasonSet": false,
+        "exactStructure": false,
+        "posterPath": "/uez8t4dgo8RznG8wCcEwGxKsm47.jpg"
+      },
+      {
+        "tmdbId": 217625,
+        "name": "Seventeen Blue",
+        "originalName": "会痛的17岁",
+        "firstAirDate": "2015-11-08",
+        "originCountry": [
+          "CN"
+        ],
+        "numberOfSeasons": 1,
+        "numberOfEpisodes": 24,
+        "titleMatch": true,
+        "titleMatches": [
+          "17"
+        ],
+        "score": 76,
+        "m3uStructure": {
+          "1": 93
+        },
+        "tmdbStructure": {
+          "1": 24
+        },
+        "m3uTotal": 93,
+        "tmdbTotal": 24,
+        "episodeRatio": 0.25806451612903225,
+        "seasonRatio": 1,
+        "sameSeasonSet": true,
+        "exactStructure": false,
+        "posterPath": "/m6pET7iBEAWL4y5wHy8eN3cNJtX.jpg"
+      }
+    ]
+  },
+  {
+    "seriesName": "90210",
+    "groupTitle": "lista-6",
+    "logo": null,
+    "m3uStructure": {
+      "1": 22,
+      "2": 28,
+      "3": 30,
+      "4": 31,
+      "5": 32,
+      "6": 31,
+      "7": 16,
+      "8": 31,
+      "9": 26,
+      "10": 27
+    },
+    "m3uTotal": 274,
+    "m3uYear": null,
+    "decision": "MATCH_FUERTE",
+    "bestMatch": {
+      "tmdbId": 2025,
+      "name": "Beverly Hills, 90210",
+      "originalName": "Beverly Hills, 90210",
+      "firstAirDate": "1990-10-04",
+      "originCountry": [
+        "US"
+      ],
+      "numberOfSeasons": 10,
+      "numberOfEpisodes": 284,
+      "titleMatch": true,
+      "titleMatches": [
+        "90210"
+      ],
+      "score": 95,
+      "m3uStructure": {
+        "1": 22,
+        "2": 28,
+        "3": 30,
+        "4": 31,
+        "5": 32,
+        "6": 31,
+        "7": 16,
+        "8": 31,
+        "9": 26,
+        "10": 27
+      },
+      "tmdbStructure": {
+        "1": 22,
+        "2": 28,
+        "3": 29,
+        "4": 31,
+        "5": 31,
+        "6": 31,
+        "7": 31,
+        "8": 30,
+        "9": 26,
+        "10": 25
+      },
+      "m3uTotal": 274,
+      "tmdbTotal": 284,
+      "episodeRatio": 0.9817518248175182,
+      "seasonRatio": 1,
+      "sameSeasonSet": true,
+      "exactStructure": false,
+      "posterPath": "/b7BYfkhu653D894krwGO1ysIKTf.jpg"
+    },
+    "secondMatch": {
+      "tmdbId": 5917,
+      "name": "90210",
+      "originalName": "90210",
+      "firstAirDate": "2008-09-02",
+      "originCountry": [
+        "US"
+      ],
+      "numberOfSeasons": 5,
+      "numberOfEpisodes": 114,
+      "titleMatch": true,
+      "titleMatches": [
+        "90210"
+      ],
+      "score": 74,
+      "m3uStructure": {
+        "1": 22,
+        "2": 28,
+        "3": 30,
+        "4": 31,
+        "5": 32,
+        "6": 31,
+        "7": 16,
+        "8": 31,
+        "9": 26,
+        "10": 27
+      },
+      "tmdbStructure": {
+        "1": 24,
+        "2": 22,
+        "3": 22,
+        "4": 24,
+        "5": 22
+      },
+      "m3uTotal": 274,
+      "tmdbTotal": 114,
+      "episodeRatio": 0.40875912408759124,
+      "seasonRatio": 0.5,
+      "sameSeasonSet": false,
+      "exactStructure": false,
+      "posterPath": "/6uy8Le8X8qqvc5X7pSFn3BJA69M.jpg"
+    },
+    "candidates": [
+      {
+        "tmdbId": 2025,
+        "name": "Beverly Hills, 90210",
+        "originalName": "Beverly Hills, 90210",
+        "firstAirDate": "1990-10-04",
+        "originCountry": [
+          "US"
+        ],
+        "numberOfSeasons": 10,
+        "numberOfEpisodes": 284,
+        "titleMatch": true,
+        "titleMatches": [
+          "90210"
+        ],
+        "score": 95,
+        "m3uStructure": {
+          "1": 22,
+          "2": 28,
+          "3": 30,
+          "4": 31,
+          "5": 32,
+          "6": 31,
+          "7": 16,
+          "8": 31,
+          "9": 26,
+          "10": 27
+        },
+        "tmdbStructure": {
+          "1": 22,
+          "2": 28,
+          "3": 29,
+          "4": 31,
+          "5": 31,
+          "6": 31,
+          "7": 31,
+          "8": 30,
+          "9": 26,
+          "10": 25
+        },
+        "m3uTotal": 274,
+        "tmdbTotal": 284,
+        "episodeRatio": 0.9817518248175182,
+        "seasonRatio": 1,
+        "sameSeasonSet": true,
+        "exactStructure": false,
+        "posterPath": "/b7BYfkhu653D894krwGO1ysIKTf.jpg"
+      },
+      {
+        "tmdbId": 5917,
+        "name": "90210",
+        "originalName": "90210",
+        "firstAirDate": "2008-09-02",
+        "originCountry": [
+          "US"
+        ],
+        "numberOfSeasons": 5,
+        "numberOfEpisodes": 114,
+        "titleMatch": true,
+        "titleMatches": [
+          "90210"
+        ],
+        "score": 74,
+        "m3uStructure": {
+          "1": 22,
+          "2": 28,
+          "3": 30,
+          "4": 31,
+          "5": 32,
+          "6": 31,
+          "7": 16,
+          "8": 31,
+          "9": 26,
+          "10": 27
+        },
+        "tmdbStructure": {
+          "1": 24,
+          "2": 22,
+          "3": 22,
+          "4": 24,
+          "5": 22
+        },
+        "m3uTotal": 274,
+        "tmdbTotal": 114,
+        "episodeRatio": 0.40875912408759124,
+        "seasonRatio": 0.5,
+        "sameSeasonSet": false,
+        "exactStructure": false,
+        "posterPath": "/6uy8Le8X8qqvc5X7pSFn3BJA69M.jpg"
+      },
+      {
+        "tmdbId": 89235,
+        "name": "BH90210",
+        "originalName": "BH90210",
+        "firstAirDate": "2019-08-07",
+        "originCountry": [
+          "US"
+        ],
+        "numberOfSeasons": 1,
+        "numberOfEpisodes": 6,
+        "titleMatch": true,
+        "titleMatches": [
+          "90210"
+        ],
+        "score": 61,
+        "m3uStructure": {
+          "1": 22,
+          "2": 28,
+          "3": 30,
+          "4": 31,
+          "5": 32,
+          "6": 31,
+          "7": 16,
+          "8": 31,
+          "9": 26,
+          "10": 27
+        },
+        "tmdbStructure": {
+          "1": 6
+        },
+        "m3uTotal": 274,
+        "tmdbTotal": 6,
+        "episodeRatio": 0.021897810218978103,
+        "seasonRatio": 0.1,
+        "sameSeasonSet": false,
+        "exactStructure": false,
+        "posterPath": "/z6Sj4dqUc5AVe66HddTN5wj7zYw.jpg"
+      }
+    ]
+  },
+  {
+    "seriesName": "Aftermath",
+    "groupTitle": "lista-6",
+    "logo": null,
+    "m3uStructure": {
+      "1": 13
+    },
+    "m3uTotal": 13,
+    "m3uYear": null,
+    "decision": "MATCH_FUERTE",
+    "bestMatch": {
+      "tmdbId": 67439,
+      "name": "Aftermath",
+      "originalName": "Aftermath",
+      "firstAirDate": "2016-09-27",
+      "originCountry": [
+        "CA"
+      ],
+      "numberOfSeasons": 1,
+      "numberOfEpisodes": 13,
+      "titleMatch": true,
+      "titleMatches": [
+        "Aftermath"
+      ],
+      "score": 105,
+      "m3uStructure": {
+        "1": 13
+      },
+      "tmdbStructure": {
+        "1": 13
+      },
+      "m3uTotal": 13,
+      "tmdbTotal": 13,
+      "episodeRatio": 1,
+      "seasonRatio": 1,
+      "sameSeasonSet": true,
+      "exactStructure": true,
+      "posterPath": "/g6yUXELmMWiSGcoAbloAxW0kEUB.jpg"
+    },
+    "secondMatch": {
+      "tmdbId": 63823,
+      "name": "Aftermath",
+      "originalName": "후유증",
+      "firstAirDate": "2014-01-06",
+      "originCountry": [
+        "KR"
+      ],
+      "numberOfSeasons": 2,
+      "numberOfEpisodes": 11,
+      "titleMatch": true,
+      "titleMatches": [
+        "Aftermath"
+      ],
+      "score": 80,
+      "m3uStructure": {
+        "1": 13
+      },
+      "tmdbStructure": {
+        "1": 5,
+        "2": 6
+      },
+      "m3uTotal": 13,
+      "tmdbTotal": 11,
+      "episodeRatio": 0.38461538461538464,
+      "seasonRatio": 1,
+      "sameSeasonSet": false,
+      "exactStructure": false,
+      "posterPath": "/sQfmB27F2oGTfwIoGlfzZuVX6uS.jpg"
+    },
+    "candidates": [
+      {
+        "tmdbId": 67439,
+        "name": "Aftermath",
+        "originalName": "Aftermath",
+        "firstAirDate": "2016-09-27",
+        "originCountry": [
+          "CA"
+        ],
+        "numberOfSeasons": 1,
+        "numberOfEpisodes": 13,
+        "titleMatch": true,
+        "titleMatches": [
+          "Aftermath"
+        ],
+        "score": 105,
+        "m3uStructure": {
+          "1": 13
+        },
+        "tmdbStructure": {
+          "1": 13
+        },
+        "m3uTotal": 13,
+        "tmdbTotal": 13,
+        "episodeRatio": 1,
+        "seasonRatio": 1,
+        "sameSeasonSet": true,
+        "exactStructure": true,
+        "posterPath": "/g6yUXELmMWiSGcoAbloAxW0kEUB.jpg"
+      },
+      {
+        "tmdbId": 63823,
+        "name": "Aftermath",
+        "originalName": "후유증",
+        "firstAirDate": "2014-01-06",
+        "originCountry": [
+          "KR"
+        ],
+        "numberOfSeasons": 2,
+        "numberOfEpisodes": 11,
+        "titleMatch": true,
+        "titleMatches": [
+          "Aftermath"
+        ],
+        "score": 80,
+        "m3uStructure": {
+          "1": 13
+        },
+        "tmdbStructure": {
+          "1": 5,
+          "2": 6
+        },
+        "m3uTotal": 13,
+        "tmdbTotal": 11,
+        "episodeRatio": 0.38461538461538464,
+        "seasonRatio": 1,
+        "sameSeasonSet": false,
+        "exactStructure": false,
+        "posterPath": "/sQfmB27F2oGTfwIoGlfzZuVX6uS.jpg"
+      },
+      {
+        "tmdbId": 34982,
+        "name": "Aftermath",
+        "originalName": "Aftermath",
+        "firstAirDate": "2010-04-05",
+        "originCountry": [],
+        "numberOfSeasons": 1,
+        "numberOfEpisodes": 4,
+        "titleMatch": true,
+        "titleMatches": [
+          "Aftermath"
+        ],
+        "score": 78,
+        "m3uStructure": {
+          "1": 13
+        },
+        "tmdbStructure": {
+          "1": 4
+        },
+        "m3uTotal": 13,
+        "tmdbTotal": 4,
+        "episodeRatio": 0.3076923076923077,
+        "seasonRatio": 1,
+        "sameSeasonSet": true,
+        "exactStructure": false,
+        "posterPath": "/1vP1rcVa2aCIbQ7ajfSfMXgodDK.jpg"
+      }
+    ]
+  },
+  {
+    "seriesName": "Marte",
+    "groupTitle": "lista-6",
+    "logo": null,
+    "m3uStructure": {
+      "1": 6
+    },
+    "m3uTotal": 6,
+    "m3uYear": null,
+    "decision": "REVISAR",
+    "bestMatch": {
+      "tmdbId": 242561,
+      "name": "Mars: Zero's Revolution",
+      "originalName": "マルス-ゼロの革命-",
+      "firstAirDate": "2024-01-23",
+      "originCountry": [
+        "JP"
+      ],
+      "numberOfSeasons": 1,
+      "numberOfEpisodes": 9,
+      "titleMatch": true,
+      "titleMatches": [
+        "Marte"
+      ],
+      "score": 93,
+      "m3uStructure": {
+        "1": 6
+      },
+      "tmdbStructure": {
+        "1": 9
+      },
+      "m3uTotal": 6,
+      "tmdbTotal": 9,
+      "episodeRatio": 1,
+      "seasonRatio": 1,
+      "sameSeasonSet": true,
+      "exactStructure": false,
+      "posterPath": "/hgrMJeM0Cb2mdGaHWXJ8voQXYWs.jpg"
+    },
+    "secondMatch": {
+      "tmdbId": 68427,
+      "name": "Mars",
+      "originalName": "Mars",
+      "firstAirDate": "2016-11-14",
+      "originCountry": [
+        "US"
+      ],
+      "numberOfSeasons": 2,
+      "numberOfEpisodes": 12,
+      "titleMatch": true,
+      "titleMatches": [
+        "Marte"
+      ],
+      "score": 91,
+      "m3uStructure": {
+        "1": 6
+      },
+      "tmdbStructure": {
+        "1": 6,
+        "2": 6
+      },
+      "m3uTotal": 6,
+      "tmdbTotal": 12,
+      "episodeRatio": 1,
+      "seasonRatio": 1,
+      "sameSeasonSet": false,
+      "exactStructure": false,
+      "posterPath": "/xlT7aBrVqrRVnlaHQLCW12q3NK9.jpg"
+    },
+    "candidates": [
+      {
+        "tmdbId": 242561,
+        "name": "Mars: Zero's Revolution",
+        "originalName": "マルス-ゼロの革命-",
+        "firstAirDate": "2024-01-23",
+        "originCountry": [
+          "JP"
+        ],
+        "numberOfSeasons": 1,
+        "numberOfEpisodes": 9,
+        "titleMatch": true,
+        "titleMatches": [
+          "Marte"
+        ],
+        "score": 93,
+        "m3uStructure": {
+          "1": 6
+        },
+        "tmdbStructure": {
+          "1": 9
+        },
+        "m3uTotal": 6,
+        "tmdbTotal": 9,
+        "episodeRatio": 1,
+        "seasonRatio": 1,
+        "sameSeasonSet": true,
+        "exactStructure": false,
+        "posterPath": "/hgrMJeM0Cb2mdGaHWXJ8voQXYWs.jpg"
+      },
+      {
+        "tmdbId": 68427,
+        "name": "Mars",
+        "originalName": "Mars",
+        "firstAirDate": "2016-11-14",
+        "originCountry": [
+          "US"
+        ],
+        "numberOfSeasons": 2,
+        "numberOfEpisodes": 12,
+        "titleMatch": true,
+        "titleMatches": [
+          "Marte"
+        ],
+        "score": 91,
+        "m3uStructure": {
+          "1": 6
+        },
+        "tmdbStructure": {
+          "1": 6,
+          "2": 6
+        },
+        "m3uTotal": 6,
+        "tmdbTotal": 12,
+        "episodeRatio": 1,
+        "seasonRatio": 1,
+        "sameSeasonSet": false,
+        "exactStructure": false,
+        "posterPath": "/xlT7aBrVqrRVnlaHQLCW12q3NK9.jpg"
+      }
+    ]
+  },
+  {
+    "seriesName": "The Equalizer",
+    "groupTitle": "lista-6",
+    "logo": null,
+    "m3uStructure": {
+      "1": 10,
+      "2": 18,
+      "3": 18,
+      "4": 10
+    },
+    "m3uTotal": 56,
+    "m3uYear": null,
+    "decision": "REVISAR",
+    "bestMatch": {
+      "tmdbId": 4297,
+      "name": "The Equalizer",
+      "originalName": "The Equalizer",
+      "firstAirDate": "1985-09-18",
+      "originCountry": [
+        "CA",
+        "US"
+      ],
+      "numberOfSeasons": 4,
+      "numberOfEpisodes": 88,
+      "titleMatch": true,
+      "titleMatches": [
+        "The Equalizer"
+      ],
+      "score": 93,
+      "m3uStructure": {
+        "1": 10,
+        "2": 18,
+        "3": 18,
+        "4": 10
+      },
+      "tmdbStructure": {
+        "1": 22,
+        "2": 22,
+        "3": 22,
+        "4": 22
+      },
+      "m3uTotal": 56,
+      "tmdbTotal": 88,
+      "episodeRatio": 1,
+      "seasonRatio": 1,
+      "sameSeasonSet": true,
+      "exactStructure": false,
+      "posterPath": "/7nrKPxGJWYe5cacNN9AV9bVplNZ.jpg"
+    },
+    "secondMatch": {
+      "tmdbId": 95205,
+      "name": "The Equalizer",
+      "originalName": "The Equalizer",
+      "firstAirDate": "2021-02-07",
+      "originCountry": [
+        "US"
+      ],
+      "numberOfSeasons": 5,
+      "numberOfEpisodes": 74,
+      "titleMatch": true,
+      "titleMatches": [
+        "The Equalizer"
+      ],
+      "score": 92,
+      "m3uStructure": {
+        "1": 10,
+        "2": 18,
+        "3": 18,
+        "4": 10
+      },
+      "tmdbStructure": {
+        "1": 10,
+        "2": 18,
+        "3": 18,
+        "4": 10,
+        "5": 18
+      },
+      "m3uTotal": 56,
+      "tmdbTotal": 74,
+      "episodeRatio": 1,
+      "seasonRatio": 1,
+      "sameSeasonSet": false,
+      "exactStructure": false,
+      "posterPath": "/oxJG9F16AUji71jpPxkEOBWanMP.jpg"
+    },
+    "candidates": [
+      {
+        "tmdbId": 4297,
+        "name": "The Equalizer",
+        "originalName": "The Equalizer",
+        "firstAirDate": "1985-09-18",
+        "originCountry": [
+          "CA",
+          "US"
+        ],
+        "numberOfSeasons": 4,
+        "numberOfEpisodes": 88,
+        "titleMatch": true,
+        "titleMatches": [
+          "The Equalizer"
+        ],
+        "score": 93,
+        "m3uStructure": {
+          "1": 10,
+          "2": 18,
+          "3": 18,
+          "4": 10
+        },
+        "tmdbStructure": {
+          "1": 22,
+          "2": 22,
+          "3": 22,
+          "4": 22
+        },
+        "m3uTotal": 56,
+        "tmdbTotal": 88,
+        "episodeRatio": 1,
+        "seasonRatio": 1,
+        "sameSeasonSet": true,
+        "exactStructure": false,
+        "posterPath": "/7nrKPxGJWYe5cacNN9AV9bVplNZ.jpg"
+      },
+      {
+        "tmdbId": 95205,
+        "name": "The Equalizer",
+        "originalName": "The Equalizer",
+        "firstAirDate": "2021-02-07",
+        "originCountry": [
+          "US"
+        ],
+        "numberOfSeasons": 5,
+        "numberOfEpisodes": 74,
+        "titleMatch": true,
+        "titleMatches": [
+          "The Equalizer"
+        ],
+        "score": 92,
+        "m3uStructure": {
+          "1": 10,
+          "2": 18,
+          "3": 18,
+          "4": 10
+        },
+        "tmdbStructure": {
+          "1": 10,
+          "2": 18,
+          "3": 18,
+          "4": 10,
+          "5": 18
+        },
+        "m3uTotal": 56,
+        "tmdbTotal": 74,
+        "episodeRatio": 1,
+        "seasonRatio": 1,
+        "sameSeasonSet": false,
+        "exactStructure": false,
+        "posterPath": "/oxJG9F16AUji71jpPxkEOBWanMP.jpg"
+      }
+    ]
+  },
+  {
+    "seriesName": "Educar a un superhéroe",
+    "groupTitle": "lista-6",
+    "logo": null,
+    "m3uStructure": {
+      "1": 9
+    },
+    "m3uTotal": 9,
+    "m3uYear": null,
+    "decision": "MATCH_PROBABLE",
+    "bestMatch": {
+      "tmdbId": 93392,
+      "name": "Raising Dion",
+      "originalName": "Raising Dion",
+      "firstAirDate": "2019-10-04",
+      "originCountry": [
+        "US"
+      ],
+      "numberOfSeasons": 2,
+      "numberOfEpisodes": 17,
+      "titleMatch": true,
+      "titleMatches": [
+        "Educar a un superhéroe"
+      ],
+      "score": 91,
+      "m3uStructure": {
+        "1": 9
+      },
+      "tmdbStructure": {
+        "1": 9,
+        "2": 8
+      },
+      "m3uTotal": 9,
+      "tmdbTotal": 17,
+      "episodeRatio": 1,
+      "seasonRatio": 1,
+      "sameSeasonSet": false,
+      "exactStructure": false,
+      "posterPath": "/nydKXBiLn4vpL1d5o1utbPKYdii.jpg"
+    },
+    "secondMatch": null,
+    "candidates": [
+      {
+        "tmdbId": 93392,
+        "name": "Raising Dion",
+        "originalName": "Raising Dion",
+        "firstAirDate": "2019-10-04",
+        "originCountry": [
+          "US"
+        ],
+        "numberOfSeasons": 2,
+        "numberOfEpisodes": 17,
+        "titleMatch": true,
+        "titleMatches": [
+          "Educar a un superhéroe"
+        ],
+        "score": 91,
+        "m3uStructure": {
+          "1": 9
+        },
+        "tmdbStructure": {
+          "1": 9,
+          "2": 8
+        },
+        "m3uTotal": 9,
+        "tmdbTotal": 17,
+        "episodeRatio": 1,
+        "seasonRatio": 1,
+        "sameSeasonSet": false,
+        "exactStructure": false,
+        "posterPath": "/nydKXBiLn4vpL1d5o1utbPKYdii.jpg"
+      }
+    ]
+  },
+  {
+    "seriesName": "1000 Maneras de morir",
+    "groupTitle": "lista-6",
+    "logo": null,
+    "m3uStructure": {
+      "1": 12,
+      "2": 12,
+      "3": 28
+    },
+    "m3uTotal": 52,
+    "m3uYear": null,
+    "decision": "MATCH_PROBABLE",
+    "bestMatch": {
+      "tmdbId": 15826,
+      "name": "1000 Ways to Die",
+      "originalName": "1000 Ways to Die",
+      "firstAirDate": "2009-02-08",
+      "originCountry": [
+        "US"
+      ],
+      "numberOfSeasons": 4,
+      "numberOfEpisodes": 71,
+      "titleMatch": true,
+      "titleMatches": [
+        "1000 Maneras de morir"
+      ],
+      "score": 91,
+      "m3uStructure": {
+        "1": 12,
+        "2": 12,
+        "3": 28
+      },
+      "tmdbStructure": {
+        "1": 10,
+        "2": 12,
+        "3": 41,
+        "4": 8
+      },
+      "m3uTotal": 52,
+      "tmdbTotal": 71,
+      "episodeRatio": 0.9615384615384616,
+      "seasonRatio": 1,
+      "sameSeasonSet": false,
+      "exactStructure": false,
+      "posterPath": "/yKZYX4D30R7ywy6f5yQDuXagSCr.jpg"
+    },
+    "secondMatch": null,
+    "candidates": [
+      {
+        "tmdbId": 15826,
+        "name": "1000 Ways to Die",
+        "originalName": "1000 Ways to Die",
+        "firstAirDate": "2009-02-08",
+        "originCountry": [
+          "US"
+        ],
+        "numberOfSeasons": 4,
+        "numberOfEpisodes": 71,
+        "titleMatch": true,
+        "titleMatches": [
+          "1000 Maneras de morir"
+        ],
+        "score": 91,
+        "m3uStructure": {
+          "1": 12,
+          "2": 12,
+          "3": 28
+        },
+        "tmdbStructure": {
+          "1": 10,
+          "2": 12,
+          "3": 41,
+          "4": 8
+        },
+        "m3uTotal": 52,
+        "tmdbTotal": 71,
+        "episodeRatio": 0.9615384615384616,
+        "seasonRatio": 1,
+        "sameSeasonSet": false,
+        "exactStructure": false,
+        "posterPath": "/yKZYX4D30R7ywy6f5yQDuXagSCr.jpg"
+      }
+    ]
+  },
+  {
+    "seriesName": "la serie - Camino a Qatar",
+    "groupTitle": "lista-6",
+    "logo": null,
+    "m3uStructure": {
+      "1": 6
+    },
+    "m3uTotal": 6,
+    "m3uYear": null,
+    "decision": "SIN_CANDIDATO",
+    "candidates": []
+  },
+  {
+    "seriesName": "Alert: Missing Persons Unit",
+    "groupTitle": "lista-6",
+    "logo": null,
+    "m3uStructure": {
+      "1": 4
+    },
+    "m3uTotal": 4,
+    "m3uYear": null,
+    "decision": "MATCH_PROBABLE",
+    "bestMatch": {
+      "tmdbId": 202308,
+      "name": "Alert: Missing Persons Unit",
+      "originalName": "Alert: Missing Persons Unit",
+      "firstAirDate": "2023-01-08",
+      "originCountry": [
+        "US"
+      ],
+      "numberOfSeasons": 3,
+      "numberOfEpisodes": 29,
+      "titleMatch": true,
+      "titleMatches": [
+        "Alert: Missing Persons Unit"
+      ],
+      "score": 89,
+      "m3uStructure": {
+        "1": 4
+      },
+      "tmdbStructure": {
+        "1": 9,
+        "2": 10,
+        "3": 10
+      },
+      "m3uTotal": 4,
+      "tmdbTotal": 29,
+      "episodeRatio": 1,
+      "seasonRatio": 1,
+      "sameSeasonSet": false,
+      "exactStructure": false,
+      "posterPath": "/lLRC3GSYiFVHsxgc9tvmR6WjcOu.jpg"
+    },
+    "secondMatch": null,
+    "candidates": [
+      {
+        "tmdbId": 202308,
+        "name": "Alert: Missing Persons Unit",
+        "originalName": "Alert: Missing Persons Unit",
+        "firstAirDate": "2023-01-08",
+        "originCountry": [
+          "US"
+        ],
+        "numberOfSeasons": 3,
+        "numberOfEpisodes": 29,
+        "titleMatch": true,
+        "titleMatches": [
+          "Alert: Missing Persons Unit"
+        ],
+        "score": 89,
+        "m3uStructure": {
+          "1": 4
+        },
+        "tmdbStructure": {
+          "1": 9,
+          "2": 10,
+          "3": 10
+        },
+        "m3uTotal": 4,
+        "tmdbTotal": 29,
+        "episodeRatio": 1,
+        "seasonRatio": 1,
+        "sameSeasonSet": false,
+        "exactStructure": false,
+        "posterPath": "/lLRC3GSYiFVHsxgc9tvmR6WjcOu.jpg"
+      }
+    ]
+  }
+]

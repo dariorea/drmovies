@@ -1,0 +1,7236 @@
+MATCHES ESTRUCTURALMENTE COMPATIBLES — LISTA 6
+Total compatibles con prioridad baja: 903
+Estructura exacta: 818
+Estructura cercana: 85
+
+========================================
+1. COINCIDENCIA EXACTA
+========================================
+
+¡Baila!
+  TMDB ID: 127940
+  Candidato: Jiva!
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+¡Nos vemos en la oficina!
+  TMDB ID: 289763
+  Candidato: See You at Work Tomorrow!
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+¡Uf! ¡Ya es Navidad!
+  TMDB ID: 238755
+  Candidato: Yoh! Christmas
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+¿Cómo se traduce este amor?
+  TMDB ID: 229891
+  Candidato: Can This Love Be Translated?
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+¿Debería casarme con un asesino?
+  TMDB ID: 318262
+  Candidato: Should I Marry a Murderer?
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+¿Qué hacemos escalando montañas?
+  TMDB ID: 326901
+  Candidato: Take a Hike!
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+¿Qué le ocurre a la secretaria Kim?
+  TMDB ID: 79434
+  Candidato: What's Wrong with Secretary Kim
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+17
+  TMDB ID: 114935
+  Candidato: 17
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+18 otra vez
+  TMDB ID: 99654
+  Candidato: 18 Again
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+3Hz
+  TMDB ID: 208427
+  Candidato: 3Hz
+  Puntuación original: 90
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+4Ever
+  TMDB ID: 156929
+  Candidato: 4Ever
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+50 m²
+  TMDB ID: 115970
+  Candidato: 50M²
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+62: Historia de un mundial
+  TMDB ID: 98533
+  Candidato: 62: Historia de un mundial
+  Puntuación original: 105
+  Temporadas exactas: 2
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+8 MAN AFTER
+  TMDB ID: 67104
+  Candidato: 8 Man After
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+A Galaxy Next Door
+  TMDB ID: 200732
+  Candidato: A Galaxy Next Door
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+A Korean Odyssey
+  TMDB ID: 75123
+  Candidato: A Korean Odyssey
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+A Small Light
+  TMDB ID: 157160
+  Candidato: A Small Light
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+A su servicio
+  TMDB ID: 232644
+  Candidato: Reporting for Duty
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+A todo dar
+  TMDB ID: 305933
+  Candidato: A todo dar
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+A todos les gustan los diamantes
+  TMDB ID: 229183
+  Candidato: Everybody Loves Diamonds
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+A tres metros sobre el cielo
+  TMDB ID: 100333
+  Candidato: Summertime
+  Puntuación original: 91
+  Temporadas exactas: 2
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+A.D. Police
+  TMDB ID: 67818
+  Candidato: A.D. Police Files
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+Abismo de Pasión
+  TMDB ID: 42280
+  Candidato: Abyss of Passion
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Adamas: Diamante asesino
+  TMDB ID: 205040
+  Candidato: Adamas
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Adiestramiento canino
+  TMDB ID: 117656
+  Candidato: Canine Intervention
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Aftermath
+  TMDB ID: 67439
+  Candidato: Aftermath
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Agencia de Publicidad
+  TMDB ID: 203698
+  Candidato: Agency
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Agente Butterfly
+  TMDB ID: 227114
+  Candidato: Butterfly
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Agentes del caos
+  TMDB ID: 108154
+  Candidato: Agents of Chaos
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Aharen Is Indecipherable
+  TMDB ID: 130237
+  Candidato: Aharen-san wa Hakarenai
+  Puntuación original: 91
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+Aishiteruze Baby
+  TMDB ID: 34072
+  Candidato: Aishiteruze Baby
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Akuma-kun
+  TMDB ID: 120241
+  Candidato: Akuma Kun
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+Akuyaku Reijou Nanode Last Boss wo Katte Mimashita
+  TMDB ID: 135334
+  Candidato: I'm the Villainess, So I'm Taming the Final Boss
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Al este del Edén
+  TMDB ID: 258165
+  Candidato: East of Eden
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Algo habrán hecho por la historia de Chile
+  TMDB ID: 40116
+  Candidato: Algo habrán hecho por la historia de Chile
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Algo terrible está a punto de suceder
+  TMDB ID: 259265
+  Candidato: Something Very Bad Is Going to Happen
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Alguien está mirando
+  TMDB ID: 205440
+  Candidato: The Watchful Eye
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Alias el Mexicano
+  TMDB ID: 81733
+  Candidato: Alias el Mexicano
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Alias JJ
+  TMDB ID: 70828
+  Candidato: Surviving Escobar - Alias JJ
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Alias Us
+  TMDB ID: 2046
+  Candidato: Alias
+  Puntuación original: 91
+  Temporadas exactas: 3
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+Alice and Steve
+  TMDB ID: 318203
+  Candidato: Alice and Steve
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Alien: Earth
+  TMDB ID: 157239
+  Candidato: Alien: Earth
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Almas gemelas
+  TMDB ID: 258063
+  Candidato: Soul Mate
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Almost Paradise
+  TMDB ID: 100383
+  Candidato: Almost Paradise
+  Puntuación original: 91
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+Alphonse
+  TMDB ID: 197436
+  Candidato: Alphonse
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Ámame
+  TMDB ID: 98301
+  Candidato: Ámame
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Amarres
+  TMDB ID: 129490
+  Candidato: Love Spells
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+America's Team: The Gambler and His Cowboys
+  TMDB ID: 279942
+  Candidato: America's Team: The Gambler and His Cowboys
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+American Murder: Gabby Petito
+  TMDB ID: 283197
+  Candidato: American Murder: Gabby Petito
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Amor 101
+  TMDB ID: 100897
+  Candidato: Love 101
+  Puntuación original: 91
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+Amor de bruja
+  TMDB ID: 80965
+  Candidato: Witch's Love
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Amor de mentira
+  TMDB ID: 281011
+  Candidato: Would You Marry Me?
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Amor de oficina
+  TMDB ID: 290231
+  Candidato: Love from 9 to 5
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Amor en el laboratorio
+  TMDB ID: 254391
+  Candidato: The Potato Lab
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Amor en las nubes
+  TMDB ID: 262928
+  Candidato: Love in the Clouds
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Amor secreto
+  TMDB ID: 57278
+  Candidato: Secret Love
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+Amor y anarquía
+  TMDB ID: 111743
+  Candidato: Love & Anarchy
+  Puntuación original: 91
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+Amos del Universo: Revolución
+  TMDB ID: 234721
+  Candidato: Masters of the Universe: Revolution
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+An!ela
+  TMDB ID: 288915
+  Candidato: Aniela
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Anitta: De Honório para el mundo
+  TMDB ID: 113415
+  Candidato: Anitta: Made in Honório
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Apagón
+  TMDB ID: 136365
+  Candidato: Blackout: Tomorrow Is Too Late
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+Aprendiendo a vivir
+  TMDB ID: 158154
+  Candidato: Heartbreak High
+  Puntuación original: 105
+  Temporadas exactas: 3
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+Aquelarre
+  TMDB ID: 99469
+  Candidato: Aquelarre
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Aquellos maravillosos 90
+  TMDB ID: 135959
+  Candidato: That '90s Show
+  Puntuación original: 90
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+Aquí hablamos de huertos
+  TMDB ID: 316920
+  Candidato: This Is a Gardening Show
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Aranyak
+  TMDB ID: 128217
+  Candidato: Aranyak
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Armas y Amores
+  TMDB ID: 156714
+  Candidato: Guns & Gulaabs
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Arsenal Military Academy
+  TMDB ID: 92648
+  Candidato: Arsenal Military Academy
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Art Attack: Snack
+  TMDB ID: 231132
+  Candidato: Art Attack: Snack
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Ases del bisturí
+  TMDB ID: 113647
+  Candidato: The Surgeon's Cut
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Asesino del olvido
+  TMDB ID: 134174
+  Candidato: Before I Forget
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Asesinos de Dublin
+  TMDB ID: 93481
+  Candidato: Dublin Murders
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Atelier Ryza: Ever Darkness & the Secret Hideout The Animation
+  TMDB ID: 222625
+  Candidato: Atelier Ryza: Ever Darkness & the Secret Hideout the Animation
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Aun así
+  TMDB ID: 126035
+  Candidato: Nevertheless,
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Avatar: La Leyenda de Korra
+  TMDB ID: 33880
+  Candidato: The Legend of Korra
+  Puntuación original: 91
+  Temporadas exactas: 2
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+Ayashi No Ceres
+  TMDB ID: 26935
+  Candidato: Ceres: Celestial Legend
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+B.A.: O Futuro Está Morto
+  TMDB ID: 157319
+  Candidato: Teenage Kiss: The Future Is Dead
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Bad Behaviour
+  TMDB ID: 207368
+  Candidato: Bad Behaviour
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Bailando con vampiros
+  TMDB ID: 37183
+  Candidato: Dance in the Vampire Bund
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Bajo la Red
+  TMDB ID: 82364
+  Candidato: Bajo la Red
+  Puntuación original: 90
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+Bajo la superficie
+  TMDB ID: 285322
+  Candidato: Below
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+Bakugan: La Batalla
+  TMDB ID: 34109
+  Candidato: Bakugan Battle Brawlers
+  Puntuación original: 105
+  Temporadas exactas: 4
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Ballard: Casos sin resolver
+  TMDB ID: 239826
+  Candidato: Ballard
+  Puntuación original: 93
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+Banshee
+  TMDB ID: 41727
+  Candidato: Banshee
+  Puntuación original: 92
+  Temporadas exactas: 3
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+Barracuda Queens
+  TMDB ID: 225152
+  Candidato: Barracuda Queens
+  Puntuación original: 91
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+Basilisk
+  TMDB ID: 9410
+  Candidato: Basilisk
+  Puntuación original: 91
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+Batalla de amor
+  TMDB ID: 137094
+  Candidato: Love to Hate You
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Batalla de amor y poder
+  TMDB ID: 136733
+  Candidato: Bloody Heart
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Beartown
+  TMDB ID: 110173
+  Candidato: Beartown
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+BEASTARS
+  TMDB ID: 90937
+  Candidato: BEASTARS
+  Puntuación original: 105
+  Temporadas exactas: 3
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Beck: Mongolian Chop Squad
+  TMDB ID: 43288
+  Candidato: Beck: Mongolian Chop Squad
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Belleza Interior
+  TMDB ID: 82237
+  Candidato: The Beauty Inside
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Belleza plástica
+  TMDB ID: 298008
+  Candidato: Plastic Beauty
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Ben 10
+  TMDB ID: 4686
+  Candidato: Ben 10
+  Puntuación original: 105
+  Temporadas exactas: 4
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+Ben 10: Fuerza Alienígena
+  TMDB ID: 6040
+  Candidato: Ben 10: Alien Force
+  Puntuación original: 105
+  Temporadas exactas: 3
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Beso de sirena
+  TMDB ID: 310800
+  Candidato: Siren's Kiss
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Beso dinamita
+  TMDB ID: 281013
+  Candidato: Dynamite Kiss
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Bienvenidos a la familia
+  TMDB ID: 285042
+  Candidato: Welcome to the Family
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+Bienvenidos al Chippendale
+  TMDB ID: 130567
+  Candidato: Welcome to Chippendales
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Bill Gates bajo la lupa
+  TMDB ID: 93016
+  Candidato: Inside Bill's Brain: Decoding Bill Gates
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Bitten
+  TMDB ID: 60556
+  Candidato: Bitten
+  Puntuación original: 105
+  Temporadas exactas: 3
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Black Earth Rising
+  TMDB ID: 82209
+  Candidato: Black Earth Rising
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Blippi va a trabajar
+  TMDB ID: 285836
+  Candidato: Blippi's Job Show
+  Puntuación original: 105
+  Temporadas exactas: 2
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Blockbuster
+  TMDB ID: 201874
+  Candidato: Blockbuster
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Blood-C
+  TMDB ID: 43270
+  Candidato: BLOOD-C
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Bloody Flower
+  TMDB ID: 310024
+  Candidato: Bloody Flower
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+BoJack Horseman
+  TMDB ID: 61222
+  Candidato: BoJack Horseman
+  Puntuación original: 105
+  Temporadas exactas: 6
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Bosque adentro
+  TMDB ID: 103425
+  Candidato: The Woods
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Boys Over Flowers
+  TMDB ID: 16420
+  Candidato: Boys Over Flowers
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+BraveStarr
+  TMDB ID: 5172
+  Candidato: BraveStarr
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Bridgerton
+  TMDB ID: 91239
+  Candidato: Bridgerton
+  Puntuación original: 93
+  Temporadas exactas: 4
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+Brilla Sobre Mí
+  TMDB ID: 278577
+  Candidato: Shine on Me
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Brillantina y oro: Danza sobre hielo
+  TMDB ID: 312046
+  Candidato: Glitter & Gold: Ice Dancing
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+BTS Monuments: Beyond The Star
+  TMDB ID: 215421
+  Candidato: BTS Monuments: Beyond the Star
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Búnker
+  TMDB ID: 124791
+  Candidato: Bunker
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+Cabo
+  TMDB ID: 213049
+  Candidato: Cabo
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Cacería implacable: El atentado del maratón de Boston
+  TMDB ID: 222314
+  Candidato: American Manhunt: The Boston Marathon Bombing
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Cacería implacable: Osama bin Laden
+  TMDB ID: 283367
+  Candidato: American Manhunt: Osama bin Laden
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Cachorros fantasmas
+  TMDB ID: 210694
+  Candidato: Phantom Pups
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Cadetes de mechas
+  TMDB ID: 205214
+  Candidato: Mech Cadets
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Cain and Abel
+  TMDB ID: 38971
+  Candidato: Cain and Abel
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+Call Me Kat
+  TMDB ID: 113627
+  Candidato: Call Me Kat
+  Puntuación original: 89
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+Calle y Poche: Sin etiquetas
+  TMDB ID: 228966
+  Candidato: Calle y Poché: No Labels
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Camote y Paquete: Aventura de Navidad
+  TMDB ID: 301394
+  Candidato: Camote y Paquete: Aventura de Navidad
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Candy Candy
+  TMDB ID: 9160
+  Candidato: Candy Candy
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Capitán Fall
+  TMDB ID: 229153
+  Candidato: Captain Fall
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Capitán Laserhawk: Un remix de Blood Dragon
+  TMDB ID: 127372
+  Candidato: Captain Laserhawk: A Blood Dragon Remix
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Capitán Tsubasa
+  TMDB ID: 77240
+  Candidato: Captain Tsubasa
+  Puntuación original: 91
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+Capitanes del mundo
+  TMDB ID: 242238
+  Candidato: Captains of the World
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Carrie
+  TMDB ID: 288673
+  Candidato: Carrie
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+Cartas desde el pasado
+  TMDB ID: 278006
+  Candidato: Letters from the Past
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Casa Llena
+  TMDB ID: 3504
+  Candidato: Full House
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Castlevania
+  TMDB ID: 71024
+  Candidato: Castlevania
+  Puntuación original: 105
+  Temporadas exactas: 4
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Catch and Kill: The Podcast Tapes
+  TMDB ID: 127632
+  Candidato: Catch and Kill: The Podcast Tapes
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Cazador de Demonios
+  TMDB ID: 229711
+  Candidato: The Bondsman
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Cementerio
+  TMDB ID: 204255
+  Candidato: Graveyard
+  Puntuación original: 105
+  Temporadas exactas: 3
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Cenizas del pasado
+  TMDB ID: 210268
+  Candidato: Burn the House Down
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Centaurworld
+  TMDB ID: 93233
+  Candidato: Centaurworld
+  Puntuación original: 91
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+Challenger: El vuelo final
+  TMDB ID: 108298
+  Candidato: Challenger: The Final Flight
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Chavorrucos
+  TMDB ID: 229509
+  Candidato: Manchild
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Chibiverse
+  TMDB ID: 205683
+  Candidato: Chibiverse
+  Puntuación original: 89
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+Chichipatos
+  TMDB ID: 103505
+  Candidato: The Unremarkable Juanquini
+  Puntuación original: 105
+  Temporadas exactas: 2
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Chillin' in My 30s after Getting Fired from the Demon King's Army
+  TMDB ID: 206324
+  Candidato: Chillin' in My 30s After Getting Fired From the Demon King's Army
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+CHIVAS: El Rebaño Sagrado
+  TMDB ID: 128009
+  Candidato: CHIVAS: El Rebaño Sagrado
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Choco Bank
+  TMDB ID: 65617
+  Candidato: Choco Bank
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Chocolate
+  TMDB ID: 95066
+  Candidato: Chocolate
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Chosen: La elegida
+  TMDB ID: 51001
+  Candidato: Chosen
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Cielo Para Dos
+  TMDB ID: 139798
+  Candidato: Single's Inferno
+  Puntuación original: 105
+  Temporadas exactas: 5
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Cielo para dos: Reunión
+  TMDB ID: 313995
+  Candidato: Single's Inferno Reunion
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Cielo rojo
+  TMDB ID: 117896
+  Candidato: Lovers of the Red Sky
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+Cindy la Regia: La serie
+  TMDB ID: 240105
+  Candidato: Cindy la Regia: The High School Years
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+City of Blood
+  TMDB ID: 332401
+  Candidato: City of Blood
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Ciudad del miedo: Nueva York vs la mafia
+  TMDB ID: 105489
+  Candidato: Fear City: New York vs The Mafia
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Ciudades invisibles
+  TMDB ID: 110529
+  Candidato: Invisible City
+  Puntuación original: 91
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+Clase
+  TMDB ID: 211116
+  Candidato: Class
+  Puntuación original: 91
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+Class of '07
+  TMDB ID: 207374
+  Candidato: Class of '07
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Clean Slate
+  TMDB ID: 279836
+  Candidato: Clean Slate
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Clevatess
+  TMDB ID: 258348
+  Candidato: Clevatess
+  Puntuación original: 105
+  Temporadas exactas: 2
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Club 57
+  TMDB ID: 98754
+  Candidato: Club 57
+  Puntuación original: 105
+  Temporadas exactas: 2
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Club de Cuervos
+  TMDB ID: 63314
+  Candidato: Club de Cuervos
+  Puntuación original: 105
+  Temporadas exactas: 4
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Club de mamás
+  TMDB ID: 195747
+  Candidato: Green Mothers' Club
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Cocaine Cowboys Los reyes de Miami
+  TMDB ID: 129206
+  Candidato: Cocaine Cowboys: The Kings of Miami
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Cochina Envidia
+  TMDB ID: 210793
+  Candidato: Filthy Envy
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Code Geass: La Rebelión de Lelouch
+  TMDB ID: 31724
+  Candidato: Code Geass: Lelouch of the Rebellion
+  Puntuación original: 91
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+Colin en blanco y negro
+  TMDB ID: 118169
+  Candidato: Colin in Black and White
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Comando Estelar Flashman
+  TMDB ID: 70787
+  Candidato: Choushinsei Flashman
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Como atrapé a mi asesino
+  TMDB ID: 217448
+  Candidato: How I Caught My Killer
+  Puntuación original: 90
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+Como peces dorados
+  TMDB ID: 154861
+  Candidato: Fishbowl Wives
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Cómo se convirtieron en capos de la mafia
+  TMDB ID: 237458
+  Candidato: How to Become a Mob Boss
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Concierge Pokémon
+  TMDB ID: 221301
+  Candidato: Pokémon Concierge
+  Puntuación original: 103
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Contra las cuerdas
+  TMDB ID: 215232
+  Candidato: Against the Ropes
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Contrato Matrimonial
+  TMDB ID: 65728
+  Candidato: Marriage Contract
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Contrato para una boda
+  TMDB ID: 201146
+  Candidato: Love in Contract
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Conversaciones con asesinos: Las cintas del Hijo de Sam
+  TMDB ID: 294611
+  Candidato: Conversations with a Killer: The Son of Sam Tapes
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Corazón de cristal
+  TMDB ID: 247670
+  Candidato: Glass Heart
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Corazon de Invictus
+  TMDB ID: 232745
+  Candidato: Heart of Invictus
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Cowboy de Copenhague
+  TMDB ID: 206510
+  Candidato: Copenhagen Cowboy
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Crew Girl
+  TMDB ID: 300507
+  Candidato: Crew Girl
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Criminal: Alemania
+  TMDB ID: 93886
+  Candidato: Criminal: Germany
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Criminal: España
+  TMDB ID: 93878
+  Candidato: Criminal: Spain
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Criminal: Francia
+  TMDB ID: 93888
+  Candidato: Criminal: France
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Criminal: Reino Unido
+  TMDB ID: 92926
+  Candidato: Criminal: UK
+  Puntuación original: 90
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+Cuando mi amor florece
+  TMDB ID: 100595
+  Candidato: When My Love Blooms
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Cuenta atras Canelo vs Crawford
+  TMDB ID: 299286
+  Candidato: Countdown: Canelo vs. Crawford
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Cuenta regresiva
+  TMDB ID: 256317
+  Candidato: Countdown
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Cuentos de Hadas Fracturados
+  TMDB ID: 86564
+  Candidato: Fractured Fairy Tales
+  Puntuación original: 89
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+Cuerpos de TV: La realidad de «The Biggest Loser»
+  TMDB ID: 296549
+  Candidato: Fit for TV: The Reality of the Biggest Loser
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Custodia repartida
+  TMDB ID: 258982
+  Candidato: Shared Custody
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Cute programmer
+  TMDB ID: 133060
+  Candidato: Cute Programmer
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Dance Brothers
+  TMDB ID: 224035
+  Candidato: Dance Brothers
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+DANG!
+  TMDB ID: 314478
+  Candidato: Dang!
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Danny Phantom
+  TMDB ID: 2309
+  Candidato: Danny Phantom
+  Puntuación original: 105
+  Temporadas exactas: 3
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+De cita en cita: Brasil
+  TMDB ID: 105846
+  Candidato: Dating Around: Brazil
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+De los 19 a los 20
+  TMDB ID: 218475
+  Candidato: Nineteen to Twenty
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+De polo a polo con Will Smith
+  TMDB ID: 157194
+  Candidato: Pole to Pole with Will Smith
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+De viejo pueblerino a gran maestro espadachín
+  TMDB ID: 260823
+  Candidato: From Old Country Bumpkin to Master Swordsman
+  Puntuación original: 105
+  Temporadas exactas: 2
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Delete Me
+  TMDB ID: 119039
+  Candidato: Delete Me
+  Puntuación original: 91
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+Depp vs. Heard
+  TMDB ID: 227381
+  Candidato: Depp V Heard
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Desapariciones: ¿Vivos o muertos?
+  TMDB ID: 225351
+  Candidato: Missing: Dead or Alive?
+  Puntuación original: 105
+  Temporadas exactas: 2
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Desde dentro
+  TMDB ID: 121710
+  Candidato: Inside Man
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Desde las alturas
+  TMDB ID: 218268
+  Candidato: Up Here
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Desenfrenadas
+  TMDB ID: 99385
+  Candidato: Unstoppable
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Detective de sombras
+  TMDB ID: 157161
+  Candidato: Shadow Detective
+  Puntuación original: 105
+  Temporadas exactas: 2
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Detrás de las atracciones
+  TMDB ID: 95738
+  Candidato: Behind the Attraction
+  Puntuación original: 105
+  Temporadas exactas: 3
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Devilman: Crybaby
+  TMDB ID: 75208
+  Candidato: Devilman Crybaby
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Diario de una chica experta en desastres de amor
+  TMDB ID: 283390
+  Candidato: Diary of a Ditched Girl
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Diarios de Vampiros
+  TMDB ID: 18165
+  Candidato: The Vampire Diaries
+  Puntuación original: 89
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+Diciembre 2001
+  TMDB ID: 128301
+  Candidato: Argentina 2001
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Diente de león
+  TMDB ID: 316973
+  Candidato: Dandelion
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Digimon Frontier
+  TMDB ID: 8991
+  Candidato: Digimon Frontier
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Dime con quién andas
+  TMDB ID: 225552
+  Candidato: Dime con quién andas
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Dinastía: Los Murdoch
+  TMDB ID: 315159
+  Candidato: Dynasty: The Murdochs
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+DMZ: Zona Desmilitarizada
+  TMDB ID: 113566
+  Candidato: DMZ
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Do It Yourself!!
+  TMDB ID: 121702
+  Candidato: Do It Yourself!!
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+Doc - Una nueva vida
+  TMDB ID: 101048
+  Candidato: Doc
+  Puntuación original: 91
+  Temporadas exactas: 2
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+Doctor al borde del amor
+  TMDB ID: 287009
+  Candidato: Doctor on the Edge
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Doctor Crush
+  TMDB ID: 66329
+  Candidato: Doctors
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Doctor Who
+  TMDB ID: 239770
+  Candidato: Doctor Who
+  Puntuación original: 105
+  Temporadas exactas: 2
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+Dolly Parton: Acordes del corazón
+  TMDB ID: 86456
+  Candidato: Dolly Parton's Heartstrings
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Doménica Montero
+  TMDB ID: 307423
+  Candidato: Doménica Montero
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+Dos monedas
+  TMDB ID: 304597
+  Candidato: My 2 Cents
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Dr. Abogado
+  TMDB ID: 196906
+  Candidato: Doctor Lawyer
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Dr. Death
+  TMDB ID: 93749
+  Candidato: Dr. Death
+  Puntuación original: 91
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+Dr. Seuss's Horton!
+  TMDB ID: 293205
+  Candidato: Dr. Seuss's Horton!
+  Puntuación original: 91
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+Dragon Age: Absolution
+  TMDB ID: 203805
+  Candidato: Dragon Age: Absolution
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Dragon Striker
+  TMDB ID: 204135
+  Candidato: Dragon Striker
+  Puntuación original: 93
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+Dragones: Carrera al borde
+  TMDB ID: 78173
+  Candidato: Dragons: Race to the Edge
+  Puntuación original: 105
+  Temporadas exactas: 6
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Dulce amargura
+  TMDB ID: 77032
+  Candidato: Sweetbitter
+  Puntuación original: 90
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+Dulce misterio
+  TMDB ID: 230225
+  Candidato: Black Cake
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Ecomoda
+  TMDB ID: 73481
+  Candidato: Ecomoda
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Educar a un superhéroe
+  TMDB ID: 93392
+  Candidato: Raising Dion
+  Puntuación original: 91
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+Eine Billion Dollar
+  TMDB ID: 234717
+  Candidato: One Trillion Dollars
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+El 5 inicial
+  TMDB ID: 262955
+  Candidato: Starting 5
+  Puntuación original: 105
+  Temporadas exactas: 2
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+El agente divino
+  TMDB ID: 213703
+  Candidato: Agent from Above
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+El amor a través de un prisma
+  TMDB ID: 306762
+  Candidato: Love Through a Prism
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+El Barón Rojo
+  TMDB ID: 34090
+  Candidato: Red Baron
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+El Buki: Las letras de mi historia
+  TMDB ID: 217201
+  Candidato: El Buki
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+El camino de la noche
+  TMDB ID: 93811
+  Candidato: Into the Night
+  Puntuación original: 105
+  Temporadas exactas: 2
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+El camionero
+  TMDB ID: 97880
+  Candidato: El camionero
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+El caso Air Cocaine: Traficantes de altura
+  TMDB ID: 291583
+  Candidato: Cocaine Air: Smugglers at 30,000 Ft.
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+El catalogo
+  TMDB ID: 252125
+  Candidato: Catalog
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+El club de la medianoche
+  TMDB ID: 126254
+  Candidato: The Midnight Club
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+El club de los graves
+  TMDB ID: 135720
+  Candidato: The Low Tone Club
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+El complejo de apartamentos
+  TMDB ID: 300727
+  Candidato: The Apartment Job
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+El Crossover
+  TMDB ID: 121183
+  Candidato: The Crossover
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+El Dandy
+  TMDB ID: 64566
+  Candidato: The Dandy
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+El Desconocido: La Historia del Cholo Adrián
+  TMDB ID: 83024
+  Candidato: The Unknown Hitman: The Story of El Cholo Adrián
+  Puntuación original: 105
+  Temporadas exactas: 2
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+El descubrimiento de las brujas
+  TMDB ID: 77236
+  Candidato: A Discovery of Witches
+  Puntuación original: 105
+  Temporadas exactas: 3
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+El diario de Alaska
+  TMDB ID: 201948
+  Candidato: Alaska Daily
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+El diario secreto de un profesional
+  TMDB ID: 85523
+  Candidato: El diario secreto de una profesional
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+El escándalo
+  TMDB ID: 275102
+  Candidato: The Scandal
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+El esposo
+  TMDB ID: 300954
+  Candidato: The Husband
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+El experimento estadounidense
+  TMDB ID: 322427
+  Candidato: The American Experiment
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+El frente costero
+  TMDB ID: 254544
+  Candidato: The Waterfront
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+El gran salto
+  TMDB ID: 242862
+  Candidato: The Big Leap
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+El gran vapeo: Auge y caida de Juul
+  TMDB ID: 235540
+  Candidato: Big Vape: The Rise and Fall of Juul
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+El grandioso hostal del gran Jae-seok
+  TMDB ID: 318167
+  Candidato: Jae-seok's B&B Rules!
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+El Grifo
+  TMDB ID: 221871
+  Candidato: The Gryphon
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+El Halcón
+  TMDB ID: 254528
+  Candidato: The Hawk
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+El hombre más odiado de internet
+  TMDB ID: 205106
+  Candidato: The Most Hated Man on the Internet
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+El hotel embrujado
+  TMDB ID: 255752
+  Candidato: Haunted Hotel
+  Puntuación original: 91
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+El ídolo
+  TMDB ID: 135251
+  Candidato: The Idol
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+El interés del amor
+  TMDB ID: 211746
+  Candidato: The Interest of Love
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+El Internado
+  TMDB ID: 4743
+  Candidato: The Boarding School
+  Puntuación original: 105
+  Temporadas exactas: 7
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+El juego de la mentira
+  TMDB ID: 210229
+  Candidato: Pink Lie
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+El maestro de la evasión
+  TMDB ID: 202208
+  Candidato: The Artful Dodger
+  Puntuación original: 105
+  Temporadas exactas: 2
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+El mapa de los anhelos
+  TMDB ID: 288671
+  Candidato: The Map of Longing
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+El mundo de Alix Earle
+  TMDB ID: 330371
+  Candidato: Earle Meets World
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+El museo de la inocencia
+  TMDB ID: 310239
+  Candidato: Museum of Innocence
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+El niñero
+  TMDB ID: 241373
+  Candidato: The Manny
+  Puntuación original: 90
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+El Origen de los Continentes
+  TMDB ID: 60578
+  Candidato: Rise of the Continents
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+El origen de un culto: Escándalo universitario
+  TMDB ID: 216315
+  Candidato: Stolen Youth: Inside the Cult at Sarah Lawrence
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+El Oso
+  TMDB ID: 136315
+  Candidato: The Bear
+  Puntuación original: 105
+  Temporadas exactas: 5
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+El pantano
+  TMDB ID: 81686
+  Candidato: The Mire
+  Puntuación original: 91
+  Temporadas exactas: 2
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+El Pequeño Bheem
+  TMDB ID: 88393
+  Candidato: Mighty Little Bheem
+  Puntuación original: 90
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+El peso de la ley
+  TMDB ID: 331650
+  Candidato: Umthetho
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+El plan del diablo
+  TMDB ID: 214582
+  Candidato: The Devil's Plan
+  Puntuación original: 90
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+El polígamo
+  TMDB ID: 322430
+  Candidato: The Polygamist
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+El Presidente Curtis
+  TMDB ID: 296756
+  Candidato: President Curtis
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+El primer amor
+  TMDB ID: 210955
+  Candidato: First Love
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+El Príncipe Del Café
+  TMDB ID: 3215
+  Candidato: Coffee Prince
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+El príncipe del tenis
+  TMDB ID: 27845
+  Candidato: The Prince of Tennis
+  Puntuación original: 105
+  Temporadas exactas: 7
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+El problema final
+  TMDB ID: 290720
+  Candidato: The Final Problem
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+El profe
+  TMDB ID: 287978
+  Candidato: Flunked
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+El reemplazo del chef Chico
+  TMDB ID: 221913
+  Candidato: Replacing Chef Chico
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+El reto del beso
+  TMDB ID: 105213
+  Candidato: Kissing Game
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+El rostro de la venganza
+  TMDB ID: 316205
+  Candidato: Deep Revenge
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+El show de Charlie Brown y Snoopy
+  TMDB ID: 6670
+  Candidato: The Charlie Brown and Snoopy Show
+  Puntuación original: 92
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+El sinuoso camino del derecho
+  TMDB ID: 281004
+  Candidato: Beyond the Bar
+  Puntuación original: 93
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+El sonido de la magia
+  TMDB ID: 123349
+  Candidato: The Sound of Magic
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+El tiempo que te doy
+  TMDB ID: 127426
+  Candidato: The Time It Takes
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+El último autobús
+  TMDB ID: 169590
+  Candidato: The Last Bus
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+El valor absoluto del amor
+  TMDB ID: 314784
+  Candidato: Absolute Value of Romance
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Élite Historias Breves: Samuel Omar
+  TMDB ID: 137570
+  Candidato: Elite Short Stories: Samuel Omar
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Ellos
+  TMDB ID: 120462
+  Candidato: Them
+  Puntuación original: 91
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+En busca de Ola
+  TMDB ID: 154810
+  Candidato: Finding Ola
+  Puntuación original: 91
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+En casa de los Fury
+  TMDB ID: 230939
+  Candidato: At Home with the Furys
+  Puntuación original: 105
+  Temporadas exactas: 2
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+En tu mejor momento
+  TMDB ID: 233833
+  Candidato: In Your Radiant Season
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Enfermeras
+  TMDB ID: 122623
+  Candidato: Enfermeras
+  Puntuación original: 89
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+Entre Bodas
+  TMDB ID: 131836
+  Candidato: Wedding Season
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Entre padre e hijo
+  TMDB ID: 321338
+  Candidato: Between Father and Son
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Entre paredes
+  TMDB ID: 283085
+  Candidato: Between Walls
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Érase un amor rural
+  TMDB ID: 133678
+  Candidato: Once Upon a Small Town
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Eres hermosa
+  TMDB ID: 31417
+  Candidato: You're Beautiful
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Ergo Proxy
+  TMDB ID: 1097
+  Candidato: Ergo Proxy
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Escena del crimen: Los campos de la muerte de Texas
+  TMDB ID: 214180
+  Candidato: Crime Scene: The Texas Killing Fields
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Escupiré sobre sus tumbas
+  TMDB ID: 275464
+  Candidato: Until You Burn
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Espectros
+  TMDB ID: 99573
+  Candidato: Spectros
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Este mundo no me hará mala persona
+  TMDB ID: 214603
+  Candidato: This World Can't Tear Me Down
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Estos ojos negros
+  TMDB ID: 153950
+  Candidato: Yeh Kaali Kaali Ankhein
+  Puntuación original: 91
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+Étoile: la danza de las estrellas
+  TMDB ID: 225383
+  Candidato: Étoile
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+F1: La academia
+  TMDB ID: 289742
+  Candidato: F1: The Academy
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Falcon Y El Soldado Del Invierno
+  TMDB ID: 88396
+  Candidato: The Falcon and the Winter Soldier
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Falsas identidades
+  TMDB ID: 207841
+  Candidato: Fakes
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Falso amor y venganza
+  TMDB ID: 297791
+  Candidato: Love Con Revenge
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Familia en reparación
+  TMDB ID: 260471
+  Candidato: Shifting Gears
+  Puntuación original: 90
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+Fans de tiempo completo
+  TMDB ID: 315596
+  Candidato: Night Shift for Cuties
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Far from Home
+  TMDB ID: 215874
+  Candidato: Far from Home
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Faraway Downs: Australia
+  TMDB ID: 204999
+  Candidato: Faraway Downs
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Fate/Apocrypha
+  TMDB ID: 72304
+  Candidato: Fate/Apocrypha
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+Fate/Zero
+  TMDB ID: 72304
+  Candidato: Fate/Apocrypha
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+Félix el gato
+  TMDB ID: 101512
+  Candidato: Felix the Cat
+  Puntuación original: 89
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+Fena: Pirate Princess
+  TMDB ID: 106480
+  Candidato: Fena: Pirate Princess
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Fiasco total: La toma del Área 51
+  TMDB ID: 297010
+  Candidato: Trainwreck: Storm Area 51
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Fin de semana en familia
+  TMDB ID: 118904
+  Candidato: Weekend Family
+  Puntuación original: 91
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+Fire Force
+  TMDB ID: 88046
+  Candidato: Fire Force
+  Puntuación original: 91
+  Temporadas exactas: 2
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+Fires
+  TMDB ID: 126038
+  Candidato: Fires
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Floribella
+  TMDB ID: 34057
+  Candidato: Floribella
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+Floricienta
+  TMDB ID: 1446
+  Candidato: Flinderella
+  Puntuación original: 105
+  Temporadas exactas: 2
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Fragmentos
+  TMDB ID: 298168
+  Candidato: The Shards
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Fred y Rose West: Una historia de terror británica
+  TMDB ID: 289123
+  Candidato: Fred and Rose West: A British Horror Story
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Freeridge
+  TMDB ID: 136394
+  Candidato: Freeridge
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Frieren: Más allá del final del viaje
+  TMDB ID: 209867
+  Candidato: Frieren: Beyond Journey's End
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Frontera Verde
+  TMDB ID: 91699
+  Candidato: Green Frontier
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Futakoi
+  TMDB ID: 34826
+  Candidato: Futakoi
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Futbol en familia
+  TMDB ID: 261009
+  Candidato: Football Parents
+  Puntuación original: 93
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+Gallitos
+  TMDB ID: 253736
+  Candidato: Roosters
+  Puntuación original: 93
+  Temporadas exactas: 2
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+GAMERA: Renacimiento
+  TMDB ID: 214592
+  Candidato: GAMERA -Rebirth-
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Ganes o Pierdas
+  TMDB ID: 114500
+  Candidato: Win or Lose
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Garfield y sus Amigos
+  TMDB ID: 4606
+  Candidato: Garfield and Friends
+  Puntuación original: 89
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+Gatitos explosivos
+  TMDB ID: 219532
+  Candidato: Exploding Kittens
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Genera+ion
+  TMDB ID: 96718
+  Candidato: Genera+ion
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Generación 98'
+  TMDB ID: 227938
+  Candidato: Generación 98'
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Gente ansiosa
+  TMDB ID: 139155
+  Candidato: Anxious People
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+George & Tammy
+  TMDB ID: 109377
+  Candidato: George & Tammy
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Ghost
+  TMDB ID: 45018
+  Candidato: Ghost
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Ginger
+  TMDB ID: 1760
+  Candidato: As Told by Ginger
+  Puntuación original: 89
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+Gleipnir
+  TMDB ID: 96203
+  Candidato: Gleipnir
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Glitch Techs
+  TMDB ID: 98494
+  Candidato: Glitch Techs
+  Puntuación original: 90
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+Golden Axe
+  TMDB ID: 252105
+  Candidato: Golden Axe
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Golden Kamuy
+  TMDB ID: 259882
+  Candidato: Golden Kamuy -The Hunt of Prisoners in Hokkaido-
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+Goles en contra
+  TMDB ID: 213550
+  Candidato: The Final Score
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Good Morning Call
+  TMDB ID: 65693
+  Candidato: Good Morning Call
+  Puntuación original: 105
+  Temporadas exactas: 2
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Goosebumps: La desaparición
+  TMDB ID: 281666
+  Candidato: Goosebumps: The Vanishing
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Government Cheese
+  TMDB ID: 241491
+  Candidato: Government Cheese
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Gran Hermano
+  TMDB ID: 225553
+  Candidato: Gran hermano
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Grand Army
+  TMDB ID: 104229
+  Candidato: Grand Army
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Grappler Baki
+  TMDB ID: 56425
+  Candidato: Baki the Grappler
+  Puntuación original: 91
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+Grease: Rise of the Pink Ladies
+  TMDB ID: 94617
+  Candidato: Grease: Rise of the Pink Ladies
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Great Teacher Onizuka
+  TMDB ID: 43017
+  Candidato: Great Teacher Onizuka
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Grosse Pointe Garden Society
+  TMDB ID: 259454
+  Candidato: Grosse Pointe Garden Society
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Grupo de estudio
+  TMDB ID: 233347
+  Candidato: Study Group
+  Puntuación original: 93
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+Guardaespaldas K2
+  TMDB ID: 67391
+  Candidato: The K2
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Guardianes de una gran nación
+  TMDB ID: 283610
+  Candidato: Saare Jahan Se Accha: The Silent Guardians
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Gudetama: Del cascarón a la aventura
+  TMDB ID: 203949
+  Candidato: Gudetama: An Eggcellent Adventure
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Guerra de cucharas blancas contra negras
+  TMDB ID: 245684
+  Candidato: Culinary Class Wars
+  Puntuación original: 105
+  Temporadas exactas: 2
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Guerra de vampiros
+  TMDB ID: 82007
+  Candidato: Immortals
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Hacia el lago
+  TMDB ID: 95202
+  Candidato: To the Lake
+  Puntuación original: 91
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+Happy Face: Asesino en Serie
+  TMDB ID: 243217
+  Candidato: Happy Face
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Happy Tree Friends
+  TMDB ID: 1126
+  Candidato: Happy Tree Friends
+  Puntuación original: 90
+  Temporadas exactas: 4
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+Harry Potter: Torneo de las Casas de Hogwarts
+  TMDB ID: 133723
+  Candidato: Harry Potter: Hogwarts Tournament of Houses
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Hazbin Hotel
+  TMDB ID: 94954
+  Candidato: Hazbin Hotel
+  Puntuación original: 93
+  Temporadas exactas: 2
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+Hell Motel
+  TMDB ID: 290511
+  Candidato: Hell Motel
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Hellbound
+  TMDB ID: 106651
+  Candidato: Hellbound
+  Puntuación original: 91
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+Hellsing
+  TMDB ID: 16830
+  Candidato: Hellsing
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Hellsing Ultimate
+  TMDB ID: 61752
+  Candidato: Hellsing Ultimate
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Herederos
+  TMDB ID: 48462
+  Candidato: The Heirs
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+Heweliusz
+  TMDB ID: 217528
+  Candidato: Heweliusz
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Hi! School-Love On
+  TMDB ID: 61738
+  Candidato: Hi! School - Love On
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Hija del Mariachi
+  TMDB ID: 79699
+  Candidato: La hija del Mariachi
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Hijos del desierto
+  TMDB ID: 208722
+  Candidato: Hijos del desierto
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Historia de un crimen: Colmenares
+  TMDB ID: 89008
+  Candidato: Crime Diaries: Night Out
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Historia: Nivel 1
+  TMDB ID: 102905
+  Candidato: History 101
+  Puntuación original: 91
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+Hombre en llamas
+  TMDB ID: 223386
+  Candidato: Man on Fire
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Hombre vs. Bebé
+  TMDB ID: 279601
+  Candidato: Man vs Baby
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Homicidio
+  TMDB ID: 248126
+  Candidato: Homicide
+  Puntuación original: 105
+  Temporadas exactas: 3
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+Hora de Aventura con Fionna & Cake
+  TMDB ID: 131378
+  Candidato: Adventure Time: Fionna and Cake
+  Puntuación original: 91
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+Horimiya
+  TMDB ID: 110070
+  Candidato: Horimiya
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Horimiya: The Missing Pieces
+  TMDB ID: 228663
+  Candidato: Horimiya: The Missing Pieces
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Hot Skull
+  TMDB ID: 212818
+  Candidato: Hot Skull
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Humana por accidente
+  TMDB ID: 270420
+  Candidato: No Tail to Tell
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Hunter x Hunter
+  TMDB ID: 46298
+  Candidato: Hunter x Hunter
+  Puntuación original: 105
+  Temporadas exactas: 3
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+I Am a Stalker
+  TMDB ID: 213333
+  Candidato: I Am a Stalker
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Il Caso Alex Schwazer
+  TMDB ID: 223589
+  Candidato: Running for my Truth: Alex Schwazer
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+In the Know
+  TMDB ID: 210684
+  Candidato: In the Know
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Incontrolablemente Enamorados
+  TMDB ID: 66272
+  Candidato: Uncontrollably Fond
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Inestable
+  TMDB ID: 219788
+  Candidato: Unstable
+  Puntuación original: 91
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+Infamia
+  TMDB ID: 230371
+  Candidato: Infamy
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+Infiniti
+  TMDB ID: 128798
+  Candidato: Infiniti
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Initial D
+  TMDB ID: 40424
+  Candidato: Initial D
+  Puntuación original: 90
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+Insomniacs After School
+  TMDB ID: 155440
+  Candidato: Insomniacs After School
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Invasión en las alturas
+  TMDB ID: 112163
+  Candidato: High-Rise Invasion
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+inventing anna
+  TMDB ID: 95665
+  Candidato: Inventing Anna
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Iré adonde tú estás cuando el tiempo sea bueno
+  TMDB ID: 96977
+  Candidato: When the Weather Is Fine
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Irreversible
+  TMDB ID: 79146
+  Candidato: Irreversible
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Isabel
+  TMDB ID: 98518
+  Candidato: Isabel
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+Isla Paraíso
+  TMDB ID: 83577
+  Candidato: Isla Paraíso
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Itaewon Class
+  TMDB ID: 96162
+  Candidato: Itaewon Class
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Itxaso
+  TMDB ID: 236072
+  Candidato: Itxaso
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Jalas o Te Rajas
+  TMDB ID: 228820
+  Candidato: Prank or Tank
+  Puntuación original: 91
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+James.
+  TMDB ID: 321596
+  Candidato: James.
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Johnny vs Amber: The US Trial
+  TMDB ID: 210475
+  Candidato: Johnny vs Amber: The US Trial
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Josie y sus Gatimelódicas
+  TMDB ID: 4489
+  Candidato: Josie and the Pussycats
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Jóvenes y millonarios
+  TMDB ID: 272467
+  Candidato: Young Millionaires
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Juego de Tronos
+  TMDB ID: 1399
+  Candidato: Game of Thrones
+  Puntuación original: 105
+  Temporadas exactas: 8
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Jugando con fuego: España
+  TMDB ID: 292225
+  Candidato: Too Hot to Handle: Spain
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Jugglers
+  TMDB ID: 75310
+  Candidato: Jugglers
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Jujutsu Kaisen
+  TMDB ID: 95479
+  Candidato: JUJUTSU KAISEN
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Juntas hasta la muerte
+  TMDB ID: 130987
+  Candidato: Dead Ringers
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Jusqu'ici tout va bien
+  TMDB ID: 222559
+  Candidato: Thicker Than Water
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+Justicia para el pequeño Gabriel
+  TMDB ID: 99626
+  Candidato: The Trials of Gabriel Fernandez
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Kevin
+  TMDB ID: 255760
+  Candidato: Kevin
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Kid Cosmic
+  TMDB ID: 116249
+  Candidato: Kid Cosmic
+  Puntuación original: 91
+  Temporadas exactas: 2
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+Kill la Kill
+  TMDB ID: 60728
+  Candidato: Kill la Kill
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Kimi ni Todoke: Llegando a ti
+  TMDB ID: 209648
+  Candidato: From Me to You: Kimi ni Todoke
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Kipo y la era de los magnimales
+  TMDB ID: 95599
+  Candidato: Kipo and the Age of Wonderbeasts
+  Puntuación original: 91
+  Temporadas exactas: 2
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+Kiss Goblin
+  TMDB ID: 106935
+  Candidato: Kiss Goblin
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Kiss Me
+  TMDB ID: 273240
+  Candidato: Off Campus
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+Kitti Katz
+  TMDB ID: 224981
+  Candidato: Kitti Katz
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Kitz
+  TMDB ID: 139799
+  Candidato: Kitz
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Knightfall
+  TMDB ID: 73117
+  Candidato: Knightfall
+  Puntuación original: 105
+  Temporadas exactas: 2
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+KonoSuba: ¡Explosión en un mundo maravilloso!
+  TMDB ID: 203040
+  Candidato: KONOSUBA – An Explosion on This Wonderful World!
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Konosuba: God's Blessing on this Wonderful World!
+  TMDB ID: 65844
+  Candidato: KONOSUBA - God's blessing on this wonderful world!
+  Puntuación original: 93
+  Temporadas exactas: 3
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+Kotoura-San
+  TMDB ID: 53594
+  Candidato: The Troubled Life of Miss Kotoura
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Krigsseileren
+  TMDB ID: 220538
+  Candidato: War Sailor
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Kung Fu Panda: El Guerrero Dragón
+  TMDB ID: 129959
+  Candidato: Kung Fu Panda: The Dragon Knight
+  Puntuación original: 91
+  Temporadas exactas: 2
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+La banda analógica
+  TMDB ID: 238557
+  Candidato: Analog Squad
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+La bella y Bester
+  TMDB ID: 298867
+  Candidato: Beauty and the Bester
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+La Carrera de Los Autos Locos
+  TMDB ID: 985
+  Candidato: Wacky Races
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+La casa de papel: Corea
+  TMDB ID: 112836
+  Candidato: Money Heist: Korea - Joint Economic Area
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+La chica del Vaticano: La desaparición de Emanuela Orlandi
+  TMDB ID: 212186
+  Candidato: Vatican Girl: The Disappearance of Emanuela Orlandi
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+La chica nueva
+  TMDB ID: 83639
+  Candidato: Girl from Nowhere
+  Puntuación original: 105
+  Temporadas exactas: 2
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+La chica que me gusta olvidó sus lentes
+  TMDB ID: 218263
+  Candidato: The Girl I Like Forgot Her Glasses
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+La chica y el cosmonauta
+  TMDB ID: 217858
+  Candidato: A Girl and an Astronaut
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+La Ciudad Es Nuestra
+  TMDB ID: 125949
+  Candidato: We Own This City
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+La corona perfecta
+  TMDB ID: 278573
+  Candidato: Perfect Crown
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+La cruda realidad: Dentro de "America's Next Top Model"
+  TMDB ID: 312423
+  Candidato: Reality Check: Inside America's Next Top Model
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+La Defensora
+  TMDB ID: 200945
+  Candidato: May It Please the Court
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+La desaparición de Amy Bradley
+  TMDB ID: 294726
+  Candidato: Amy Bradley Is Missing
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+La era de hielo: Las aventuras de Scrat
+  TMDB ID: 158307
+  Candidato: Ice Age: Scrat Tales
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+La esclava Isaura
+  TMDB ID: 13179
+  Candidato: The Slave Isaura
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+La familia P. Luche
+  TMDB ID: 31072
+  Candidato: La familia P. Luche
+  Puntuación original: 105
+  Temporadas exactas: 3
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+La Frontera Oriental
+  TMDB ID: 253370
+  Candidato: The Eastern Gate
+  Puntuación original: 92
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+La hora de la justicia
+  TMDB ID: 205788
+  Candidato: Justice Served
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+La infiltrada Srta. Hong
+  TMDB ID: 293608
+  Candidato: Undercover Miss Hong
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+La innegable verdad
+  TMDB ID: 88166
+  Candidato: I Know This Much Is True
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+La jugada ganadora
+  TMDB ID: 250463
+  Candidato: The Winning Try
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+La ley de Baltazar
+  TMDB ID: 203331
+  Candidato: La ley de Baltazar
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+La ley de Las Vegas
+  TMDB ID: 298343
+  Candidato: Strip Law
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+La Ley de los Audaces
+  TMDB ID: 37680
+  Candidato: Suits
+  Puntuación original: 105
+  Temporadas exactas: 9
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+La lista terminal
+  TMDB ID: 120911
+  Candidato: The Terminal List
+  Puntuación original: 91
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+La luz que aún nos guía
+  TMDB ID: 276472
+  Candidato: Still Shining
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+La maldición de Widow's Bay
+  TMDB ID: 270476
+  Candidato: Widow's Bay
+  Puntuación original: 93
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+La muerte de la esposa del pastor
+  TMDB ID: 331616
+  Candidato: Death of the Pastor's Wife
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+La muñeca
+  TMDB ID: 295089
+  Candidato: The Doll
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+La Niña
+  TMDB ID: 70824
+  Candidato: The Girl
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+La noche del solsticio de verano
+  TMDB ID: 231739
+  Candidato: Midsummer Night
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+La noche más larga
+  TMDB ID: 201331
+  Candidato: The Longest Night
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+La paz de Marsella
+  TMDB ID: 216985
+  Candidato: Blood Coast
+  Puntuación original: 93
+  Temporadas exactas: 2
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+La pequeña Lulú
+  TMDB ID: 122039
+  Candidato: Little Lulu
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+La periodista
+  TMDB ID: 137967
+  Candidato: The Journalist
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+La Realeza
+  TMDB ID: 261545
+  Candidato: The Royals
+  Puntuación original: 93
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+La Reina Blanca
+  TMDB ID: 57092
+  Candidato: The White Queen
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+La supervivencia de una chica con curvas
+  TMDB ID: 227139
+  Candidato: Survival of the Thickest
+  Puntuación original: 105
+  Temporadas exactas: 3
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+La Vengadora
+  TMDB ID: 208336
+  Candidato: Revenge of Others
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+La Venganza
+  TMDB ID: 14794
+  Candidato: La Venganza
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+La vida de Dug
+  TMDB ID: 114501
+  Candidato: Dug Days
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+La vida mentirosa de los adultos
+  TMDB ID: 103416
+  Candidato: The Lying Life of Adults
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+La vida soñada del Sr. Kim
+  TMDB ID: 275592
+  Candidato: The Dream Life of Mr. Kim
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Lago tranquilo
+  TMDB ID: 111834
+  Candidato: Stillwater
+  Puntuación original: 92
+  Temporadas exactas: 4
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+Landscapers
+  TMDB ID: 113987
+  Candidato: Landscapers
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Las chicas superpoderosas Z
+  TMDB ID: 12406
+  Candidato: Powerpuff Girls Z
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Las cuatro estaciones
+  TMDB ID: 243316
+  Candidato: The Four Seasons
+  Puntuación original: 105
+  Temporadas exactas: 2
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Las damas primero Mujeres en el hiphop
+  TMDB ID: 231331
+  Candidato: Ladies First: A Story of Women in Hip-Hop
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Las dos caras de la ley
+  TMDB ID: 324115
+  Candidato: The Evil Lawyer
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Las muertas
+  TMDB ID: 246485
+  Candidato: The Dead Girls
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Las olas del poder
+  TMDB ID: 221869
+  Candidato: Wave Makers
+  Puntuación original: 93
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+Las viudas de los jueves
+  TMDB ID: 231681
+  Candidato: Thursday's Widows
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Leanne
+  TMDB ID: 252751
+  Candidato: Leanne
+  Puntuación original: 105
+  Temporadas exactas: 2
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+LEGO ONE PIECE
+  TMDB ID: 318918
+  Candidato: LEGO ONE PIECE
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Leviathan
+  TMDB ID: 256323
+  Candidato: Leviathan
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Lindas Mentirosas
+  TMDB ID: 31917
+  Candidato: Pretty Little Liars
+  Puntuación original: 89
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+Lion
+  TMDB ID: 323557
+  Candidato: Lion
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Llamas Gemelas: Cómo apagar el fuego
+  TMDB ID: 236406
+  Candidato: Escaping Twin Flames
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Llantas
+  TMDB ID: 247522
+  Candidato: Tires
+  Puntuación original: 105
+  Temporadas exactas: 3
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Lo mejor del mundo con Antoni Porowski
+  TMDB ID: 323039
+  Candidato: Best of the World with Antoni Porowski
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Lobo
+  TMDB ID: 75365
+  Candidato: Wolf
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+Locos Dieciseis
+  TMDB ID: 4355
+  Candidato: 6teen
+  Puntuación original: 89
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+Long Story Short
+  TMDB ID: 262375
+  Candidato: Long Story Short
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+Lookism
+  TMDB ID: 210942
+  Candidato: Lookism
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+Los 7 osos
+  TMDB ID: 231728
+  Candidato: 7 Bears
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Los asesinatos de Idaho: Pesadilla en la universidad
+  TMDB ID: 328735
+  Candidato: The Idaho Murders: College Nightmare
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Los asesinatos de Starved Rock
+  TMDB ID: 139086
+  Candidato: The Murders at Starved Rock
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Los bastardos de Bollywood
+  TMDB ID: 247043
+  Candidato: The Ba***ds of Bollywood
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Los Caballeros del Zodiaco: Saga de Hades
+  TMDB ID: 67199
+  Candidato: Saint Seiya: The Hades Chapter
+  Puntuación original: 105
+  Temporadas exactas: 4
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Los detectives difuntos
+  TMDB ID: 132750
+  Candidato: Dead Boy Detectives
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Los Doomies
+  TMDB ID: 204137
+  Candidato: The Doomies
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Los elegidos
+  TMDB ID: 85077
+  Candidato: The Chosen
+  Puntuación original: 92
+  Temporadas exactas: 5
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+Los espías que me amaban
+  TMDB ID: 110658
+  Candidato: The Spies Who Loved Me
+  Puntuación original: 103
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Los Guerreros del Zodiaco: El Lienzo Perdido
+  TMDB ID: 61389
+  Candidato: Saint Seiya: The Lost Canvas
+  Puntuación original: 103
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Los Imperfectos
+  TMDB ID: 203555
+  Candidato: The Imperfects
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Los intocables de Elliot Mouse
+  TMDB ID: 78298
+  Candidato: The Untouchables of Elliot Mouse
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Los mil días de allende
+  TMDB ID: 234966
+  Candidato: Los mil días de allende
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Los pecados de Kujo
+  TMDB ID: 303405
+  Candidato: Sins of Kujo
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Los pecados de nuestra madre
+  TMDB ID: 208720
+  Candidato: Sins of Our Mother
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Los peores ex del mundo
+  TMDB ID: 259259
+  Candidato: Worst Ex Ever
+  Puntuación original: 105
+  Temporadas exactas: 2
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Los peores vecinos del mundo
+  TMDB ID: 325188
+  Candidato: Worst Neighbor Ever
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Los Perlas
+  TMDB ID: 290755
+  Candidato: Los Perlas
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Los plomeros de la Casa Blanca
+  TMDB ID: 96237
+  Candidato: White House Plumbers
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Los Siete Pecados Capitales
+  TMDB ID: 62104
+  Candidato: The Seven Deadly Sins
+  Puntuación original: 105
+  Temporadas exactas: 4
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Los sobrevivientes
+  TMDB ID: 284605
+  Candidato: The Survivors
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Los solucionadores
+  TMDB ID: 312663
+  Candidato: The Fixers
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Los sustos ocultos de Frankelda
+  TMDB ID: 137720
+  Candidato: Frankelda's Book of Spooks
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Los Topuria
+  TMDB ID: 323979
+  Candidato: The Topurias
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Los trabajadores del ferrocarril: La historia no contada de Bhopal 1984
+  TMDB ID: 213895
+  Candidato: The Railway Men - The Untold Story of Bhopal 1984
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Love Rain
+  TMDB ID: 42039
+  Candidato: Love Rain
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Ludik
+  TMDB ID: 206910
+  Candidato: Ludik
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Lugares Muertos
+  TMDB ID: 122694
+  Candidato: Dead Places
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Machos de verdad
+  TMDB ID: 255650
+  Candidato: Real Men
+  Puntuación original: 105
+  Temporadas exactas: 2
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Madam C. J. Walker: Una mujer hecha a sí misma
+  TMDB ID: 97539
+  Candidato: Self Made: Inspired by the Life of Madam C.J. Walker
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Made in Abyss
+  TMDB ID: 72636
+  Candidato: Made in Abyss
+  Puntuación original: 105
+  Temporadas exactas: 2
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Madison
+  TMDB ID: 225891
+  Candidato: The Madison
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+Madoff: El monstruo de Wall Street
+  TMDB ID: 216005
+  Candidato: Madoff: The Monster of Wall Street
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Maggie: La Vidente
+  TMDB ID: 127162
+  Candidato: Maggie
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Magic School Bus
+  TMDB ID: 7248
+  Candidato: The Magic School Bus
+  Puntuación original: 89
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+Magos: Relatos de Arcadia
+  TMDB ID: 105797
+  Candidato: Wizards: Tales of Arcadia
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Make My Day
+  TMDB ID: 217710
+  Candidato: MAKE MY DAY
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+Mal de amores
+  TMDB ID: 290234
+  Candidato: Lovesick
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Malas influencias: El lado oscuro de las redes en la infancia
+  TMDB ID: 286338
+  Candidato: Bad Influence: The Dark Side of Kidfluencing
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Malcolm el de en Medio
+  TMDB ID: 2004
+  Candidato: Malcolm in the Middle
+  Puntuación original: 105
+  Temporadas exactas: 7
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Maldito Rap
+  TMDB ID: 155772
+  Candidato: Rap Sh!t
+  Puntuación original: 91
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+Malditos
+  TMDB ID: 249822
+  Candidato: Malditos
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Maldivas
+  TMDB ID: 134955
+  Candidato: Maldivas
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Maligno
+  TMDB ID: 86848
+  Candidato: Evil
+  Puntuación original: 105
+  Temporadas exactas: 4
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Malos pensamientos
+  TMDB ID: 251608
+  Candidato: Bad Thoughts
+  Puntuación original: 91
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+Manayek
+  TMDB ID: 107013
+  Candidato: Manayek
+  Puntuación original: 90
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+María la caprichosa
+  TMDB ID: 310070
+  Candidato: Defying Destiny
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Marlon
+  TMDB ID: 71887
+  Candidato: Marlon
+  Puntuación original: 105
+  Temporadas exactas: 2
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Marta a las ocho
+  TMDB ID: 102766
+  Candidato: Marta a las ocho
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Martin Mystery
+  TMDB ID: 140
+  Candidato: Martin Mystery
+  Puntuación original: 90
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+Más Allá del Mal
+  TMDB ID: 116612
+  Candidato: Beyond Evil
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Más vale tarde que solteros
+  TMDB ID: 288912
+  Candidato: Better Late Than Single
+  Puntuación original: 93
+  Temporadas exactas: 2
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+Matabot
+  TMDB ID: 241554
+  Candidato: Murderbot
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Mazinger Z remake
+  TMDB ID: 36249
+  Candidato: Mazinger Edition Z: The Impact!
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Meghan & Harry: The Rise and Fall
+  TMDB ID: 261888
+  Candidato: Meghan & Harry: The Rise and Fall
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Mejores que nosotros
+  TMDB ID: 84380
+  Candidato: Better Than Us
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Memorias del 11-S
+  TMDB ID: 126422
+  Candidato: 9/11: One Day in America
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Menor de edad infiltrada
+  TMDB ID: 137527
+  Candidato: Undercover Underage
+  Puntuación original: 90
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+Mentiras verdaderas
+  TMDB ID: 202099
+  Candidato: True Lies
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+Mermelada de Naranja
+  TMDB ID: 62669
+  Candidato: Orange Marmalade
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Mi Compañero de Cuarto es un Gumiho
+  TMDB ID: 114118
+  Candidato: My Roommate Is a Gumiho
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Mi diario de liberación
+  TMDB ID: 154887
+  Candidato: My Liberation Notes
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Mi Ídolo
+  TMDB ID: 285278
+  Candidato: Idol I
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Mi niñera es una vampira
+  TMDB ID: 39518
+  Candidato: My Babysitter's a Vampire
+  Puntuación original: 91
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+Mi Novio Coreano
+  TMDB ID: 292493
+  Candidato: My Korean Boyfriend
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Mi tío es de otro mundo
+  TMDB ID: 127714
+  Candidato: Uncle from Another World
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+MIDNIGHT EYE ゴクウ
+  TMDB ID: 45471
+  Candidato: Goku Midnight Eye
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Mientras dormías
+  TMDB ID: 70649
+  Candidato: While You Were Sleeping
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Mieruko-chan
+  TMDB ID: 121078
+  Candidato: Mieruko-chan
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Minerva - La scuola
+  TMDB ID: 312557
+  Candidato: Minerva Academy
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Mirada de Ángel
+  TMDB ID: 63787
+  Candidato: Angel Eyes
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Misiones de espionaje
+  TMDB ID: 232401
+  Candidato: Spy Ops
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Miss Governor
+  TMDB ID: 283368
+  Candidato: Miss Governor
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Miss Kobayashi's Dragon Maid
+  TMDB ID: 69291
+  Candidato: Miss Kobayashi's Dragon Maid
+  Puntuación original: 105
+  Temporadas exactas: 2
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Mob Psycho 100
+  TMDB ID: 67075
+  Candidato: Mob Psycho 100
+  Puntuación original: 105
+  Temporadas exactas: 3
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Momma Named Me Sheriff
+  TMDB ID: 96372
+  Candidato: Momma Named Me Sheriff
+  Puntuación original: 91
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+Monarch: Legado de monstruos
+  TMDB ID: 202411
+  Candidato: Monarch: Legacy of Monsters
+  Puntuación original: 105
+  Temporadas exactas: 2
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Motorvalley
+  TMDB ID: 283370
+  Candidato: Motorvalley
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Mr Inbetween
+  TMDB ID: 81358
+  Candidato: Mr Inbetween
+  Puntuación original: 105
+  Temporadas exactas: 3
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Mr. Pickles
+  TMDB ID: 61593
+  Candidato: Mr. Pickles
+  Puntuación original: 90
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+Mr. Sunshine
+  TMDB ID: 75820
+  Candidato: Mr. Sunshine
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Mrs. Cop
+  TMDB ID: 63500
+  Candidato: Mrs. Cop
+  Puntuación original: 105
+  Temporadas exactas: 2
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Muertos de amor
+  TMDB ID: 298610
+  Candidato: Spooky in Love
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Murdaugh Murders: A Southern Scandal
+  TMDB ID: 218530
+  Candidato: Murdaugh Murders: A Southern Scandal
+  Puntuación original: 91
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+Murder Most Puzzling
+  TMDB ID: 293598
+  Candidato: Murder Most Puzzling
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Músculos y caos: Una versión no autorizada de Gladiadores americanos
+  TMDB ID: 228550
+  Candidato: Muscles & Mayhem: An Unauthorized Story of American Gladiators
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+My Home Hero
+  TMDB ID: 204412
+  Candidato: My Home Hero
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+My Lovely Girl
+  TMDB ID: 61487
+  Candidato: My Lovely Girl
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Nana
+  TMDB ID: 56568
+  Candidato: NANA
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Naomi
+  TMDB ID: 125474
+  Candidato: Naomi
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+nation z
+  TMDB ID: 61345
+  Candidato: Z Nation
+  Puntuación original: 105
+  Temporadas exactas: 5
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Neon
+  TMDB ID: 214128
+  Candidato: Neon
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Nevenka
+  TMDB ID: 120040
+  Candidato: Nevenka, Breaking the Silence
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Niebla de Invierno
+  TMDB ID: 230034
+  Candidato: Kohrra
+  Puntuación original: 105
+  Temporadas exactas: 2
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Niños de plomo
+  TMDB ID: 270444
+  Candidato: Lead Children
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+No es así
+  TMDB ID: 308402
+  Candidato: It's Not Like That
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+No estoy muerta todavía
+  TMDB ID: 203178
+  Candidato: Not Dead Yet
+  Puntuación original: 91
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+No fue mi culpa: México
+  TMDB ID: 128067
+  Candidato: Not My Fault: Mexico
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+No hay boda sin caos
+  TMDB ID: 196907
+  Candidato: Welcome to Wedding Hell
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+No te metas con los gatos: Un asesino en internet
+  TMDB ID: 96129
+  Candidato: Don't F**k with Cats: Hunting an Internet Killer
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Nombre artístico: Charlie Sheen
+  TMDB ID: 298234
+  Candidato: aka Charlie Sheen
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Noruega vuelve al ruedo
+  TMDB ID: 322426
+  Candidato: Norway: The Dark Horse
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Now Apocalypse
+  TMDB ID: 84880
+  Candidato: Now Apocalypse
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Nuestra generación
+  TMDB ID: 261128
+  Candidato: Our Generation
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Nuestro Seúl por descubrir
+  TMDB ID: 261980
+  Candidato: Our Unwritten Seoul
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Nugget de pollo
+  TMDB ID: 206686
+  Candidato: Chicken Nugget
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Oban Star Racers
+  TMDB ID: 4335
+  Candidato: Ōban Star-Racers
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+ODDTAXI
+  TMDB ID: 116727
+  Candidato: ODDTAXI
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Ojitos de huevo
+  TMDB ID: 237983
+  Candidato: Nothing to See Here
+  Puntuación original: 91
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+Older Hotter Wiser
+  TMDB ID: 290181
+  Candidato: Older Hotter Wiser
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Ollie está perdido
+  TMDB ID: 156935
+  Candidato: Lost Ollie
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Olóládé
+  TMDB ID: 240196
+  Candidato: Olóládé
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Oni: La leyenda del dios del trueno
+  TMDB ID: 201213
+  Candidato: ONI: Thunder God's Tale
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Onmyōji
+  TMDB ID: 210946
+  Candidato: Onmyoji
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Ōoku: Los aposentos privados
+  TMDB ID: 223121
+  Candidato: Ōoku: The Inner Chambers
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Operación Safed Sagar: La misión más alta de la Fuerza Aérea India
+  TMDB ID: 284753
+  Candidato: Operation Safed Sagar: The Untold Story of the Kargil War
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Ore Monogatari!!
+  TMDB ID: 62565
+  Candidato: My Love Story!!
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Oro verde
+  TMDB ID: 98224
+  Candidato: Oro verde
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+Oro y codicia: En busca del tesoro de Fenn
+  TMDB ID: 285380
+  Candidato: Gold & Greed: The Hunt for Fenn's Treasure
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Oshi no Ko
+  TMDB ID: 203737
+  Candidato: 【OSHI NO KO】
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Pandemia
+  TMDB ID: 96557
+  Candidato: Pandemic: How to Prevent an Outbreak
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Pandilleros de Oslo
+  TMDB ID: 216604
+  Candidato: Gangs of Oslo
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Papá a la deriva
+  TMDB ID: 62804
+  Candidato: Papá a la deriva
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Para bien (o para mal)
+  TMDB ID: 106530
+  Candidato: (Un)Well
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Parasyte: The Maxim
+  TMDB ID: 61459
+  Candidato: Parasyte -the maxim-
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Pareja de Emergencia
+  TMDB ID: 61197
+  Candidato: Emergency Couple
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Pedro El Escamoso
+  TMDB ID: 132908
+  Candidato: Pedro El Escamoso
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Pequeñas cosas hermosas
+  TMDB ID: 203554
+  Candidato: Tiny Beautiful Things
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Perdidamente enamorada
+  TMDB ID: 258025
+  Candidato: Head Over Heels
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Perdona nuestros pecados
+  TMDB ID: 97403
+  Candidato: Perdona nuestros pecados
+  Puntuación original: 105
+  Temporadas exactas: 2
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Perros de caza
+  TMDB ID: 127529
+  Candidato: Bloodhounds
+  Puntuación original: 91
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+Perros en el espacio
+  TMDB ID: 136752
+  Candidato: Dogs in Space
+  Puntuación original: 91
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+Pinky y Cerebro
+  TMDB ID: 2228
+  Candidato: Pinky and the Brain
+  Puntuación original: 89
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+Piratas: Velas Negras
+  TMDB ID: 47665
+  Candidato: Black Sails
+  Puntuación original: 89
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+Piso para dos
+  TMDB ID: 211698
+  Candidato: The Flatshare
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Pluto
+  TMDB ID: 91997
+  Candidato: PLUTO
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+Poco ortodoxa
+  TMDB ID: 99581
+  Candidato: Unorthodox
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Pokémon: Senda a la cima
+  TMDB ID: 232215
+  Candidato: Pokémon: Path to the Peak
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Pokémon: Vientos de Paldea
+  TMDB ID: 232214
+  Candidato: Pokémon: Paldean Winds
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Policía de acero Jiban
+  TMDB ID: 530
+  Candidato: Mobile Cop Jiban
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Polos opuestos se atraen
+  TMDB ID: 64529
+  Candidato: High-End Crush
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Preciosas
+  TMDB ID: 97789
+  Candidato: Preciosas
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Prefiero la Muerte
+  TMDB ID: 335227
+  Candidato: I Would Rather Die
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Presidente por accidente
+  TMDB ID: 194899
+  Candidato: Represent
+  Puntuación original: 91
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+Principiantes totales
+  TMDB ID: 230372
+  Candidato: Absolute Beginners
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Prisa Por Vivir
+  TMDB ID: 234239
+  Candidato: Everything Now
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Pro bono
+  TMDB ID: 284744
+  Candidato: Pro Bono
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Promesa De Amor
+  TMDB ID: 68990
+  Candidato: 12 Years Promise
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Proyecto final
+  TMDB ID: 327814
+  Candidato: Final Project
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Proyecto Ovni
+  TMDB ID: 252591
+  Candidato: Project UFO
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Puerta 7
+  TMDB ID: 99633
+  Candidato: Puerta 7
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Pulentos
+  TMDB ID: 76146
+  Candidato: Pulentos
+  Puntuación original: 105
+  Temporadas exactas: 2
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Punto de inflexión: El 11S y la guerra contra el terrorismo
+  TMDB ID: 131651
+  Candidato: Turning Point: 9/11 and the War on Terror
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Q-Force
+  TMDB ID: 128036
+  Candidato: Q-Force
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Quarterback
+  TMDB ID: 220998
+  Candidato: Quarterback
+  Puntuación original: 105
+  Temporadas exactas: 3
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Que así sea
+  TMDB ID: 244571
+  Candidato: The Believers
+  Puntuación original: 105
+  Temporadas exactas: 2
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Quedate a mi lado
+  TMDB ID: 136308
+  Candidato: Stay Close
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Queremos el divorcio
+  TMDB ID: 216223
+  Candidato: Let's Get Divorced
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Rabbit Hole: Juego de Mentiras
+  TMDB ID: 156819
+  Candidato: Rabbit Hole
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Race for the Crown
+  TMDB ID: 288106
+  Candidato: Race for the Crown
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Rain Dogs
+  TMDB ID: 216795
+  Candidato: Rain Dogs
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Rana Naidu
+  TMDB ID: 203202
+  Candidato: Rana Naidu
+  Puntuación original: 105
+  Temporadas exactas: 2
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Ratu Ratu Queens: La serie
+  TMDB ID: 286162
+  Candidato: Ratu Ratu Queens: The Series
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Recuerdos de la Alhambra
+  TMDB ID: 83634
+  Candidato: Memories of the Alhambra
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Regreso al pueblo
+  TMDB ID: 278100
+  Candidato: The Town
+  Puntuación original: 103
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Respuestas
+  TMDB ID: 230370
+  Candidato: Feedback
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Revival
+  TMDB ID: 254013
+  Candidato: Revival
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+Romance full of life
+  TMDB ID: 70429
+  Candidato: Romance Full of Life
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Románticos anónimos
+  TMDB ID: 249054
+  Candidato: Romantics Anonymous
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Rompecorazón
+  TMDB ID: 98189
+  Candidato: Rompecorazón
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Rooster Fighter
+  TMDB ID: 259819
+  Candidato: Rooster Fighter
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+sad love story
+  TMDB ID: 14012
+  Candidato: Sad Love Story
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Saga of Tanya The Evil
+  TMDB ID: 69346
+  Candidato: Saga of Tanya the Evil
+  Puntuación original: 91
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+Sagrada familia
+  TMDB ID: 156883
+  Candidato: Holy Family
+  Puntuación original: 105
+  Temporadas exactas: 2
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Saikano
+  TMDB ID: 34771
+  Candidato: Saikano
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Sailor Moon
+  TMDB ID: 3570
+  Candidato: Sailor Moon
+  Puntuación original: 89
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+Saint Seiya Saintia Shō
+  TMDB ID: 78122
+  Candidato: Saint Seiya: Saintia Sho
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Saint Seiya Ω Omega
+  TMDB ID: 44317
+  Candidato: Saint Seiya Omega
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Sakura Card Captor
+  TMDB ID: 35790
+  Candidato: Cardcaptor Sakura
+  Puntuación original: 92
+  Temporadas exactas: 3
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+Salish & Jordan Matter
+  TMDB ID: 318906
+  Candidato: Salish & Jordan Matter
+  Puntuación original: 90
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+Sálvame
+  TMDB ID: 72690
+  Candidato: Save Me
+  Puntuación original: 91
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+Samurai Warriors
+  TMDB ID: 35993
+  Candidato: Ronin Warriors
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Samurai X
+  TMDB ID: 28136
+  Candidato: Rurouni Kenshin
+  Puntuación original: 105
+  Temporadas exactas: 3
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Sangre de Zeus
+  TMDB ID: 111111
+  Candidato: Blood of Zeus
+  Puntuación original: 105
+  Temporadas exactas: 3
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Scott Pilgrim da el salto
+  TMDB ID: 155292
+  Candidato: Scott Pilgrim Takes Off
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Scrapped Princess
+  TMDB ID: 45544
+  Candidato: Scrapped Princess
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Sean Combs: Ajuste de cuentas
+  TMDB ID: 255251
+  Candidato: Sean Combs: The Reckoning
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Secretos de familia
+  TMDB ID: 207642
+  Candidato: Family Secrets
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+Secretos del deporte: Los reyes del pantano
+  TMDB ID: 231297
+  Candidato: Untold: Swamp Kings
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Seirei Gensouki: Spirit Chronicles
+  TMDB ID: 113808
+  Candidato: Seirei Gensouki: Spirit Chronicles
+  Puntuación original: 91
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+Seis nueve: La serie
+  TMDB ID: 231380
+  Candidato: 6ixtynin9 the Series
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Selena: La serie
+  TMDB ID: 97180
+  Candidato: Selena: The Series
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Sentenced to Be a Hero
+  TMDB ID: 249907
+  Candidato: Sentenced to Be a Hero
+  Puntuación original: 93
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+Señorita 89
+  TMDB ID: 155645
+  Candidato: Señorita 89
+  Puntuación original: 91
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+Serial Experiments Lain
+  TMDB ID: 1087
+  Candidato: Serial Experiments Lain
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Sexo en la Ciudad
+  TMDB ID: 105
+  Candidato: Sex and the City
+  Puntuación original: 92
+  Temporadas exactas: 4
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+Shaman King
+  TMDB ID: 40143
+  Candidato: Shaman King
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+Shaque: No confíes en nadie
+  TMDB ID: 285147
+  Candidato: Shaque: Trust No One
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Shinobi no Ittoki
+  TMDB ID: 158293
+  Candidato: Shinobi no Ittoki
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Si no hubiera visto el sol
+  TMDB ID: 241576
+  Candidato: Had I Not Seen the Sun
+  Puntuación original: 91
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+Si yo fuera Luisa Sonza
+  TMDB ID: 234255
+  Candidato: If I Were Luísa Sonza
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Side Quest
+  TMDB ID: 216412
+  Candidato: Side Quest
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Siempre Reinas
+  TMDB ID: 211664
+  Candidato: Siempre Reinas
+  Puntuación original: 91
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+Silver Surfer
+  TMDB ID: 1130
+  Candidato: Silver Surfer
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Sin filtro
+  TMDB ID: 219067
+  Candidato: #NoFilter
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Sin identidad
+  TMDB ID: 61800
+  Candidato: Sin identidad
+  Puntuación original: 105
+  Temporadas exactas: 2
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Sin piedad para nadie
+  TMDB ID: 232766
+  Candidato: Mercy for None
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Siren
+  TMDB ID: 71886
+  Candidato: Siren
+  Puntuación original: 105
+  Temporadas exactas: 3
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Smiley
+  TMDB ID: 214609
+  Candidato: Smiley
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Smoking Behind the Supermarket with You
+  TMDB ID: 296286
+  Candidato: Smoking Behind the Supermarket with You
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Sneaky Links: Dating After Dark
+  TMDB ID: 259354
+  Candidato: Sneaky Links: Dating After Dark
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Snowfall
+  TMDB ID: 71694
+  Candidato: Snowfall
+  Puntuación original: 105
+  Temporadas exactas: 6
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Solo Leveling
+  TMDB ID: 127532
+  Candidato: Solo Leveling
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Solo Tú: Una Colección de Animados
+  TMDB ID: 220897
+  Candidato: Only You: An Animated Shorts Collection
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Somos quienes somos
+  TMDB ID: 88713
+  Candidato: We Are Who We Are
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Somos.
+  TMDB ID: 126386
+  Candidato: Somos.
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Son of a Donkey
+  TMDB ID: 255803
+  Candidato: Son of a Donkey
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Sonata de Invierno
+  TMDB ID: 12539
+  Candidato: Winter Sonata
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Soundtrack #1
+  TMDB ID: 137872
+  Candidato: Soundtrack #1
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Soy extraordinaria
+  TMDB ID: 47907
+  Candidato: Extraordinary
+  Puntuación original: 91
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+Soy Gordon Ramsay
+  TMDB ID: 262273
+  Candidato: Being Gordon Ramsay
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Soy tu fan. La fiesta continua
+  TMDB ID: 230226
+  Candidato: I'm Your Fan
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+SPY×FAMILY
+  TMDB ID: 120089
+  Candidato: SPY x FAMILY
+  Puntuación original: 92
+  Temporadas exactas: 2
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+Star Trek: Academia de la Flota Estelar
+  TMDB ID: 223530
+  Candidato: Star Trek: Starfleet Academy
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Stick: El swing perfecto
+  TMDB ID: 248830
+  Candidato: Stick
+  Puntuación original: 91
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+Stuart no logra salvar el Universo
+  TMDB ID: 287620
+  Candidato: Stuart Fails to Save the Universe
+  Puntuación original: 93
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+Su vida privada
+  TMDB ID: 87553
+  Candidato: Her Private Life
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Subteran
+  TMDB ID: 277805
+  Candidato: Subteran
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+Suburræterna
+  TMDB ID: 235350
+  Candidato: Suburræterna
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Sudamerican Rockers
+  TMDB ID: 76144
+  Candidato: Sudamerican Rockers
+  Puntuación original: 105
+  Temporadas exactas: 2
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Sueña Sin Limites
+  TMDB ID: 37722
+  Candidato: Dream High
+  Puntuación original: 91
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+Sugar Apple Fairy Tale
+  TMDB ID: 135335
+  Candidato: Sugar Apple Fairy Tale
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Súper Once
+  TMDB ID: 42912
+  Candidato: Inazuma Eleven
+  Puntuación original: 90
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+Super Subbu
+  TMDB ID: 283609
+  Candidato: Super Subbu
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Supermachos
+  TMDB ID: 241816
+  Candidato: Shafted
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Survival Mode
+  TMDB ID: 294879
+  Candidato: Survival Mode
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Tal para cual
+  TMDB ID: 212361
+  Candidato: Tal para cual
+  Puntuación original: 89
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+Task: Unidad especial
+  TMDB ID: 228305
+  Candidato: Task
+  Puntuación original: 93
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+Taskaree: La red del contrabando
+  TMDB ID: 308482
+  Candidato: Taskaree: The Smuggler's Web
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Te irás al infierno
+  TMDB ID: 300529
+  Candidato: Straight to Hell
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Teletubbies
+  TMDB ID: 211069
+  Candidato: Teletubbies
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+Temporada de celo
+  TMDB ID: 290295
+  Candidato: Mating Season
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+TENGOKU-DAIMAKYO
+  TMDB ID: 208891
+  Candidato: Tengoku Daimakyo
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Teresa
+  TMDB ID: 12926
+  Candidato: Teresa
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+Terrazza Sentimento
+  TMDB ID: 304936
+  Candidato: Start Up, Fall Down: From Billionaire to Convict
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Territorio Lovecraft
+  TMDB ID: 82816
+  Candidato: Lovecraft Country
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+The Battle for Justina Pelletier
+  TMDB ID: 215941
+  Candidato: The Battle for Justina Pelletier
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+The Bombing of Pan Am 103
+  TMDB ID: 248226
+  Candidato: The Bombing of Pan Am 103
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+The Chemistry of Death
+  TMDB ID: 217180
+  Candidato: The Chemistry of Death
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+The Curious Case of Natalia Grace
+  TMDB ID: 226706
+  Candidato: The Curious Case of Natalia Grace
+  Puntuación original: 90
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+The Dark Money Game
+  TMDB ID: 288377
+  Candidato: The Dark Money Game
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+The Days
+  TMDB ID: 216228
+  Candidato: THE DAYS
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+The Diamond Heist
+  TMDB ID: 286840
+  Candidato: The Diamond Heist
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+The Fabulous
+  TMDB ID: 135155
+  Candidato: The Fabulous
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+The Family Stallone
+  TMDB ID: 222236
+  Candidato: The Family Stallone
+  Puntuación original: 90
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+The Girl from Plainville
+  TMDB ID: 107114
+  Candidato: The Girl from Plainville
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+The Gold
+  TMDB ID: 218351
+  Candidato: The Gold
+  Puntuación original: 91
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+The great shaman Ga Doo Shim
+  TMDB ID: 129096
+  Candidato: The Great Shaman Ga Doo-shim
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+The Iceblade Sorcerer Shall Rule the World
+  TMDB ID: 200777
+  Candidato: The Iceblade Sorcerer Shall Rule the World
+  Puntuación original: 91
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+The Last Czars
+  TMDB ID: 90665
+  Candidato: The Last Czars
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+The Last Kingdom
+  TMDB ID: 63333
+  Candidato: The Last Kingdom
+  Puntuación original: 105
+  Temporadas exactas: 5
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+The Men Who Sold The World Cup
+  TMDB ID: 136855
+  Candidato: The Men Who Sold The World Cup
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+The Tetris Murders
+  TMDB ID: 214646
+  Candidato: The Tetris Murders
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+The Tourist
+  TMDB ID: 120909
+  Candidato: The Tourist
+  Puntuación original: 91
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+The Vow: Una historia sobre NXIVM
+  TMDB ID: 49920
+  Candidato: The Vow
+  Puntuación original: 91
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+The Warehouse Phase
+  TMDB ID: 291156
+  Candidato: The Warehouse Phase
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Tierra de oro
+  TMDB ID: 278113
+  Candidato: Gold Land
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Tierra mortal: Los asesinatos de Gilgo Beach
+  TMDB ID: 304550
+  Candidato: Killing Grounds: The Gilgo Beach Murders
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Tiger
+  TMDB ID: 116455
+  Candidato: Tiger
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+Toda la sangre
+  TMDB ID: 207269
+  Candidato: Toda la sangre
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Todas las veces que nos enamoramos
+  TMDB ID: 218428
+  Candidato: In Love All Over Again
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Todo o nada: La serie
+  TMDB ID: 196214
+  Candidato: The Full Monty
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Todo por un pato
+  TMDB ID: 276083
+  Candidato: Crap Happens
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Todos quieren salvarse
+  TMDB ID: 134057
+  Candidato: Everything Calls for Salvation
+  Puntuación original: 91
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+Tokyo Babylon
+  TMDB ID: 44485
+  Candidato: Tokyo Babylon
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Tokyo Ghoul
+  TMDB ID: 61374
+  Candidato: Tokyo Ghoul
+  Puntuación original: 105
+  Temporadas exactas: 4
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Tomo-chan Is a Girl!
+  TMDB ID: 205308
+  Candidato: Tomo-chan Is a Girl!
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Tormenta de Navidad
+  TMDB ID: 210532
+  Candidato: A Storm for Christmas
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Tour de Francia: En el corazón del pelotón
+  TMDB ID: 225335
+  Candidato: Tour de France: Unchained
+  Puntuación original: 90
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+Traición y redención
+  TMDB ID: 245079
+  Candidato: Hyper Knife
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Transatlántico
+  TMDB ID: 195359
+  Candidato: Transatlantic
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Travesía en moto: Camino a casa
+  TMDB ID: 262594
+  Candidato: Long Way Home
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Treinta y nueve
+  TMDB ID: 131028
+  Candidato: Thirty-Nine
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Trinkets
+  TMDB ID: 89852
+  Candidato: Trinkets
+  Puntuación original: 105
+  Temporadas exactas: 2
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Tsugumomo
+  TMDB ID: 71000
+  Candidato: Tsugumomo
+  Puntuación original: 105
+  Temporadas exactas: 2
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Tu tiempo llama
+  TMDB ID: 196474
+  Candidato: A Time Called You
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Un amor que no se agota
+  TMDB ID: 287011
+  Candidato: Sold Out on You
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Un bandido del futuro
+  TMDB ID: 195298
+  Candidato: Time Hustler
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Un final de Ramadán accidentado
+  TMDB ID: 235914
+  Candidato: Crashing Eid
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Un mundo diferente
+  TMDB ID: 305357
+  Candidato: A Different World
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Un novio por suscripción
+  TMDB ID: 281016
+  Candidato: Boyfriend on Demand
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Un papá soltero
+  TMDB ID: 292625
+  Candidato: Single Papa
+  Puntuación original: 93
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+Una Actualización sobre Nuestra Familia
+  TMDB ID: 252174
+  Candidato: An Update on Our Family
+  Puntuación original: 103
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Una delgada línea
+  TMDB ID: 220674
+  Candidato: A Thin Line
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Una madre perfecta
+  TMDB ID: 131431
+  Candidato: The Perfect Mother
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Una Segunda Oportunidad: Escuela de Gimnasia
+  TMDB ID: 208527
+  Candidato: Gymnastics Academy: A Second Chance
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Uzaki-chan Wants to Hang Out!
+  TMDB ID: 98986
+  Candidato: Uzaki-chan Wants to Hang Out!
+  Puntuación original: 105
+  Temporadas exactas: 2
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Vagabond
+  TMDB ID: 92983
+  Candidato: Vagabond
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Vampire in the Garden
+  TMDB ID: 99772
+  Candidato: Vampire in the Garden
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Vecinos
+  TMDB ID: 109014
+  Candidato: Vecinos
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+Verdades al descubierto
+  TMDB ID: 239006
+  Candidato: Unmasked
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Vgly
+  TMDB ID: 226241
+  Candidato: Vgly
+  Puntuación original: 91
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+Victoria Beckham
+  TMDB ID: 262281
+  Candidato: Victoria Beckham
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Victorinos
+  TMDB ID: 18846
+  Candidato: Victorinos
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Vida perfecta
+  TMDB ID: 94734
+  Candidato: Perfect Life
+  Puntuación original: 105
+  Temporadas exactas: 2
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Vilma
+  TMDB ID: 126725
+  Candidato: Velma
+  Puntuación original: 90
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+Vinland Saga
+  TMDB ID: 88803
+  Candidato: Vinland Saga
+  Puntuación original: 105
+  Temporadas exactas: 2
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Warrior Nun
+  TMDB ID: 87689
+  Candidato: Warrior Nun
+  Puntuación original: 105
+  Temporadas exactas: 2
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Watchmen
+  TMDB ID: 79788
+  Candidato: Watchmen
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+We'll Be Fine
+  TMDB ID: 314172
+  Candidato: We'll Be Fine
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Welcome to Utmark
+  TMDB ID: 120349
+  Candidato: Welcome to Utmark
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Wena profe
+  TMDB ID: 98003
+  Candidato: Wena profe
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Women of the Movement
+  TMDB ID: 111263
+  Candidato: Women of the Movement
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Wrestlers
+  TMDB ID: 233051
+  Candidato: Wrestlers
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+WWE: Unreal
+  TMDB ID: 289485
+  Candidato: WWE: Unreal
+  Puntuación original: 105
+  Temporadas exactas: 3
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Yo soy Lorenzo
+  TMDB ID: 93077
+  Candidato: Yo soy Lorenzo
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_FUERTE
+
+Young Love
+  TMDB ID: 62672
+  Candidato: Young Love
+  Puntuación original: 105
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+Zombiverso
+  TMDB ID: 217945
+  Candidato: Zombieverse
+  Puntuación original: 91
+  Temporadas exactas: 1
+  Temporadas cercanas: 0
+  Decisión original: MATCH_PROBABLE
+
+========================================
+2. COINCIDENCIA CERCANA
+========================================
+
+16
+  TMDB ID: 106302
+  Candidato: 16
+  Puntuación original: 95
+  Temporadas exactas: 0
+  Temporadas cercanas: 1
+  Decisión original: MATCH_PROBABLE
+
+31 Minutos
+  TMDB ID: 43
+  Candidato: 31 Minutes
+  Puntuación original: 95
+  Temporadas exactas: 3
+  Temporadas cercanas: 1
+  Decisión original: MATCH_FUERTE
+
+Adultos
+  TMDB ID: 260458
+  Candidato: Adults
+  Puntuación original: 95
+  Temporadas exactas: 1
+  Temporadas cercanas: 1
+  Decisión original: MATCH_FUERTE
+
+Al Fondo Hay Sitio
+  TMDB ID: 32209
+  Candidato: Al Fondo Hay Sitio
+  Puntuación original: 90
+  Temporadas exactas: 3
+  Temporadas cercanas: 2
+  Decisión original: MATCH_PROBABLE
+
+Amar a morir
+  TMDB ID: 88881
+  Candidato: Amar a morir
+  Puntuación original: 95
+  Temporadas exactas: 0
+  Temporadas cercanas: 1
+  Decisión original: MATCH_FUERTE
+
+American Dad: Un Agente de Familia
+  TMDB ID: 1433
+  Candidato: American Dad!
+  Puntuación original: 92
+  Temporadas exactas: 18
+  Temporadas cercanas: 1
+  Decisión original: MATCH_PROBABLE
+
+Amor a primera bestia
+  TMDB ID: 128250
+  Candidato: Sexy Beasts
+  Puntuación original: 86
+  Temporadas exactas: 0
+  Temporadas cercanas: 1
+  Decisión original: MATCH_PROBABLE
+
+Aquí no hay quien viva
+  TMDB ID: 2282
+  Candidato: Aquí no hay quien viva
+  Puntuación original: 95
+  Temporadas exactas: 4
+  Temporadas cercanas: 1
+  Decisión original: MATCH_FUERTE
+
+Attack on Titan
+  TMDB ID: 1429
+  Candidato: Attack on Titan
+  Puntuación original: 95
+  Temporadas exactas: 3
+  Temporadas cercanas: 1
+  Decisión original: MATCH_FUERTE
+
+Aventura en pelotas: España
+  TMDB ID: 279908
+  Candidato: Naked and Afraid: Spain
+  Puntuación original: 94
+  Temporadas exactas: 0
+  Temporadas cercanas: 1
+  Decisión original: MATCH_PROBABLE
+
+Betty en NY
+  TMDB ID: 86189
+  Candidato: Betty in New York
+  Puntuación original: 95
+  Temporadas exactas: 0
+  Temporadas cercanas: 1
+  Decisión original: MATCH_FUERTE
+
+BeyBlade
+  TMDB ID: 54728
+  Candidato: Beyblade
+  Puntuación original: 90
+  Temporadas exactas: 0
+  Temporadas cercanas: 1
+  Decisión original: MATCH_PROBABLE
+
+Bitch
+  TMDB ID: 74083
+  Candidato: My Girlfriend Is Shobitch
+  Puntuación original: 94
+  Temporadas exactas: 0
+  Temporadas cercanas: 1
+  Decisión original: MATCH_PROBABLE
+
+Bloque de búsqueda
+  TMDB ID: 102918
+  Candidato: Bloque de búsqueda
+  Puntuación original: 94
+  Temporadas exactas: 0
+  Temporadas cercanas: 1
+  Decisión original: MATCH_PROBABLE
+
+Bookie
+  TMDB ID: 221486
+  Candidato: Bookie
+  Puntuación original: 90
+  Temporadas exactas: 0
+  Temporadas cercanas: 1
+  Decisión original: MATCH_PROBABLE
+
+Caníbal
+  TMDB ID: 210213
+  Candidato: Gannibal
+  Puntuación original: 90
+  Temporadas exactas: 0
+  Temporadas cercanas: 1
+  Decisión original: MATCH_PROBABLE
+
+Conde Vrolok
+  TMDB ID: 107033
+  Candidato: Conde Vrolok
+  Puntuación original: 95
+  Temporadas exactas: 0
+  Temporadas cercanas: 1
+  Decisión original: MATCH_FUERTE
+
+Corpse Party: Tortured Souls
+  TMDB ID: 61178
+  Candidato: Corpse Party: Tortured Souls
+  Puntuación original: 90
+  Temporadas exactas: 0
+  Temporadas cercanas: 1
+  Decisión original: MATCH_PROBABLE
+
+DC's Stargirl
+  TMDB ID: 80986
+  Candidato: DC's Stargirl
+  Puntuación original: 94
+  Temporadas exactas: 1
+  Temporadas cercanas: 2
+  Decisión original: MATCH_PROBABLE
+
+De aquí al corazón
+  TMDB ID: 79263
+  Candidato: Here to Heart
+  Puntuación original: 95
+  Temporadas exactas: 0
+  Temporadas cercanas: 1
+  Decisión original: MATCH_FUERTE
+
+Deadman Wonderland
+  TMDB ID: 42503
+  Candidato: Deadman Wonderland
+  Puntuación original: 93
+  Temporadas exactas: 0
+  Temporadas cercanas: 1
+  Decisión original: MATCH_PROBABLE
+
+Dime quién fue
+  TMDB ID: 95832
+  Candidato: Dime quién fue
+  Puntuación original: 93
+  Temporadas exactas: 0
+  Temporadas cercanas: 1
+  Decisión original: MATCH_PROBABLE
+
+Dioses Americanos
+  TMDB ID: 46639
+  Candidato: American Gods
+  Puntuación original: 95
+  Temporadas exactas: 2
+  Temporadas cercanas: 1
+  Decisión original: MATCH_FUERTE
+
+Educando a la Princesa
+  TMDB ID: 5279
+  Candidato: Princess Hours
+  Puntuación original: 95
+  Temporadas exactas: 0
+  Temporadas cercanas: 1
+  Decisión original: MATCH_FUERTE
+
+El amor invencible
+  TMDB ID: 220992
+  Candidato: El amor invencible
+  Puntuación original: 95
+  Temporadas exactas: 0
+  Temporadas cercanas: 1
+  Decisión original: MATCH_FUERTE
+
+El Hacker Adolescente Más Buscado
+  TMDB ID: 293298
+  Candidato: Most Wanted: Teen Hacker
+  Puntuación original: 94
+  Temporadas exactas: 0
+  Temporadas cercanas: 1
+  Decisión original: MATCH_PROBABLE
+
+El hijo zurdo
+  TMDB ID: 222193
+  Candidato: El hijo zurdo
+  Puntuación original: 93
+  Temporadas exactas: 0
+  Temporadas cercanas: 1
+  Decisión original: MATCH_PROBABLE
+
+El Mantequilla: Maestro de la estafa
+  TMDB ID: 206966
+  Candidato: Butter Man: The Slickest Mexican Thief
+  Puntuación original: 94
+  Temporadas exactas: 0
+  Temporadas cercanas: 1
+  Decisión original: MATCH_PROBABLE
+
+El sabor del destino
+  TMDB ID: 197107
+  Candidato: Delicacies Destiny
+  Puntuación original: 94
+  Temporadas exactas: 0
+  Temporadas cercanas: 1
+  Decisión original: MATCH_PROBABLE
+
+Elfen Lied
+  TMDB ID: 42671
+  Candidato: Elfen Lied
+  Puntuación original: 94
+  Temporadas exactas: 0
+  Temporadas cercanas: 1
+  Decisión original: MATCH_PROBABLE
+
+En busca de pruebas
+  TMDB ID: 205272
+  Candidato: Reasonable Doubt
+  Puntuación original: 90
+  Temporadas exactas: 1
+  Temporadas cercanas: 1
+  Decisión original: MATCH_PROBABLE
+
+Eyeshield 21
+  TMDB ID: 31736
+  Candidato: Eyeshield 21
+  Puntuación original: 95
+  Temporadas exactas: 0
+  Temporadas cercanas: 1
+  Decisión original: MATCH_FUERTE
+
+Grandes héroes y leyendas de La Biblia
+  TMDB ID: 67880
+  Candidato: Greatest Heroes & Legends of Bible
+  Puntuación original: 91
+  Temporadas exactas: 0
+  Temporadas cercanas: 1
+  Decisión original: MATCH_PROBABLE
+
+Hasta que el dinero nos separe
+  TMDB ID: 18685
+  Candidato: Hasta que el dinero nos separe
+  Puntuación original: 95
+  Temporadas exactas: 0
+  Temporadas cercanas: 1
+  Decisión original: MATCH_FUERTE
+
+Henry Danger
+  TMDB ID: 61852
+  Candidato: Henry Danger
+  Puntuación original: 95
+  Temporadas exactas: 4
+  Temporadas cercanas: 1
+  Decisión original: MATCH_FUERTE
+
+Highschool of the Dead
+  TMDB ID: 56998
+  Candidato: High School of the Dead
+  Puntuación original: 93
+  Temporadas exactas: 0
+  Temporadas cercanas: 1
+  Decisión original: MATCH_PROBABLE
+
+Hombre vs. Abeja
+  TMDB ID: 197588
+  Candidato: Man vs Bee
+  Puntuación original: 93
+  Temporadas exactas: 0
+  Temporadas cercanas: 1
+  Decisión original: MATCH_PROBABLE
+
+Just Add Magic
+  TMDB ID: 62904
+  Candidato: Just Add Magic
+  Puntuación original: 95
+  Temporadas exactas: 2
+  Temporadas cercanas: 1
+  Decisión original: MATCH_FUERTE
+
+Karkú
+  TMDB ID: 101198
+  Candidato: Karkú
+  Puntuación original: 95
+  Temporadas exactas: 2
+  Temporadas cercanas: 1
+  Decisión original: MATCH_FUERTE
+
+La canción del samurái
+  TMDB ID: 320340
+  Candidato: Song of the Samurai - Chapter: Fateful Showdown in Kyoto
+  Puntuación original: 89
+  Temporadas exactas: 0
+  Temporadas cercanas: 1
+  Decisión original: MATCH_PROBABLE
+
+La chica nueva: El reinicio
+  TMDB ID: 310935
+  Candidato: Girl from Nowhere: The Reset
+  Puntuación original: 94
+  Temporadas exactas: 0
+  Temporadas cercanas: 1
+  Decisión original: MATCH_PROBABLE
+
+La familia Ingalls
+  TMDB ID: 1781
+  Candidato: Little House on the Prairie
+  Puntuación original: 88
+  Temporadas exactas: 0
+  Temporadas cercanas: 1
+  Decisión original: MATCH_PROBABLE
+
+La formación de Isabel
+  TMDB ID: 198085
+  Candidato: Becoming Elizabeth
+  Puntuación original: 94
+  Temporadas exactas: 0
+  Temporadas cercanas: 1
+  Decisión original: MATCH_PROBABLE
+
+La Gran Sangre
+  TMDB ID: 6698
+  Candidato: La Gran Sangre
+  Puntuación original: 91
+  Temporadas exactas: 2
+  Temporadas cercanas: 1
+  Decisión original: MATCH_PROBABLE
+
+La Teoría del Big Bang
+  TMDB ID: 1418
+  Candidato: The Big Bang Theory
+  Puntuación original: 95
+  Temporadas exactas: 8
+  Temporadas cercanas: 4
+  Decisión original: MATCH_FUERTE
+
+La venganza de Analía
+  TMDB ID: 102712
+  Candidato: Her Mother's Killer
+  Puntuación original: 95
+  Temporadas exactas: 1
+  Temporadas cercanas: 1
+  Decisión original: MATCH_FUERTE
+
+Lakers: Tiempo de ganar
+  TMDB ID: 124067
+  Candidato: Winning Time: The Rise of the Lakers Dynasty
+  Puntuación original: 90
+  Temporadas exactas: 0
+  Temporadas cercanas: 1
+  Decisión original: MATCH_PROBABLE
+
+Las Bravas F.C.
+  TMDB ID: 197549
+  Candidato: Las Bravas F.C.
+  Puntuación original: 90
+  Temporadas exactas: 0
+  Temporadas cercanas: 1
+  Decisión original: MATCH_PROBABLE
+
+Las Pistas de Blue
+  TMDB ID: 10821
+  Candidato: Blue's Clues
+  Puntuación original: 89
+  Temporadas exactas: 0
+  Temporadas cercanas: 1
+  Decisión original: MATCH_PROBABLE
+
+Lawmen: Bass Reeves
+  TMDB ID: 157732
+  Candidato: Lawmen: Bass Reeves
+  Puntuación original: 94
+  Temporadas exactas: 0
+  Temporadas cercanas: 1
+  Decisión original: MATCH_PROBABLE
+
+Little Margo Stories
+  TMDB ID: 252512
+  Candidato: Little Margo Stories
+  Puntuación original: 93
+  Temporadas exactas: 0
+  Temporadas cercanas: 1
+  Decisión original: MATCH_PROBABLE
+
+Lo Que La Vida Me Robó
+  TMDB ID: 58450
+  Candidato: What Life Took From Me
+  Puntuación original: 95
+  Temporadas exactas: 0
+  Temporadas cercanas: 1
+  Decisión original: MATCH_FUERTE
+
+Loquito por ti
+  TMDB ID: 85045
+  Candidato: Crazy about you
+  Puntuación original: 95
+  Temporadas exactas: 0
+  Temporadas cercanas: 1
+  Decisión original: MATCH_FUERTE
+
+Los Backyardigans
+  TMDB ID: 1878
+  Candidato: The Backyardigans
+  Puntuación original: 94
+  Temporadas exactas: 1
+  Temporadas cercanas: 3
+  Decisión original: MATCH_PROBABLE
+
+Los Expedientes Secretos X
+  TMDB ID: 4087
+  Candidato: The X-Files
+  Puntuación original: 95
+  Temporadas exactas: 10
+  Temporadas cercanas: 1
+  Decisión original: MATCH_FUERTE
+
+Los gatos samurai
+  TMDB ID: 10797
+  Candidato: Samurai Pizza Cats
+  Puntuación original: 95
+  Temporadas exactas: 0
+  Temporadas cercanas: 1
+  Decisión original: MATCH_FUERTE
+
+Los Winchester
+  TMDB ID: 128113
+  Candidato: The Winchesters
+  Puntuación original: 95
+  Temporadas exactas: 0
+  Temporadas cercanas: 1
+  Decisión original: MATCH_FUERTE
+
+Lost
+  TMDB ID: 4607
+  Candidato: Lost
+  Puntuación original: 92
+  Temporadas exactas: 2
+  Temporadas cercanas: 2
+  Decisión original: MATCH_PROBABLE
+
+Machos
+  TMDB ID: 76649
+  Candidato: Machos
+  Puntuación original: 94
+  Temporadas exactas: 0
+  Temporadas cercanas: 1
+  Decisión original: MATCH_PROBABLE
+
+Manual de supervivencia escolar de Ned
+  TMDB ID: 1600
+  Candidato: Ned's Declassified School Survival Guide
+  Puntuación original: 95
+  Temporadas exactas: 2
+  Temporadas cercanas: 1
+  Decisión original: MATCH_FUERTE
+
+Mirai Nikki
+  TMDB ID: 46671
+  Candidato: The Future Diary
+  Puntuación original: 94
+  Temporadas exactas: 0
+  Temporadas cercanas: 1
+  Decisión original: MATCH_PROBABLE
+
+My Hero Academia
+  TMDB ID: 65930
+  Candidato: My Hero Academia
+  Puntuación original: 95
+  Temporadas exactas: 5
+  Temporadas cercanas: 3
+  Decisión original: MATCH_FUERTE
+
+Negotiator
+  TMDB ID: 72977
+  Candidato: Negotiator
+  Puntuación original: 95
+  Temporadas exactas: 0
+  Temporadas cercanas: 1
+  Decisión original: MATCH_FUERTE
+
+No Abras la Puerta
+  TMDB ID: 290457
+  Candidato: No Abras la Puerta
+  Puntuación original: 95
+  Temporadas exactas: 0
+  Temporadas cercanas: 1
+  Decisión original: MATCH_FUERTE
+
+Operativo: Lioness
+  TMDB ID: 113962
+  Candidato: Lioness
+  Puntuación original: 93
+  Temporadas exactas: 2
+  Temporadas cercanas: 1
+  Decisión original: MATCH_PROBABLE
+
+Otoño en mi corazón
+  TMDB ID: 14807
+  Candidato: Autumn in My Heart
+  Puntuación original: 92
+  Temporadas exactas: 0
+  Temporadas cercanas: 1
+  Decisión original: MATCH_PROBABLE
+
+Pataclaun
+  TMDB ID: 79868
+  Candidato: Pataclaun
+  Puntuación original: 91
+  Temporadas exactas: 0
+  Temporadas cercanas: 1
+  Decisión original: MATCH_PROBABLE
+
+Patito feo
+  TMDB ID: 7282
+  Candidato: Patty's World
+  Puntuación original: 91
+  Temporadas exactas: 0
+  Temporadas cercanas: 1
+  Decisión original: MATCH_PROBABLE
+
+Pixie and Dixie and Mr. Jinks
+  TMDB ID: 21471
+  Candidato: Pixie and Dixie and Mr. Jinks
+  Puntuación original: 90
+  Temporadas exactas: 0
+  Temporadas cercanas: 1
+  Decisión original: MATCH_PROBABLE
+
+Playa salvaje
+  TMDB ID: 32774
+  Candidato: Playa salvaje
+  Puntuación original: 94
+  Temporadas exactas: 0
+  Temporadas cercanas: 1
+  Decisión original: MATCH_PROBABLE
+
+Pose
+  TMDB ID: 79084
+  Candidato: POSE
+  Puntuación original: 95
+  Temporadas exactas: 2
+  Temporadas cercanas: 1
+  Decisión original: MATCH_FUERTE
+
+Rey Tigre
+  TMDB ID: 100698
+  Candidato: Tiger King
+  Puntuación original: 91
+  Temporadas exactas: 0
+  Temporadas cercanas: 1
+  Decisión original: MATCH_PROBABLE
+
+RIV4LES
+  TMDB ID: 299483
+  Candidato: RIV4LRIES
+  Puntuación original: 95
+  Temporadas exactas: 0
+  Temporadas cercanas: 1
+  Decisión original: MATCH_FUERTE
+
+Romina Poderosa
+  TMDB ID: 228051
+  Candidato: Miss Adrenaline: A Tale of Twins
+  Puntuación original: 95
+  Temporadas exactas: 0
+  Temporadas cercanas: 1
+  Decisión original: MATCH_FUERTE
+
+Seraph of the End
+  TMDB ID: 62255
+  Candidato: Seraph of the End
+  Puntuación original: 90
+  Temporadas exactas: 0
+  Temporadas cercanas: 1
+  Decisión original: MATCH_PROBABLE
+
+Te la dedico
+  TMDB ID: 157315
+  Candidato: Te la dedico
+  Puntuación original: 95
+  Temporadas exactas: 0
+  Temporadas cercanas: 1
+  Decisión original: MATCH_FUERTE
+
+The Boss Baby: Back in Business
+  TMDB ID: 77606
+  Candidato: The Boss Baby: Back in Business
+  Puntuación original: 91
+  Temporadas exactas: 1
+  Temporadas cercanas: 1
+  Decisión original: MATCH_PROBABLE
+
+The Closer
+  TMDB ID: 1450
+  Candidato: The Closer
+  Puntuación original: 90
+  Temporadas exactas: 1
+  Temporadas cercanas: 2
+  Decisión original: MATCH_PROBABLE
+
+The Misfit of Demon King Academy
+  TMDB ID: 97617
+  Candidato: The Misfit of Demon King Academy
+  Puntuación original: 90
+  Temporadas exactas: 0
+  Temporadas cercanas: 1
+  Decisión original: MATCH_PROBABLE
+
+Tía Alison
+  TMDB ID: 231455
+  Candidato: Tía Alison
+  Puntuación original: 95
+  Temporadas exactas: 0
+  Temporadas cercanas: 1
+  Decisión original: MATCH_FUERTE
+
+Ultras. Pasión y Muerte
+  TMDB ID: 325858
+  Candidato: Ultras: Passion and Death
+  Puntuación original: 93
+  Temporadas exactas: 0
+  Temporadas cercanas: 1
+  Decisión original: MATCH_PROBABLE
+
+Una nueva jugada
+  TMDB ID: 244623
+  Candidato: Running Point
+  Puntuación original: 94
+  Temporadas exactas: 1
+  Temporadas cercanas: 1
+  Decisión original: MATCH_PROBABLE
+
+Unforgettable love
+  TMDB ID: 128926
+  Candidato: Unforgettable Love
+  Puntuación original: 94
+  Temporadas exactas: 0
+  Temporadas cercanas: 1
+  Decisión original: MATCH_PROBABLE
+
+Years & Years
+  TMDB ID: 87104
+  Candidato: Years and Years
+  Puntuación original: 94
+  Temporadas exactas: 0
+  Temporadas cercanas: 1
+  Decisión original: MATCH_PROBABLE
+
+Yowamushi Pedal
+  TMDB ID: 61441
+  Candidato: Yowamushi Pedal
+  Puntuación original: 88
+  Temporadas exactas: 0
+  Temporadas cercanas: 1
+  Decisión original: MATCH_PROBABLE
