@@ -13,7 +13,7 @@ const DATA_DIR = path.resolve(__dirname, "../data");
 
 const MATCH_FILE = path.join(
     DATA_DIR,
-    "series-m3u-tmdb-lista-1.json"
+    "series-m3u-tmdb-lista-16.json"
 );
 
 const CATALOG_FILE = path.join(
@@ -21,7 +21,7 @@ const CATALOG_FILE = path.join(
     "series-streams-combined.json"
 );
 
-const SOURCE = "lista-1";
+const SOURCE = "lista-15";
 
 // ============================================================
 // UTILIDADES
@@ -43,7 +43,7 @@ function writeJSON(file, data) {
 
 function backupFile(file) {
     const backup =
-        `${file}.import-lista-1-backup-${Date.now()}.json`;
+        `${file}.import-lista-15-backup-${Date.now()}.json`;
 
     fs.copyFileSync(
         file,
@@ -155,8 +155,8 @@ function getConfirmedMatches(data) {
     return confirmed;
 }
 
-// ============================================================
-// OBTENER URL DE LISTA-1
+// ===========================================================
+// OBTENER URL DE LISTA-10
 // ============================================================
 
 function getSourceUrl(sourceEpisode) {
@@ -174,7 +174,7 @@ function getSourceUrl(sourceEpisode) {
 
     /*
      * Si no existe, buscamos específicamente
-     * la source lista-1.
+     * la source lista-10.
      */
 
     if (
@@ -384,12 +384,12 @@ function importSeries(
                 stats.newEpisodes++;
 
                 console.log(
-                    `      🆕 S${String(seasonKey).padStart(2, "0")}E${String(episodeKey).padStart(2, "0")} → lista-1`
+                    `      🆕 S${String(seasonKey).padStart(2, "0")}E${String(episodeKey).padStart(2, "0")} → lista-15`
                 );
 
                 // --------------------------------------------
-                // BUSCAR URL LISTA-1
-                // --------------------------------------------
+                // BUSCAR URL LISTA-15
+                // -------------------------------------------
 
                 const sourceUrl =
                     getSourceUrl(
@@ -438,7 +438,7 @@ function importSeries(
             }
 
             // ------------------------------------------------
-            // BUSCAR URL LISTA-1
+            // BUSCAR URL LISTA-15
             // ------------------------------------------------
 
             const sourceUrl =
@@ -458,7 +458,7 @@ function importSeries(
             }
 
             // ------------------------------------------------
-            // AGREGAR LISTA-1
+            // AGREGAR LISTA-15
             // ------------------------------------------------
 
             ensureSources(
@@ -473,7 +473,7 @@ function importSeries(
             stats.sourcesAdded++;
 
             console.log(
-                `      ➕ lista-1 → ${sourceSeries.name} S${String(seasonKey).padStart(2, "0")}E${String(episodeKey).padStart(2, "0")}`
+                `      ➕ lista-10 → ${sourceSeries.name} S${String(seasonKey).padStart(2, "0")}E${String(episodeKey).padStart(2, "0")}`
             );
         }
     }
@@ -490,7 +490,7 @@ function main() {
     );
 
     console.log(
-        " IMPORTAR SERIES LISTA 1 — MATCH CONFIRMADOS"
+        " IMPORTAR SERIES LISTA 10 — MATCH CONFIRMADOS"
     );
 
     console.log(
@@ -672,11 +672,11 @@ function main() {
     );
 
     console.log(
-        `➕ Sources lista-1:        ${stats.sourcesAdded}`
+        `➕ Sources lista-10:        ${stats.sourcesAdded}`
     );
 
     console.log(
-        `⏭️ Ya tenían lista-1:      ${stats.alreadyHadSource}`
+        `⏭️ Ya tenían lista-10:      ${stats.alreadyHadSource}`
     );
 
     console.log(

@@ -13,7 +13,7 @@ interface Props {
     optionTwo?: () => void
 }
 
-export const Background = ({data, optionOne, optionTwo}: Props) => {
+export const Background = ({data, optionOne}: Props) => {
     const IMG_BASE = import.meta.env.VITE_TMDB_BACKGROUND_IMAGE_URL
 
     return (
@@ -39,11 +39,7 @@ export const Background = ({data, optionOne, optionTwo}: Props) => {
                         >
                             <Button action={optionOne}>
                                 <i className="bi bi-play-fill"></i>
-                                <h3>Opción 1</h3>
-                            </Button>
-                            <Button action={optionTwo}>
-                                <i className="bi bi-play-fill"></i>
-                                <h3>Opción 2</h3>                            
+                                <h3>Play</h3>
                             </Button>
                     </TvRegion>
                 </div>

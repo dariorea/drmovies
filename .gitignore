@@ -54,9 +54,8 @@ docker-compose.override.yml
 # Backups del catálogo combinado
 /backend/data/series-streams-combined.json.*backup*.json
 
-# Backups del catálogo de series
+# Catálogo de series alojado en Cloudflare R2
 /backend/data/series-streams-combined*.json
-!/backend/data/series-streams-combined.json
 
 # Caché de importación de lista 6
 /backend/data/series-import-cache-lista-6/

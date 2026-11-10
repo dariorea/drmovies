@@ -111,8 +111,8 @@ export const MovieID = () => {
                 <div
                     className={
                         isVimeusActive
-                            ? styles.isActive
-                            : styles.desactive
+                        ? styles.isActive
+                        : styles.desactive
                     }
                 >
 

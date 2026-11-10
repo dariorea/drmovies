@@ -187,6 +187,7 @@ EPISODIOS
 }
 .reproductor {
     width: 60%;
+    height: auto;
 }
 .player {
     position: relative;
@@ -200,7 +201,7 @@ EPISODIOS
 .video {
     display: block;
     width: 100%;
-    min-height: 200px;
+    min-height: 300px;
     object-fit: contain;
     background: #000;
 }
@@ -209,11 +210,10 @@ EPISODIOS
     position: absolute;
     bottom: 0;
     height: 50px;
-    width: 95%;
+    width: 100%;
     display: flex;
     align-items: center;
     gap: 12px;
-    padding: 15px;
 
     background: linear-gradient(
         transparent,

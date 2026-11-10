@@ -1,41 +1,14 @@
 
-import fs from "fs/promises";
-import path from "path";
 import { Readable } from "node:stream";
 import { pipeline } from "node:stream/promises";
+import {
+    getSeriesCatalog,
+} from "../services/seriesCatalog.service.js";
 
-const STREAMS_FILE = path.resolve(
-    "./data/series-streams-combined.json"
-);
-
-let streamsCache = null;
-
-
-// ======================================================
-// CARGAR CATÁLOGO
-// ======================================================
 
 async function loadStreams() {
-    if (streamsCache) {
-        return streamsCache;
-    }
-
-    const content = await fs.readFile(
-        STREAMS_FILE,
-        "utf8"
-    );
-
-    streamsCache = JSON.parse(content);
-
-    console.log(
-        `📺 Catálogo de series cargado: ${
-            Object.keys(streamsCache).length
-        } TMDB IDs`
-    );
-
-    return streamsCache;
+    return getSeriesCatalog();
 }
-
 
 // ======================================================
 // RESOLVER CREDENCIALES IPTV

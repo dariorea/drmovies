@@ -36,17 +36,17 @@
  
  const INPUT_FILE = path.join(
    __dirname,
-   "../data/series-m3u-structural-lista-1.json"
+   "../data/series-m3u-structural-lista-16-sin-anios.json"
  );
  
  const OUTPUT_FILE = path.join(
    __dirname,
-   "../data/series-m3u-tmdb-lista-1.json"
+   "../data/series-m3u-tmdb-lista-16.json"
  );
  
  const REVIEW_FILE = path.join(
    __dirname,
-   "../data/series-m3u-tmdb-lista-1-revision.json"
+   "../data/series-m3u-tmdb-lista-16-revision.json"
  );
  
  // ============================================================

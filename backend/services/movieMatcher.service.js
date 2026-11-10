@@ -45,18 +45,14 @@ export function normalizeTitle(title = "") {
 export function cleanProviderTags(title = "") {
     let value = String(title);
 
-    // --------------------------------------------------------
     // Correcciones de errores frecuentes del proveedor
-    // --------------------------------------------------------
-
     value = value.replace(/\bOsuras\b/gi, "Oscuras");
     value = value.replace(/\bLaino\b/gi, "Latino");
 
-    // --------------------------------------------------------
     // Tags técnicos / de calidad / idioma
-    // --------------------------------------------------------
-
     const technicalTags = [
+        "**ser49**",
+
         "SUBTITULOS PEGADOS",
         "SUBTÍTULOS PEGADOS",
 
@@ -119,6 +115,14 @@ export function cleanProviderTags(title = "") {
         "5.1",
         "7.1",
 
+        "LAT",
+        "ESP",
+        "DUAL AUDIO",
+        "DUALAUDIO",
+        "DUAL+",
+        "DUAL",
+        "SD",
+
         "LATINO",
         "LATINA",
         "CASTELLANO",
@@ -141,9 +145,6 @@ export function cleanProviderTags(title = "") {
         "SUBTITLED",
 
         "AUDIO",
-
-        "DUAL AUDIO",
-        "DUALAUDIO",
 
         "MULTIAUDIO",
         "MULTI AUDIO",
@@ -201,10 +202,7 @@ export function cleanProviderTags(title = "") {
         value = value.replace(regex, " ");
     }
 
-    // --------------------------------------------------------
     // Separadores repetidos
-    // --------------------------------------------------------
-
     value = value
         .replace(/\s+/g, " ")
         .replace(/\s*[-|]+\s*$/g, "")
@@ -212,6 +210,7 @@ export function cleanProviderTags(title = "") {
 
     return value;
 }
+
 
 // ============================================================
 // FILTRO DE CALIDAD
@@ -249,6 +248,7 @@ export function hasRejectedQualityTag(title = "") {
     });
 }
 
+
 // ============================================================
 // CORRECCIONES DE TÍTULO
 // ============================================================
@@ -272,8 +272,6 @@ function correctCommonTitleTypos(title = "") {
 
 // ============================================================
 // SEARCH VARIANTS
-//
-// IMPORTANTE:
 //
 // Las variantes completas se usan para hacer matching.
 //
@@ -317,15 +315,7 @@ function createPrimarySearchVariants(name) {
         cleaned
     );
 
-    // 2. Título sin puntuación importante.
-    //
-    // Ejemplo:
-    // Spider-Man: Sin camino a casa
-    // ->
-    // Spider Man Sin camino a casa
-    //
-    // Esto ayuda a TMDB a encontrar títulos que están
-    // indexados con otra puntuación.
+    // 2. Título sin puntuación importante
     addVariant(
         variants,
         cleaned.replace(
@@ -394,12 +384,8 @@ export function createSearchVariants(name) {
         cleanProviderTags(name)
     );
 
-    // --------------------------------------------------------
     // Partes del título con ":"
-    //
     // SOLO para búsqueda / descubrimiento.
-    // Nunca se utilizan para confirmar un match exacto.
-    // --------------------------------------------------------
 
     if (cleaned.includes(":")) {
         const parts = cleaned
@@ -549,6 +535,27 @@ function getCandidatePopularity(candidate) {
         ? popularity
         : 0;
 }
+function normalizePosterPath(posterPath) {
+    if (!posterPath) return null;
+
+    return String(posterPath)
+        .trim()
+        .replace(/^\/+/, "");
+}
+
+function posterMatches(providerPosterPath, candidate) {
+    const providerPath =
+        normalizePosterPath(providerPosterPath);
+
+    const candidatePath =
+        normalizePosterPath(candidate?.poster_path);
+
+    return Boolean(
+        providerPath &&
+        candidatePath &&
+        providerPath === candidatePath
+    );
+}
 
 
 function sameTitle(a, b) {
@@ -642,20 +649,6 @@ function bestTitleSimilarity(
 
 // ============================================================
 // COMPOUND TITLE SCORE
-//
-// Ejemplo:
-//
-// Provider:
-// Fall 2: Punto muerto
-//
-// TMDB:
-// title:         Vertigo 2: Punto muerto
-// originalTitle: Fall 2: Deadpoint
-//
-// Una parte coincide con el título original y la otra con
-// el título localizado.
-//
-// Esto es una señal muy fuerte.
 // ============================================================
 
 function compoundTitleScore(
@@ -793,6 +786,16 @@ function calculateYearScore(
 
 // ============================================================
 // ALTERNATIVE TITLE MATCHING
+//
+// IMPORTANTE:
+//
+// Solo aceptamos coincidencias exactas después de normalizar.
+// No usamos includes ni similitud parcial.
+//
+// Esto evita falsos positivos como:
+//
+// El Transportador
+// El transportador recargado
 // ============================================================
 
 function getAlternativeText(alt) {
@@ -804,100 +807,62 @@ function getAlternativeText(alt) {
 }
 
 
-export async function alternativeTitleMatches(
+async function alternativeTitleMatches(
     primaryVariants,
     candidate
 ) {
     const alternatives =
-        await cachedAlternativeTitles(
-            candidate.id
-        );
+        await cachedAlternativeTitles(candidate.id);
 
-    const result = {
-        score: 0,
-        type: null,
-        title: null
-    };
+    if (!alternatives?.length) {
+        return {
+            score: 0,
+            type: null,
+            title: null,
+            exact: false,
+        };
+    }
 
-    for (const alt of alternatives) {
-        const altTitle =
-            getAlternativeText(alt);
+    for (const variant of primaryVariants) {
+        const normalizedVariant =
+            normalizeTitle(variant);
 
-        if (!altTitle) {
+        if (!normalizedVariant) {
             continue;
         }
 
-        // ----------------------------------------------------
-        // EXACTO
-        //
-        // Solo contra variantes completas.
-        // Nunca contra "Spider-Man" extraído de:
-        // Spider-Man: Sin camino a casa
-        // ----------------------------------------------------
+        for (const alt of alternatives) {
+            const alternativeTitle =
+                getAlternativeText(alt);
 
-        for (const variant of primaryVariants) {
+            const normalizedAlternative =
+                normalizeTitle(alternativeTitle);
+
             if (
-                sameTitle(
-                    variant,
-                    altTitle
-                )
+                normalizedAlternative &&
+                normalizedVariant === normalizedAlternative
             ) {
                 return {
                     score: 100,
                     type: "exact",
-                    title: altTitle
+                    title: alternativeTitle,
+                    exact: true,
                 };
             }
         }
     }
 
-    // --------------------------------------------------------
-    // MATCH PARCIAL
-    // --------------------------------------------------------
-
-    for (const alt of alternatives) {
-        const altTitle =
-            getAlternativeText(alt);
-
-        if (!altTitle) {
-            continue;
-        }
-
-        for (const variant of primaryVariants) {
-            const similarity =
-                titleSimilarity(
-                    variant,
-                    altTitle
-                );
-
-            if (similarity >= 0.85) {
-                if (
-                    result.score < 95
-                ) {
-                    result.score = 95;
-                    result.type = "strong";
-                    result.title = altTitle;
-                }
-            } else if (similarity >= 0.70) {
-                if (
-                    result.score < 70
-                ) {
-                    result.score = 70;
-                    result.type = "partial";
-                    result.title = altTitle;
-                }
-            }
-        }
-    }
-
-    return result;
+    return {
+        score: 0,
+        type: null,
+        title: null,
+        exact: false,
+    };
 }
 
 
 // ============================================================
 // DIRECT TITLE MATCHES
-//
-// MUY IMPORTANTE:
 //
 // Solo se usan las variantes completas.
 // Las partes de ":" NO pueden producir un match directo.
@@ -959,9 +924,7 @@ function chooseBestDirectCandidate(
         };
     }
 
-    // --------------------------------------------------------
     // 1. Si el proveedor trae año, usarlo primero.
-    // --------------------------------------------------------
 
     if (movieYear) {
         const exactYear =
@@ -983,17 +946,7 @@ function chooseBestDirectCandidate(
         }
     }
 
-    // --------------------------------------------------------
-    // 2. Si existen varios títulos recientes del mismo año,
-    //    NO elegir automáticamente.
-    //
-    // Esto evita:
-    //
-    // La Odisea 2026
-    // La odisea 2026
-    //
-    // donde ambas podrían ser válidas.
-    // --------------------------------------------------------
+    // 2. Revisar títulos recientes ambiguos.
 
     const datedCandidates =
         candidates.filter(
@@ -1025,14 +978,8 @@ function chooseBestDirectCandidate(
             };
         }
 
-        // ----------------------------------------------------
-        // Si hay una única película muy reciente con ese
-        // título, preferirla.
-        //
-        // Ejemplo:
-        // Resident Evil 2026 vs Resident Evil 2002
-        // Supergirl 2026 vs Supergirl 1984
-        // ----------------------------------------------------
+        // Si hay una única película muy reciente con ese título,
+        // preferirla cuando su popularidad lo justifique.
 
         if (
             latestCandidates.length === 1 &&
@@ -1042,9 +989,7 @@ function chooseBestDirectCandidate(
                 latestCandidates[0];
 
             const latestPopularity =
-                getCandidatePopularity(
-                    latest
-                );
+                getCandidatePopularity(latest);
 
             const otherCandidates =
                 candidates.filter(
@@ -1073,9 +1018,7 @@ function chooseBestDirectCandidate(
         }
     }
 
-    // --------------------------------------------------------
     // 3. Dominancia por popularidad.
-    // --------------------------------------------------------
 
     const ranked = [...candidates].sort(
         (a, b) =>
@@ -1096,8 +1039,7 @@ function chooseBestDirectCandidate(
         bestPopularity > 0 &&
         (
             secondPopularity === 0 ||
-            bestPopularity >=
-                secondPopularity * 5
+            bestPopularity >= secondPopularity * 5
         )
     ) {
         return {
@@ -1120,79 +1062,46 @@ function chooseBestDirectCandidate(
 async function scoreCandidate(
     primaryVariants,
     candidate,
-    movieYear
+    movieYear,
+    providerPosterPath = null
 ) {
-    const titleScore =
-        bestTitleSimilarity(
-            primaryVariants,
-            candidate
-        );
+    const titleScore = bestTitleSimilarity(
+        primaryVariants,
+        candidate
+    );
 
-    const compoundScore =
-        compoundTitleScore(
-            primaryVariants,
-            candidate
-        );
+    const compoundScore = compoundTitleScore(
+        primaryVariants,
+        candidate
+    );
 
-    const candidateYear =
-        getCandidateYear(candidate);
+    const candidateYear = getCandidateYear(candidate);
 
-    const yearScore =
-        calculateYearScore(
-            movieYear,
-            candidateYear
-        );
+    const yearScore = calculateYearScore(
+        movieYear,
+        candidateYear
+    );
 
     let alternativeScore = 0;
     let alternativeType = null;
     let alternativeTitle = null;
 
-    // --------------------------------------------------------
-    // Buscamos alternativas incluso con titleScore bajo.
-    //
-    // Esto es importante para:
-    //
-    // Las Horas mas Osuras
-    //
-    // donde TMDB devuelve:
-    //
-    // El instante más oscuro
-    //
-    // pero la alternativa regional es:
-    //
-    // Las Horas mas Oscuras
-    // --------------------------------------------------------
+    try {
+        const alternative = await alternativeTitleMatches(
+            primaryVariants,
+            candidate
+        );
 
-    if (
-        titleScore >= 20 ||
-        compoundScore >= 60
-    ) {
-        try {
-            const alternative =
-                await alternativeTitleMatches(
-                    primaryVariants,
-                    candidate
-                );
+        alternativeScore = alternative.score;
+        alternativeType = alternative.type;
+        alternativeTitle = alternative.title;
 
-            alternativeScore =
-                alternative.score;
-
-            alternativeType =
-                alternative.type;
-
-            alternativeTitle =
-                alternative.title;
-        } catch (error) {
-            console.warn(
-                `⚠️ Error obteniendo alternativas de ${candidate.id}:`,
-                error.message
-            );
-        }
+    } catch (error) {
+        console.warn(
+            `⚠️ Error obteniendo alternativas de ${candidate.id}:`,
+            error.message
+        );
     }
-
-    // --------------------------------------------------------
-    // Score final
-    // --------------------------------------------------------
 
     const score =
         titleScore * 0.30 +
@@ -1208,7 +1117,15 @@ async function scoreCandidate(
         yearScore,
         alternativeScore,
         alternativeType,
-        alternativeTitle
+        alternativeTitle,
+
+        // Información del póster para diagnóstico.
+        posterMatch: posterMatches(
+            providerPosterPath,
+            candidate
+        ),
+
+        posterPath: candidate.poster_path ?? null
     };
 }
 
@@ -1246,13 +1163,14 @@ function createMatch(
 
 export async function matchMovie(
     providerTitle,
-    movieYear = null
+    movieYear = null,
+    providerPosterPath = null
+
 ) {
-       // ========================================================
+    // ========================================================
     // FILTRO DE CALIDAD
     // ========================================================
     //
-    // IMPORTANTE:
     // Se hace ANTES de cleanProviderTags()
     // porque cleanProviderTags() elimina las etiquetas CAM,
     // HDCAM, CAMRIP, etc.
@@ -1269,24 +1187,16 @@ export async function matchMovie(
     }
 
     const cleanedName =
-        cleanProviderTags(
-            providerTitle
-        );
+        cleanProviderTags(providerTitle);
 
     const searchVariants =
-        createSearchVariants(
-            providerTitle
-        );
-    // --------------------------------------------------------
+        createSearchVariants(providerTitle);
+
     // Variantes completas.
-    //
-    // Estas son las únicas que pueden confirmar un título.
-    // --------------------------------------------------------
+    // Son las únicas que pueden confirmar un título.
 
     const primaryVariants =
-        createPrimarySearchVariants(
-            providerTitle
-        );
+        createPrimarySearchVariants(providerTitle);
 
     if (
         !cleanedName ||
@@ -1305,14 +1215,11 @@ export async function matchMovie(
     // BUSCAR CANDIDATOS
     // ========================================================
 
-    const candidateMap =
-        new Map();
+    const candidateMap = new Map();
 
     for (const variant of searchVariants) {
         try {
-            // -----------------------------------------------
             // Búsqueda con año
-            // -----------------------------------------------
 
             if (movieYear) {
                 const results =
@@ -1329,17 +1236,10 @@ export async function matchMovie(
                 }
             }
 
-            // -----------------------------------------------
             // Búsqueda sin año
-            //
-            // Muy importante para películas futuras donde
-            // TMDB puede no responder bien al filtro year.
-            // -----------------------------------------------
 
             const results =
-                await cachedSearchMovie(
-                    variant
-                );
+                await cachedSearchMovie(variant);
 
             for (const result of results) {
                 candidateMap.set(
@@ -1347,6 +1247,7 @@ export async function matchMovie(
                     result
                 );
             }
+
         } catch (error) {
             console.warn(
                 `⚠️ Error buscando "${variant}":`,
@@ -1367,7 +1268,86 @@ export async function matchMovie(
             searchVariants
         };
     }
+// ========================================================
+// 1. MATCH EXACTO POR PÓSTER
+// ========================================================
+//
+// El file_path de la imagen del proveedor debe coincidir
+// exactamente con el poster_path de TMDB.
+//
+// Se comprueban TODOS los candidatos, no solamente
+// los diez más populares.
+//
 
+const exactPosterMatches = candidates.filter(
+    candidate =>
+        posterMatches(
+            providerPosterPath,
+            candidate
+        )
+);
+
+// Una sola coincidencia exacta de póster.
+
+if (exactPosterMatches.length === 1) {
+    const candidate = exactPosterMatches[0];
+
+    return {
+        match: createMatch(
+            candidate,
+            100,
+            "exact-poster"
+        ),
+        reason: "exact-poster-match",
+        providerTitle,
+        cleanedName,
+        searchVariants,
+        posterPath: providerPosterPath
+    };
+}
+
+// Varias películas comparten el mismo póster.
+// Intentamos resolver utilizando el año.
+
+if (exactPosterMatches.length > 1) {
+    if (movieYear) {
+        const yearMatches = exactPosterMatches.filter(
+            candidate =>
+                getCandidateYear(candidate) ===
+                Number(movieYear)
+        );
+
+        if (yearMatches.length === 1) {
+            return {
+                match: createMatch(
+                    yearMatches[0],
+                    100,
+                    "exact-poster-year"
+                ),
+                reason: "exact-poster-year-match",
+                providerTitle,
+                cleanedName,
+                searchVariants,
+                posterPath: providerPosterPath
+            };
+        }
+    }
+
+    return {
+        match: null,
+        reason: "ambiguous-poster-match",
+        providerTitle,
+        cleanedName,
+        searchVariants,
+        candidates: exactPosterMatches.map(candidate => ({
+            tmdbId: candidate.id,
+            title: getCandidateTitle(candidate),
+            originalTitle: getCandidateOriginalTitle(candidate),
+            year: getCandidateYear(candidate),
+            posterPath: candidate.poster_path
+        }))
+    };
+}
     // ========================================================
     // 1. MATCH DIRECTO
     //
@@ -1375,13 +1355,13 @@ export async function matchMovie(
     // ========================================================
 
     const directCandidates =
-    candidates.filter(
-        candidate =>
-            directTitleMatches(
-                primaryVariants,
-                candidate
-            )
-    );
+        candidates.filter(
+            candidate =>
+                directTitleMatches(
+                    primaryVariants,
+                    candidate
+                )
+        );
 
     if (directCandidates.length > 0) {
         const directResult =
@@ -1412,6 +1392,7 @@ export async function matchMovie(
     // Limitamos a los candidatos más relevantes para no
     // disparar una cantidad innecesaria de consultas de
     // alternative_titles.
+
     const preliminaryCandidates =
         [...candidates]
             .sort(
@@ -1429,12 +1410,13 @@ export async function matchMovie(
                 await scoreCandidate(
                     primaryVariants,
                     candidate,
-                    movieYear
+                    movieYear,
+                    providerPosterPath
+
                 );
 
-            scoredCandidates.push(
-                scored
-            );
+            scoredCandidates.push(scored);
+
         } catch (error) {
             console.warn(
                 `⚠️ Error puntuando ${candidate.id}:`,
@@ -1446,8 +1428,8 @@ export async function matchMovie(
     // ========================================================
     // 3. ALTERNATIVE TITLE EXACTO
     //
-    // Solo si el alternative title coincide con el título
-    // completo del proveedor.
+    // Solo si el alternative title coincide exactamente
+    // con el título completo del proveedor.
     // ========================================================
 
     const exactAlternativeMatches =
@@ -1457,9 +1439,7 @@ export async function matchMovie(
                 item.alternativeType === "exact"
         );
 
-    if (
-        exactAlternativeMatches.length === 1
-    ) {
+    if (exactAlternativeMatches.length === 1) {
         const best =
             exactAlternativeMatches[0];
 
@@ -1477,22 +1457,18 @@ export async function matchMovie(
         };
     }
 
-    if (
-        exactAlternativeMatches.length > 1
-    ) {
-        // Se o ano resolve entre alternativas.
+    if (exactAlternativeMatches.length > 1) {
+        // Si el año resuelve entre alternativas.
+
         if (movieYear) {
             const exactYearMatches =
                 exactAlternativeMatches.filter(
                     item =>
-                        getCandidateYear(
-                            item.candidate
-                        ) === Number(movieYear)
+                        getCandidateYear(item.candidate) ===
+                        Number(movieYear)
                 );
 
-            if (
-                exactYearMatches.length === 1
-            ) {
+            if (exactYearMatches.length === 1) {
                 const best =
                     exactYearMatches[0];
 
@@ -1503,8 +1479,7 @@ export async function matchMovie(
                         "alternative-title",
                         best.alternativeTitle
                     ),
-                    reason:
-                        "exact-alternative-title-year",
+                    reason: "exact-alternative-title-year",
                     providerTitle,
                     cleanedName,
                     searchVariants
@@ -1513,6 +1488,7 @@ export async function matchMovie(
         }
 
         // No elegir arbitrariamente entre dos.
+
         return {
             match: null,
             reason: "ambiguous-alternative-title",
@@ -1522,24 +1498,15 @@ export async function matchMovie(
             candidates:
                 exactAlternativeMatches.map(
                     item => ({
-                        tmdbId:
-                            item.candidate.id,
+                        tmdbId: item.candidate.id,
                         title:
-                            getCandidateTitle(
-                                item.candidate
-                            ),
+                            getCandidateTitle(item.candidate),
                         originalTitle:
-                            getCandidateOriginalTitle(
-                                item.candidate
-                            ),
+                            getCandidateOriginalTitle(item.candidate),
                         year:
-                            getCandidateYear(
-                                item.candidate
-                            ),
+                            getCandidateYear(item.candidate),
                         popularity:
-                            getCandidatePopularity(
-                                item.candidate
-                            ),
+                            getCandidatePopularity(item.candidate),
                         alternativeTitle:
                             item.alternativeTitle
                     })
@@ -1570,11 +1537,8 @@ export async function matchMovie(
                 )
         );
 
-    if (
-        compoundMatches.length === 1
-    ) {
-        const best =
-            compoundMatches[0];
+    if (compoundMatches.length === 1) {
+        const best = compoundMatches[0];
 
         return {
             match: createMatch(
@@ -1591,46 +1555,9 @@ export async function matchMovie(
     }
 
     // ========================================================
-    // 5. ALTERNATIVE TITLE FUERTE
-    // ========================================================
-
-    const strongAlternativeMatches =
-        scoredCandidates.filter(
-            item =>
-                item.alternativeScore >= 95
-        );
-
-    if (
-        strongAlternativeMatches.length === 1
-    ) {
-        const best =
-            strongAlternativeMatches[0];
-
-        return {
-            match: createMatch(
-                best.candidate,
-                90,
-                "alternative-title",
-                best.alternativeTitle
-            ),
-            reason: "strong-alternative-title",
-            providerTitle,
-            cleanedName,
-            searchVariants
-        };
-    }
-
-    // ========================================================
-    // 6. SI HABÍA VARIOS MATCHES DIRECTOS Y NO PUDIMOS
+    // 5. SI HABÍA VARIOS MATCHES DIRECTOS Y NO PUDIMOS
     //    RESOLVERLOS, NO DEJAR QUE EL SCORE ELIJA UNO
     //    ARBITRARIAMENTE.
-    //
-    // Esto es especialmente importante para:
-    //
-    // La Odisea
-    //
-    // 1368337
-    // 1698863
     // ========================================================
 
     if (directCandidates.length > 1) {
@@ -1645,28 +1572,24 @@ export async function matchMovie(
                     candidate => ({
                         tmdbId: candidate.id,
                         title:
-                            getCandidateTitle(
-                                candidate
-                            ),
+                            getCandidateTitle(candidate),
                         originalTitle:
-                            getCandidateOriginalTitle(
-                                candidate
-                            ),
+                            getCandidateOriginalTitle(candidate),
                         year:
-                            getCandidateYear(
-                                candidate
-                            ),
+                            getCandidateYear(candidate),
                         popularity:
-                            getCandidatePopularity(
-                                candidate
-                            )
+                            getCandidatePopularity(candidate),
+                        posterMatch:
+                            item.posterMatch,
+                        posterPath:
+                            item.posterPath
                     })
                 )
         };
     }
 
     // ========================================================
-    // 7. MATCH ÚNICO POR SCORE
+    // 6. MATCH ÚNICO POR SCORE
     // ========================================================
 
     const ranked =
@@ -1686,6 +1609,7 @@ export async function matchMovie(
             best.score - secondScore;
 
         // Match fuerte.
+
         if (
             best.score >= 78 &&
             scoreMargin >= 10
@@ -1694,7 +1618,7 @@ export async function matchMovie(
                 match: createMatch(
                     best.candidate,
                     best.score,
-                    best.alternativeScore >= 70
+                    best.alternativeScore === 100
                         ? "alternative-title"
                         : "title",
                     best.alternativeTitle
@@ -1707,6 +1631,7 @@ export async function matchMovie(
         }
 
         // Match muy fuerte aunque la diferencia sea menor.
+
         if (
             best.score >= 90 &&
             scoreMargin >= 5
@@ -1715,7 +1640,7 @@ export async function matchMovie(
                 match: createMatch(
                     best.candidate,
                     best.score,
-                    best.alternativeScore >= 70
+                    best.alternativeScore === 100
                         ? "alternative-title"
                         : "title",
                     best.alternativeTitle
@@ -1729,7 +1654,7 @@ export async function matchMovie(
     }
 
     // ========================================================
-    // 8. NO CONFIDENT MATCH
+    // 7. NO CONFIDENT MATCH
     // ========================================================
 
     return {
@@ -1741,28 +1666,19 @@ export async function matchMovie(
         candidates:
             scoredCandidates.map(
                 item => ({
-                    tmdbId:
-                        item.candidate.id,
+                    tmdbId: item.candidate.id,
 
                     title:
-                        getCandidateTitle(
-                            item.candidate
-                        ),
+                        getCandidateTitle(item.candidate),
 
                     originalTitle:
-                        getCandidateOriginalTitle(
-                            item.candidate
-                        ),
+                        getCandidateOriginalTitle(item.candidate),
 
                     year:
-                        getCandidateYear(
-                            item.candidate
-                        ),
+                        getCandidateYear(item.candidate),
 
                     popularity:
-                        getCandidatePopularity(
-                            item.candidate
-                        ),
+                        getCandidatePopularity(item.candidate),
 
                     score:
                         item.score,

@@ -7,12 +7,15 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "node index.js",
-    "sync:movies": "node scripts/syncMovies.js"
+    "sync:movies": "node scripts/syncMovies.js",
+    "catalog:upload-r2": "node scripts/upload-series-catalog-to-r2.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@aws-sdk/client-s3": "^3.1164.0",
+    "@aws-sdk/lib-storage": "^3.1164.0",
     "axios": "^1.14.0",
     "cors": "^2.8.6",
     "dotenv": "^17.3.1",
