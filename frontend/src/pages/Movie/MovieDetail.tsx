@@ -10,7 +10,6 @@ import { Preload } from "../../components/Preload/Preload"
 import { Footer } from "../../components/Footer/Footer"
 import { ContentSection } from "../../components/ContentSection/ContentSection"
 import { MoviePlayer } from "../../components/MoviePlayer/MoviePlayer"
-import { VimeusPlayer } from "../../components/VimeusPlayer/VimeusPlayer"
 
 export const MovieID = () => {
     const [isActive, setIsActive] = useState(false)
@@ -115,12 +114,6 @@ export const MovieID = () => {
                         : styles.desactive
                     }
                 >
-
-                    <VimeusPlayer
-                        key={id}
-                        id={id}
-                        typeUrl={"movie"}
-                    />
 
                 </div>
 
