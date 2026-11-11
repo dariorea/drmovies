@@ -1,12 +1,20 @@
+
 import dotenv from "dotenv";
 import fs from "node:fs";
+import fsPromises from "node:fs/promises";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
 
-import { S3Client } from "@aws-sdk/client-s3";
-import { Upload } from "@aws-sdk/lib-storage";
+import {
+    S3Client,
+    PutObjectCommand,
+} from "@aws-sdk/client-s3";
 
 dotenv.config();
+
+// ======================================================
+// RUTAS Y CONFIGURACIÓN
+// ======================================================
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -22,9 +30,15 @@ const BUCKET_NAME = process.env.R2_BUCKET_NAME;
 const ACCESS_KEY_ID = process.env.R2_WRITE_ACCESS_KEY_ID;
 const SECRET_ACCESS_KEY = process.env.R2_WRITE_SECRET_ACCESS_KEY;
 
-const OBJECT_KEY =
-    process.env.R2_SERIES_OBJECT_KEY ||
-    "series-streams-combined.json";
+const SERIES_PER_SHARD = 50;
+const MANIFEST_KEY = "manifest.json";
+
+// Cada importación utiliza una carpeta diferente.
+const CATALOG_VERSION = new Date()
+    .toISOString()
+    .replace(/[:.]/g, "-");
+
+const SHARDS_PREFIX = `series/v${CATALOG_VERSION}`;
 
 // ======================================================
 // VALIDAR CONFIGURACIÓN
@@ -43,7 +57,7 @@ const missingVariables = Object.entries(requiredVariables)
 
 if (missingVariables.length > 0) {
     console.error(
-        "❌ Faltan variables de entorno:",
+        "❌ Faltan variables:",
         missingVariables.join(", ")
     );
 
@@ -51,96 +65,217 @@ if (missingVariables.length > 0) {
 }
 
 // ======================================================
-// SUBIR CATÁLOGO
+// CLIENTE R2
 // ======================================================
 
-async function uploadCatalog() {
-    if (!fs.existsSync(CATALOG_FILE)) {
-        throw new Error(
-            `No se encontró el catálogo: ${CATALOG_FILE}`
+const client = new S3Client({
+    region: "auto",
+
+    endpoint:
+        `https://${ACCOUNT_ID}.r2.cloudflarestorage.com`,
+
+    credentials: {
+        accessKeyId: ACCESS_KEY_ID,
+        secretAccessKey: SECRET_ACCESS_KEY,
+    },
+});
+
+// ======================================================
+// SUBIR JSON A R2
+// ======================================================
+
+async function uploadJson(key, data) {
+    const body = JSON.stringify(data);
+
+    await client.send(
+        new PutObjectCommand({
+            Bucket: BUCKET_NAME,
+            Key: key,
+            Body: body,
+            ContentType: "application/json",
+        })
+    );
+
+    return Buffer.byteLength(body);
+}
+
+// ======================================================
+// GENERAR Y SUBIR FRAGMENTOS
+// ======================================================
+
+async function generateShards(catalog) {
+    const ids = Object.keys(catalog);
+
+    if (ids.length === 0) {
+        throw new Error("El catálogo no contiene ninguna serie.");
+    }
+
+    const totalShards = Math.ceil(
+        ids.length / SERIES_PER_SHARD
+    );
+
+    const manifest = {
+        version: 1,
+        catalogVersion: CATALOG_VERSION,
+        totalSeries: ids.length,
+        seriesPerShard: SERIES_PER_SHARD,
+        totalShards,
+        shardsPrefix: SHARDS_PREFIX,
+        series: {},
+    };
+
+    let totalBytes = 0;
+
+    console.log("======================================");
+    console.log("       FRAGMENTACIÓN DEL CATÁLOGO");
+    console.log("======================================");
+
+    console.log(`📺 Series encontradas: ${ids.length}`);
+    console.log(`📦 Fragmentos: ${totalShards}`);
+    console.log(`📁 Versión: ${CATALOG_VERSION}`);
+    console.log(`☁️ Bucket: ${BUCKET_NAME}`);
+
+    // Subir todos los fragmentos antes de publicar el manifiesto.
+    for (let i = 0; i < totalShards; i++) {
+        const shardNumber = String(i + 1).padStart(4, "0");
+
+        const shardKey =
+            `${SHARDS_PREFIX}/shard-${shardNumber}.json`;
+
+        const start = i * SERIES_PER_SHARD;
+
+        const end = Math.min(
+            start + SERIES_PER_SHARD,
+            ids.length
+        );
+
+        const shard = {};
+
+        for (const id of ids.slice(start, end)) {
+            shard[id] = catalog[id];
+
+            manifest.series[id] = shardKey;
+        }
+
+        const bytes = await uploadJson(shardKey, shard);
+
+        totalBytes += bytes;
+
+        console.log(
+            `☁️ ${i + 1}/${totalShards} | ` +
+            `${shardKey} | ` +
+            `${end - start} series | ` +
+            `${(bytes / 1024 / 1024).toFixed(2)} MB`
         );
     }
 
-    const stats = fs.statSync(CATALOG_FILE);
+    // ==================================================
+    // PUBLICAR MANIFIESTO
+    // ==================================================
 
-    if (!stats.isFile() || stats.size === 0) {
-        throw new Error(
-            "El catálogo no existe o está vacío."
-        );
-    }
+    console.log("");
+    console.log("☁️ Todos los fragmentos se subieron correctamente.");
+    console.log("📄 Publicando manifiesto...");
 
-    const sizeMB = (
-        stats.size / (1024 * 1024)
-    ).toFixed(2);
+    const manifestBytes = await uploadJson(
+        MANIFEST_KEY,
+        manifest
+    );
 
+    // ==================================================
+    // RESUMEN
+    // ==================================================
+
+    console.log("");
     console.log("======================================");
-    console.log("       SUBIDA DEL CATÁLOGO A R2");
+    console.log("       IMPORTACIÓN COMPLETADA");
     console.log("======================================");
 
-    console.log(`Archivo: ${CATALOG_FILE}`);
-    console.log(`Tamaño: ${sizeMB} MB`);
-    console.log(`Bucket: ${BUCKET_NAME}`);
-    console.log(`Destino: ${OBJECT_KEY}`);
+    console.log(`📺 Series: ${ids.length}`);
+    console.log(`📦 Fragmentos: ${totalShards}`);
 
-    const client = new S3Client({
-        region: "auto",
+    console.log(
+        `💾 Datos: ${(totalBytes / 1024 / 1024).toFixed(2)} MB`
+    );
 
-        endpoint:
-            `https://${ACCOUNT_ID}.r2.cloudflarestorage.com`,
+    console.log(
+        `📄 Manifiesto: ${(manifestBytes / 1024).toFixed(2)} KB`
+    );
 
-        credentials: {
-            accessKeyId: ACCESS_KEY_ID,
-            secretAccessKey: SECRET_ACCESS_KEY,
-        },
-    });
-
-    try {
-        const upload = new Upload({
-            client,
-
-            params: {
-                Bucket: BUCKET_NAME,
-                Key: OBJECT_KEY,
-                Body: fs.createReadStream(CATALOG_FILE),
-                ContentType: "application/json",
-            },
-
-            // Subida multipart.
-            queueSize: 3,
-            partSize: 16 * 1024 * 1024,
-            leavePartsOnError: false,
-        });
-
-        upload.on("httpUploadProgress", (progress) => {
-            const loaded = progress.loaded || 0;
-
-            const percent = Math.min(
-                100,
-                (loaded / stats.size) * 100
-            );
-
-            process.stdout.write(
-                `\r📤 Progreso: ${percent.toFixed(1)}%`
-            );
-        });
-
-        await upload.done();
-
-        console.log("\n\n✅ Catálogo subido correctamente.");
-        console.log(`📦 Tamaño: ${sizeMB} MB`);
-        console.log(`☁️ Destino: ${OBJECT_KEY}`);
-
-    } finally {
-        client.destroy();
-    }
+    console.log(`📁 Carpeta: ${SHARDS_PREFIX}`);
+    console.log(`☁️ Bucket: ${BUCKET_NAME}`);
+    console.log(`✅ Manifiesto publicado: ${MANIFEST_KEY}`);
 }
 
 // ======================================================
 // EJECUCIÓN
 // ======================================================
 
-uploadCatalog().catch((error) => {
-    console.error("\n❌ Error al subir el catálogo:");
+async function main() {
+    try {
+        if (!fs.existsSync(CATALOG_FILE)) {
+            throw new Error(
+                `No se encontró el catálogo: ${CATALOG_FILE}`
+            );
+        }
+
+        const stats = await fsPromises.stat(CATALOG_FILE);
+
+        if (!stats.isFile() || stats.size === 0) {
+            throw new Error(
+                "El catálogo está vacío o no es válido."
+            );
+        }
+
+        console.log("📂 Leyendo catálogo original...");
+
+        console.log(
+            `💾 Tamaño: ${(stats.size / 1024 / 1024).toFixed(2)} MB`
+        );
+
+        const content = await fsPromises.readFile(
+            CATALOG_FILE,
+            "utf8"
+        );
+
+        const catalog = JSON.parse(content);
+
+        if (
+            !catalog ||
+            typeof catalog !== "object" ||
+            Array.isArray(catalog)
+        ) {
+            throw new Error(
+                "La estructura del catálogo no es válida."
+            );
+        }
+        const invalidEntries = Object.entries(catalog)
+    .filter(([id, serie]) => {
+        return (
+            !id ||
+            !serie ||
+            typeof serie !== "object" ||
+            Array.isArray(serie)
+        );
+    });
+
+if (invalidEntries.length > 0) {
+    throw new Error(
+        `El catálogo contiene ${invalidEntries.length} entradas inválidas.`
+    );
+}
+        await generateShards(catalog);
+
+    } finally {
+        client.destroy();
+    }
+}
+
+main().catch(error => {
+    console.error(
+        "\n❌ Error al generar el catálogo fragmentado:"
+    );
+
     console.error(error);
 
     process.exitCode = 1;

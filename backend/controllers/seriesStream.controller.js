@@ -1,15 +1,9 @@
-
 import { Readable } from "node:stream";
 import { pipeline } from "node:stream/promises";
+
 import {
-    getSeriesCatalog,
+    getSeriesById,
 } from "../services/seriesCatalog.service.js";
-
-
-async function loadStreams() {
-    return getSeriesCatalog();
-}
-
 // ======================================================
 // RESOLVER CREDENCIALES IPTV
 // Ejemplo: lista-6 → IPTV_USER_6 / IPTV_PASSWORD_6
@@ -106,8 +100,7 @@ export async function getSeriesStream(req, res) {
             });
         }
 
-        const streams = await loadStreams();
-        const series = streams[String(id)];
+        const series = await getSeriesById(id);
 
         if (!series) {
             return res.status(404).json({
@@ -234,8 +227,7 @@ export async function proxySeriesStream(req, res) {
         // CARGAR CATÁLOGO
         // =========================================
 
-        const streams = await loadStreams();
-        const series = streams[String(id)];
+        const series = await getSeriesById(id);
 
         if (!series) {
             return res.status(404).json({
