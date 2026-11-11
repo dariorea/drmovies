@@ -1,3 +1,4 @@
+
 import express from "express";
 import dotenv from "dotenv";
 
@@ -11,6 +12,10 @@ import cors from "cors";
 import {
     initializeSeriesCatalog,
 } from "./services/seriesCatalog.service.js";
+
+import {
+    initializeMovieCatalog,
+} from "./services/stream.service.js";
 
 dotenv.config();
 
@@ -26,14 +31,12 @@ app.use("/api", streamRoutes);
 
 const PORT = process.env.PORT || 3000;
 
-// ======================================================
-// INICIO DEL SERVIDOR
-// ======================================================
-
 async function startServer() {
     try {
-        // Cargar el catálogo antes de aceptar solicitudes.
-        await initializeSeriesCatalog();
+        await Promise.all([
+            initializeSeriesCatalog(),
+            initializeMovieCatalog(),
+        ]);
 
         app.listen(PORT, () => {
             console.log(`Servidor en http://localhost:${PORT}`);
@@ -41,7 +44,7 @@ async function startServer() {
 
     } catch (error) {
         console.error(
-            "❌ No se pudo inicializar el catálogo de series:"
+            "❌ No se pudieron inicializar los catálogos:"
         );
 
         console.error(error);
