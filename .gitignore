@@ -57,5 +57,8 @@ docker-compose.override.yml
 # Catálogo de series alojado en Cloudflare R2
 /backend/data/series-streams-combined*.json
 
+# Catálogo de peliculas alojado en Cloudflare R2
+/backend/data/movie-streams-all.json
+
 # Caché de importación de lista 6
 /backend/data/series-import-cache-lista-6/

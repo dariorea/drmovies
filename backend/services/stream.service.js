@@ -398,109 +398,138 @@ function replaceCredentials(streamUrl, source) {
 // PUNTUACIÓN DE STREAMS
 // ======================================================
 
-function scoreStream(stream) {
-    const probe = stream.probe;
-
-    if (probe?.ok !== true) {
-        return -1000;
-    }
-
-    const codec = probe.codec_name?.toLowerCase();
-    const width = probe.width || 0;
-    const height = probe.height || 0;
-
-    if (codec === "h264") {
-        let score = 10000;
-
-        const pixels = width * height;
-
-        if (height >= 900 || width >= 1600) {
-            score += 3000;
-        } else if (height >= 600 || width >= 1100) {
-            score += 2000;
-        } else {
-            score += 1000;
+    function scoreStream(stream) {
+        const probe = stream.probe;
+    
+        if (probe?.ok !== true) {
+            return -1000;
         }
-
-        score += Math.min(
-            pixels / 1000,
-            2500
-        );
-
-        return score;
+    
+        const codec = probe.codec_name?.toLowerCase();
+        const width = probe.width || 0;
+        const height = probe.height || 0;
+    
+        if (codec === "h264") {
+            let score = 10000;
+        
+            const pixels = width * height;
+        
+            if (height >= 900 || width >= 1600) {
+                score += 3000;
+            } else if (height >= 600 || width >= 1100) {
+                score += 2000;
+            } else {
+                score += 1000;
+            }
+        
+            score += Math.min(
+                pixels / 1000,
+                2500
+            );
+            
+            return score;
+        }
+    
+        if (codec === "hevc") {
+            let score = 5000;
+        
+            const pixels = width * height;
+        
+            score += Math.min(
+                pixels / 1000,
+                2500
+            );
+            
+            return score;
+        }
+    
+        if (codec === "mpeg4") {
+            let score = 3000;
+        
+            const pixels = width * height;
+        
+            score += Math.min(
+                pixels / 1000,
+                2000
+            );
+            
+            return score;
+        }
+    
+        return 1000;
     }
 
-    if (codec === "hevc") {
-        let score = 5000;
-
-        const pixels = width * height;
-
-        score += Math.min(
-            pixels / 1000,
-            2500
-        );
-
-        return score;
+    function sortStreams(streams) {
+        return (Array.isArray(streams) ? streams : [])
+            .filter(
+                stream =>
+                    stream.probe?.ok === true
+            )
+            .sort(
+                (a, b) =>
+                    scoreStream(b) -
+                    scoreStream(a)
+            );
     }
-
-    if (codec === "mpeg4") {
-        let score = 3000;
-
-        const pixels = width * height;
-
-        score += Math.min(
-            pixels / 1000,
-            2000
-        );
-
-        return score;
-    }
-
-    return 1000;
-}
-
-function sortStreams(streams) {
-    return (Array.isArray(streams) ? streams : [])
-        .filter(
-            stream =>
-                stream.probe?.ok === true
-        )
-        .sort(
-            (a, b) =>
-                scoreStream(b) -
-                scoreStream(a)
-        );
-}
 
 // ======================================================
 // API PRINCIPAL
 // ======================================================
 
-export async function getMovieStream(tmdbId) {
-    const movie = await getMovieById(tmdbId);
+    export async function getMovieStream(tmdbId) {
+        const movie = await getMovieById(tmdbId);
 
-    if (!movie) {
-        return null;
+        if (!movie) {
+            return null;
+        }
+
+        const sortedStreams = sortStreams(
+            movie.streams
+        );
+
+        if (sortedStreams.length === 0) {
+            return null;
+        }
+
+        const candidates = [];
+
+        for (const stream of sortedStreams) {
+            try {
+                const streamUrl = replaceCredentials(
+                    stream.streamUrl,
+                    stream.source
+                );
+
+                candidates.push({
+                    ...stream,
+                    streamUrl,
+                });
+
+            } catch (error) {
+                // Si faltan credenciales, omitir esta fuente.
+                // Continuar con el siguiente candidato.
+                if (
+                    error.message.startsWith("Faltan las credenciales para ")
+                ){
+                    console.warn(
+                    `⚠️ Se omite ${stream.source}: faltan credenciales.`
+                );
+
+                continue;
+            }
+
+            // Los demás errores siguen propagándose.
+            throw error;
+        }
     }
 
-    const sortedStreams = sortStreams(
-        movie.streams
-    );
-
-    if (sortedStreams.length === 0) {
+    if (candidates.length === 0) {
+        console.warn(
+            `⚠️ Película ${tmdbId}: no hay fuentes con credenciales disponibles.`
+        );
+        
         return null;
     }
-
-    const candidates = sortedStreams.map(
-        stream => ({
-            ...stream,
-
-            streamUrl: replaceCredentials(
-                stream.streamUrl,
-                stream.source
-            ),
-        })
-    );
 
     return {
         tmdbId: movie.tmdbId,
