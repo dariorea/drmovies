@@ -400,20 +400,20 @@ function replaceCredentials(streamUrl, source) {
 
     function scoreStream(stream) {
         const probe = stream.probe;
-    
+
         if (probe?.ok !== true) {
             return -1000;
         }
-    
+
         const codec = probe.codec_name?.toLowerCase();
         const width = probe.width || 0;
         const height = probe.height || 0;
-    
+
         if (codec === "h264") {
             let score = 10000;
-        
+
             const pixels = width * height;
-        
+
             if (height >= 900 || width >= 1600) {
                 score += 3000;
             } else if (height >= 600 || width >= 1100) {
@@ -421,41 +421,41 @@ function replaceCredentials(streamUrl, source) {
             } else {
                 score += 1000;
             }
-        
+
             score += Math.min(
                 pixels / 1000,
                 2500
             );
-            
+
             return score;
         }
-    
+
         if (codec === "hevc") {
             let score = 5000;
-        
+
             const pixels = width * height;
-        
+
             score += Math.min(
                 pixels / 1000,
                 2500
             );
-            
+
             return score;
         }
-    
+
         if (codec === "mpeg4") {
             let score = 3000;
-        
+
             const pixels = width * height;
-        
+
             score += Math.min(
                 pixels / 1000,
                 2000
             );
-            
+
             return score;
         }
-    
+
         return 1000;
     }
 
@@ -479,6 +479,24 @@ function replaceCredentials(streamUrl, source) {
     export async function getMovieStream(tmdbId) {
         const movie = await getMovieById(tmdbId);
 
+        console.log("🎬 MOVIE DEBUG:", {
+            tmdbId,
+            found: Boolean(movie),
+            title: movie?.title,
+            totalStreams: movie?.streams?.length,
+            sources: movie?.streams?.map(stream => stream.source),
+        });
+        
+        console.log("🔐 IPTV CREDENTIALS DEBUG:", {
+            lista9: {
+                user: Boolean(process.env.IPTV_USER_9?.trim()),
+                password: Boolean(process.env.IPTV_PASSWORD_9?.trim()),
+            },
+            lista15: {
+                user: Boolean(process.env.IPTV_USER_15?.trim()),
+                password: Boolean(process.env.IPTV_PASSWORD_15?.trim()),
+            },
+        });
         if (!movie) {
             return null;
         }
